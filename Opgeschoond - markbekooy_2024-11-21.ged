@@ -847,7 +847,7 @@
 2 DATE 19 OCT 1859
 2 PLAC enkhuizen
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=maarten&oc=0)
-1 OCCU zoutziedersknecht
+1 OCCU Zoutziedersknecht
 1 FAMC @F51@
 1 FAMS @F49@
 1 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=cornelis&oc=0) ; Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=maarten&oc=0)
@@ -862,7 +862,7 @@
 2 DATE 18 JAN 1904
 2 PLAC enkhuizen
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=vijselaar&p=hendrikje&oc=0)
-1 OCCU zoutziedersknecht
+1 OCCU Zoutziedersknecht
 1 FAMC @F52@
 1 FAMS @F49@
 1 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=cornelis&oc=0) ; Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=vijselaar&p=hendrikje&oc=0)
@@ -887,7 +887,7 @@
 2 DATE AFT 1919
 2 PLAC Woubrugge?
 2 SOUR Geneanet-stamboom leonard2 (https://gw.geneanet.org/leonard2?n=blom&p=pieter&oc=1)
-1 OCCU scheepmaker
+1 OCCU Scheepmaker
 1 FAMC @F53@
 1 FAMS @F10@
 1 SOUR Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=arnoldus&oc=0) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4)
@@ -944,7 +944,7 @@
 2 PLAC Oudshoorn
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=frederik&oc=0)
 1 DEAT Y
-1 OCCU pannenbakkersknecht
+1 OCCU Pannenbakkersknecht
 1 FAMC @F57@
 1 FAMS @F53@
 1 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=frederik&oc=0)
@@ -956,7 +956,7 @@
 2 PLAC Alkemade
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=kelderman&p=wilhelmina+adriana&oc=0)
 1 DEAT Y
-1 OCCU dienstbaar
+1 OCCU Dienstbaar
 1 FAMC @F58@
 1 FAMS @F53@
 1 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=kelderman&p=wilhelmina+adriana&oc=0)
@@ -1032,7 +1032,7 @@
 2 DATE 04 AUG 1844
 2 PLAC Oudshoorn, Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom ahowellspits (https://gw.geneanet.org/ahowellspits?n=blom&p=jan+jansz&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=3)
-1 OCCU pannenbakkersknecht
+1 OCCU Pannenbakkersknecht
 1 FAMC @F63@
 1 FAMS @F59@
 1 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=cornelis&oc=4) ; Geneanet-stamboom ahowellspits (https://gw.geneanet.org/ahowellspits?n=blom&p=jan+jansz&oc=0)
@@ -1306,7 +1306,7 @@
 1 BURI
 2 PLAC Leiden, ZH, NL
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=1)
-1 OCCU melkhandelaar
+1 OCCU Melkhandelaar
 1 FAMC @F74@
 1 FAMS @F9@
 1 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=1)
@@ -1677,7 +1677,7 @@
 2 DATE 1833
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=2)
 1 DEAT Y
-1 OCCU landbouwer
+1 OCCU Landbouwer
 1 FAMS @F74@
 1 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=1) ; Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=2)
 0 @I220@ INDI
@@ -1827,7 +1827,7 @@
 2 DATE 07 DEC 1951
 2 PLAC Leiden, ZH, NL
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=johannes&oc=0)
-1 OCCU banketbakker
+1 OCCU Banketbakker
 1 FAMC @F95@
 1 FAMS @F81@
 1 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=wilhelmina+cornelia&oc=0) ; Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=johannes&oc=0)
@@ -2012,7 +2012,7 @@
 2 DATE 21 NOV 1879
 2 PLAC Leiden, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=2)
-1 OCCU bierdrager - bierbrouwersknecht
+1 OCCU Bierdrager - bierbrouwersknecht
 1 FAMC @F105@
 1 FAMS @F99@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jacobus&oc=1) ; Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=0) ; https://gw.geneanet.org/anneke1947?n=bekooij&oc=&p=johannes+johannes+zn ; https://gw.geneanet.org/fvanderham?n=bekooij&oc=2&p=johannes ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=2)
@@ -2134,7 +2134,7 @@
 2 DATE 08 FEB 1872
 2 PLAC Leiden,ZH,NLD
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=maria&oc=1)
-1 OCCU spinster
+1 OCCU Spinster
 1 FAMC @F106@
 1 FAMS @F112@
 1 FAMS @F113@
@@ -2207,7 +2207,7 @@
 2 DATE 14 APR 1822
 2 PLAC Leiden, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=leendert&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=leendert&oc=0)
-1 OCCU molenaarsknecht
+1 OCCU Molenaarsknecht
 1 FAMC @F118@
 1 FAMS @F114@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=1) ; Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=leendert&oc=0)
@@ -2464,7 +2464,7 @@
 2 PLAC Leiden,ZH,NLD
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=pierre&oc=0)
 1 DEAT Y
-1 OCCU droogscheerder
+1 OCCU Droogscheerder
 1 FAMC @F128@
 1 FAMS @F125@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=jean&oc=0) ; Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=pierre&oc=0)
@@ -3156,7 +3156,7 @@
 2 DATE 11 AUG 1816
 2 PLAC Leiderdorp, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+klaveren&p=pieter+willemsz&oc=0)
-1 OCCU melkverkoper
+1 OCCU Melkverkoper
 1 FAMC @F157@
 1 FAMS @F122@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=alida&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+klaveren&p=pieter+willemsz&oc=0)
@@ -3331,7 +3331,7 @@
 2 DATE 18 JUN 1968
 2 PLAC Leiden, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=2)
-1 OCCU stucadoor
+1 OCCU Stucadoor
 1 FAMC @F160@
 1 FAMS @F163@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=2)
@@ -3442,7 +3442,7 @@
 2 DATE 03 AUG 1961
 2 PLAC Leiden, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=nicolaas&oc=1)
-1 OCCU metselaar
+1 OCCU Metselaar
 1 FAMC @F160@
 1 FAMS @F170@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=nicolaas&oc=1)
@@ -3537,7 +3537,7 @@
 2 DATE 01 JUL 1900
 2 PLAC Leiden, Zuid Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak+theodorus&oc=1)
-1 OCCU wolkammer
+1 OCCU Wolkammer
 1 FAMC @F174@
 1 FAMS @F109@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak&oc=1) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak+theodorus&oc=1)
@@ -4643,7 +4643,7 @@
 1 DEAT
 2 DATE 17 APR 1890
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=0)
-1 OCCU pannenbakkersknecht, pannenbakker <i>[tile-maker's man, tile-maker], arbeider <i>[labourer], koopman <i>[merchant]</i></i></i>
+1 OCCU Pannenbakkersknecht, pannenbakker <i>[tile-maker's man, tile-maker], arbeider <i>[labourer], koopman <i>[merchant]</i></i></i>
 1 FAMC @F59@
 1 FAMS @F223@
 1 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=jan&oc=1) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=0)
@@ -4664,7 +4664,7 @@
 2 PLAC Alphen aan den Rijn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=klaas&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=klaas&oc=0)
 1 DEAT Y
-1 OCCU timmermansknecht <i>[carpenter's man], arbeider <i>[labourer], pannenbakkersknecht <i>[tile-maker's man]</i></i></i>
+1 OCCU Timmermansknecht, arbeider, pannenbakkersknecht
 1 FAMC @F59@
 1 FAMS @F224@
 1 FAMS @F225@
@@ -4689,7 +4689,7 @@
 1 DEAT
 2 DATE BEF NOV 1867
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=aart&oc=0)
-1 OCCU arbeider <i>[labourer], pannenbakker <i>[tile-maker], pannenbakkersknecht <i>[tile-maker's man]</i></i></i>
+1 OCCU Arbeider, pannenbakker, pannenbakkersknecht
 1 FAMC @F59@
 1 FAMS @F227@
 1 FAMS @F228@
@@ -4735,7 +4735,7 @@
 2 DATE 12 NOV 1859
 2 PLAC Aarlanderveen, Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
-1 OCCU kuiper <i>[cooper]</i>
+1 OCCU Kuiper
 1 FAMC @F59@
 1 FAMS @F230@
 1 FAMS @F231@
@@ -4947,7 +4947,7 @@
 2 DATE 24 MAR 1962
 2 PLAC Leiderdorp, Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5)
-1 OCCU arbeider, boerenarbeider <i>[farm-labourer]</i>
+1 OCCU Arbeider, boerenarbeider
 1 FAMC @F240@
 1 FAMS @F236@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=20) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5)
@@ -4977,7 +4977,7 @@
 2 DATE 14 DEC 1891
 2 PLAC Ouder-Amstel, Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3)
-1 OCCU timmerman <i>[carpenter]</i>
+1 OCCU Timmerman
 1 FAMC @F241@
 1 FAMS @F240@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3)
@@ -4997,7 +4997,7 @@
 2 DATE 04 AUG 1891
 2 PLAC Abcoude-Baambrugge ?, Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1)
-1 OCCU timmerman <i>[carpenter]</i>
+1 OCCU Timmerman
 1 FAMC @F242@
 1 FAMS @F241@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1)
@@ -5017,7 +5017,7 @@
 2 DATE 12 AUG 1858
 2 PLAC Waarder, Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=0)
-1 OCCU timmerman
+1 OCCU Timmerman
 1 FAMC @F243@
 1 FAMS @F242@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=0)
