@@ -1964,7 +1964,7 @@
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bouwman&p=jeroentje&oc=0)
 1 DEAT
 2 DATE 29 OCT 1938
-2 PLAC Katwijk
+2 PLAC Katwijk, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bouwman&p=jeroentje&oc=0)
 1 OCCU Huisvrouw
 1 FAMS @F104@
@@ -5257,7 +5257,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 JAN 1902
-2 PLAC Barwoutswaarder, , , ,
+2 PLAC Barwoutswaarder, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=antje&oc=18)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=antje&oc=18)
@@ -5266,7 +5266,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 OCT 1903
-2 PLAC Barwoutswaarder, , , ,
+2 PLAC Barwoutswaarder, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=josina&oc=5)
 1 DEAT
 2 DATE 13 JUN 1904
