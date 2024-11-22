@@ -173,7 +173,7 @@
 1 SEX M
 1 BIRT
 2 DATE 31 MAR 1906
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR https://www.wiewaswie.nl/nl/detail/94306418 ; Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=arnoldus&oc=0)
 1 DEAT Y
 1 FAMC @F10@
@@ -885,7 +885,7 @@
 2 SOUR Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=pieter&oc=0) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4)
 1 DEAT
 2 DATE AFT 1919
-2 PLAC Woubrugge?
+2 PLAC Woubrugge?, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom leonard2 (https://gw.geneanet.org/leonard2?n=blom&p=pieter&oc=1)
 1 OCCU Scheepmaker
 1 FAMC @F53@
@@ -896,7 +896,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1866
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=lijntje&oc=1)
 1 DEAT
 2 DATE 17 JUN 1948
@@ -928,10 +928,10 @@
 2 SOUR Geneanet-stamboom klaas1954 (https://gw.geneanet.org/klaas1954?n=havenaar&p=cornelia+johanna&oc=0)
 1 DEAT
 2 DATE 29 NOV 1997
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom klaas1954 (https://gw.geneanet.org/klaas1954?n=havenaar&p=cornelia+johanna&oc=0)
 1 BURI
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom klaas1954 (https://gw.geneanet.org/klaas1954?n=havenaar&p=cornelia+johanna&oc=0)
 1 FAMC @F56@
 1 FAMS @F55@
@@ -1056,11 +1056,11 @@
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1822
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=gijsbert&oc=4)
 1 DEAT
 2 DATE 02 FEB 1893
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=gijsbert&oc=4)
 1 FAMC @F64@
 1 FAMS @F54@
@@ -1075,11 +1075,11 @@
 1 SEX M
 1 BIRT
 2 DATE 27 NOV 1789
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=cornelis&oc=12)
 1 DEAT
 2 DATE 18 NOV 1831
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=cornelis&oc=12)
 1 FAMC @F65@
 1 FAMS @F64@
@@ -1315,7 +1315,7 @@
 1 SEX F
 1 BIRT
 2 DATE 11 FEB 1898
-2 PLAC Zoeterwoude, ZH, NL
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=johanna&oc=8)
 1 DEAT
 2 DATE BET 26 FEB 1974 AND 26 FEB 1975
@@ -1381,11 +1381,11 @@
 1 SEX M
 1 BIRT
 2 DATE 01 SEP 1865
-2 PLAC Katwijk, ZH, NL
+2 PLAC Katwijk, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=floris+jacobus&oc=7)
 1 DEAT
 2 DATE 15 MAR 1946
-2 PLAC Zoeterwoude, ZH, NL
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=floris+jacobus&oc=7)
 1 OCCU Landbouwer
 1 FAMC @F78@
@@ -1396,11 +1396,11 @@
 1 SEX F
 1 BIRT
 2 DATE 29 OCT 1869
-2 PLAC Katwijk, ZH, NL
+2 PLAC Katwijk, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=balkenende&p=klazina+jacoba&oc=0)
 1 DEAT
 2 DATE 27 APR 1964
-2 PLAC Zoeterwoude, ZH, NL
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=balkenende&p=klazina+jacoba&oc=0)
 1 FAMC @F79@
 1 FAMS @F75@
@@ -1836,7 +1836,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 JUN 1873
-2 PLAC Voorschoten, ZH, NL
+2 PLAC Voorschoten, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=van+der+lee&p=alida+catharina&oc=0)
 1 DEAT
 2 DATE 29 JAN 1954
@@ -5698,7 +5698,7 @@
 0 @F10@ FAM
 1 MARR
 2 DATE 22 JUN 1891
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=pieter&oc=0)
 1 HUSB @I135@
 1 WIFE @I136@
@@ -5773,7 +5773,7 @@
 0 @F54@ FAM
 1 MARR
 2 DATE 26 FEB 1853
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=gijsbert&oc=4)
 1 HUSB @I149@
 1 WIFE @I150@
@@ -5783,7 +5783,7 @@
 0 @F64@ FAM
 1 MARR
 2 DATE 28 FEB 1822
-2 PLAC Woubrugge
+2 PLAC Woubrugge, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pmprins (https://gw.geneanet.org/pmprins?n=stigter&p=cornelis&oc=12)
 1 HUSB @I151@
 1 WIFE @I152@
@@ -5896,7 +5896,7 @@
 0 @F75@ FAM
 1 MARR
 2 DATE 22 APR 1897
-2 PLAC Noordwijk, ZH, NL
+2 PLAC Noordwijk, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=floris+jacobus&oc=7)
 1 HUSB @I188@
 1 WIFE @I189@
