@@ -841,11 +841,11 @@
 1 SEX M
 1 BIRT
 2 DATE 12 NOV 1819
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=maarten&oc=0)
 1 DEAT
 2 DATE 19 OCT 1859
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=maarten&oc=0)
 1 OCCU Zoutziedersknecht
 1 FAMC @F51@
@@ -856,11 +856,11 @@
 1 SEX F
 1 BIRT
 2 DATE 22 APR 1820
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=vijselaar&p=hendrikje&oc=0)
 1 DEAT
 2 DATE 18 JAN 1904
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=vijselaar&p=hendrikje&oc=0)
 1 OCCU Zoutziedersknecht
 1 FAMC @F52@
@@ -1142,7 +1142,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 FEB 1890
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=blom&p=adriana+cornelia&oc=0)
 1 DEAT
 2 DATE 28 FEB 1967
@@ -1230,7 +1230,7 @@
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=tjipke&oc=1)
 1 DEAT
 2 DATE 08 FEB 1823
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=tjipke&oc=1)
 1 FAMC @F72@
 1 FAMS @F51@
@@ -5675,7 +5675,7 @@
 0 @F48@ FAM
 1 MARR
 2 DATE 07 JAN 1875
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=cornelis&oc=0)
 1 HUSB @I129@
 1 WIFE @I130@
@@ -5684,7 +5684,7 @@
 0 @F49@ FAM
 1 MARR
 2 DATE 23 MAY 1847
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=maarten&oc=0)
 1 HUSB @I131@
 1 WIFE @I132@
@@ -5857,7 +5857,7 @@
 0 @F51@ FAM
 1 MARR
 2 DATE 10 MAY 1802
-2 PLAC enkhuizen
+2 PLAC Enkhuizen, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=tjipke&oc=1)
 1 HUSB @I172@
 1 WIFE @I173@
