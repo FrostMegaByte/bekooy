@@ -881,7 +881,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 APR 1867
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=pieter&oc=0) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4)
 1 DEAT
 2 DATE AFT 1919
@@ -924,7 +924,7 @@
 1 SEX F
 1 BIRT
 2 DATE 23 MAR 1911
-2 PLAC Zegwaart
+2 PLAC Zegwaart, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom klaas1954 (https://gw.geneanet.org/klaas1954?n=havenaar&p=cornelia+johanna&oc=0)
 1 DEAT
 2 DATE 29 NOV 1997
@@ -941,7 +941,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 FEB 1829
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=frederik&oc=0)
 1 DEAT Y
 1 OCCU Pannenbakkersknecht
@@ -953,7 +953,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1827
-2 PLAC Alkemade
+2 PLAC Alkemade, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=kelderman&p=wilhelmina+adriana&oc=0)
 1 DEAT Y
 1 OCCU Dienstbaar
@@ -988,7 +988,7 @@
 2 SOUR Geneanet-stamboom gdujardin (https://gw.geneanet.org/gdujardin?n=streek&p=elisabeth+frederiksdr&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=streek&p=elisabeth&oc=0)
 1 DEAT
 2 DATE 02 NOV 1859
-2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom gdujardin (https://gw.geneanet.org/gdujardin?n=streek&p=elisabeth+frederiksdr&oc=0)
 1 FAMC @F60@
 1 FAMS @F57@
@@ -998,11 +998,11 @@
 1 SEX M
 1 BIRT
 2 DATE 25 FEB 1800
-2 PLAC Oude Wetering
+2 PLAC Oude Wetering, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nike1 (https://gw.geneanet.org/nike1?n=kelderman&p=arnoldus&oc=2)
 1 DEAT
 2 DATE 01 APR 1830
-2 PLAC Alkemade
+2 PLAC Alkemade, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nike1 (https://gw.geneanet.org/nike1?n=kelderman&p=arnoldus&oc=2)
 1 FAMC @F61@
 1 FAMS @F58@
@@ -1016,7 +1016,7 @@
 2 SOUR Geneanet-stamboom nike1 (https://gw.geneanet.org/nike1?n=broekhuizen&p=pietertje&oc=0)
 1 DEAT
 2 DATE 23 MAY 1840
-2 PLAC Alkemade
+2 PLAC Alkemade, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nike1 (https://gw.geneanet.org/nike1?n=broekhuizen&p=pietertje&oc=0)
 1 FAMC @F62@
 1 FAMS @F58@
@@ -1463,7 +1463,7 @@
 2 NOTE Ria Schipper had 1935 staan. Inez Bekooy had 1934.
 1 DEAT
 2 DATE BET 30 AUG 1995 AND 30 AUG 2004
-2 PLAC Oestgeest, , , Zuid-Holland, Nederland
+2 PLAC Oegstgeest, , , Zuid-Holland, Nederland
 2 NOTE Ria Schipper had 2004 staan. Inez Bekooy had 1995.
 1 FAMC @F8@
 1 FAMS @F83@
@@ -1478,7 +1478,7 @@
 2 PLAC Leiden, , , Zuid-Holland, Nederland
 1 DEAT
 2 DATE BET 11 JUL 2015 AND 11 JUL 2016
-2 PLAC Oestgeest, , , Zuid-Holland, Nederland
+2 PLAC Oegstgeest, , , Zuid-Holland, Nederland
 2 NOTE Ria Schipper had 2016 staan. Inez Bekooy had 2015.
 1 FAMC @F8@
 1 FAMS @F84@
@@ -1624,7 +1624,7 @@
 1 BIRT
 2 DATE BET 30 AUG 1970 AND 30 AUG 1971
 2 PLAC Lisse, , , Zuid-Holland, Nederland
-2 NOTE Of Oestgeest of toch geboren in Leiden ziekenhuis
+2 NOTE Of Oegstgeest of toch geboren in Leiden ziekenhuis
 1 FAMC @F84@
 0 @I214@ INDI
 1 NAME Arjan /Bekooy/
@@ -1960,7 +1960,7 @@
 1 SEX F
 1 BIRT
 2 DATE 23 JUL 1876
-2 PLAC Rijnsburg
+2 PLAC Rijnsburg, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bouwman&p=jeroentje&oc=0)
 1 DEAT
 2 DATE 29 OCT 1938
@@ -2238,7 +2238,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 MAY 1770
-2 PLAC Roermond,LI,NLD
+2 PLAC Roermond, , , Limburg, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=schroders&p=anna+elisabeth&oc=0)
 1 DEAT
 2 DATE 14 NOV 1853
@@ -2473,7 +2473,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1605
-2 PLAC Tourcoing,59,FRA
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=nola&p=jenne&oc=0)
 1 DEAT Y
 1 FAMC @F129@
@@ -2495,7 +2495,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1570
-2 PLAC Tourcoing, Nord, Nord-Pas-de-Calais, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=olivier&oc=0) ; Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=olivier&oc=0)
 1 DEAT Y
 1 FAMC @F131@
@@ -2508,7 +2508,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1570
-2 PLAC Doornik,BEL
+2 PLAC Doornik, , , , Belgium
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=spiering&p=catharina&oc=0)
 1 DEAT Y
 1 FAMC @F134@
@@ -2529,7 +2529,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1530
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=antonie&oc=0) ; Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=anthony&oc=0)
 1 DEAT Y
 1 FAMC @F135@
@@ -2562,7 +2562,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1568
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=maria&oc=0) ; Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=marij&oc=0)
 1 DEAT Y
 1 FAMC @F131@
@@ -2639,7 +2639,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1570
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=pierre&oc=0)
 1 DEAT Y
 1 FAMC @F131@
@@ -2649,7 +2649,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1566
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=anthoine&oc=0)
 1 DEAT Y
 1 FAMC @F131@
@@ -2665,7 +2665,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1567
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=louis&oc=0), Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=lowijs&oc=0)
 1 DEAT
 2 DATE BEF 02 AUG 1604
@@ -2683,7 +2683,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1560
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=gilles&oc=0)
 1 DEAT Y
 1 BURI
@@ -2701,7 +2701,7 @@
 1 NAME Catryne /de Bucquoij/
 1 SEX F
 1 BIRT
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=catryne&oc=0)
 1 DEAT
 2 DATE 27 DEC 1624
@@ -2730,7 +2730,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1500
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 1 DEAT Y
 1 FAMS @F135@
 1 SOUR http://www.at16home.demon.nl/BEKOOY.htm
@@ -2741,10 +2741,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1530
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 1 DEAT
 2 DATE ABT 1585
-2 PLAC Tourcoing, Nord, France
+2 PLAC Tourcoing, , Nord, Nord-Pas-de-Calais, France
 1 FAMC @F135@
 1 FAMS @F141@
 1 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=arnou&oc=0) ; http://www.at16home.demon.nl/BEKOOY.htm
@@ -2778,7 +2778,7 @@
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=de+vos&p=anna&oc=0)
 1 DEAT
 2 DATE 20 SEP 1741
-2 PLAC Leiderdorp, ZH
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=de+vos&p=anna&oc=0) ; Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=de+vos&p=anna&oc=0)
 1 FAMC @F142@
 1 FAMS @F127@
@@ -2983,7 +2983,7 @@
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bekooij&p=johanna+anna&oc=0)
 1 DEAT
 2 DATE 24 JAN 1799
-2 PLAC Leiden (ZH)
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bekooij&p=johanna+anna&oc=0)
 1 FAMC @F127@
 1 FAMS @F151@
@@ -3373,7 +3373,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johanna&oc=0)
 1 DEAT
 2 DATE 17 JAN 1956
-2 PLAC 's-Gravenhage
+2 PLAC Den Haag, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom vdbonnet (https://gw.geneanet.org/vdbonnet?n=bekooij&p=johanna&oc=1)
 1 FAMC @F160@
 1 FAMS @F166@
@@ -3398,7 +3398,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=christiaan&oc=0)
 1 DEAT
 2 DATE 03 DEC 1983
-2 PLAC Leidschendam, , , ,
+2 PLAC Leidschendam, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=christiaan&oc=0) ; Geneanet-stamboom greenmill (https://gw.geneanet.org/greenmill?n=bekooy&p=christiaan&oc=0)
 1 OCCU Metselaar
 1 FAMC @F160@
@@ -3804,7 +3804,7 @@
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=jacobus&oc=0)
 1 DEAT
 2 DATE 05 SEP 1943
-2 PLAC Oegstgeest
+2 PLAC Oegstgeest, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=jacobus&oc=0) ; https://www.wiewaswie.nl/nl/detail/20969940 ; https://www.wiewaswie.nl/nl/detail/50696348
 1 FAMC @F104@
 1 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=jacobus&oc=0)
@@ -3856,7 +3856,7 @@
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=emma&oc=0) ; https://www.wiewaswie.nl/nl/detail/51025860
 1 DEAT
 2 DATE 03 DEC 1942
-2 PLAC Oegstgeest
+2 PLAC Oegstgeest, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=emma&oc=0) ; https://www.wiewaswie.nl/nl/detail/50728446
 1 FAMC @F104@
 1 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=emma&oc=0)
@@ -3889,7 +3889,7 @@
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=hendrik&oc=0) ; https://www.wiewaswie.nl/nl/detail/50838716
 1 DEAT
 2 DATE 30 JUL 1943
-2 PLAC Oegstgeest
+2 PLAC Oegstgeest, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=hendrik&oc=0) ; https://www.wiewaswie.nl/nl/detail/50775619
 1 FAMC @F104@
 1 SOUR Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=hendrik&oc=0)
@@ -4115,7 +4115,7 @@
 2 SOUR https://www.wiewaswie.nl/nl/detail/53548912
 1 DEAT
 2 DATE 27 DEC 1987
-2 PLAC Heerde
+2 PLAC Heerde, , , Gelderland, Nederland
 2 SOUR Geneanet-stamboom hansvermeer (https://gw.geneanet.org/hansvermeer?n=bekooy&p=susanne+christina&oc=1)
 1 FAMC @F80@
 1 FAMS @F200@
@@ -4252,7 +4252,7 @@
 1 SEX M
 1 BIRT
 2 DATE 09 MAR 1821
-2 PLAC Deventer
+2 PLAC Deventer, , , Overijssel, Nederland
 2 SOUR Geneanet-stamboom kwikkies (https://gw.geneanet.org/kwikkies?n=bekooi&p=johannes&oc=0)
 1 DEAT
 2 DATE 03 JUL 1899
@@ -4374,7 +4374,7 @@
 1 NAME Walran /du Bucquoy/
 1 SEX M
 1 BIRT
-2 PLAC Bondues (omgeving van Rijsel Belgie)
+2 PLAC Bondues, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom kwikkies (https://gw.geneanet.org/kwikkies?n=du+bucquoy&p=walran&oc=0)
 1 DEAT
 2 DATE 19 AUG 1669
@@ -4387,7 +4387,7 @@
 1 NAME Jean /du Bucquoy/
 1 SEX M
 1 BIRT
-2 PLAC Bodues (omgeving van Rijsel Belgie)
+2 PLAC Bondues, , Nord, Nord-Pas-de-Calais, France
 2 SOUR Geneanet-stamboom kwikkies (https://gw.geneanet.org/kwikkies?n=du+bucquoy&p=jean&oc=0)
 1 FAMS @F216@
 1 SOUR Geneanet-stamboom kwikkies (https://gw.geneanet.org/kwikkies?n=du+bucquoy&p=walran&oc=0)
@@ -4416,11 +4416,11 @@
 1 SEX M
 1 BIRT
 2 DATE 1599
-2 PLAC Leiden, , , Zuid-Holland, Nederlanduid-Holland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
 1 DEAT
 2 DATE BET 09 JAN 1666 AND 09 JAN 1667
-2 PLAC Leiden, , , Zuid-Holland, Nederlanduid-Holland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
 1 FAMC @F128@
 1 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
@@ -4477,7 +4477,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 APR 1852
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=cornelis&oc=0)
 1 DEAT Y
 1 FAMC @F53@
@@ -4493,11 +4493,11 @@
 1 SEX F
 1 BIRT
 2 DATE 06 APR 1854
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=petronella&oc=0)
 1 DEAT
 2 DATE 22 NOV 1858
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=petronella&oc=0)
 1 FAMC @F53@
 1 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=petronella&oc=0)
@@ -4506,7 +4506,7 @@
 1 SEX F
 1 BIRT
 2 DATE 03 FEB 1857
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=elisabeth&oc=0)
 1 FAMC @F53@
 1 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=elisabeth&oc=0)
@@ -4515,7 +4515,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1860
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=arnoldus&oc=0)
 1 FAMC @F53@
 1 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=arnoldus&oc=0)
@@ -4524,7 +4524,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 AUG 1860
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=pietertje&oc=0)
 1 FAMC @F53@
 1 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=pietertje&oc=0)
@@ -4643,7 +4643,7 @@
 1 DEAT
 2 DATE 17 APR 1890
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=0)
-1 OCCU Pannenbakkersknecht, pannenbakker <i>[tile-maker's man, tile-maker], arbeider <i>[labourer], koopman <i>[merchant]</i></i></i>
+1 OCCU Pannenbakkersknecht, pannenbakker, arbeider, koopman
 1 FAMC @F59@
 1 FAMS @F223@
 1 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=jan&oc=1) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=0)
@@ -5130,11 +5130,11 @@
 1 SEX M
 1 BIRT
 2 DATE 16 JAN 1819
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=23)
 1 DEAT
 2 DATE 31 AUG 1866
-2 PLAC Rietveld, , , ,
+2 PLAC Rietveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=23)
 1 FAMC @F249@
 1 FAMS @F247@
@@ -5164,7 +5164,7 @@
 1 SEX M
 1 BIRT
 2 DATE 06 MAR 1893
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=jacob&oc=24)
 1 DEAT
 2 DATE 29 JAN 1994
@@ -5184,11 +5184,11 @@
 1 SEX F
 1 BIRT
 2 DATE 20 MAR 1894
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=antje&oc=12)
 1 DEAT
 2 DATE 22 MAY 1894
-2 PLAC Den Haag, , , ,
+2 PLAC Den Haag, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=antje&oc=12)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=antje&oc=12)
@@ -5197,7 +5197,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 APR 1895
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=paulus&oc=0)
 1 DEAT
 2 DATE ABT 18 JUN 1992
@@ -5211,11 +5211,11 @@
 1 SEX F
 1 BIRT
 2 DATE 01 SEP 1896
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=johanna&oc=4)
 1 DEAT
 2 DATE 29 OCT 1896
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=johanna&oc=4)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=johanna&oc=4)
@@ -5224,7 +5224,7 @@
 1 SEX F
 1 BIRT
 2 DATE 08 NOV 1897
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=johanna&oc=5)
 1 DEAT Y
 1 OCCU Dienstbode
@@ -5235,7 +5235,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 JAN 1900
-2 PLAC Den Haag, , , ,
+2 PLAC Den Haag, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=daniel&oc=1)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=daniel&oc=1)
@@ -5244,11 +5244,11 @@
 1 SEX M
 1 BIRT
 2 DATE 27 DEC 1900
-2 PLAC Rietveld, , , ,
+2 PLAC Rietveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=doodgeboren+zoon&oc=0)
 1 DEAT
 2 DATE 27 DEC 1900
-2 PLAC Rietveld, , , ,
+2 PLAC Rietveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=doodgeboren+zoon&oc=0)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=doodgeboren+zoon&oc=0)
@@ -5270,7 +5270,7 @@
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=josina&oc=5)
 1 DEAT
 2 DATE 13 JUN 1904
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=josina&oc=5)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=josina&oc=5)
@@ -5279,7 +5279,7 @@
 1 SEX M
 1 BIRT
 2 DATE 09 FEB 1905
-2 PLAC Den Haag, , , ,
+2 PLAC Den Haag, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=14)
 1 OCCU Schipper
 1 FAMC @F16@
@@ -5298,7 +5298,7 @@
 1 SEX F
 1 BIRT
 2 DATE 06 JUN 1909
-2 PLAC Rietveld, , , ,
+2 PLAC Rietveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=josina&oc=1)
 1 DEAT
 2 DATE 29 MAY 2005
@@ -5311,11 +5311,11 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1913
-2 PLAC Rietveld, , , ,
+2 PLAC Rietveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=bertha&oc=0)
 1 DEAT
 2 DATE 22 JAN 1915
-2 PLAC Bodegraven, , , ,
+2 PLAC Bodegraven, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=bertha&oc=0)
 1 FAMC @F16@
 1 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=bertha&oc=0)
@@ -5333,11 +5333,11 @@
 1 SEX M
 1 BIRT
 2 DATE 02 OCT 1791
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=jacob&oc=29)
 1 DEAT
 2 DATE 01 MAY 1830
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=jacob&oc=29)
 1 OCCU Werkman
 1 FAMC @F251@
@@ -5350,7 +5350,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1790
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=pennewaard&p=antje+annigje&oc=0)
 1 DEAT Y
 1 FAMC @F252@
@@ -5361,11 +5361,11 @@
 1 SEX M
 1 BIRT
 2 DATE 16 JAN 1765
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=27)
 1 DEAT
 2 DATE 29 DEC 1840
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=27)
 1 FAMC @F253@
 1 FAMS @F251@
@@ -5708,7 +5708,7 @@
 0 @F55@ FAM
 1 MARR
 2 DATE 25 AUG 1938
-2 PLAC Zoetermeer
+2 PLAC Zoetermeer, , , Zuid-Holland, Nederland
 2 SOUR https://www.wiewaswie.nl/nl/detail/67921863 ; Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=cornelis&oc=0)
 1 HUSB @I137@
 1 WIFE @I138@
@@ -5716,7 +5716,7 @@
 0 @F53@ FAM
 1 MARR
 2 DATE 22 FEB 1852
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=frederik&oc=0)
 1 HUSB @I139@
 1 WIFE @I140@
@@ -6969,7 +6969,7 @@
 0 @F218@ FAM
 1 MARR
 2 DATE 17 SEP 1875
-2 PLAC Oudshoorn
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=cornelis&oc=0)
 1 HUSB @I522@
 1 WIFE @I523@
@@ -7218,7 +7218,7 @@
 0 @F247@ FAM
 1 MARR
 2 DATE 20 AUG 1842
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=23)
 1 HUSB @I594@
 1 WIFE @I595@
@@ -7245,7 +7245,7 @@
 0 @F249@ FAM
 1 MARR
 2 DATE 15 SEP 1820
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=jacob&oc=29)
 1 HUSB @I614@
 1 WIFE @I615@
@@ -7254,7 +7254,7 @@
 0 @F251@ FAM
 1 MARR
 2 DATE 27 AUG 1786
-2 PLAC Woerden, , , ,
+2 PLAC Woerden, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom hzwaan (https://gw.geneanet.org/hzwaan?n=rijfers&p=volkert&oc=27)
 1 HUSB @I616@
 1 WIFE @I617@
