@@ -2006,7 +2006,8 @@
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=2)
 1 BAPM
 2 DATE 29 MAY 1796
-2 PLAC Leiden, Hooglandsche Kerk
+2 PLAC Leiden, , , Zuid-Holland, Nederland
+2 NOTE Hooglandsche Kerk
 2 SOUR Geneanet-stamboom anneke1947 (https://gw.geneanet.org/anneke1947?n=bekooij&p=johannes+johannes+zn&oc=0)
 1 DEAT
 2 DATE 21 NOV 1879
@@ -6726,7 +6727,8 @@
 0 @F192@ FAM
 1 MARR
 2 DATE 26 SEP 1945
-2 PLAC Leiden (Hoogduits gereformeerde kerk)
+2 PLAC Leiden, , , Zuid-Holland, Nederland
+2 NOTE Hoogduits gereformeerde kerk
 2 SOUR https://www.wiewaswie.nl/nl/detail/111108551 ; Geneanet-stamboom roosing (https://gw.geneanet.org/roosing?n=bekooij&p=pieter+jacobus&oc=0)
 1 HUSB @I445@
 1 WIFE @I446@
