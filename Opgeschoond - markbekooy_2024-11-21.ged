@@ -2292,7 +2292,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=alida&oc=0)
 1 DEAT
 2 DATE 24 MAY 1830
-2 PLAC Leiderdorp, Zuid Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=alida&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=alida&oc=0)
 1 FAMC @F114@
 1 FAMS @F122@
@@ -3154,7 +3154,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+klaveren&p=pieter+willemsz&oc=0)
 1 DEAT
 2 DATE 11 AUG 1816
-2 PLAC Leiderdorp, Zuid Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+klaveren&p=pieter+willemsz&oc=0)
 1 OCCU Melkverkoper
 1 FAMC @F157@
@@ -3251,7 +3251,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+koning&p=anna+maria&oc=0)
 1 DEAT
 2 DATE 18 DEC 1946
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+koning&p=anna+maria&oc=0)
 1 FAMC @F161@
 1 FAMS @F160@
@@ -3294,7 +3294,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 NOV 1892
-2 PLAC Leiderdorp, Zuid Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=elisabeth&oc=1)
 1 DEAT
 2 DATE 1978
@@ -3312,7 +3312,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 AUG 1895
-2 PLAC Leiderdorp, Zuid Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=0)
 1 DEAT
 2 DATE 20 MAY 1896
@@ -3409,11 +3409,11 @@
 1 SEX F
 1 BIRT
 2 DATE 03 MAY 1902
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=goor&p=evertje&oc=0)
 1 DEAT
 2 DATE 20 FEB 1949
-2 PLAC Noordwijk, Zuid Holland, Nederland
+2 PLAC Noordwijk, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=goor&p=evertje&oc=0) ; https://www.wiewaswie.nl/nl/detail/20710939 ; https://gw.geneanet.org/greenmill?lang=nl&p=evertje&n=goor
 1 FAMC @F169@
 1 FAMS @F168@
@@ -3474,10 +3474,10 @@
 1 SEX F
 1 BIRT
 2 DATE 04 NOV 1919
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+den+berg&p=agatha+jacoba&oc=0)
 1 DEAT
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+den+berg&p=agatha+jacoba&oc=0)
 1 FAMC @F173@
 1 FAMS @F172@
@@ -3512,7 +3512,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 SEP 1924
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=3)
 1 FAMC @F163@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=3)
@@ -3670,7 +3670,7 @@
 1 SEX F
 1 BIRT
 2 DATE 09 JAN 1928
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 1 FAMC @F168@
 1 FAMS @F180@
 1 SOUR https://www.voy.com/104873/1004.html
@@ -3734,10 +3734,10 @@
 1 SEX M
 1 BIRT
 2 DATE 04 NOV 1947
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 1 BAPM
 2 DATE 18 APR 1949
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 NOTE Wassenaarse Dorpskerk door dominee Honders
 2 SOUR https://gw.geneanet.org/greenmill
 1 FAMC @F180@
@@ -5755,7 +5755,7 @@
 0 @F59@ FAM
 1 MARR
 2 DATE 21 MAY 1797
-2 PLAC Alphen aan den Rijn, Zuid Holland
+2 PLAC Alphen aan den Rijn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom ahowellspits (https://gw.geneanet.org/ahowellspits?n=blom&p=jan+jansz&oc=0)
 1 HUSB @I145@
 1 WIFE @I146@
@@ -6587,7 +6587,7 @@
 0 @F168@ FAM
 1 MARR
 2 DATE 08 APR 1927
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=christiaan&oc=0)
 1 HUSB @I393@
 1 WIFE @I394@
@@ -6599,7 +6599,7 @@
 0 @F170@ FAM
 1 MARR
 2 DATE 02 JUN 1934
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=nicolaas&oc=1)
 1 HUSB @I396@
 1 WIFE @I397@
@@ -6607,7 +6607,7 @@
 0 @F172@ FAM
 1 MARR
 2 DATE 29 APR 1939
-2 PLAC Wassenaar, Zuid Holland, Nederland
+2 PLAC Wassenaar, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=pieter+jacobus&oc=0)
 1 HUSB @I398@
 1 WIFE @I399@
