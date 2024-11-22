@@ -885,7 +885,7 @@
 2 SOUR Geneanet-stamboom pbreedijk (https://gw.geneanet.org/pbreedijk?n=blom&p=pieter&oc=0) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=pieter&oc=4)
 1 DEAT
 2 DATE AFT 1919
-2 PLAC Woubrugge?, , , Zuid-Holland, Nederland
+2 PLAC Woubrugge ?, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom leonard2 (https://gw.geneanet.org/leonard2?n=blom&p=pieter&oc=1)
 1 OCCU Scheepmaker
 1 FAMC @F53@
@@ -973,7 +973,7 @@
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=cornelis&oc=4) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=0)
 1 DEAT
 2 DATE 14 JUN 1873
-2 PLAC Dodewaard, Gelderland, Nederland
+2 PLAC Dodewaard, , , Gelderland, Nederland
 2 SOUR Geneanet-stamboom escholte (https://gw.geneanet.org/escholte?n=blom&p=cornelis&oc=1) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=0)
 1 OCCU Kuiper
 1 FAMC @F59@
@@ -984,7 +984,7 @@
 1 SEX F
 1 BAPM
 2 DATE 18 NOV 1792
-2 PLAC Bodegraven, Zuid-Holland, Nederland
+2 PLAC Bodegraven, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom gdujardin (https://gw.geneanet.org/gdujardin?n=streek&p=elisabeth+frederiksdr&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=streek&p=elisabeth&oc=0)
 1 DEAT
 2 DATE 02 NOV 1859
@@ -1026,11 +1026,11 @@
 1 SEX M
 1 BAPM
 2 DATE 29 NOV 1772
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom ahowellspits (https://gw.geneanet.org/ahowellspits?n=blom&p=jan+jansz&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=3)
 1 DEAT
 2 DATE 04 AUG 1844
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom ahowellspits (https://gw.geneanet.org/ahowellspits?n=blom&p=jan+jansz&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=3)
 1 OCCU Pannenbakkersknecht
 1 FAMC @F63@
@@ -2273,7 +2273,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1714
-2 PLAC Leiderdorp,ZH,NLD
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+leeuwen&p=joosje&oc=0)
 1 DEAT Y
 1 FAMC @F121@
@@ -2821,7 +2821,7 @@
 1 NAME Jacob /Verkouw/
 1 SEX M
 1 BIRT
-2 PLAC Rumpt, Gelderland, Nederland
+2 PLAC Rumpt, , , Gelderland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=verkouw&p=jacob&oc=0)
 1 DEAT
 2 DATE APR 1744
@@ -4533,11 +4533,11 @@
 1 SEX F
 1 BIRT
 2 DATE 24 FEB 1824
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=agatha&oc=2)
 1 DEAT
 2 DATE 26 JUN 1856
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=agatha&oc=2)
 1 FAMC @F57@
 1 FAMS @F219@
@@ -4552,11 +4552,11 @@
 1 SEX F
 1 BIRT
 2 DATE 04 MAR 1825
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=frederica+cristina&oc=0)
 1 DEAT
 2 DATE 06 JAN 1905
-2 PLAC Valburg, Gelderland, Nederland
+2 PLAC Valburg, , , Gelderland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=frederica+cristina&oc=0)
 1 FAMC @F57@
 1 FAMS @F220@
@@ -4571,7 +4571,7 @@
 1 SEX M
 1 BIRT
 2 DATE 09 DEC 1826
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan+janse&oc=2)
 1 FAMC @F57@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan+janse&oc=2)
@@ -4580,7 +4580,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 FEB 1829
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=frederik&oc=0)
 1 DEAT Y
 1 OCCU Pannenbakkersknecht
@@ -4597,7 +4597,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 MAR 1834
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=pietje&oc=0)
 1 DEAT Y
 1 FAMC @F57@
@@ -4613,7 +4613,7 @@
 1 SEX M
 1 BIRT
 2 DATE 02 APR 1837
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=4)
 1 FAMC @F57@
 1 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=4)
@@ -4622,7 +4622,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 MAR 1838
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=5)
 1 DEAT Y
 1 FAMC @F57@
@@ -4725,11 +4725,11 @@
 1 SEX M
 1 BIRT
 2 DATE 17 MAR 1808
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=gijsbert&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 BAPM
 2 DATE 20 MAR 1808
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=gijsbert&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 DEAT
 2 DATE 12 NOV 1859
@@ -4857,11 +4857,11 @@
 1 SEX M
 1 BIRT
 2 DATE 06 FEB 1913
-2 PLAC Zoeterwoude, Zuid-Holland, Nederland
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I30790&tree=SCHENK_EXT ; https://www.genealogieonline.nl/stamboom-zaal/I1122330101.php ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=20)
 1 DEAT
 2 DATE 17 AUG 1989
-2 PLAC Leiderdorp, Zuid-Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I30790&tree=SCHENK_EXT
 1 OCCU Landarbeider, meelsjouwer / opperman, concierge
 1 FAMC @F236@
@@ -4872,7 +4872,7 @@
 1 SEX F
 1 BIRT
 2 DATE 08 OCT 1912
-2 PLAC Alkemade, Zuid-Holland, Nederland
+2 PLAC Alkemade, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I36144&tree=SCHENK_EXT ; https://www.genealogieonline.nl/stamboom-zaal/I1122333020.php
 1 DEAT
 2 DATE 29 JUL 1980
@@ -4924,7 +4924,7 @@
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I37512&tree=SCHENK_EXT
 1 DEAT
 2 DATE 23 JUL 2013
-2 PLAC Leiderdorp, Zuid-Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I37512&tree=SCHENK_EXT
 1 FAMS @F239@
 1 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I37512&tree=SCHENK_EXT
@@ -4941,11 +4941,11 @@
 1 SEX M
 1 BIRT
 2 DATE 11 MAR 1883
-2 PLAC Ouder-Amstel, Noord-Holland, Nederland
+2 PLAC Ouder-Amstel, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5)
 1 DEAT
 2 DATE 24 MAR 1962
-2 PLAC Leiderdorp, Zuid-Holland, Nederland
+2 PLAC Leiderdorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5)
 1 OCCU Arbeider, boerenarbeider
 1 FAMC @F240@
@@ -4971,11 +4971,11 @@
 1 SEX M
 1 BIRT
 2 DATE 06 MAY 1844
-2 PLAC Hekendorp, Zuid-Holland, Nederland
+2 PLAC Hekendorp, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3)
 1 DEAT
 2 DATE 14 DEC 1891
-2 PLAC Ouder-Amstel, Noord-Holland, Nederland
+2 PLAC Ouder-Amstel, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3)
 1 OCCU Timmerman
 1 FAMC @F241@
@@ -4991,11 +4991,11 @@
 1 SEX M
 1 BIRT
 2 DATE 06 DEC 1819
-2 PLAC Waarder, Zuid-Holland, Nederland
+2 PLAC Waarder, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1)
 1 DEAT
 2 DATE 04 AUG 1891
-2 PLAC Abcoude-Baambrugge ?, Utrecht, Nederland
+2 PLAC Abcoude-Baambrugge ?, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1)
 1 OCCU Timmerman
 1 FAMC @F242@
@@ -5011,11 +5011,11 @@
 1 SEX M
 1 BAPM
 2 DATE 17 OCT 1790
-2 PLAC Waarder, Zuid-Holland, Nederland
+2 PLAC Waarder, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=0)
 1 DEAT
 2 DATE 12 AUG 1858
-2 PLAC Waarder, Zuid-Holland, Nederland
+2 PLAC Waarder, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=0)
 1 OCCU Timmerman
 1 FAMC @F243@
@@ -5031,11 +5031,11 @@
 1 SEX M
 1 BAPM
 2 DATE 15 JUL 1753
-2 PLAC Oudewater, Zuid-Holland, Nederland
+2 PLAC Oudewater, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis+ariens&oc=0)
 1 DEAT
 2 DATE 08 JAN 1827
-2 PLAC Ruwiel, Utrecht, Nederland
+2 PLAC Ruwiel, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis+ariens&oc=0)
 1 FAMC @F244@
 1 FAMS @F243@
@@ -5050,12 +5050,12 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1723
-2 PLAC Kamerik, Utrecht, Nederland
+2 PLAC Kamerik, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=arij+wouters&oc=0)
 1 DEAT Y
 1 BURI
 2 DATE 08 OCT 1756
-2 PLAC Oudewater, Zuid-Holland, Nederland
+2 PLAC Oudewater, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=arij+wouters&oc=0)
 1 FAMC @F245@
 1 FAMS @F244@
@@ -5437,7 +5437,7 @@
 0 @F4@ FAM
 1 MARR
 2 DATE 03 AUG 1933
-2 PLAC Zegwaart, Zuid-Holland, Nederland
+2 PLAC Zegwaart, , , Zuid-Holland, Nederland
 2 SOUR https://www.wiewaswie.nl/nl/detail/67920555
 1 HUSB @I15@
 1 WIFE @I16@
@@ -5730,7 +5730,7 @@
 0 @F57@ FAM
 1 MARR
 2 DATE 25 MAY 1823
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=cornelis&oc=4) ; Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=cornelis&oc=4) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=cornelis&oc=0)
 1 HUSB @I141@
 1 WIFE @I142@
@@ -6090,7 +6090,7 @@
 0 @F104@ FAM
 1 MARR
 2 DATE 19 MAY 1898
-2 PLAC Rijnsburg,ZH,NLD
+2 PLAC Rijnsburg, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=2)
 1 HUSB @I256@
 1 WIFE @I257@
@@ -6209,7 +6209,7 @@
 0 @F116@ FAM
 1 MARR
 2 DATE 08 MAR 1830
-2 PLAC Zoeterwoude,ZH,NLD
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=1)
 1 HUSB @I274@
 1 WIFE @I281@
@@ -6977,7 +6977,7 @@
 0 @F219@ FAM
 1 MARR
 2 DATE 07 DEC 1845
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=agatha&oc=2)
 1 HUSB @I529@
 1 WIFE @I528@
@@ -6985,7 +6985,7 @@
 0 @F220@ FAM
 1 MARR
 2 DATE 11 FEB 1849
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=frederica+cristina&oc=0)
 1 HUSB @I531@
 1 WIFE @I530@
@@ -6993,7 +6993,7 @@
 0 @F221@ FAM
 1 MARR
 2 DATE 22 FEB 1852
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=frederik&oc=0)
 1 HUSB @I533@
 1 WIFE @I534@
@@ -7001,7 +7001,7 @@
 0 @F222@ FAM
 1 MARR
 2 DATE 04 MAY 1856
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=pietje&oc=0)
 1 HUSB @I536@
 1 WIFE @I535@
@@ -7009,7 +7009,7 @@
 0 @F223@ FAM
 1 MARR
 2 DATE 29 FEB 1824
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=jan&oc=1) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=jan&oc=0)
 1 HUSB @I539@
 1 WIFE @I540@
@@ -7017,7 +7017,7 @@
 0 @F226@ FAM
 1 MARR
 2 DATE 29 NOV 1867
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=klaas&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=klaas&oc=0)
 1 HUSB @I541@
 1 WIFE @I542@
@@ -7025,7 +7025,7 @@
 0 @F229@ FAM
 1 MARR
 2 DATE 14 DEC 1856
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=aart&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=aart&oc=0)
 1 HUSB @I543@
 1 WIFE @I544@
@@ -7033,7 +7033,7 @@
 0 @F224@ FAM
 1 MARR
 2 DATE 23 MAY 1830
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=klaas&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=klaas&oc=0)
 1 HUSB @I541@
 1 WIFE @I545@
@@ -7041,7 +7041,7 @@
 0 @F225@ FAM
 1 MARR
 2 DATE 29 MAR 1835
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=klaas&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=klaas&oc=0)
 1 HUSB @I541@
 1 WIFE @I546@
@@ -7049,7 +7049,7 @@
 0 @F228@ FAM
 1 MARR
 2 DATE 30 OCT 1840
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=aart&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=aart&oc=0)
 1 HUSB @I543@
 1 WIFE @I547@
@@ -7057,7 +7057,7 @@
 0 @F227@ FAM
 1 MARR
 2 DATE 24 APR 1831
-2 PLAC Oudshoorn, Zuid-Holland, Nederland
+2 PLAC Oudshoorn, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=aart&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=aart&oc=0)
 1 HUSB @I543@
 1 WIFE @I548@
@@ -7103,7 +7103,7 @@
 0 @F232@ FAM
 1 MARR
 2 DATE 24 NOV 1938
-2 PLAC Alkemade, Zuid-Holland, Nederland
+2 PLAC Alkemade, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I30790&tree=SCHENK_EXT
 1 DIV
 2 DATE 29 JUL 1980
@@ -7133,7 +7133,7 @@
 0 @F236@ FAM
 1 MARR
 2 DATE 11 MAY 1905
-2 PLAC Zoeterwoude, Zuid-Holland, Nederland
+2 PLAC Zoeterwoude, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=5)
 1 HUSB @I574@
 1 WIFE @I575@
@@ -7147,7 +7147,7 @@
 0 @F240@ FAM
 1 MARR
 2 DATE 21 JUN 1878
-2 PLAC Nederhorst den Berg, Noord-Holland, Nederland
+2 PLAC Nederhorst den Berg, , , Noord-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=cornelis&oc=3)
 1 HUSB @I578@
 1 WIFE @I579@
@@ -7156,7 +7156,7 @@
 0 @F241@ FAM
 1 MARR
 2 DATE 12 AUG 1842
-2 PLAC Zegveld, Utrecht, Nederland
+2 PLAC Zegveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=1)
 1 HUSB @I580@
 1 WIFE @I581@
@@ -7165,7 +7165,7 @@
 0 @F242@ FAM
 1 MARR
 2 DATE 31 JUL 1814
-2 PLAC Zegveld, Utrecht, Nederland
+2 PLAC Zegveld, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis&oc=0)
 1 HUSB @I582@
 1 WIFE @I583@
@@ -7174,7 +7174,7 @@
 0 @F243@ FAM
 1 MARR
 2 DATE 26 NOV 1775
-2 PLAC Waarder, Zuid-Holland, Nederland
+2 PLAC Waarder, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=teunis+ariens&oc=0)
 1 HUSB @I584@
 1 WIFE @I585@
@@ -7183,7 +7183,7 @@
 0 @F244@ FAM
 1 MARR
 2 DATE 28 JAN 1748
-2 PLAC Waarder, Zuid-Holland, Nederland
+2 PLAC Waarder, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=arij+wouters&oc=0)
 1 HUSB @I586@
 1 WIFE @I587@
@@ -7192,7 +7192,7 @@
 0 @F245@ FAM
 1 MARR
 2 DATE 29 MAR 1721
-2 PLAC Kamerik, Utrecht, Nederland
+2 PLAC Kamerik, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=wouter+ariens&oc=1)
 1 HUSB @I588@
 1 WIFE @I589@
@@ -7201,7 +7201,7 @@
 0 @F246@ FAM
 1 MARR
 2 DATE JAN 1689
-2 PLAC Kamerik, Utrecht, Nederland
+2 PLAC Kamerik, , , Utrecht, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=zaal&p=arien+jacobse&oc=0)
 1 HUSB @I590@
 1 WIFE @I591@
