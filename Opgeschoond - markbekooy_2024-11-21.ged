@@ -798,7 +798,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 FEB 1888
-2 PLAC aarlanderveen
+2 PLAC Aarlanderveen, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom bertwestmaas (https://gw.geneanet.org/bertwestmaas?n=kramer&p=jacob&oc=0)
 1 DEAT
 2 DATE 19 JUN 1971
@@ -1301,10 +1301,10 @@
 2 PLAC Zoeterwoude-Dorp, , , Zuid-Holland, Nederland
 1 DEAT
 2 DATE 09 OCT 1966
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=1)
 1 BURI
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=schipper&p=jacob&oc=1)
 1 OCCU Melkhandelaar
 1 FAMC @F74@
@@ -1319,11 +1319,11 @@
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=johanna&oc=8)
 1 DEAT
 2 DATE BET 26 FEB 1974 AND 26 FEB 1975
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 NOTE Internet had 1975 staan. Inez Bekooy had 1974.
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=johanna&oc=8)
 1 BURI
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=parlevliet&p=johanna&oc=8)
 1 FAMC @F75@
 1 FAMS @F9@
@@ -1410,7 +1410,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 JAN 1905
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=bekooij&p=jacobus&oc=0) ; https://www.wiewaswie.nl/nl/detail/53571519
 1 DEAT
 2 DATE ABT 03 DEC 1972
@@ -1821,11 +1821,11 @@
 1 SEX M
 1 BIRT
 2 DATE 30 DEC 1874
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=johannes&oc=0)
 1 DEAT
 2 DATE 07 DEC 1951
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=johannes&oc=0)
 1 OCCU Banketbakker
 1 FAMC @F95@
@@ -1840,7 +1840,7 @@
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=van+der+lee&p=alida+catharina&oc=0)
 1 DEAT
 2 DATE 29 JAN 1954
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=van+der+lee&p=alida+catharina&oc=0)
 1 FAMC @F96@
 1 FAMS @F81@
@@ -1869,11 +1869,11 @@
 1 SEX M
 1 BIRT
 2 DATE 14 NOV 1878
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=bekooij&p=jurrianus&oc=0) ; Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jurrianus&oc=0)
 1 DEAT
 2 DATE 11 APR 1945
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jurrianus&oc=0) ; https://www.wiewaswie.nl/nl/detail/50708860
 1 OCCU Metselaar
 1 FAMC @F97@
@@ -1895,11 +1895,11 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JAN 1841
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jacobus&oc=1) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=1)
 1 DEAT
 2 DATE 15 OCT 1928
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jacobus&oc=1) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=1)
 1 OCCU Sigarenmaker
 1 FAMC @F99@
@@ -1911,11 +1911,11 @@
 1 SEX F
 1 BIRT
 2 DATE 04 SEP 1834
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+duuren&p=maria&oc=0)
 1 DEAT
 2 DATE 09 MAY 1910
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+duuren&p=maria&oc=0)
 1 FAMC @F101@
 1 FAMS @F102@
@@ -1926,11 +1926,11 @@
 1 SEX F
 1 BIRT
 2 DATE 02 MAY 1873
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=maria&oc=0)
 1 DEAT
 2 DATE 24 JUL 1958
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=maria&oc=0)
 1 FAMC @F97@
 1 FAMS @F103@
@@ -1945,11 +1945,11 @@
 1 SEX M
 1 BIRT
 2 DATE 19 OCT 1875
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=2)
 1 DEAT
 2 DATE 16 NOV 1959
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=2)
 1 OCCU Stucadoor
 1 FAMC @F97@
@@ -1974,11 +1974,11 @@
 1 SEX M
 1 BIRT
 2 DATE 15 SEP 1881
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=pieter&oc=0)
 1 DEAT
 2 DATE 06 AUG 1882
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=pieter&oc=0)
 1 FAMC @F97@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=pieter&oc=0)
@@ -2002,7 +2002,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 MAY 1796
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=2)
 1 BAPM
 2 DATE 29 MAY 1796
@@ -2010,7 +2010,7 @@
 2 SOUR Geneanet-stamboom anneke1947 (https://gw.geneanet.org/anneke1947?n=bekooij&p=johannes+johannes+zn&oc=0)
 1 DEAT
 2 DATE 21 NOV 1879
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=2)
 1 OCCU Bierdrager - bierbrouwersknecht
 1 FAMC @F105@
@@ -2023,15 +2023,15 @@
 1 SEX F
 1 BIRT
 2 DATE 18 FEB 1808
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=grietje&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+tongeren&p=grietje&oc=0)
 1 BAPM
 2 DATE 21 FEB 1808
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+tongeren&p=grietje&oc=0)
 1 DEAT
 2 DATE 28 JAN 1892
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+tongeren&p=grietje&oc=0)
 1 FAMC @F106@
 1 FAMS @F99@
@@ -2041,11 +2041,11 @@
 1 SEX F
 1 BIRT
 2 DATE 27 MAY 1839
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+der+reijden&p=elisabeth&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+der+reijden&p=elisabeth&oc=0)
 1 DEAT
 2 DATE 19 JUN 1872
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+der+reijden&p=elisabeth&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+der+reijden&p=elisabeth&oc=0)
 1 FAMC @F107@
 1 FAMS @F100@
@@ -2055,7 +2055,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JUN 1836
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=3) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=4)
 1 DEAT Y
 1 FAMC @F99@
@@ -2065,11 +2065,11 @@
 1 SEX F
 1 BIRT
 2 DATE 30 APR 1838
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=sijtje&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=sijtje&oc=0)
 1 DEAT
 2 DATE 24 DEC 1913
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=sijtje&oc=0)
 1 FAMC @F99@
 1 FAMS @F108@
@@ -2079,7 +2079,7 @@
 1 SEX M
 1 BIRT
 2 DATE 09 MAR 1843
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak&oc=1)
 1 DEAT
 2 DATE 10 AUG 1914
@@ -2094,7 +2094,7 @@
 1 SEX F
 1 BIRT
 2 DATE 02 DEC 1843
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johanna&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johanna&oc=1)
 1 DEAT Y
 1 FAMC @F99@
@@ -2110,15 +2110,15 @@
 1 SEX F
 1 BIRT
 2 DATE 1768
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+gunst&p=susanna&oc=0)
 1 BAPM
 2 DATE 01 APR 1770
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+gunst&p=susanna&oc=0)
 1 DEAT
 2 DATE 10 OCT 1841
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+gunst&p=susanna&oc=0)
 1 FAMC @F111@
 1 FAMS @F106@
@@ -2128,11 +2128,11 @@
 1 SEX F
 1 BIRT
 2 DATE 20 MAY 1792
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=maria&oc=1)
 1 DEAT
 2 DATE 08 FEB 1872
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=maria&oc=1)
 1 OCCU Spinster
 1 FAMC @F106@
@@ -2156,11 +2156,11 @@
 2 DATE ABT DEC 1772
 1 BAPM
 2 DATE 20 DEC 1772
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=1) ; https://www.wiewaswie.nl/nl/detail/53272363
 1 DEAT
 2 DATE 15 JAN 1843
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=3)
 1 OCCU Letterzettersknecht
 1 FAMC @F114@
@@ -2173,11 +2173,11 @@
 1 SEX F
 1 BIRT
 2 DATE 20 SEP 1764
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=genon&p=jannetje&oc=0)
 1 DEAT
 2 DATE 07 MAR 1826
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=genon&p=jannetje&oc=0)
 1 FAMC @F117@
 1 FAMS @F105@
@@ -2197,15 +2197,15 @@
 1 SEX M
 1 BIRT
 2 DATE 12 OCT 1736
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=leendert&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=leendert&oc=0)
 1 BAPM
 2 DATE 14 OCT 1736
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=leendert&oc=0)
 1 DEAT
 2 DATE 14 APR 1822
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=leendert&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=leendert&oc=0)
 1 OCCU Molenaarsknecht
 1 FAMC @F118@
@@ -2225,11 +2225,11 @@
 1 SEX F
 1 BIRT
 2 DATE 1772
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=kloots&p=susanna&oc=0)
 1 DEAT
 2 DATE 1829
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=kloots&p=susanna&oc=0)
 1 FAMS @F115@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=johannes&oc=1)
@@ -2250,7 +2250,7 @@
 1 SEX F
 1 BIRT
 2 DATE 01 APR 1801
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=helena+margareta&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=helena+margareta&oc=0)
 1 DEAT Y
 1 FAMC @F105@
@@ -2260,7 +2260,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 MAR 1705
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=jan&oc=0)
 1 DEAT Y
 1 FAMC @F120@
@@ -2284,11 +2284,11 @@
 1 SEX F
 1 BIRT
 2 DATE 08 JAN 1770
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=alida&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=alida&oc=0)
 1 BAPM
 2 DATE 10 JAN 1770
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=alida&oc=0)
 1 DEAT
 2 DATE 24 MAY 1830
@@ -2302,7 +2302,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1710
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+leeuwen&p=aart+jans&oc=0)
 1 DEAT Y
 1 FAMS @F119@
@@ -2323,7 +2323,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 AUG 1738
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=catharina&oc=0)
 1 FAMC @F118@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=catharina&oc=0)
@@ -2332,7 +2332,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 OCT 1680
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=abraham&oc=0)
 1 DEAT Y
 1 FAMC @F123@
@@ -2343,7 +2343,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1683
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=hogenvleck&p=magdalena&oc=0)
 1 DEAT Y
 1 FAMC @F124@
@@ -2364,11 +2364,11 @@
 1 SEX M
 1 BIRT
 2 DATE 05 MAR 1645
-2 PLAC Leiden, Zuid Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=jean&oc=0) ; Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=jean&oc=0)
 1 BAPM
 2 DATE 05 MAR 1645
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=de+bucquoij&p=jean&oc=0)
 1 DEAT
 2 DATE BEF 01 MAR 1704
@@ -2398,7 +2398,7 @@
 1 SEX F
 1 BIRT
 2 DATE 09 MAR 1653
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=le+francq&p=catharina&oc=0)
 1 DEAT Y
 1 FAMC @F126@
@@ -2414,7 +2414,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 AUG 1675
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=sara&oc=0)
 1 FAMC @F123@
 1 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=sara&oc=0)
@@ -2423,19 +2423,19 @@
 1 SEX M
 1 BIRT
 2 DATE 04 MAR 1683
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=isaak&oc=0) ; Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=buccqoij&p=isaack&oc=0) ; https://gw.geneanet.org/jlelieveldt?lang=nl&iz=0&p=isaack&n=bekooij+bouquoi
 1 BAPM
 2 DATE 07 MAR 1683
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=buccqoij&p=isaack&oc=0)
 1 DEAT
 2 DATE APR 1736
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=buccqoij&p=isaack&oc=0)
 1 BURI
 2 DATE BET 21 APR 1736 AND 28 APR 1736
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=buccqoij&p=isaack&oc=0)
 1 OCCU Molenaarsknegt
 1 FAMC @F123@
@@ -2461,7 +2461,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1610
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=pierre&oc=0)
 1 DEAT Y
 1 OCCU Droogscheerder
@@ -2540,7 +2540,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1592
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=olivier&oc=1)
 1 DEAT Y
 1 FAMC @F128@
@@ -2552,7 +2552,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1596
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=anneke+oliviersdr&oc=0) ; Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=anneke+oliviersdr&oc=0)
 1 DEAT Y
 1 FAMC @F128@
@@ -2585,7 +2585,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1590
-2 PLAC Leiden, South Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=elijsabeth&oc=0)
 1 DEAT Y
 1 FAMC @F128@
@@ -2595,7 +2595,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1594
-2 PLAC of Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=sara&oc=1)
 1 DEAT Y
 1 FAMC @F128@
@@ -2605,7 +2605,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1598
-2 PLAC of Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=petronella&oc=0)
 1 DEAT Y
 1 FAMC @F128@
@@ -2615,7 +2615,7 @@
 1 SEX F
 1 BIRT
 2 DATE 04 FEB 1601
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=de+bucquoij&p=marie&oc=0)
 1 DEAT Y
 1 FAMC @F128@
@@ -2705,7 +2705,7 @@
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=catryne&oc=0)
 1 DEAT
 2 DATE 27 DEC 1624
-2 PLAC Leiden,South Holland,Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=catryne&oc=0)
 1 FAMC @F131@
 1 FAMS @F140@
@@ -2721,7 +2721,7 @@
 1 DEAT Y
 1 BURI
 2 DATE 25 MAR 1608
-2 PLAC Leiden,South Holland,Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=barbe&oc=0)
 1 FAMC @F131@
 1 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=barbe&oc=0)
@@ -2774,7 +2774,7 @@
 1 SEX F
 1 BAPM
 2 DATE 05 OCT 1687
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=de+vos&p=anna&oc=0)
 1 DEAT
 2 DATE 20 SEP 1741
@@ -2804,15 +2804,15 @@
 1 SEX F
 1 BAPM
 2 DATE 18 SEP 1712
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=bekooij&p=maria&oc=0)
 1 DEAT
 2 DATE NOV 1792
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=bekooij&p=maria&oc=0)
 1 BURI
 2 DATE BET 17 NOV 1792 AND 21 NOV 1792
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=bekooij&p=maria&oc=0)
 1 FAMC @F127@
 1 FAMS @F143@
@@ -2828,7 +2828,7 @@
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=verkouw&p=jacob&oc=0)
 1 BURI
 2 DATE BET 11 APR 1744 AND 18 APR 1744
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=verkouw&p=jacob&oc=0)
 1 OCCU Timmermansknecht
 1 FAMS @F143@
@@ -2838,11 +2838,11 @@
 1 SEX M
 1 BIRT
 2 DATE 1711
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=abraham&oc=0)
 1 BAPM
 2 DATE 29 SEP 1711
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=abraham&oc=0)
 1 DEAT Y
 1 FAMC @F127@
@@ -2859,11 +2859,11 @@
 1 SEX F
 1 BIRT
 2 DATE FEB 1735
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=anna&oc=0)
 1 BAPM
 2 DATE 17 FEB 1735
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=anna&oc=0)
 1 DEAT Y
 1 FAMC @F144@
@@ -2874,11 +2874,11 @@
 1 SEX M
 1 BIRT
 2 DATE NOV 1730
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=johannes&oc=0)
 1 BAPM
 2 DATE 08 NOV 1730
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=johannes&oc=0)
 1 DEAT Y
 1 OCCU Straatmakersknecht (1752)
@@ -2900,15 +2900,15 @@
 1 SEX F
 1 BIRT
 2 DATE DEC 1752
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=jannetje&oc=0)
 1 BAPM
 2 DATE 06 DEC 1752
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=jannetje&oc=0)
 1 DEAT
 2 DATE 09 DEC 1809
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=jannetje&oc=0)
 1 FAMC @F146@
 1 FAMS @F148@
@@ -2918,15 +2918,15 @@
 1 SEX M
 1 BIRT
 2 DATE MAY 1757
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=willem+elias&oc=0)
 1 BAPM
 2 DATE 29 MAY 1757
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=willem+elias&oc=0)
 1 DEAT
 2 DATE 15 JAN 1789
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=willem+elias&oc=0)
 1 OCCU Jongmatroos (1788-89)
 1 FAMC @F149@
@@ -2945,15 +2945,15 @@
 1 SEX M
 1 BIRT
 2 DATE AUG 1784
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=johannes&oc=0)
 1 BAPM
 2 DATE 15 AUG 1784
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=johannes&oc=0)
 1 DEAT
 2 DATE 23 JAN 1864
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=johannes&oc=0)
 1 OCCU Kleermakersknecht at marriage, spinder (1819)
 1 FAMC @F148@
@@ -2979,7 +2979,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 OCT 1719
-2 PLAC Leiden, Zuid Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bekooij&p=johanna+anna&oc=0)
 1 DEAT
 2 DATE 24 JAN 1799
@@ -2993,7 +2993,7 @@
 1 SEX M
 1 BIRT
 2 DATE 01 MAY 1716
-2 PLAC Leiden, Zuid Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=van+der+reijden&p=hendrik&oc=0)
 1 DEAT
 2 DATE 07 DEC 1750
@@ -3044,11 +3044,11 @@
 1 SEX F
 1 BIRT
 2 DATE 1750
-2 PLAC Leiden, Zuid Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=godloff&p=ida&oc=0)
 1 DEAT
 2 DATE 11 JUN 1829
-2 PLAC Leiden, Zuid Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=godloff&p=ida&oc=0)
 1 FAMC @F154@
 1 FAMS @F153@
@@ -3068,11 +3068,11 @@
 1 SEX M
 1 BIRT
 2 DATE 1774
-2 PLAC Leiden, South Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=van+der+reijden&p=dirk&oc=0)
 1 DEAT
 2 DATE 16 AUG 1859
-2 PLAC Leiden, South Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=van+der+reijden&p=dirk&oc=0)
 1 FAMC @F153@
 1 FAMS @F155@
@@ -3119,11 +3119,11 @@
 1 SEX F
 1 BIRT
 2 DATE 18 MAR 1763
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jezijntje&oc=0)
 1 BAPM
 2 DATE 20 MAR 1763
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jezijntje&oc=0) ; https://www.wiewaswie.nl/nl/detail/53244788
 1 DEAT Y
 1 FAMC @F114@
@@ -3133,15 +3133,15 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JUN 1766
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+catharina&oc=0)
 1 BAPM
 2 DATE 27 JUN 1766
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+catharina&oc=0) ; https://www.wiewaswie.nl/nl/detail/53366525
 1 DEAT
 2 DATE 02 OCT 1829
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+catharina&oc=0)
 1 FAMC @F114@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+catharina&oc=0)
@@ -3150,7 +3150,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1768
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+klaveren&p=pieter+willemsz&oc=0)
 1 DEAT
 2 DATE 11 AUG 1816
@@ -3195,11 +3195,11 @@
 1 SEX F
 1 BIRT
 2 DATE 06 FEB 1864
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=margaretha&oc=0)
 1 DEAT
 2 DATE 05 MAR 1920
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=margaretha&oc=0)
 1 FAMC @F100@
 1 FAMS @F158@
@@ -3209,7 +3209,7 @@
 1 SEX M
 1 BIRT
 2 DATE 01 MAY 1864
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=vervark&p=pieter+jacobus&oc=0)
 1 DEAT
 2 DATE 18 APR 1902
@@ -3223,7 +3223,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 DEC 1866
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=0)
 1 FAMC @F100@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=0)
@@ -3232,11 +3232,11 @@
 1 SEX M
 1 BIRT
 2 DATE 22 DEC 1869
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=0)
 1 DEAT
 2 DATE 18 NOV 1941
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=0)
 1 OCCU Metselaar
 1 FAMC @F100@
@@ -3247,7 +3247,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JUN 1873
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=de+koning&p=anna+maria&oc=0)
 1 DEAT
 2 DATE 18 DEC 1946
@@ -3261,11 +3261,11 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JUN 1872
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=elisabeth&oc=0)
 1 DEAT
 2 DATE 09 SEP 1872
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=elisabeth&oc=0)
 1 FAMC @F100@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=elisabeth&oc=0)
@@ -3316,7 +3316,7 @@
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=0)
 1 DEAT
 2 DATE 20 MAY 1896
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=0)
 1 FAMC @F160@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=0)
@@ -3325,11 +3325,11 @@
 1 SEX M
 1 BIRT
 2 DATE 27 APR 1897
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=2)
 1 DEAT
 2 DATE 18 JUN 1968
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=2)
 1 OCCU Stucadoor
 1 FAMC @F160@
@@ -3340,7 +3340,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 MAY 1901
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+halderen&p=elisabeth+wilhelmina&oc=0)
 1 FAMC @F164@
 1 FAMS @F163@
@@ -3350,11 +3350,11 @@
 1 SEX F
 1 BIRT
 2 DATE 03 MAY 1900
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=1)
 1 DEAT
 2 DATE 18 NOV 1937
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=1)
 1 FAMC @F160@
 1 FAMS @F165@
@@ -3369,7 +3369,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 SEP 1901
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johanna&oc=0)
 1 DEAT
 2 DATE 17 JAN 1956
@@ -3423,11 +3423,11 @@
 1 SEX M
 1 BIRT
 2 DATE 09 OCT 1908
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=1)
 1 DEAT
 2 DATE 17 MAY 1922
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=1)
 1 FAMC @F160@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johannes&oc=1)
@@ -3436,11 +3436,11 @@
 1 SEX M
 1 BIRT
 2 DATE 26 JUN 1910
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=nicolaas&oc=1)
 1 DEAT
 2 DATE 03 AUG 1961
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=nicolaas&oc=1)
 1 OCCU Metselaar
 1 FAMC @F160@
@@ -3463,7 +3463,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JUN 1913
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=pieter+jacobus&oc=0)
 1 OCCU Stucadoor
 1 FAMC @F160@
@@ -3489,11 +3489,11 @@
 1 SEX M
 1 BIRT
 2 DATE 22 JUL 1915
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jurianus&oc=0)
 1 DEAT
 2 DATE 08 DEC 1916
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jurianus&oc=0)
 1 FAMC @F160@
 1 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jurianus&oc=0)
@@ -3531,11 +3531,11 @@
 1 SEX M
 1 BIRT
 2 DATE 11 MAY 1817
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak+theodorus&oc=1)
 1 DEAT
 2 DATE 01 JUL 1900
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak+theodorus&oc=1)
 1 OCCU Wolkammer
 1 FAMC @F174@
@@ -3546,11 +3546,11 @@
 1 SEX F
 1 BIRT
 2 DATE 04 NOV 1816
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=frankhuizen&p=catharina&oc=1)
 1 DEAT
 2 DATE 21 DEC 1900
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=frankhuizen&p=catharina&oc=1)
 1 FAMC @F175@
 1 FAMS @F109@
@@ -4416,11 +4416,11 @@
 1 SEX M
 1 BIRT
 2 DATE 1599
-2 PLAC Leiden, Zuid-Holland
+2 PLAC Leiden, , , Zuid-Holland, Nederlanduid-Holland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
 1 DEAT
 2 DATE BET 09 JAN 1666 AND 09 JAN 1667
-2 PLAC Leiden, Zuid-Holland
+2 PLAC Leiden, , , Zuid-Holland, Nederlanduid-Holland
 2 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
 1 FAMC @F128@
 1 SOUR Geneanet-stamboom jlelieveldt (https://gw.geneanet.org/jlelieveldt?n=bucquoy&p=olivier&oc=0)
@@ -4733,7 +4733,7 @@
 2 SOUR Geneanet-stamboom kennis78 (https://gw.geneanet.org/kennis78?n=blom&p=gijsbert&oc=0) ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 DEAT
 2 DATE 12 NOV 1859
-2 PLAC Aarlanderveen, Zuid-Holland, Nederland
+2 PLAC Aarlanderveen, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 OCCU Kuiper
 1 FAMC @F59@
@@ -4876,7 +4876,7 @@
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I36144&tree=SCHENK_EXT ; https://www.genealogieonline.nl/stamboom-zaal/I1122333020.php
 1 DEAT
 2 DATE 29 JUL 1980
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I36144&tree=SCHENK_EXT ; Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=horsman&p=klaasje+johanna&oc=0)
 1 FAMC @F237@
 1 FAMS @F232@
@@ -4920,7 +4920,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 FEB 1948
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I37512&tree=SCHENK_EXT
 1 DEAT
 2 DATE 23 JUL 2013
@@ -5905,7 +5905,7 @@
 0 @F8@ FAM
 1 MARR
 2 DATE 06 AUG 1928
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=wilhelmina+cornelia&oc=0) ; https://www.wiewaswie.nl/nl/detail/50399844
 1 HUSB @I190@
 1 WIFE @I191@
@@ -6035,7 +6035,7 @@
 0 @F81@ FAM
 1 MARR
 2 DATE 27 MAY 1896
-2 PLAC Leiden, ZH, NL
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom coos48 (https://gw.geneanet.org/coos48?n=kwestro&p=johannes&oc=0)
 1 HUSB @I244@
 1 WIFE @I245@
@@ -6070,7 +6070,7 @@
 0 @F97@ FAM
 1 MARR
 2 DATE 30 APR 1873
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+duuren&p=maria&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=1)
 1 HUSB @I252@
 1 WIFE @I253@
@@ -6082,7 +6082,7 @@
 0 @F103@ FAM
 1 MARR
 2 DATE 26 SEP 1894
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=maria&oc=0)
 1 HUSB @I255@
 1 WIFE @I254@
@@ -6115,7 +6115,7 @@
 0 @F102@ FAM
 1 MARR
 2 DATE 30 MAY 1860
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+duuren&p=maria&oc=0)
 1 HUSB @I261@
 1 WIFE @I253@
@@ -6123,7 +6123,7 @@
 0 @F99@ FAM
 1 MARR
 2 DATE 07 JUN 1832
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=grietje&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+tongeren&p=grietje&oc=0)
 1 HUSB @I262@
 1 WIFE @I263@
@@ -6135,7 +6135,7 @@
 0 @F100@ FAM
 1 MARR
 2 DATE 27 JAN 1864
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=jacobus&oc=1) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=van+der+reijden&p=elisabeth&oc=0)
 1 HUSB @I252@
 1 WIFE @I264@
@@ -6147,7 +6147,7 @@
 0 @F108@ FAM
 1 MARR
 2 DATE 23 DEC 1874
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=sijtje&oc=0) ; Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=sijtje&oc=0)
 1 HUSB @I267@
 1 WIFE @I266@
@@ -6161,7 +6161,7 @@
 0 @F113@ FAM
 1 MARR
 2 DATE 23 JUN 1825
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=maria&oc=1)
 1 HUSB @I272@
 1 WIFE @I271@
@@ -6169,7 +6169,7 @@
 0 @F112@ FAM
 1 MARR
 2 DATE 24 MAY 1821
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=van+tongeren&p=maria&oc=1)
 1 HUSB @I273@
 1 WIFE @I271@
@@ -6191,7 +6191,7 @@
 0 @F114@ FAM
 1 MARR
 2 DATE 07 MAY 1762
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=bekooij&p=leendert&oc=0)
 1 HUSB @I278@
 1 WIFE @I279@
@@ -6217,7 +6217,7 @@
 0 @F118@ FAM
 1 MARR
 2 DATE 05 AUG 1735
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=jan&oc=0)
 1 HUSB @I283@
 1 WIFE @I284@
@@ -6232,7 +6232,7 @@
 0 @F120@ FAM
 1 MARR
 2 DATE 01 MAR 1704
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=abraham&oc=0)
 1 HUSB @I289@
 1 WIFE @I290@
@@ -6246,7 +6246,7 @@
 0 @F123@ FAM
 1 MARR
 2 DATE 01 SEP 1674
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=jean&oc=0) ; Geneanet-stamboom nicoleslagter (https://gw.geneanet.org/nicoleslagter?n=de+bucquoij&p=jean&oc=0) ; Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=de+bucquoij&p=jean&oc=0)
 1 HUSB @I293@
 1 WIFE @I294@
@@ -6262,7 +6262,7 @@
 0 @F125@ FAM
 1 MARR
 2 DATE 11 AUG 1626
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=pierre&oc=0)
 1 HUSB @I298@
 1 WIFE @I299@
@@ -6276,7 +6276,7 @@
 0 @F128@ FAM
 1 MARR
 2 DATE 26 AUG 1589
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=de+bucquoij&p=olivier&oc=0)
 1 HUSB @I302@
 1 WIFE @I303@
@@ -6297,7 +6297,7 @@
 0 @F130@ FAM
 1 MARR
 2 DATE 11 AUG 1626
-2 PLAC Leiden,ZH,NLD
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom pvanbeusekom (https://gw.geneanet.org/pvanbeusekom?n=nola&p=jenne&oc=0)
 1 HUSB @I305@
 1 WIFE @I299@
@@ -6321,7 +6321,7 @@
 0 @F136@ FAM
 1 MARR
 2 DATE 11 SEP 1591
-2 PLAC Leiden, South Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=marij&oc=0)
 1 HUSB @I317@
 1 WIFE @I309@
@@ -6329,7 +6329,7 @@
 0 @F137@ FAM
 1 MARR
 2 DATE 12 APR 1586
-2 PLAC Leiden,South Holland,Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=anthoine&oc=0)
 1 HUSB @I319@
 1 WIFE @I320@
@@ -6349,7 +6349,7 @@
 0 @F140@ FAM
 1 MARR
 2 DATE 12 SEP 1587
-2 PLAC Leiden,South Holland,Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=catryne&oc=0)
 1 HUSB @I326@
 1 WIFE @I325@
@@ -6362,7 +6362,7 @@
 0 @F132@ FAM
 1 MARR
 2 DATE 08 NOV 1602
-2 PLAC Leiden, South Holland, Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=olivier&oc=0)
 1 HUSB @I302@
 1 WIFE @I330@
@@ -6370,7 +6370,7 @@
 0 @F133@ FAM
 1 MARR
 2 DATE 08 NOV 1602
-2 PLAC Leiden,South Holland,Netherlands
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom iterry (https://gw.geneanet.org/iterry?n=de+bucquoij&p=olivier&oc=0)
 1 HUSB @I302@
 1 WIFE @I331@
@@ -6401,7 +6401,7 @@
 0 @F144@ FAM
 1 MARR
 2 DATE 23 APR 1734
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=abraham&oc=0)
 1 HUSB @I336@
 1 WIFE @I337@
@@ -6410,7 +6410,7 @@
 0 @F146@ FAM
 1 MARR
 2 DATE 28 APR 1752
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=bekooij&p=anna&oc=0)
 1 HUSB @I339@
 1 WIFE @I338@
@@ -6424,7 +6424,7 @@
 0 @F148@ FAM
 1 MARR
 2 DATE 23 OCT 1783
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=mugge&p=jannetje&oc=0)
 1 HUSB @I343@
 1 WIFE @I342@
@@ -6433,7 +6433,7 @@
 0 @F150@ FAM
 1 MARR
 2 DATE 04 APR 1807
-2 PLAC Leiden, ZH
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom stevenrivka (https://gw.geneanet.org/stevenrivka?n=van+der+maas&p=johannes&oc=0)
 1 HUSB @I344@
 1 WIFE @I345@
@@ -6518,7 +6518,7 @@
 0 @F158@ FAM
 1 MARR
 2 DATE 22 AUG 1888
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=margaretha&oc=0)
 1 HUSB @I375@
 1 WIFE @I374@
@@ -6526,7 +6526,7 @@
 0 @F160@ FAM
 1 MARR
 2 DATE 02 SEP 1891
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=0)
 1 HUSB @I377@
 1 WIFE @I378@
@@ -6554,7 +6554,7 @@
 0 @F162@ FAM
 1 MARR
 2 DATE 16 JUL 1913
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=elisabeth&oc=1)
 1 HUSB @I385@
 1 WIFE @I384@
@@ -6562,7 +6562,7 @@
 0 @F163@ FAM
 1 MARR
 2 DATE 31 OCT 1923
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=jacobus&oc=2)
 1 HUSB @I387@
 1 WIFE @I388@
@@ -6571,7 +6571,7 @@
 0 @F165@ FAM
 1 MARR
 2 DATE 25 JUL 1921
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=maria+petronella&oc=1)
 1 HUSB @I390@
 1 WIFE @I389@
@@ -6625,7 +6625,7 @@
 0 @F109@ FAM
 1 MARR
 2 DATE 29 MAY 1835
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=cornet&p=izaak+theodorus&oc=1)
 1 HUSB @I406@
 1 WIFE @I407@
@@ -6931,7 +6931,7 @@
 0 @F110@ FAM
 1 MARR
 2 DATE 06 MAY 1863
-2 PLAC Leiden, Zuid Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom fvanderham (https://gw.geneanet.org/fvanderham?n=bekooij&p=johanna&oc=1)
 1 HUSB @I509@
 1 WIFE @I268@
@@ -7070,7 +7070,7 @@
 0 @F230@ FAM
 1 MARR
 2 DATE 30 OCT 1830
-2 PLAC Aarlanderveen, Zuid-Holland, Nederland
+2 PLAC Aarlanderveen, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 HUSB @I549@
 1 WIFE @I552@
@@ -7078,7 +7078,7 @@
 0 @F231@ FAM
 1 MARR
 2 DATE 20 APR 1836
-2 PLAC Aarlanderveen, Zuid-Holland, Nederland
+2 PLAC Aarlanderveen, , , Zuid-Holland, Nederland
 2 SOUR Geneanet-stamboom schenk (https://gw.geneanet.org/schenk?n=blom&p=gijsbert&oc=1)
 1 HUSB @I549@
 1 WIFE @I553@
@@ -7107,7 +7107,7 @@
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I30790&tree=SCHENK_EXT
 1 DIV
 2 DATE 29 JUL 1980
-2 PLAC Leiden, Zuid-Holland, Nederland
+2 PLAC Leiden, , , Zuid-Holland, Nederland
 2 SOUR https://www.schenk.nl/genealogie/getperson.php?personID=I30790&tree=SCHENK_EXT
 1 HUSB @I566@
 1 WIFE @I567@
