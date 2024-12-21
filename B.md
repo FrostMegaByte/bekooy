@@ -4,24 +4,24 @@
 ### I Jean (?) de Bucquoy
 I    Jean (?) de Bucquoy, tr. NN  
 Uit dit huwelijk bekend:  
-  - Walram, volgt [IIa](#iia-walram-de-bucquoy)  
-  - Philippe ?, volgt [IIb](#iib-philippe--de-bucquoy)  
-  - Lysbeth de Bucquoy, overl. voor 27-04-1653, tr. Gilbert Derfeu, greinwerker. (G.D. herotr. 27-04-1653, vergezeld door zijn zwager Walran de Bucquoy (IIa), met Maria de Gardijn, wed. Pieter Barbian).  
+- Walram, volgt [IIa](#iia-walram-de-bucquoy)  
+- Philippe ?, volgt [IIb](#iib-philippe--de-bucquoy)  
+- Lysbeth de Bucquoy, overl. voor 27-04-1653, tr. Gilbert Derfeu, greinwerker. (G.D. herotr. 27-04-1653, vergezeld door zijn zwager Walran de Bucquoy (IIa), met Maria de Gardijn, wed. Pieter Barbian).  
 
 ### IIa Walram de Bucquoy
 IIa  Walram de Bucquoy, geb. Bondues, begr. Leiden 19-08-1669, tr. NN.  
 Uit dit huwelijk, waarschijnlijke volgorde:  
-  - Jean, geb. Mouveaux, volgt [IIIa](#iiia-jean-de-bucquoy)  
-  - Gerard, geb. Bondues, volgt [IIIb](#iiib-gerard-du-bucquoy)  
-  - Anthony, geb. Bondues, volgt [IIIc](#iiic-anthony-de-bucquoy)  
+- Jean, geb. Mouveaux, volgt [IIIa](#iiia-jean-de-bucquoy)  
+- Gerard, geb. Bondues, volgt [IIIb](#iiib-gerard-du-bucquoy)  
+- Anthony, geb. Bondues, volgt [IIIc](#iiic-anthony-de-bucquoy)  
 Walrave de Bucquoy wordt op 24-11-1662 als poorter ontvangen.  
 
 ### IIb Philippe ? de Bucquoy
 IIb    Philippe ? de Bucquoy, tr. NN  
 Uit dit huwelijk bekend :  
-  - Philippe , volgt [IIId](#iiid-philips-de-bucquoy)  
-  - Jean, volgt [IIIe](#iiie-jan-de-bucquoy)  
-  - Margariet du Bucquoy, van Bondu, wnt Cleystraet, overl. voor 26-06-1671, otr. W 30-7-1660 (get. Pironne Catheris haar schoonzuster) Jean du Cane (in orig.: Quenne), van Mouvou, greinwerker, get. Pierre du Cane zijn vader. (Jan du Cane (in orig.: Ken), wednr. Margariet de B, wnt St.Jacobsgraft, otr. W 26-6-1671 Marya Moncourt, wed. Pieter Lievensz, wnt St.Jacobsgraft.)  
+- Philippe , volgt [IIId](#iiid-philips-de-bucquoy)  
+- Jean, volgt [IIIe](#iiie-jan-de-bucquoy)  
+- Margariet du Bucquoy, van Bondu, wnt Cleystraet, overl. voor 26-06-1671, otr. W 30-7-1660 (get. Pironne Catheris haar schoonzuster) Jean du Cane (in orig.: Quenne), van Mouvou, greinwerker, get. Pierre du Cane zijn vader. (Jan du Cane (in orig.: Ken), wednr. Margariet de B, wnt St.Jacobsgraft, otr. W 26-6-1671 Marya Moncourt, wed. Pieter Lievensz, wnt St.Jacobsgraft.)  
 
 ### IIIa Jean de Bucquoy
 IIIa  (Q 246)   Jean de Bucquoy, van Movou, wnt Corte Scheystraet, greinwerker, (overl. kort voor 08-09-1670(16)) otr. W 21-7-1659 (get. Walrave de Buquoy zijn vader) Machtelt (of Michelle) de Quiene, wnt Rijnsburgerpoort, get. Pierone Bayse haar moeder.  
@@ -66,7 +66,7 @@ Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, wnt in de 
 ### IIIe Jan de Bucquoy
 IIIe (T 200v)   Jan de Bucquoy, van Bondu, wnt Dieffsteech, greinreder, otr. 28-11-1669 (get. Philps de Bucqoy zijn broeder) Elysabeth  Hallius, van Leyden, wnt Dieffsteech.  
 Uit dit huwelijk:  
-  - Jan, NG ged. 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), get. Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
+- Jan, NG ged. 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), get. Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
 
 ### IVa   Walran (Warnaar) de Bucquoy
 IVa   Walran (Warnaar) de Bucquoy, W ged. 15-07-1665, greynwerker opt Levendael, begr. 26-02/05-03-1735 , otr. 12-11-1694 (get. Jan Lemoine, zijn schoonvader (=stiefvader)) Maria van Diest, overl. voor 26-02-1735, weduwe van Pieter de Pree (otr. 19-10-1689)  
@@ -220,8 +220,8 @@ Uit het tweede huwelijk:
 2. Jacoba Bekooy, geb. 25-10-1836, overl. 21-01-1913, tr. 12-04-1865  
 Christiaan van der Linden, geb. 18-11-1839, sjouwer, overl. 31-03-1904, zn van Christiaan en Catharina Zaalberg.  
 Voorzoons Jacoba:
-  - Jacobus, geb. 29-12-1863,  
-  - Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
+- Jacobus, geb. 29-12-1863,  
+- Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
 1. Abraham, geb. 22-05-1840, overl. 19-01-1843  
   
 ### VIIIf Pieter Bekooy
@@ -284,9 +284,9 @@ Willem Fucks, geb. 11-05-1817, wolkammer, overl. 16-02-1882, zn van Samuel Fucks
 6. Jannetje Bekooy, geb. 24-12-1829, overl.,tr. 24-11-1858 Daniel  
 Verhoeven, geb. 17-01-1828, sjouwer, overl., zn van Jacobus Verhoeven en Jannetje la Lau.  
 Voorkinderen Jannetje:  
-  - Jannetje, geb. –01-1851, overl. 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
-  - Jakobus, geb. eind 1856/begin 1857, overl. 13-05-1858  
-  - Jannetje Cornelia, geb. 18-09-1858, erkend bij huwelijk.  
+- Jannetje, geb. –01-1851, overl. 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
+- Jakobus, geb. eind 1856/begin 1857, overl. 13-05-1858  
+- Jannetje Cornelia, geb. 18-09-1858, erkend bij huwelijk.  
 1. Arie Bekooi, geb. 24-09-1830, dekenverver, overl. aangeg.  
 Norg/Veenhuizen 25-04-1848  
   
@@ -444,11 +444,11 @@ Uit dit huwelijk:
 ### Xe Willem Bekooi
 Xe  Willem Bekooi, geb. 24-11-1854, schrijnwerker, overl. 04-02-1920, tr. 03-03-1880 Jannetje Janssen, geb. 13-11-1849 (als J. Fuchs), overl. na haar man, dr vanCornelis Janssen en Sara Cornelia Fuchs.  
 Uit dit huwelijk:  
-  - Johannes Jacobus, geb. 16-12-1880  
-  - Sara Cornelia, geb. 09-08-1883  
-  - Willem, geb. 08-12-1885  
-  - Cornelis Bekooi, geb. 23-01-1888, overl. 17-12-1945, tr. 08-03-1911 Antje Robbers, geb. Leiderdorp 02-04-1890, dr van Pieter Robbers en Agnes van Nieuwenhoven.  
-  - Samuel, geb. 16-12-1891  
+- Johannes Jacobus, geb. 16-12-1880  
+- Sara Cornelia, geb. 09-08-1883  
+- Willem, geb. 08-12-1885  
+- Cornelis Bekooi, geb. 23-01-1888, overl. 17-12-1945, tr. 08-03-1911 Antje Robbers, geb. Leiderdorp 02-04-1890, dr van Pieter Robbers en Agnes van Nieuwenhoven.  
+- Samuel, geb. 16-12-1891  
 
 ### Xf Jan Bekooi
 Xf  Jan Bekooi, geb. 01-03-1861, meubelmaker, overl. 26-07-1915, tr. 29-02-1888 Johanna Maria van der Linden, geb. 14-05-1863, dienstbode, overl. 09-04-1936, dr vanLambertus van der Linden en Maria Mark.  
@@ -498,13 +498,13 @@ Schoonderwoerd den Bezemer en Aagje Ciere.
 ### XId Pieter Bekooy
 XId Pieter Bekooy, geb. 13-04-1873, sjouwer, overl. 17-03-1925, tr. 18-06-1902 Jansje Dubbelaar, geb. 16-12-1878, overl. na 1950, dr van Arie Dubbelaar en Jannetje Erades.  
 Uit dit huwelijk:  
-  - Jacob, geb. 07-12-1902  
+- Jacob, geb. 07-12-1902  
 
 ### XIe Hendrik Boekkooi
 XIe Hendrik Boekkooi, geb. 31-03-1877, aardappelenmeter, tr. 20-02-1901 Catharina Arnoldus, geb. 11-12-1880, dr van Isaac Arnoldus en Francina van Wijk.  
 Uit dit huwelijk:  
-  - Jannetje, geb. 22-06-1901  
-  - Isaac, geb. 30-09-1902  
+- Jannetje, geb. 22-06-1901  
+- Isaac, geb. 30-09-1902  
   
 ### XIf Andries Bekooy
 XIf    Andries Bekooy, geb. 14-08-1874, arbeider, tr. 13-05-1896 Maria Oudshoorn, geb. 20-06-1872, dr van David Oudshoorn en Elisabeth Bon.  

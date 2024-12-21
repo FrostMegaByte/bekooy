@@ -30,7 +30,7 @@ IIb-4 ([IIIg](#iiig-olifer-de-buckoy)) Olivier trouwt, vergezeld door zijn vader
 ### IIIa Elias de Buko
 IIIa   Elias de Buko, van Turkeng in Vlaanderen, geb. ca. 1560, overl. Leiden aan de pest 07-09-1602, otr. NG 03-08-1585 (get. Anton de Buko zijn oom) Jacomyne du Pré, van Armentiers, get. Claret du Pré haar moeder.  
 Uit dit huwelijk bekend:  
-   - Elie, W ged. Leiden 05-11-1600, leeft nog 30-09-1629(3)  
+- Elie, W ged. Leiden 05-11-1600, leeft nog 30-09-1629(3)  
 
 Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.  
 Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucquoy Arnoutsz een bedrag van 100 gld ter weeskamer, zijnde de opbrengst van een obligatie gedateerd 15-05-1603, op naam van ‘Elias du Bucquoy Arnouts zoons weeskint genaemt Elias’. Zij hebben het geld ontvangen van Jaspar du Pré, van Armentières. Op 15-10-1607 brengen Olivier Arnoutsz en Olivier Anthonisz nog eens resp. 140 en 340 gld, eveneens interest tot onderhoud van het kind(4). Na zijn quittering van Weesmeesters bij gelegenheid van zijn meerderjarigheid(3) wordt van Elias Jr. niets meer vernomen.  
@@ -38,9 +38,9 @@ Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucq
 ### IIIb Olifier de Buquo
 IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overl./begr. 06-06-1616; voogdijstelling 17-08-1616), wednr. Joseyne Liagre, wolkammer, otr. 8-11-1602 (get. Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) Martijne du Boys, van Verlenghem bij Rijssele, wed. Anthone Monier.  
 Uit het eerste huwelijk bekend(5):  
-  - Elisabeth de Bucquoy, geb. ca. 1590, otr. 1) 14-3-1614 Bernaerdt Legete, baaiwerker, van Tweyne in Henegouwen, otr. 2) 29-1-1627 Anthoni Haveyne (Avenne), wolkammer.  
+- Elisabeth de Bucquoy, geb. ca. 1590, otr. 1) 14-3-1614 Bernaerdt Legete, baaiwerker, van Tweyne in Henegouwen, otr. 2) 29-1-1627 Anthoni Haveyne (Avenne), wolkammer.  
 Uit het tweede huwelijk bekend:  
-  - Judith de Bucquoy, geb. 1603(5), otr. 23-3-1626 Aman Barnyer, wolkammer van bij Valencijn.  
+- Judith de Bucquoy, geb. 1603(5), otr. 23-3-1626 Aman Barnyer, wolkammer van bij Valencijn.  
 Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifer-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc Pier de Bucquoy
@@ -141,7 +141,7 @@ Bij de getuigen bij de dopen van de kinderen is geen enkele Bucquoy, allen zijn 
 ### Vc Jean de Bucquoy
 Vc    Jean de Bucquoy, NG ged. 30-12-1621, wnt Paradijssteech, slotenmaker, otr. 28-08-1648 (get. Abraham de Bodeyn zijn neef) Susannetgen Jacobsdr, wnt Paradijssteech.  
 Uit dit huwelijk:  
-  - Geertruijdt, NG ged. 15-05-1649, get. Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
+- Geertruijdt, NG ged. 15-05-1649, get. Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit(13).  
 
 ### Vd Gillis Pietersz de Bucquoy
