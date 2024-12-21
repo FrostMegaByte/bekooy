@@ -11,7 +11,7 @@ De veronderstelling dat de ‘stamvader’ Olivier heette, is gebaseerd op het f
 IIa    Arnou de Bucquoys, geb. en wschl. overl. Tourcoing ca. 1530 - ca. 1585, tr. NN.  
 Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend, :  
 1. Elie, geb. ca. 1560/65,  volgt [IIIa](#iiia-elias-de-buko)  
-2. Olivier, geb. ca. 1560/65, volgt [IIIb](#iiib-olifer-de-buquo)  
+2. Olivier, geb. ca. 1560/65, volgt [IIIb](#iiib-olifier-de-buquo)  
 3. Pierre, geb. ca. 1560/65, volgt [IIIc](#iiic-pier-de-bucquoy)  
 4. Jacomijne de Buco, van omtrent Rijsele, otr. 02-03-1585 (get. Anthonnis de Buco haar oom) Jan Deuterre, van Bergen in Henegouwen, get. Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet m.b.v. doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie m.i. safe. Hetzelfde geldt voor Pierre (IIa-3), bij wiens huwelijk ook oom Anthoine getuigde.  
 
@@ -21,11 +21,11 @@ Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend:
 1. Anthoine, geb. ca. 1566 (6), volgt [IIId](#iiid-anthoine-des-boucquois)  
 2. Louis, geb. ca. 1560/70, volgt [IIIe](#iiie-lowijs-de-buckoy)  
 3. Gilles, geb. ca. 1560, volgt [IIIf](#iiif-gilles-de-bucquoy)  
-4. Olivier, geb. ca. 1560/70, volgt [IIIg](#iiig-olifer-de-buckoy)  
+4. Olivier, geb. ca. 1560/70, volgt [IIIg](#iiig-olifier-de-buckoy)  
 5. Mary de Buco, van Turcoyn, otr. 11-9-1591 (get. Cathelijne Spiring haar (schoon-)zuster) Pier Tybergien, van Turcoyn, overl. na 02-09-1629 (optreden als doopgetuige). De naam Pierre Tybergien (ook andere spellingen) behoort in deze periode aan tenminste 3 verschillende personen.  
 6. Catryne de Bucquot, van Turquoin, mog. overl./begr. (‘hvr van Jan de Can op de Koepoortsgraft’) 27-12-1624, otr. 12-09-1587 (get. Barbe de Bucquot en Marie Casteel) Jan de Camp, van Bondue bij Rijssel.  
 7. ?Barbe de Bucquoy, begr. Leiden 25-03-1608  
-IIb-4 ([IIIg](#iiig-olifer-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles(1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine(2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder IIIa), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
+IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles(1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine(2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder IIIa), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
 
 ### IIIa Elias de Buko
 IIIa   Elias de Buko, van Turkeng in Vlaanderen, geb. ca. 1560, overl. Leiden aan de pest 07-09-1602, otr. NG 03-08-1585 (get. Anton de Buko zijn oom) Jacomyne du Pré, van Armentiers, get. Claret du Pré haar moeder.  
@@ -41,7 +41,7 @@ Uit het eerste huwelijk bekend(5):
 - Elisabeth de Bucquoy, geb. ca. 1590, otr. 1) 14-3-1614 Bernaerdt Legete, baaiwerker, van Tweyne in Henegouwen, otr. 2) 29-1-1627 Anthoni Haveyne (Avenne), wolkammer.  
 Uit het tweede huwelijk bekend:  
 - Judith de Bucquoy, geb. 1603(5), otr. 23-3-1626 Aman Barnyer, wolkammer van bij Valencijn.  
-Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifer-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
+Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifier-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc Pier de Bucquoy
 IIIc   Pier de Bucquoy, wednr. van Turcoingen, otr. W 05-05-1600 (get. Anthony de Bucquoy zijn oom en Samuel Mephuys (?) zijn schoonbroeder) Judick Amory, van Amarsy, get. Sjenne Amory haar zuster en Rebecca Hoene haar bekende.  
@@ -50,7 +50,7 @@ Uit een eerder huwelijk bekend:
 Uit het tweede huwelijk:  
 2. Jacques, W ged. 09-06-1603  
 3. Jean, W ged. mei 1605  
-4. Pierre, W ged. 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy)   
+4. Pierre, W ged. 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy)  
 5. Sara de Bucquoy, W ged. 08-03-1615, wnt bij de Byercaey, otr. 4-1-1636  
 (get. Maria de Bucquoy haar zuster) Jan Thonis le Toeur, fusteinwerker, wnt Corte Scheystraet, get. Pieter le Toeur zijn broer.  
 
@@ -63,7 +63,7 @@ IIIe    Lowijs de Buckoy, van Turcoyn, overl. voor 02-08-1604, otr. 31-12-1588 (
 Uit dit huwelijk bekend:  
 1. Jeremy, geb. ca. 1588, volgt [IVb](#ivb-jheremias-de-bucquoy)  
 2. Jan, geb. ca. 1594.  
-Op 02-08-1604 heeft Olivier du Bucquoy, kousenbreier, ter kamer gebracht de som van 183 gld. 5 st. over wat hij schuldig was t.b.v. Pierre, ca. 23 jaar en Susanna, 16 jaar, nagelaten kinderen van Gillis du Bucquoy, en van Jeremias, 16 jaar, en Jan, 10 jaar, nagelaten kinderen van Louys de Bucquoy(7)    
+Op 02-08-1604 heeft Olivier du Bucquoy, kousenbreier, ter kamer gebracht de som van 183 gld. 5 st. over wat hij schuldig was t.b.v. Pierre, ca. 23 jaar en Susanna, 16 jaar, nagelaten kinderen van Gillis du Bucquoy, en van Jeremias, 16 jaar, en Jan, 10 jaar, nagelaten kinderen van Louys de Bucquoy(7)  
 Jan de Bucquoy (IIIe-2) was mogelijk gehuwd. Een huwelijk is niet gevonden, evenmin als dopen van kinderen. Op 8 september en 1 en 15 oktober 1624 en op 28 oktober 1627 en 4 januari 1629 werden kinderen begraven van een Jan Bu(c,k)oy die in of bij de Olifantspoort woonde.  
 
 ### IIIf Gilles de Bucquoy
@@ -160,7 +160,7 @@ Uit dit huwelijk:
 1. Jan, ged. 11-03-1705, volgt [VIIa](#viia-jan-bekooy)  
 2. Magdalena, ged. 29-09-1706 (get. Catharina Franc)  
 
-### VIb Isack Bucquoy 
+### VIb Isack Bucquoy
 VIb  Isack Bucquoy, geb./w ged. 04/07-03-1683, molenaarsknecht, begr. 21/28-04-1736, otr. 07-02-1711 Anna de Vos, ged. 05-10-1687, begr. 10/17-02-1725, dr van Guilliaem de Vos en Maria Slosser.  
 Uit dit huwelijk:  
 1. Abraham, ged. 29-09-1711, volgt [VIIb](#viib-abraham-buckooy)  
@@ -208,7 +208,7 @@ Uit dit huwelijk:
 1. onged. kind, begr. 23/30-03-1765  
 2. Catharina Bucquoy, ged. 19-03-1766, begr. 16/23-10-1773  
 3. Immetje Bekooy, geb. 1768, dubbelaarster, overl. 03-04-1851, otr. 28-09-1792 (get. haar moeder Geertruy Maas) Frans van der Kaay, ged. 22-12-1771, baaijwerker, overl. 18-03-1810, zn van Lucas van der Kaay en Dirkje Romeyn.  
-Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, wed. Frans van der Kaay, overleed op 03-04-1851 (in de 10-jarentafel: Susannetje; de akte leest duidelijk Immetje) op 83-jarige leeftijd als dr van Isaac Bekooy en Jannetje Romijn (??). Immetje Bekooy en Frans van der Kaay worden ook genoemd bij het huwelijk van hun dochter Hendrina in Rotterdam. Op 28-09-1792 werd (RAL, KOT YY 115) de ondertrouw geregistreerd tussen Jannetje (!) Bekooy en Frans van der Kaay.    
+Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, wed. Frans van der Kaay, overleed op 03-04-1851 (in de 10-jarentafel: Susannetje; de akte leest duidelijk Immetje) op 83-jarige leeftijd als dr van Isaac Bekooy en Jannetje Romijn (??). Immetje Bekooy en Frans van der Kaay worden ook genoemd bij het huwelijk van hun dochter Hendrina in Rotterdam. Op 28-09-1792 werd (RAL, KOT YY 115) de ondertrouw geregistreerd tussen Jannetje (!) Bekooy en Frans van der Kaay.  
 4. Abram, ged. 21-06-1769, begr. 09/16-10-1773  
 5. Johanna Bekooy, ged. 22-09-1771, begr. 14/21-12-1771  
 6. Arnoldus, ged. 22-11-1772  
@@ -357,4 +357,4 @@ XIIb    Johannes Bekooy, geb. 19-10-1875, stucadoor, overl. na 29-10-1938, tr. R
 3. Jacobus, geb. 10-06-1901  
 4. Johannes, geb. 21-12-1902  
 5. Emma, geb. 1905, overl. 03-12-1942  
-6. Hendrik, geb. 1908, overl. 30-07-1943  
+6. Hendrik, geb. 1908, overl. 30-07-1943
