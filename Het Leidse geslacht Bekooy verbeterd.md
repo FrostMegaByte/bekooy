@@ -195,7 +195,7 @@ Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend:
 3. Gilles, geb. ca. 1560, volgt [IIIf](#iiif-gilles-de-bucquoy)  
 4. Olivier, geb. ca. 1560/70, volgt [IIIg](#iiig-olifier-de-buckoy)  
 5. Mary de Buco, van Turcoyn, otr. 11-9-1591 (get. Cathelijne Spiring haar (schoon-)zuster) Pier Tybergien, van Turcoyn, overl. na 02-09-1629 (optreden als doopgetuige). De naam Pierre Tybergien (ook andere spellingen) behoort in deze periode aan tenminste 3 verschillende personen.  
-6. Catryne de Bucquot, van Turquoin, mog. overl./begr. (‘hvr van Jan de Can op de Koepoortsgraft’) 27-12-1624, otr. 12-09-1587 (get. Barbe de Bucquot en Marie Casteel) Jan de Camp, van Bondue bij Rijssel.  
+6. Catryne de Bucquot, van Turquoin, mog. overl./begr. (‘huisvrouw van Jan de Can op de Koepoortsgraft’) 27-12-1624, otr. 12-09-1587 (get. Barbe de Bucquot en Marie Casteel) Jan de Camp, van Bondue bij Rijssel.  
 7. ?Barbe de Bucquoy, begr. Leiden 25-03-1608  
 
 IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder [IIIa](#iiia-elias-de-buko)), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
@@ -228,7 +228,7 @@ IIIc    Pier de Bucquoy, wednr. van Turcoingen, otr. W 05-05-1600 (get. Anthony 
 
 Uit een eerder huwelijk bekend:  
 
-1. Mary de Bucquo, van Bondu, mog. overl./begr. (‘hvr van Davidt Lanoy, wnt Nieuwe Stadt’) 23-11-1637, otr. 28-12-1613 (get. Judith Amory haar (stief-)moeder) Davidt de Lano, wolkammer van Leyden, get. Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+1. Mary de Bucquo, van Bondu, mog. overl./begr. (‘huisvrouw van Davidt Lanoy, wnt Nieuwe Stadt’) 23-11-1637, otr. 28-12-1613 (get. Judith Amory haar (stief-)moeder) Davidt de Lano, wolkammer van Leyden, get. Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
 
 Uit het tweede huwelijk:  
 
@@ -259,7 +259,7 @@ IIIf    Gilles de Bucquoy, geb. Tourcoing (?), overl. voor 20-01-1595, tr. Phili
 
 Uit dit huwelijk bekend:  
 1. Pierre, geb. Antwerpen ca. 1582, volgt [IVc](#ivc-pierre-de-bucquoy)  
-2. Susannetgen de Bucquoy, geb. Leiden (?) ca. 1588, mog. overl/begr. (‘hvr van Jan Karren op de Uytterste Graft’) 18-11-1622, otr. W 22-4-1611 (get. Philippote Montegny haar moeder en Cathelyne Spierings haar moeye) Jan Carret, kleermaker, van Marche bij Rijssel, get. Pierre Bonduwel en Jheremias de Bucquoy. Jan Carret is mog. overl./begr. als Jan Karre op de Uytterste Graft op 15-10-1624.  
+2. Susannetgen de Bucquoy, geb. Leiden (?) ca. 1588, mog. overl/begr. (‘huisvrouw van Jan Karren op de Uytterste Graft’) 18-11-1622, otr. W 22-4-1611 (get. Philippote Montegny haar moeder en Cathelyne Spierings haar moeye) Jan Carret, kleermaker, van Marche bij Rijssel, get. Pierre Bonduwel en Jheremias de Bucquoy. Jan Carret is mog. overl./begr. als Jan Karre op de Uytterste Graft op 15-10-1624.  
 
 ### IIIg. Olifier de Buckoy
 IIIg    Olifier de Buckoy, van Turcoyn, overl./begr. 17-01-1620, otr. 26-8-1589 (get. Abraham (moet m.i. Anthoine zijn) de Buckoy zijn vader (8)), Cathelijne Spiering, van Doornick, get. Margriet van Aelst en Marye Flaman, zuster van Cathelyna.  
