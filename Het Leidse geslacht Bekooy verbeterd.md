@@ -1,4 +1,4 @@
-# Genealogieën van Bekooy  
+# Genealogieën van Bekooy
 
 Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).  
 **De inhoud is hetzelfde gebleven**.  
@@ -7,8 +7,8 @@ Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk
 
 *Contact:*  
 ![email](email.png)
-  
-## Table of Contents  
+
+## Table of Contents
 - [Genealogieën van Bekooy](#genealogieën-van-bekooy)
   - [Table of Contents](#table-of-contents)
   - [DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN](#de-bucquoybekooyboekkooi-en-de-bucquoyde-klopper-in-leiden)
@@ -22,7 +22,7 @@ Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk
     - [IIIb. Olifier de Buquo](#iiib-olifier-de-buquo)
     - [IIIc. Pier de Bucquoy](#iiic-pier-de-bucquoy)
     - [IIId. Anthoine des Boucquois](#iiid-anthoine-des-boucquois)
-    - [IIIe. Lowijs de Buckoy](#iiie-lowijs-de-buckoy)
+    - [IIIe. Lowijs de *Buckoy*](#iiie-lowijs-de-buckoy)
     - [IIIf. Gilles de Bucquoy](#iiif-gilles-de-bucquoy)
     - [IIIg. Olifier de Buckoy](#iiig-olifier-de-buckoy)
     - [IVa. Pierre de Bucquoy](#iva-pierre-de-bucquoy)
@@ -135,30 +135,30 @@ Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk
     - [III. Jacob de Bucquoy](#iii-jacob-de-bucquoy)
   - [Referenties](#referenties)
   
-## DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN  
-  
+## DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN
+
 De geslachten A en B zijn eerder behandeld in Gens Nostra 63 (2008), pp 681 e.v.  
-  
-De naam Bekooy en de later opduikende vorm Boekkooi zijn vernederlandste afleidingen van de Noordfranse naam (de) Bucquoy. Al kort na 1580 verschenen de eerste dragers van deze Franse naam in Leiden. Het eerste huwelijk van een naamdrager is daar geboekstaafd in 1585. Bij de volkstelling van 1580 komt de naam nog niet voor. De Leidse Bucquoys waren protestanten, en de eersten waren afkomstig uit plaatsen in de naaste omgeving van Tourcoing en Rijsel (Lille). Tussen Arras en Amiens, ongeveer 20 km ten zuidwesten van  Arras, ligt een klein plaatsje Bucquoy aan de D 919 (op oudere kaarten: N 319). Hoewel men natuurlijk kan vermoeden dat hier de oorsprong van het Leidse geslacht ligt, heb ik daarvoor althans in Leiden geen aanwijzingen gevonden, en in Frankrijk heb ik geen onderzoek gedaan. Opgemerkt moet wel worden, dat (de omgeving van) Rijsel toch wel tamelijk ver van Bucquoy verwijderd is. Niettemin is er aanleiding iets nader in te gaan op een eventueel verband tussen de plaatsnaam en de geslachtsnaam.  
-  
-In de spelling Bu(c)quoy(e) komt de geslachtsnaam nog voor in België en in N-Frankrijk. Een Belgische naamdrager, E. Buquoye, deed in eigen beheer in 1980 onder de titel ‘Album Buquoy, 1071 – 1980’ een lijvig boekwerk het licht zien, dat o.m. aanwezig is in het CBG. In zijn overigens door fouten en omissies ontsierde werk (zie  Mededelingen van het Centraal Bureau voor Genealogie 36 (1982), nr. 4, p. 3) oppert de auteur, dat de Bekooys en hun bijna-naamgenoten in andere landen uit het oude adellijke Franse geslacht van de Graven de Bucquoy stammen. Hij baseert zich hierbij, behalve op de naam, op familie-overlevering in een Nederlandse familie, zonder daarop overigens nader in te gaan. Het plaatsje Bucquoy lag in de 16e eeuw in de invloedssfeer van de Spaanse koningen, en het was Philips II die op 20 juni 1580 het plaatsje met de naaste omgeving tot graafschap verhief. De eerste graaf werd Maximilien de Longueval. De Longuevals behoorden tot een oud geslacht van lage adel (Seigneurs of Heren). Na zijn verheffing tot graaf voegde Maximilien  de plaatsnaam Bucquoy aan zijn geslachtsnaam toe, en hij en zijn nakomelingen gingen verder door het leven als Longueval-(De) Bu(c)quoy. De Longueval-Bucquoys waren vrome katholieken, en trouwe dienaren van de Spaanse en later de Oostenrijkse machthebbers in de Zuidelijke Nederlanden, waar zij veelal belangrijke ambten bekleedden. Uiteindelijk volgden zij hun leenheren naar Oostenrijk-Hongarije en kwamen in de Oostenrijkse adel terecht. Op dit moment is het voortbestaan van het geslacht voor nog tenminste een generatie verzekerd. De titelopvolger, zoon van de huidige graaf, is (was ?) discjockey in München. Wat de veronderstelde adellijke afstamming van de Nederlandse Bekooys betreft (m.b.t. de Belgische en eventuele Franse Bu(c)quoys houd ik mij op de vlakte), deze meen ik naar het rijk der fabelen te moeten verwijzen. Ten eerste leefden in Leiden al Bucquoys op of zeer kort na het moment waarop de Longuevals de plaatsnaam aan hun geslachtsnaam toevoegden, en in Frankrijk zeker lang daarvoor. Alleen hierom al is een familierelatie met de Longueval-Bucquoys onwaarschijnlijk. Daarbij komt, dat de Longueval-Bucquoys gelovige, misschien wel fanatieke katholieken waren, terwijl de Leidse Bucquoys even gelovige protestanten waren.  
-  
-Opmerkelijk is, dat de immigratie van Bucquoys in Leiden in enkele golven kwam. De eerste golf vond plaats kort na 1580, en bestond (vrijwel) uitsluitend uit personen die uit Tourcoing kwamen. Er waren vrijgezelle mannen en vrouwen bij, van wie sommigen al snel in Leiden trouwden, maar ook gezinnen met kinderen die nog in Tourcoing waren geboren, en die rond 1600 of nog iets later in Leiden hun partner vonden. Het ligt voor de hand aan te nemen, dat tussen deze personen en gezinnen familiebanden bestonden, en die zijn in veel gevallen ook gevonden. Ook blijkt, dat de sommige leden van die golf een zekere welstand genoten. Er zijn verschillende documenten overgeleverd, waaruit blijkt dat bijv. voor die tijd aanzienlijke interesten op obligaties vanuit Frankrijk werden overgemaakt. Sommige nakomelingen van de eerste golf waren ook werkzaam als greinreder, wat, anders dan greinwerker, betekent dat zij zelfstandig ondernemer waren. Heel voorzichtig mag men dan besluiten, dat de eerste golf dus eerder religieuze dan economische immigranten telde. Een tweede golf kan ongeveer 1640 worden gedateerd. Deze betrof veel personen die afkomstig waren uit Bondues, Mouveaux (plaatsjes in de naaste omgeving van Tourcoing), en ‘Waterloo’ of ‘Waterleeuw’. Wat deze laatste plaats betreft, ben ik geneigd aan te nemen dat het hier het huidige Wattrelos betreft, dat eveneens dicht bij Tourcoing ligt, en niet het verderaf gelegen Waals-Brabantse Waterloo. De personen uit deze golf waren over het algemeen werkzaam als textielarbeiders, en duidelijk in minder goeden doen dan hun voorgangers. Bij hen speelde vermoedelijk een combinatie van godsdienstige en economische motieven een rol. Intussen kwamen in Leiden ook enkele Bucquoys aan uit andere plaatsen, zoals ‘Gernesy’ (Guernsey ?) en ‘Cantelbergen in Engelant’. Van hen kan ik niet met enig vertrouwen stellen, dat zij gerelateerd waren aan reeds in Leiden wonende naamgenoten. De genealogie-Bucquoy/Bekooy in Leiden valt dus, ook vanwege het ontbreken van eigen onderzoek in Frankrijk, uiteen in een aantal takken en takjes, waarvan sommige vermoedelijk wel aan elkaar verwant zijn, andere mogelijk niet. Ook de al genoemde heer E. Buquoye, die wel Frans onderzoek door een Franse naamdrager vermeldt, vindt overigens geen verbanden. Behalve naar Leiden, kwamen in het begin van de 17e eeuw ook Bucquoys naar andere plaatsen in de noordelijke Nederlanden. Zo zijn er rond 1620 meldingen in Amsterdam van huwelijken van Bucquoys die uit of via  Middelburg kwamen. De eerste Bucquoys zullen ook in Middelburg al rond 1580 zijn verschenen. Ook verschijnen in Amsterdam Bucquoys uit Antwerpen en Keulen. Aan het eind van de genealogieën heb ik een sectie ‘Gezinnen in Amsterdam’ toegevoegd. Meer nog dan in Leiden vormen de Bucquoys in Amsterdam een verzameling ‘los zand’. Ik heb de genealogieën van de Amsterdamse families (inmiddels alle reeds lang uitgestorven) slechts oppervlakkig uitgezocht, met als enig doel een eventuele familierelatie met de Leidse naamgenoten te vinden. Uit niets blijkt zo’n band. Later vinden we ook naamdragers in Delft en Rotterdam, en hier is evenmin vast te stellen, of er familiebanden met de Leidse Bucquoys bestonden. Gezien de totale omvang van de instroom van Bucquoys in de Republiek kan gesteld worden, dat al voor 1600 de naam in Noord-Frankrijk ruim verbreid was.  
-  
+
+De naam Bekooy en de later opduikende vorm Boekkooi zijn vernederlandste afleidingen van de Noordfranse naam (de) Bucquoy. Al kort na 1580 verschenen de eerste dragers van deze Franse naam in Leiden. Het eerste huwelijk van een naamdrager is daar geboekstaafd in 1585. Bij de volkstelling van 1580 komt de naam nog niet voor. De Leidse Bucquoys waren protestanten, en de eersten waren afkomstig uit plaatsen in de naaste omgeving van Tourcoing en Rijsel (Lille). Tussen Arras en Amiens, ongeveer 20 km ten zuidwesten van Arras, ligt een klein plaatsje Bucquoy aan de D 919 (op oudere kaarten: N 319). Hoewel men natuurlijk kan vermoeden dat hier de oorsprong van het Leidse geslacht ligt, heb ik daarvoor althans in Leiden geen aanwijzingen gevonden, en in Frankrijk heb ik geen onderzoek gedaan. Opgemerkt moet wel worden, dat (de omgeving van) Rijsel toch wel tamelijk ver van Bucquoy verwijderd is. Niettemin is er aanleiding iets nader in te gaan op een eventueel verband tussen de plaatsnaam en de geslachtsnaam.  
+
+In de spelling Bu(c)quoy(e) komt de geslachtsnaam nog voor in België en in N-Frankrijk. Een Belgische naamdrager, E. Buquoye, deed in eigen beheer in 1980 onder de titel ‘Album Buquoy, 1071 – 1980’ een lijvig boekwerk het licht zien, dat o.m. aanwezig is in het CBG. In zijn overigens door fouten en omissies ontsierde werk (zie Mededelingen van het Centraal Bureau voor Genealogie 36 (1982), nr. 4, p. 3) oppert de auteur, dat de Bekooys en hun bijna-naamgenoten in andere landen uit het oude adellijke Franse geslacht van de Graven de Bucquoy stammen. Hij baseert zich hierbij, behalve op de naam, op familie-overlevering in een Nederlandse familie, zonder daarop overigens nader in te gaan. Het plaatsje Bucquoy lag in de 16e eeuw in de invloedssfeer van de Spaanse koningen, en het was Philips II die op 20 juni 1580 het plaatsje met de naaste omgeving tot graafschap verhief. De eerste graaf werd Maximilien de Longueval. De Longuevals behoorden tot een oud geslacht van lage adel (Seigneurs of Heren). Na zijn verheffing tot graaf voegde Maximilien de plaatsnaam Bucquoy aan zijn geslachtsnaam toe, en hij en zijn nakomelingen gingen verder door het leven als Longueval-(De) Bu(c)quoy. De Longueval-Bucquoys waren vrome katholieken, en trouwe dienaren van de Spaanse en later de Oostenrijkse machthebbers in de Zuidelijke Nederlanden, waar zij veelal belangrijke ambten bekleedden. Uiteindelijk volgden zij hun leenheren naar Oostenrijk-Hongarije en kwamen in de Oostenrijkse adel terecht. Op dit moment is het voortbestaan van het geslacht voor nog tenminste een generatie verzekerd. De titelopvolger, zoon van de huidige graaf, is (was ?) discjockey in München. Wat de veronderstelde adellijke afstamming van de Nederlandse Bekooys betreft (m.b.t. de Belgische en eventuele Franse Bu(c)quoys houd ik mij op de vlakte), deze meen ik naar het rijk der fabelen te moeten verwijzen. Ten eerste leefden in Leiden al Bucquoys op of zeer kort na het moment waarop de Longuevals de plaatsnaam aan hun geslachtsnaam toevoegden, en in Frankrijk zeker lang daarvoor. Alleen hierom al is een familierelatie met de Longueval-Bucquoys onwaarschijnlijk. Daarbij komt, dat de Longueval-Bucquoys gelovige, misschien wel fanatieke katholieken waren, terwijl de Leidse Bucquoys even gelovige protestanten waren.  
+
+Opmerkelijk is, dat de immigratie van Bucquoys in Leiden in enkele golven kwam. De eerste golf vond plaats kort na 1580, en bestond (vrijwel) uitsluitend uit personen die uit Tourcoing kwamen. Er waren vrijgezelle mannen en vrouwen bij, van wie sommigen al snel in Leiden trouwden, maar ook gezinnen met kinderen die nog in Tourcoing waren geboren, en die rond 1600 of nog iets later in Leiden hun partner vonden. Het ligt voor de hand aan te nemen, dat tussen deze personen en gezinnen familiebanden bestonden, en die zijn in veel gevallen ook gevonden. Ook blijkt, dat de sommige leden van die golf een zekere welstand genoten. Er zijn verschillende documenten overgeleverd, waaruit blijkt dat bijv. voor die tijd aanzienlijke interesten op obligaties vanuit Frankrijk werden overgemaakt. Sommige nakomelingen van de eerste golf waren ook werkzaam als greinreder, wat, anders dan greinwerker, betekent dat zij zelfstandig ondernemer waren. Heel voorzichtig mag men dan besluiten, dat de eerste golf dus eerder religieuze dan economische immigranten telde. Een tweede golf kan ongeveer 1640 worden gedateerd. Deze betrof veel personen die afkomstig waren uit Bondues, Mouveaux (plaatsjes in de naaste omgeving van Tourcoing), en ‘Waterloo’ of ‘Waterleeuw’. Wat deze laatste plaats betreft, ben ik geneigd aan te nemen dat het hier het huidige Wattrelos betreft, dat eveneens dicht bij Tourcoing ligt, en niet het verderaf gelegen Waals-Brabantse Waterloo. De personen uit deze golf waren over het algemeen werkzaam als textielarbeiders, en duidelijk in minder goeden doen dan hun voorgangers. Bij hen speelde vermoedelijk een combinatie van godsdienstige en economische motieven een rol. Intussen kwamen in Leiden ook enkele Bucquoys aan uit andere plaatsen, zoals ‘Gernesy’ (Guernsey ?) en ‘Cantelbergen in Engelant’. Van hen kan ik niet met enig vertrouwen stellen, dat zij gerelateerd waren aan reeds in Leiden wonende naamgenoten. De genealogie-Bucquoy/Bekooy in Leiden valt dus, ook vanwege het ontbreken van eigen onderzoek in Frankrijk, uiteen in een aantal takken en takjes, waarvan sommige vermoedelijk wel aan elkaar verwant zijn, andere mogelijk niet. Ook de al genoemde heer E. Buquoye, die wel Frans onderzoek door een Franse naamdrager vermeldt, vindt overigens geen verbanden. Behalve naar Leiden, kwamen in het begin van de 17e eeuw ook Bucquoys naar andere plaatsen in de noordelijke Nederlanden. Zo zijn er rond 1620 meldingen in Amsterdam van huwelijken van Bucquoys die uit of via Middelburg kwamen. De eerste Bucquoys zullen ook in Middelburg al rond 1580 zijn verschenen. Ook verschijnen in Amsterdam Bucquoys uit Antwerpen en Keulen. Aan het eind van de genealogieën heb ik een sectie ‘Gezinnen in Amsterdam’ toegevoegd. Meer nog dan in Leiden vormen de Bucquoys in Amsterdam een verzameling ‘los zand’. Ik heb de genealogieën van de Amsterdamse families (inmiddels alle reeds lang uitgestorven) slechts oppervlakkig uitgezocht, met als enig doel een eventuele familierelatie met de Leidse naamgenoten te vinden. Uit niets blijkt zo’n band. Later vinden we ook naamdragers in Delft en Rotterdam, en hier is evenmin vast te stellen, of er familiebanden met de Leidse Bucquoys bestonden. Gezien de totale omvang van de instroom van Bucquoys in de Republiek kan gesteld worden, dat al voor 1600 de naam in Noord-Frankrijk ruim verbreid was.  
+
 Een andere opmerking van bovengenoemde heer Buquoye snijdt meer hout. Hij oppert, dat het Leidse geslacht De Klopper verwant kan zijn aan de Bucquoys. Hij baseert dat op een verwantschap van de naam Bucquoy met een oud-Frans woord, dat o.m. kloppen betekent. In een serie Franstalige dictionaires die ‘on line’ zijn in te zien vinden we, dat het werkwoord ‘buquer’ inderdaad kloppen (‘frapper’) of stoten (‘heurter’) betekent. Het woord is in onbruik geraakt, maar wordt in de 19e eeuw nog in Franse teksten gevonden. De gelijkenis met het Nederlandse werkwoord ‘beuken’, waarvan een inmiddels ook verouderde betekenis eveneens kloppen is, dringt zich op. In Nederlandse etymologische woordenboeken wordt ‘beuken’, evenals soortgelijke woorden in andere talen, beschouwd als een onomatopee (klanknabootsend woord). In Nederland is een geslacht De Klopper tot het patriciaat gaan behoren. Een korte en in details onjuiste stamboom van dit geslacht, beginnend met een Jacob Philipsz de Klopper, is te vinden in Nederland’s Patriciaat 10 (1919). In dit artikel geef ik een uitgebreidere stamboom, met aanvullingen en correcties uit diverse bronnen en eigen onderzoek. Overigens leefden al in het begin van de 17e eeuw De Kloppers in Leiden, Vlaamse immigranten (en dus Nederlandstalig, in tegenstelling tot de eerste generaties van de Bucquoys), van wie sommigen via Engeland (Sandwich) in Leiden terechtkwamen. Deze De Kloppers zijn al na enige generaties verdwenen, en van enige relatie met het hieronder beschreven patricische geslacht is mij niets gebleken. Het patricische geslacht De Klopper is m.i. uitgestorven.  
-  
+
 Naast de in de titel genoemde geslachten wordt ook oppervlakkig aandacht besteed aan de zeer waarschijnlijk niet, en zeker niet direct, verwante Bekooys in Amsterdam, en aan een aantal niet plaatsbare naamdragers.  
-  
-## GENEALOGIEËN BUCQUOY/BEKOOY/BOEK(K)OO(I,Y), LEIDEN  
-  
+
+## GENEALOGIEËN BUCQUOY/BEKOOY/BOEK(K)OO(I,Y), LEIDEN
+
 Met betrekking tot de hierna volgende genealogieën-Bucquoy/Bekooy/Boek(k)oo(i,y) moet worden opgemerkt, dat in Leiden Nederduits-Gereformeerde dopen bewaard zijn gebleven, resp. pas werden geregistreerd, vanaf 1621. Waalse dopen zijn, met kleine lacunes, bewaard sinds ongeveer 1600. Dit houdt in, dat van de kinderen van de tweede generatie, d.w.z. uit de vroegst vermelde huwelijken, geen doopgegevens beschikbaar zijn, en dat van vroeg overleden kinderen en van kinderen die ongehuwd bleven zeer weinig tot niets bekend is. Voor familierelaties in de eerste gezinnen moeten we dus terugvallen op huwelijken van de tweede generatie en doopgegevens van kinderen uit de derde generatie, zoals doopgetuigen etc. In veel gevallen, nl. waar dat onduidelijke familie-relaties kan verhelderen, zijn doop- en/of huwelijks-getuigen vermeld. Mijn maatstaf om personen op te nemen in de genealogie was, dat zij deel moesten uitmaken van een lijn van tenminste twee generaties (teruggaand of voortschrijdend). Zodoende is een aantal ‘loslopende’ figuren niet opgenomen, ook al was in sommige gevallen een (niet-lijn-)relatie met anderen die wel in de genealogie passen, aannemelijk. Niettemin heb ik de ondertrouwgegevens van deze personen wel opgenomen in een aparte sectie ‘Niet plaatsbaren’. De nummers bij die personen verwijzen naar de inschrijvingen in het Kerkelijk Ondertrouw register in Leiden. M.b.t. overlijdens is op te merken, dat vooral in de tweede helft van de 17e en in de 18e eeuw in Leiden slechts zelden overlijdensdata werden genoteerd. Meestal vindt men slechts de kalenderweek waarin de begrafenis plaatsvond. Daar waar wel een specifieke datum is vermeld, d.i. vooral in de eerste decennia van de 17e eeuw, neem ik aan dat dat de begrafenisdatum was. Tot ca. 1900 heb ik alle geboortes, huwelijken en overlijdens opgenomen. Het blijkt, dat van de geslachten A en B nog naamdragende leden leven, terwijl de geslachten C en D zijn uitgestorven. Ook de naamsvariant Boekkooi beklijft tot op heden. Deze variant wordt uitsluitend gevonden bij leden van het geslacht B.  
-  
+
 In de genealogie zijn de plaatsnamen gespeld zoals ik ze in de papieren tegenkwam. De (thans) correcte spelling volgt hier: Bondu = Bondues; Turkeng en andere varianten = Tourcoing; Rijsele, Rijssel, heet thans Lille; Movou etc. = Mouvaux; Waterloo/Waterleeuw = m.i. Wattrelos, nabij Tourcoing (dus niet het Waals-Brabantse Waterloo !). Daar waar ik vermoedelijke (dus niet in de papieren gevonden) geboorteplaatsen vermeld, met name dus bij kinderen die in het verband van hun ouderlijk gezin naar Leiden kwamen, heb ik de juiste spelling gebruikt. Wat de spelling van de toenamen betreft, heb ik de vorm gebruikt die bij de ondertrouw of (na 1811) het burgerlijk huwelijk werd gevonden. Indien bij de doop of aangifte van kinderen de spelling van de toenaam van de vader van deze vorm afweek (wat nogal eens voorkwam), is de afwijkende vorm bij de naam van het kind vermeld.  
-  
-Gebruikte afkortingen: geb./ged. = geboren/gedoopt, W/NG = Waals resp. Nederduits Gereformeerd, otr./tr. = ondertrouw/trouw, overl./begr. = overlden/begraven, wnt = woont, get. = getuige, wed/wednr. = weduwe/weduwnaar, j.m./j.d. = jongman/jongedochter, gev. = gevonden, dr/zn van = dochter/zoon van, mog./verm./wschl. =  mogelijk/vermoedelijk/waarschijnlijk, hvr. van = huisvrouw van.  
-  
+
+Gebruikte afkortingen: geb./ged. = geboren/gedoopt, W/NG = Waals resp. Nederduits Gereformeerd, otr./tr. = ondertrouw/trouw, overl./begr. = overlden/begraven, wnt = woont, get. = getuige, wed/wednr. = weduwe/weduwnaar, j.m./j.d. = jongman/jongedochter, gev. = gevonden, dr/zn van = dochter/zoon van, mog./verm./wschl. = mogelijk/vermoedelijk/waarschijnlijk, hvr. van = huisvrouw van.  
+
 # GENEALOGIEËN DE BUCQUOY/BEKOOY
-  
+
 ## A. OLIVIER (?) DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
 
 ### I. Olivier (?) de Bucquoy
@@ -173,7 +173,7 @@ De veronderstelling dat de ‘stamvader’ Olivier heette, is gebaseerd op het f
 IIa    Arnou de Bucquoys, geb. en wschl. overl. Tourcoing ca. 1530 - ca. 1585, tr. NN.  
 
 Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend, :  
-1. Elie, geb. ca. 1560/65,  volgt [IIIa](#iiia-elias-de-buko)  
+1. Elie, geb. ca. 1560/65, volgt [IIIa](#iiia-elias-de-buko)  
 2. Olivier, geb. ca. 1560/65, volgt [IIIb](#iiib-olifier-de-buquo)  
 3. Pierre, geb. ca. 1560/65, volgt [IIIc](#iiic-pier-de-bucquoy)  
 4. Jacomijne de Buco, van omtrent Rijsele, otr. 02-03-1585 (get. Anthonnis de Buco haar oom) Jan Deuterre, van Bergen in Henegouwen, get. Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet m.b.v. doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie m.i. safe. Hetzelfde geldt voor Pierre (IIa-3), bij wiens huwelijk ook oom Anthoine getuigde.  
@@ -219,7 +219,7 @@ IIIc    Pier de Bucquoy, wednr. van Turcoingen, otr. W 05-05-1600 (get. Anthony 
 
 Uit een eerder huwelijk bekend:  
 
-1. Mary de Bucquo, van Bondu, mog. overl./begr. (‘hvr van Davidt Lanoy, wnt Nieuwe Stadt’) 23-11-1637, otr. 28-12-1613 (get. Judith Amory haar (stief-)moeder) Davidt de Lano, wolkammer van Leyden, get. Charles de  Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+1. Mary de Bucquo, van Bondu, mog. overl./begr. (‘hvr van Davidt Lanoy, wnt Nieuwe Stadt’) 23-11-1637, otr. 28-12-1613 (get. Judith Amory haar (stief-)moeder) Davidt de Lano, wolkammer van Leyden, get. Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
 
 Uit het tweede huwelijk:  
 
@@ -234,8 +234,8 @@ IIId    Anthoine des Boucquois, van Tourcquoin, wschl. geb. 1566 (6), kousenbrei
 
 Uit dit huwelijk zijn geen kinderen gevonden.  
 
-### IIIe. Lowijs de Buckoy
-IIIe    Lowijs de Buckoy, van Turcoyn, overl. voor 02-08-1604, otr. 31-12-1588 (get. Antony de Buckoy zijn vader) Martijne Bodijn, van Armentiers, get.  Marya Pronye haar moeder en Antonette Bodijn haar zuster.  
+### IIIe. Lowijs de *Buckoy*
+IIIe    Lowijs de Buckoy, van Turcoyn, overl. voor 02-08-1604, otr. 31-12-1588 (get. Antony de Buckoy zijn vader) Martijne Bodijn, van Armentiers, get. Marya Pronye haar moeder en Antonette Bodijn haar zuster.  
 
 Uit dit huwelijk bekend:  
 1. Jeremy, geb. ca. 1588, volgt [IVb](#ivb-jheremias-de-bucquoy)  
@@ -266,7 +266,8 @@ IVa    Pierre du Bucquoy, W ged. 1e kwartaal 1607, wnt St.Aechtenstraet, droogsc
 
 Uit dit huwelijk:  
 1. Pierre, W ged. 26-02-1640, get. Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
-2/3.  Judith en Janneken, NG ged. 17-04-1641, get. Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+2. Judith, NG ged. 17-04-1641, get. Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+3. Janneken, NG ged. 17-04-1641, get. Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
 4. Judith, W ged. 06-09-1643, get. Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
 5. Jean, W ged. 05-03-1645, get. Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy)  
 
@@ -275,10 +276,10 @@ IVb    Jheremias de Bucquoy, geb. Leiden ca. 1588, passementwerker, overl. niet 
 
 Uit het eerste huwelijk:  
 
-1. Lowijs,  geb. 11-09-1611/W ged. 29-01-1612, overl. voor 03-04-1636 (9)  
+1. Lowijs, geb. 11-09-1611/W ged. 29-01-1612, overl. voor 03-04-1636 (9)  
 2. Martine de Bucquoy, W ged. ??-3/4/5-1614, tr. voor 1647 (?) Andries Aertsz van der Schuyren, mog. te Utrecht (10).  
 3. Jeremias, geb. 1616/17, overl. voor 1647 (?)  
-4. Jan,  NG ged. 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
+4. Jan, NG ged. 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
 
 Uit het tweede huwelijk (huwelijk en doop niet gevonden):  
 
@@ -298,11 +299,11 @@ Theunis de Bucquoy, greinwerker van Medemblik, is op 11-08-1645 op de getuigenis
 IVd    Olivier Bucquoy, herkomst niet genoemd, wnt Bredestraet, begr. 09/15-01-1667, otr. 27-9-1629 (get. Olivier Bucquoy, zijn vader) Claesgen Stockius (get. Sophia van Dilsen, haar moeder. Sophia van Dilsen otr. Paulus Stock 29-10-1598), wnt Bredestraet, geb. ca. 1605, overl. 28-10-1669,  
 
 Uit dit huwelijk, NG ged.:  
-1. Pieternella,  ged. 05-03-1631, begr. 16-04-1631  
+1. Pieternella, ged. 05-03-1631, begr. 16-04-1631  
 2. Pieternella de Bucquoy, ged. 25-08-1632, wnt Bredestraet, begr. 02/08-09-1668, otr. 10-8-1656 Niclaes van Campen, wnt Marckt, koopman.  
-(Nicolaes van Campen, wednr. Petronella Bucquoy, wnt Bredestraet, otr. 19-3-1670 Susanna de Hoorn, wed. Dirck van  Assendelft, wnt Nieuwen Rijn. De broer van de man is veertig in de raad.)  
-3. Anna de Bucquoy, ged. 06-09-1634, overl. 13-02-1677, otr./tr. Leiden/Leiderdorp 4/23-10-1674 Nicolaes Huyst, doop en overl. niet gev.,  wedn. Antonette Ravens, verm. zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
-4. Alyda de Bucquoy, ged. 20-03-1637, wnt Bredestraet, overl./begr. 27-01-1680, otr./tr. 15-1/4-2-1659  Symon Vliettoorn, wnt Bredestraet, apothecaris (geb. Katwijk ?) (Simon Vliethoorn, schepen van Leyden, wednr. Alida du Buquoy (!), wnt Steenschuyr, otr. W 9-5-1680 Margrieta de Quien, wnt Oude Chingel. Een broer van Simon was kapitein van de burgerij.)  
+(Nicolaes van Campen, wednr. Petronella Bucquoy, wnt Bredestraet, otr. 19-3-1670 Susanna de Hoorn, wed. Dirck van Assendelft, wnt Nieuwen Rijn. De broer van de man is veertig in de raad.)  
+3. Anna de Bucquoy, ged. 06-09-1634, overl. 13-02-1677, otr./tr. Leiden/Leiderdorp 4/23-10-1674 Nicolaes Huyst, doop en overl. niet gev., wedn. Antonette Ravens, verm. zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
+4. Alyda de Bucquoy, ged. 20-03-1637, wnt Bredestraet, overl./begr. 27-01-1680, otr./tr. 15-1/4-2-1659 Symon Vliettoorn, wnt Bredestraet, apothecaris (geb. Katwijk ?) (Simon Vliethoorn, schepen van Leyden, wednr. Alida du Buquoy (!), wnt Steenschuyr, otr. W 9-5-1680 Margrieta de Quien, wnt Oude Chingel. Een broer van Simon was kapitein van de burgerij.)  
 5. Elisabeth du Bucquoy, ged. 09-09-1639, overl. voor 07-01-1676, otr. 08-06-1667 (get. Clasyne Stockius haar moeder) Frans Vromans, ged. 12-12-1641, overl. niet gev., zn van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, wnt Bredestraet, otr. 7-1-1676 Maria Leffen, wnt Klocksteech.)  
 6. Sophia, ged. 23-01-1643, begr. 15-05-1645  
 7. Paulus, ged. 29-03-1645, begr. 25-04-1643  
@@ -310,7 +311,7 @@ Uit dit huwelijk, NG ged.:
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
-Va    Pieter Bucquoy, W ged. 26-02-1640, greinwerker, wnt St.Aechtenstraet,  overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (get. Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gev., (Franchyntge Jans, wed. Pieter du B, wnt Cleystraet. otr. 02-02-1669 Jan Roelofsz, wnt Langegraft, lakenwerker)  
+Va    Pieter Bucquoy, W ged. 26-02-1640, greinwerker, wnt St.Aechtenstraet, overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (get. Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gev., (Franchyntge Jans, wed. Pieter du B, wnt Cleystraet. otr. 02-02-1669 Jan Roelofsz, wnt Langegraft, lakenwerker)  
 
 Uit dit huwelijk:  
 1. Jeane, W ged. 05-08-1663, get. Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
@@ -337,7 +338,7 @@ Uit dit huwelijk:
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit (13).  
 
 ### Vd. Gillis Pietersz de Bucquoy
-Vd    Gillis Pietersz de Bucquoy, van Medenblick,  wnt Vrouwencamp, bij 2e huw. Kijffhoek, wolkammer, mog. begr. 13/19-04-1664 (‘(G?)Illis Bekoy, wnt b/d Lakenhal’), otr. 1) 27-7-1640 (get. Jan Caret zijn oom) Sara Crauwelaers, van Leyden (get. Judith Crauwelaers haar zuster), wnt Groenhasegraft, (overl. Medemblik 25-09-1655, verm. aan de pest, mogelijk uit L. meegenomen), otr. 2) 15-6-1656 (get. Ezechiel de Tombe zijn oom), Verronne Wartelle, van bij Rijssel,  wed. Pierre Sij, wnt Oude Singel.  
+Vd    Gillis Pietersz de Bucquoy, van Medenblick, wnt Vrouwencamp, bij 2e huw. Kijffhoek, wolkammer, mog. begr. 13/19-04-1664 (‘(G?)Illis Bekoy, wnt b/d Lakenhal’), otr. 1) 27-7-1640 (get. Jan Caret zijn oom) Sara Crauwelaers, van Leyden (get. Judith Crauwelaers haar zuster), wnt Groenhasegraft, (overl. Medemblik 25-09-1655, verm. aan de pest, mogelijk uit L. meegenomen), otr. 2) 15-6-1656 (get. Ezechiel de Tombe zijn oom), Verronne Wartelle, van bij Rijssel, wed. Pierre Sij, wnt Oude Singel.  
 
 Uit dit huwelijk:  
 1. Willemtgen, ged. 24-07-1641, get. Pieter Debucquoy, Jacob Krouwelaer, Willemtgen Dirckx en Judith Carette. Willemtgen overleed verm. (‘dochter van Gillis Bekoy, wnt Kijfhoek’) op 20-09-1655 in Medemblik, verm. aan de pest, mogelijk uit L. meegenomen.  
@@ -371,7 +372,7 @@ Uit dit huwelijk:
 
 ### VIIa. Jan Bekooy
 VIIa    Jan Bekooy, ged. 11-03-1705, kuypersknecht, otr. 05-08-1735, get. Isaac Bekooy zijn oom, Joosje van Leeuwen, doop niet gev., begr. 08/15-01-1774, dr van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
-Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel is van hen een Akte van Seclusie bekend, gedateerd 06-06-1706.  Na haar dood (begr. 19/26-02-1735) hertrouwde Leendert van Leeuwen met Maria Ruygewey (otr. 18-05-1736). Maria Ruygewey getuigde als Maria Ruygnoy bij de doop van het eerste kind Leendert van haar stiefdochter Joosje van Leeuwen en Jan Bekooy.  
+Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel is van hen een Akte van Seclusie bekend, gedateerd 06-06-1706. Na haar dood (begr. 19/26-02-1735) hertrouwde Leendert van Leeuwen met Maria Ruygewey (otr. 18-05-1736). Maria Ruygewey getuigde als Maria Ruygnoy bij de doop van het eerste kind Leendert van haar stiefdochter Joosje van Leeuwen en Jan Bekooy.  
 
 Uit dit huwelijk:  
 1. Leendert, ged. 14-10-1737, volgt [VIIIa](#viiia-leendert-bekooy)  
@@ -380,12 +381,12 @@ Uit dit huwelijk:
 4. Jan, ged. 21-04-1745, begr. 16/23-02-1754  
 
 ### VIIb. Abraham Buckooy
-VIIb    Abraham Buckooy, ged. 29-09-1711, metselaarsknecht, wnt Zijtgragt,  overl. Banda 11-06-1759, otr. 23-04-1734 Catharina Hartogh, ged. 08-06-1710, begr. 07/14-03-1778, dr van Johannes Hertige en Lysbeth Tijke.  
+VIIb    Abraham Buckooy, ged. 29-09-1711, metselaarsknecht, wnt Zijtgragt, overl. Banda 11-06-1759, otr. 23-04-1734 Catharina Hartogh, ged. 08-06-1710, begr. 07/14-03-1778, dr van Johannes Hertige en Lysbeth Tijke.  
 
 Uit dit huwelijk:  
 1. Anna Buckooy, ged. 17-02-1735, begr. 07/14-07-1804, otr. 1) 28-04-1752 Johannes Mugge, ged. 08-11-1730, straatmakersknecht, verm. begr. 03/10-07-1784, zn van Hermannus Mugge en Jannetje van Hoecken, otr. 2) 20-03-1778 Bart Gonsaal, ged. 12-03-1724, begr. 16/23-07-1791, wednr. Suzanne van Barte, zn van Bartholomeus Gansal en Grietje de Broeder.  
 2. Elisabeth Buqooy, ged. 17-03-1737, overl. 09-01-1815, otr. 18-03-1768 Hendrik Mulhovius, ged. 19-09-1734, greinwerker, begr. 05/12-10-1799, zn van Pieter Mulhovius en Maria Veering.  
-3. Isaac, ged. 13-09-1739  volgt [VIIIb](#viiib-isaac-bekooy)  
+3. Isaac, ged. 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy)  
 4. Catharina Bucquoy, ged. 03-06-1742, overl./begr. 19/23-04-1813, otr.1)16-12-1763 Claas Boom, ged. 14-12-1729, wolkammersknecht, begr. 18/25-08-1770, zn van Abraham Boom en Magdalena Tijken, otr. 2) 15-05-1772 Abraham van Putten, ged. 02-02-1744, warmoeziersknecht, begr. 03/10-08-1805, zn van Johannes van der Putten en Jannetje van den Dop, otr/tr 3) 28-08/12-09-1807 Jan van Leeuwen, leeft nog 19-04-1813, wednr. Styntje van Engelen.  
 5. Geertruy Bekooy, ged. 30-12-1744, begr. 10/17-10-1778, otr. 04-06-1773 Willem Kloek, ged. 04-11-1751, mandemakersknecht, overl. na 1811 (niet gev.), zn van Pieter Kloek en Marytje Malie (= Mahieu).  
 6. Johannes, ged. 14-06-1747  
@@ -415,7 +416,7 @@ Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, wed. Frans van 
 6. Arnoldus, ged. 22-11-1772  
 
 ### VIIIc. Abraham Bekooy
-VIIIc    Abraham Bekooy, ged. 30-11-1749, metselaarsknecht, overl. 04-02-1815, otr. 22-04-1774 Anna Mulhovius, ged. 18-12-1748,  overl. 06-03-1818, dr van Pieter Mulhovius en Maria Schrijver (Veering ??).  
+VIIIc    Abraham Bekooy, ged. 30-11-1749, metselaarsknecht, overl. 04-02-1815, otr. 22-04-1774 Anna Mulhovius, ged. 18-12-1748, overl. 06-03-1818, dr van Pieter Mulhovius en Maria Schrijver (Veering ??).  
 
 Uit dit huwelijk:  
 1. Catharina Bekooy, ged. 12-03-1775, overl. 06-01-1841, otr. 12-08-1796 Jacobus van Dissel, lakenwerker, mog. ged. 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overl. 10-09-1814  
@@ -471,7 +472,7 @@ Uit dit huwelijk:
 4. Johanna Catharina, geb. 16-01-1825, overl. 15-12-1835  
   
 ### IXe. Hendrik Bekooy
-IXe    Hendrik Bekooy, ged. 08-07-1792, metselaar, overl. 17-04-1874, tr. 28-10-1812  Geertruy Johanna de Nobel, ged. 23-10-1791, overl. 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
+IXe    Hendrik Bekooy, ged. 08-07-1792, metselaar, overl. 17-04-1874, tr. 28-10-1812 Geertruy Johanna de Nobel, ged. 23-10-1791, overl. 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
 
 Uit dit huwelijk:  
 1. Abraham Bekooy, geb. 08-01-1813, overl. 04-02-1893  
@@ -483,11 +484,11 @@ Uit dit huwelijk:
 7. Isaac, geb. 02-04-1826  
 
 ### Xa. Johannes Bekooy
-Xa    Johannes Bekooij, ged. 29-05-1796, daggelder, overl. 21-11-1879,  tr. 07-06-1832 Margaretha van Tongeren, geb./ged. 18-02-1808, overl. tot 1940 niet in Leiden gev., dr van Jacobus van Tongere en Sijtje de Gunst.  
+Xa    Johannes Bekooij, ged. 29-05-1796, daggelder, overl. 21-11-1879, tr. 07-06-1832 Margaretha van Tongeren, geb./ged. 18-02-1808, overl. tot 1940 niet in Leiden gev., dr van Jacobus van Tongere en Sijtje de Gunst.  
 
 Uit dit huwelijk:  
 1. Johannes, geb. 18-06-1836, overl. 18-01-1837  
-2. Sijtje Bekooy, geb. 30-04-1838, overl. 24-12-1913, tr. 23-12-1874  Izaak Cornet, geb. 09-03-1843, sjouwer, overl. 10-08-1914, zn van Izaak Theodorus en Catharina Frankhuizen.  
+2. Sijtje Bekooy, geb. 30-04-1838, overl. 24-12-1913, tr. 23-12-1874 Izaak Cornet, geb. 09-03-1843, sjouwer, overl. 10-08-1914, zn van Izaak Theodorus en Catharina Frankhuizen.  
     - Natuurlijke dochter: Elisabeth, geb. 21-05-1867, overl. 10-02-1868.  
 3. Jacobus, geb. 18-01-1841, volgt [XIa](#xia-jacobus-bekooy)  
 4. Johanna Bekooy, geb. 02-12-1843, overl. 06-03-1931, tr. 08-05-1863 Gerrit de Boer, arbeider, geb. 22-01-1837, overl. 25-04-1899, zn van Johannes en Pieternella Jacoba Hanselaar.  
@@ -549,13 +550,13 @@ XIb    Bartholomeus Bekooy, geb. 18-05-1838, overl. 11-09-1902, tr. 21-08-1867 M
 
 Uit dit huwelijk:  
 1. Maria Margaretha Bekooy, geb. 23-06-1867 (bij huw. erkend), overl. 17-05-1935, tr. 09-05-1900 Johannes Gijsenij, geb. 27-12-1866, huisschilder, zn van Andries Gijsenij en Maria Cinjee.  
-2. Helena Bekooy, geb. 07-02-1869, dienstbode, overl. 25-12-1934, tr. 13-11-1889  Karel Jacobus Philippus Boon, geb. 23-12-1868, metselaar, overl. 30-12-1917, zn van Jan Boon en Johanna Hendrica Cinjee.  
+2. Helena Bekooy, geb. 07-02-1869, dienstbode, overl. 25-12-1934, tr. 13-11-1889 Karel Jacobus Philippus Boon, geb. 23-12-1868, metselaar, overl. 30-12-1917, zn van Jan Boon en Johanna Hendrica Cinjee.  
 3. Johanna Gijsberta Jannetje, geb. 23-08-1871, overl. 23-12-1876  
 4. Catharina Wilhelmina Bekooy, geb. 23-03-1873, overl. 21-03-1948, tr. 1) 08-08-1894 Jan Dirk Hoogervorst, geb. Zoeterwoude 09-08-1870, kuiper, overl. 28-06-1896, zn van Arie Hoogervorst en Neeltje van Elk, tr. 2) 26-04-1899 Izaak van de Nadort, geb. Strijen 29-01-1867, tramconducteur, zn van Dirk en Maria Andeweg, tr. 3) 04-07-1910 Nicolaas van Leeuwen, overl. niet gev.  
 5. Johannes Antonius, geb. 30-06-1875, overl. 07-03-1876  
 
 ### XIc. Pieter Albertus Bekooy
-XIc    Pieter Albertus Bekooy, geb. 31-05-1864, smid, overl.,  tr. 15-05-1895 Cornelia van Sluys, geb. Leeuwarden 14-10-1874, overl., dr vanSein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in GenLias. De Leidse trouwakte geeft ‘Leen’.  
+XIc    Pieter Albertus Bekooy, geb. 31-05-1864, smid, overl., tr. 15-05-1895 Cornelia van Sluys, geb. Leeuwarden 14-10-1874, overl., dr vanSein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in GenLias. De Leidse trouwakte geeft ‘Leen’.  
 
 Uit dit huwelijk:  
 1. Pieter, geb. 16-05-1896  
@@ -626,14 +627,14 @@ Uit dit huwelijk, W ged.:
 \* De kinderen 1 t/m 3 en 6 zijn overleden voor 08-09-1670 (16).  
 
 ### IIIb. Gerard du Bucquoy
-IIIb (S 22)    Gerard du Bucquoy, van Bondu, overl. kort voor 25-10-1683 (17), wnt Langegraft, greinwerker, otr. W 16-8-1664 (get. Walram de Bucquoy zijn vader) Lysbet Jenot, geb./W ged/ 21/27-04-1642, wnt Corte Scheystraet,  dr van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, wednr. Anthoneth Tjeers, wnt Gorstestraet, otr. W 25-10-1683 Lysbeth Jenoth, wed. Gerard du Bucquoy, wnt Gorstestraet)  
+IIIb (S 22)    Gerard du Bucquoy, van Bondu, overl. kort voor 25-10-1683 (17), wnt Langegraft, greinwerker, otr. W 16-8-1664 (get. Walram de Bucquoy zijn vader) Lysbet Jenot, geb./W ged/ 21/27-04-1642, wnt Corte Scheystraet, dr van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, wednr. Anthoneth Tjeers, wnt Gorstestraet, otr. W 25-10-1683 Lysbeth Jenoth, wed. Gerard du Bucquoy, wnt Gorstestraet)  
 
 Uit dit huwelijk:  
 1. Walran, W ged. 15-07-1665, get. Walran des Bucquoy, Guilbert Derveau, Antoniette Seteuille et Elisabeth Bailler. Volgt [IVa](#iva-walran-warnaar-de-bucquoy)  
 2. Elizabeth, W ged. 03-07-1669 (get. Jean de Buquoy, Jean Cathe, Peironne Derveau et Catherine Jenote), overl. voor 25-10-1683.  
 3. Anthoine, geb./W ged. 24/26-08-1671 (get. Huber de Buquoy, Anthoine de Buquoy, Marie Genote et Elizabeth de Rurau), overl. voor 25-10-1683  
 4. Suzane de Bucquoy, geb./W ged. 7/10-09-1673 (get. Anthoine de Bucquoy, Marie Schenote, Ester Schenote), wnt Binnenvestgraft bij de Rijnstraet, otr. 25-11-1700 (get. Marytje van Diest haar schoonzuster) Abraham Duchoswaer, greijnwercker, wnt Nieuwe Levendael.  
-5. Gerard, geb./W ged.  22-05-1676 (get. Louys Gloslain, Jehanne Dervaux.  
+5. Gerard, geb./W ged. 22-05-1676 (get. Louys Gloslain, Jehanne Dervaux.  
 6. Pierre, geb./W ged. 22/26-03-1679, get. Pierre Genot, Judith Janse et Elisabeth Dervaux), overl. voor 25-10-1683.  
 
 Op 25-10-1683 worden Pieter Anthonisz, bierdrager, en Anthony Bucquoy, greinwerker, voogd gesteld over Warnaer, 18 j, en Susanna, 10 j, nagelaten kinderen van Gerrit de Bucquoy bij Elisabeth Jennot (17).  
@@ -655,10 +656,10 @@ Uit dit huwelijk:
 3. Abram (18), W ged. 21-10-1668, get. Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
 4. Maria de Bekoy, geb./W ged. 24/26-06-1672 (get. Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begr. 02/09-07-1740, otr 30-5-1698 (get. Sara de Bekoy haar zuster) Johannes la Louw, overl. voor 02/09-07-1740, greinwerker van L., get. Abraham la Louw zijn broeder.  
 
-Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, wnt in de Scheystraat. Zij prelegateert aan haar dochter Jeanne Cottiny en haar drie andere kinderen Sara, Abram en Marie de Bucquoy bedragen van rond 1000  glds en benoemt Abraham la Lau, Jean la Lau en Jean Houwel tot executeurs-testamentair. De akte is merkwaardigerwijs in het Frans. Zou deze in redelijke welstand verkeerd hebbende dame zich te groot hebben gevoeld om, na ruim 40 jaar in Holland te hebben gewoond, de taal te spreken? De executie vangt aan op 05-03-1704 (18).  
+Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, wnt in de Scheystraat. Zij prelegateert aan haar dochter Jeanne Cottiny en haar drie andere kinderen Sara, Abram en Marie de Bucquoy bedragen van rond 1000 glds en benoemt Abraham la Lau, Jean la Lau en Jean Houwel tot executeurs-testamentair. De akte is merkwaardigerwijs in het Frans. Zou deze in redelijke welstand verkeerd hebbende dame zich te groot hebben gevoeld om, na ruim 40 jaar in Holland te hebben gewoond, de taal te spreken? De executie vangt aan op 05-03-1704 (18).  
 
 ### IIIe. Jan de Bucquoy
-IIIe (T 200v)    Jan de Bucquoy, van Bondu, wnt Dieffsteech, greinreder, otr. 28-11-1669 (get. Philps de Bucqoy zijn broeder) Elysabeth  Hallius, van Leyden, wnt Dieffsteech.  
+IIIe (T 200v)    Jan de Bucquoy, van Bondu, wnt Dieffsteech, greinreder, otr. 28-11-1669 (get. Philps de Bucqoy zijn broeder) Elysabeth Hallius, van Leyden, wnt Dieffsteech.  
 
 Uit dit huwelijk:  
 1. Jan, NG ged. 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), get. Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
@@ -666,10 +667,10 @@ Uit dit huwelijk:
 ### IVa. Walran (Warnaar) de Bucquoy
 IVa    Walran (Warnaar) de Bucquoy, W ged. 15-07-1665, greynwerker opt Levendael, begr. 26-02/05-03-1735 , otr. 12-11-1694 (get. Jan Lemoine, zijn schoonvader (=stiefvader)) Maria van Diest, overl. voor 26-02-1735, weduwe van Pieter de Pree (otr. 19-10-1689)  
 
-Uit dit  huwelijk, NG ged.:  
+Uit dit huwelijk, NG ged.:  
 1. Gerrit, ged. 21-09-1695, get. Jan Le Moine, Antonette Servie, Susanna de Bucoy.  
 2. Jacobus, ged. 25-08-1697, get. Antoon de Bucooy, Maria Claas. Volgt Va  
-3. Elisabeth de Bucquoij, ged. 24-12-1699 (get. Susannetjen de Bukoij), overl. voor 18-08-1732 (voogdijstelling), otr. 26-4-1721  Abraham le Pers (= le Pair), greijnwerker, get. Jan le Pers, zijn vader.  
+3. Elisabeth de Bucquoij, ged. 24-12-1699 (get. Susannetjen de Bukoij), overl. voor 18-08-1732 (voogdijstelling), otr. 26-4-1721 Abraham le Pers (= le Pair), greijnwerker, get. Jan le Pers, zijn vader.  
 4. Gerrit, ged. 13-05-1703  
   
 ### Va. Jacobus de Bucquoy
@@ -683,7 +684,7 @@ Uit dit huwelijk:
 3. Jakob, ged. 22-02-1729, volgt [VIb](#vib-jacob-bekooy)  
 
 ### VIa. Warnaar Bekooy
-VIa    Warnaar Bekooy, ged. 28-05-1726, greinwerker, begr. 26-12-1789/02-01-1790, otr. 10-04-1751  Dina Nikasie, RK ged. 03-03-1729 (? Op de vermelde doopdatum wordt de naam gegeven als Hendrica; de andere dochters van het ouderpaar heetten Anna en Maria), verm. overl. tussen 21-11-1783 (laatste getuigenis, bij huwelijk van dochter Johanna) en 07-12-1787 (huwelijk dochter Dina, waarbij zij niet meer aanwezig was), dr van Gillis (Aegidius) Nicasie en Anna van der Velde. Dina Nikasie komt in enkele doopinschrijvingen van haar kinderen en bij optredens als getuige voor als La(c)kasje, Lakatie, Lackarie.  
+VIa    Warnaar Bekooy, ged. 28-05-1726, greinwerker, begr. 26-12-1789/02-01-1790, otr. 10-04-1751 Dina Nikasie, RK ged. 03-03-1729 (? Op de vermelde doopdatum wordt de naam gegeven als Hendrica; de andere dochters van het ouderpaar heetten Anna en Maria), verm. overl. tussen 21-11-1783 (laatste getuigenis, bij huwelijk van dochter Johanna) en 07-12-1787 (huwelijk dochter Dina, waarbij zij niet meer aanwezig was), dr van Gillis (Aegidius) Nicasie en Anna van der Velde. Dina Nikasie komt in enkele doopinschrijvingen van haar kinderen en bij optredens als getuige voor als La(c)kasje, Lakatie, Lackarie.  
 
 Uit dit huwelijk:  
 1. Rachel Bekooy, ged. 15-07-1751, overl. 27-12-1816, otr. 1) 08-05-1773 Mattheus Wesselius, ged. 02-02-1749, greindroger, begr. 27-09/04-10-1777, zn van Willem Verselis (Wesselius) en Judith Cornilje, otr. 2) 14-07-1780 Matthijs Ouderkerk, ged. ? , begr. 15/22-05-1802, wednr. Jannetje van der Star, zn van Johannes Ouderkerk en ??..  
@@ -719,13 +720,13 @@ Uit dit huwelijk:
 4. Jakobus, ged. 23-07-1783, volgt [VIIIa](#viiia-jacobus-bekooy)  
 5. Warnaart, ged. 30-10-1785, overl./begr. 28-10/01-11-1809  
 6. Jan, ged. 27-05-1787, begr. 20/27-03-1790  
-7. Alida Dina Bukkoy, ged. 02-07-1789, overl. 23-11-1871, tr. 7-9-1820  (Johannes) Willem Laterveer, ged. 14-1-1798, vachtbloter, overl. 9-4-1869,  zn van  Johannes Laterveer en Elisabeth Maas.  
+7. Alida Dina Bukkoy, ged. 02-07-1789, overl. 23-11-1871, tr. 7-9-1820 (Johannes) Willem Laterveer, ged. 14-1-1798, vachtbloter, overl. 9-4-1869, zn van Johannes Laterveer en Elisabeth Maas.  
 8. Jan, ged. 27-02-1791, volgt [VIIIb](#viiib-jan-boekooy)  
 9. Gerrit, ged. 28-08-1793, volgt [VIIIc](#viiic-gerrit-boekooy)  
 10. Antony, ged. 15-11-1795, volgt [VIIId](#viiid-anthony-boekkoij)  
 
 ### VIIb. Anthony Bekooy
-VIIb    Anthony Bekooy, ged. 08-10-1752, lakenwerker, overl./begr. 19/21-03-1814, otr. 22-04-1777 Johanna van Riet, ged.10-12-1750, overl./begr. 12/16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B.  Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel !  
+VIIb    Anthony Bekooy, ged. 08-10-1752, lakenwerker, overl./begr. 19/21-03-1814, otr. 22-04-1777 Johanna van Riet, ged.10-12-1750, overl./begr. 12/16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel !  
 
 Uit dit huwelijk:  
 1. Kaatje Bekooy, ged. 26-04-1778, spinster, overl. 09-04-1857, otr./tr. 1)(als Caatje Peut) 20-07/02-08-1804 Jan Overduyn, overl. 24-10-1808, wednr. Anna van der Voorde(n) (otr. 16-07-1757), tr. 2) 23-08-1827 Jacobus Scheffer, Elu ged. 14-07-1756, kleermaker, overl. 21-04-1846, wednr. Jacoba de Haas, zn.v. Johan Valentin Scheffer en Pieternelletje van Tilburg  
@@ -735,17 +736,17 @@ Uit dit huwelijk:
 5. Jacob, geb./ged. 4/5-09-1786, volgt [VIIIe](#viiie-jacob-bekooy)  
 6. Pieter, ged. 28-10-1788, volgt [VIIIf](#viiif-pieter-bekooy)  
 7. Abraham Johannes, ged. 17-02-1791, volgt [VIIIg](#viiig-abraham-johannes-bekooy)  
-x.  Hendrica (onecht),  ged. 11-05-1785, m. Hendrikje Lakoert  
+x. Hendrica (onecht), ged. 11-05-1785, m. Hendrikje Lakoert  
 
 ### VIIc. Jacobus Bekooy
-VIIc    Jacobus Bekooy, ged. 24-02-1760, vachteblotersknegt,  overl. 24-03-1836, otr. 02-06-1780 Hester Baas, ged. 27-08-1761, overl. 23-08-1836, dr van Cornelis Pieterse Baas en Geertje Moree.  
+VIIc    Jacobus Bekooy, ged. 24-02-1760, vachteblotersknegt, overl. 24-03-1836, otr. 02-06-1780 Hester Baas, ged. 27-08-1761, overl. 23-08-1836, dr van Cornelis Pieterse Baas en Geertje Moree.  
 
 Uit dit huwelijk:  
 1. Japik, ged. 17-09-1780, volgt [VIIIh](#viiih-japik-jacob-bekooy)  
 2. Geertruy Bekooy, ged. 31-01-1782, overl. 05-12-1864, otr/tr 20-12-1810/05-01-1811 Denys van der Blom, ged. 29-06-1783, dekenkaarter, overl. 06-09-1853, zn van Willem van der Blom en Lena Hennik.  
 Voorkind van Geertruy: Jacoba Bekooy, ged. 22-12-1805, overl. 26-11-1869, tr. 14-12-1826 Salomo den Os, ged. 29-12-1803, overl. 05-05-1856, zn van Dirk den Os en Hendrika Vasseur.  
 3. Catharina Bekooy, ged. 16-07-1783, overl. 13-03-1874, otr. 25-02-1803 Willem Regeer, ged. 07-06-1780,lakenwerker, overl. 16-09-1832, zn van Willem Regeer en Neeltje Ket.  
-4. Rachel Bekooy, ged. 23-04-1785, overl. 02-11-1865, otr./tr. 17-05/02-06-1810 Huybert van der Walle,  ged. 16-04-1772, pruikmakersknecht, overl. 02-01-1854, wednr. Anna van der Linden, zn van  Jacobus van der Wallen en Marya Bleyleven.  
+4. Rachel Bekooy, ged. 23-04-1785, overl. 02-11-1865, otr./tr. 17-05/02-06-1810 Huybert van der Walle, ged. 16-04-1772, pruikmakersknecht, overl. 02-01-1854, wednr. Anna van der Linden, zn van Jacobus van der Wallen en Marya Bleyleven.  
 5. Jacobus, ged. 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy)  
 6. Jantje, ged. 25-02-1789  
 7. Jannetje, ged. 17-02-1791, begr. 22-02/01-03-1794  
@@ -756,11 +757,11 @@ Voorkind van Geertruy: Jacoba Bekooy, ged. 22-12-1805, overl. 26-11-1869, tr. 14
 12. Hester, ged. 10-04-1803, begr. 24-11/01-12-1804  
 
 ### VIIIa. Jacobus Bekooy
-VIIIa    Jacobus Bekooy, ged.  23-07-1783, dekenwerker, overl. 13-07-1849, otr./tr. 1) 26-07/09-08-1806 Cornelia Elisabeth Briër, ged. 11-12-1781, overl. 08-01-1813, dr van Samuel Bruijer en Elisabeth Piket, tr. 2) 21-04-1814 Judith Neuteboom, ged. 13-07-1777, spinster, overl. 14-12-1846, dr vanPieter Nooteboom en Grietje Broerlet.  
+VIIIa    Jacobus Bekooy, ged. 23-07-1783, dekenwerker, overl. 13-07-1849, otr./tr. 1) 26-07/09-08-1806 Cornelia Elisabeth Briër, ged. 11-12-1781, overl. 08-01-1813, dr van Samuel Bruijer en Elisabeth Piket, tr. 2) 21-04-1814 Judith Neuteboom, ged. 13-07-1777, spinster, overl. 14-12-1846, dr vanPieter Nooteboom en Grietje Broerlet.  
 
 Uit het eerste huwelijk:  
 
-1. Geertruy Bekooy, geb./ged. 04/08-01-1807, overl. 13-09-1856, tr. 16-09-1830 Dirk Jacobus Thiel, huisverwer, geb. 14-09-1811,  overl. t/m 1912 niet gev., zn van Jan Hendrik Tiel en Maria Wassenaar.  
+1. Geertruy Bekooy, geb./ged. 04/08-01-1807, overl. 13-09-1856, tr. 16-09-1830 Dirk Jacobus Thiel, huisverwer, geb. 14-09-1811, overl. t/m 1912 niet gev., zn van Jan Hendrik Tiel en Maria Wassenaar.  
 2. Elizabeth, geb./ged. 25/26-11-1809, overl./begr. 18/19-06-1813  
 
 Uit het tweede huwelijk:  
@@ -793,10 +794,10 @@ Uit dit huwelijk:
 8. Jannetje, geb. 20-01-1834, overl. 29-05-1850  
 9. Gerrit, geb. 10-03-1835, overl. 10-06-1835  
 10. Geertrui Boekooy, geb. 14-04-1836, overl. 26-09-1870, winkelierster, tr. 24-08-1859 Dirk Jacobus Toorens, geb. 01-12-1835, blikslager, overl. 29-07-1869, zn van Adrianus Toorens en Lena van den Berg.  
-11. Gerrit Boekooy, geb. 13-06-1840, timmerman, overl. 26-02-1911, tr. 15-08-1866  Dirkie Briejer, geb. 16-11-1839, dienstbode, overl. 09-08-1931 als wed. van Nicolaas Stiva, dr van Dirk Briejer en Johanna Lares.  
+11. Gerrit Boekooy, geb. 13-06-1840, timmerman, overl. 26-02-1911, tr. 15-08-1866 Dirkie Briejer, geb. 16-11-1839, dienstbode, overl. 09-08-1931 als wed. van Nicolaas Stiva, dr van Dirk Briejer en Johanna Lares.  
   
 ### VIIId. Anthony Boekkoij
-VIIId    Antony Boekkoij, ged. 15-11-1795, wever, overl. 09-01-1872, tr. 04-05-1820 Pieternella Stouten, ged. 01-06-1797,  overl. 30-10-1869, dr vanKlaas Stouten en Jannetje Flest.  
+VIIId    Antony Boekkoij, ged. 15-11-1795, wever, overl. 09-01-1872, tr. 04-05-1820 Pieternella Stouten, ged. 01-06-1797, overl. 30-10-1869, dr vanKlaas Stouten en Jannetje Flest.  
 
 Uit dit huwelijk:  
 1. Geertruy Bekooy, geb. 14-06-1820, tr. 20-12-1848 Christiaan Bronkhorst, geb. Haarlem 11-06-1824, schoenmaker, zn van Cornelis Bronkhorst en Maria Vermaas.  
@@ -814,7 +815,7 @@ Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet ge
 10. Antonie, (Boekkooi) geb. 29-05-1841, volgt [IXc](#ixc-antonie-boekkooi)  
   
 ### VIIIe. Jacob Bekooy
-VIIIe    Jacob Bekooy, ged. 04-09-1786, kruier, overl. 26-07-1849, tr. 1) 24-11-1813 Maria Sjardijn, ged. 30-12-1783, spinster, overl. 01-11-1832, dr van Pieter Sardijn en Maria Schootman  tr. 2) 17-10-1833 Jacoba van der Moesel, ged. 22-11-1801, visverkoopster, overl. 28-12-1863, wed. Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. J.v.d.M was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, ged. 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
+VIIIe    Jacob Bekooy, ged. 04-09-1786, kruier, overl. 26-07-1849, tr. 1) 24-11-1813 Maria Sjardijn, ged. 30-12-1783, spinster, overl. 01-11-1832, dr van Pieter Sardijn en Maria Schootman tr. 2) 17-10-1833 Jacoba van der Moesel, ged. 22-11-1801, visverkoopster, overl. 28-12-1863, wed. Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. J.v.d.M was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, ged. 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
 
 Uit het eerste huwelijk:  
 
@@ -831,15 +832,15 @@ Uit het tweede huwelijk:
 8. Jacoba Bekooy, geb. 25-10-1836, overl. 21-01-1913, tr. 12-04-1865  
 Christiaan van der Linden, geb. 18-11-1839, sjouwer, overl. 31-03-1904, zn van Christiaan en Catharina Zaalberg.  
 Voorzoons Jacoba:
-   - Jacobus, geb. 29-12-1863,  
-   - Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
+    - Jacobus, geb. 29-12-1863,  
+    - Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
 9. Abraham, geb. 22-05-1840, overl. 19-01-1843  
   
 ### VIIIf. Pieter Bekooy
 VIIIf    Pieter Bekooy, ged. 28-10-1788, baggerman, overl. 09-10-1859, tr. 09-09-1814 Margaretha Rosendaal, ged. 15-02-1795, overl. 03-09-1875, dr van Willem Rozendaal en Maria Elkerbout.  
 
 Uit dit huwelijk:  
-1. Johanna Bekooy, geb. 27-09-1814, overl. 20-10-1844, tr. 29-01-1835 Johannes Laterveer, geb./ged. 02/08-12-1811, wever, later politieagent, overl. 03-04-1880,  zn van Johannes Laterveer en Grietje van Schagen.  
+1. Johanna Bekooy, geb. 27-09-1814, overl. 20-10-1844, tr. 29-01-1835 Johannes Laterveer, geb./ged. 02/08-12-1811, wever, later politieagent, overl. 03-04-1880, zn van Johannes Laterveer en Grietje van Schagen.  
 2. Willem, geb. 28-08-1816, overl. 14-04-1820  
 3. Maria Elisabeth Bekooy, geb. 16-01-1819, dienstbode, overl. 02-09-1892, tr. 15-05-1845 Cornelis Johannes Oudshoorn, geb. 17-07-1818, warmoezier, overl. 26-02-1892, zn van Johannes Oudshoorn en Maria Cornelia van Drongen.  
 4. Sophia Wilhelmina Bekooi, geb. 09-09-1820, dienstbode, overl. 09-06-1882 als weduwe van Isaac Starre, welk huwelijk niet is gevonden.  
@@ -856,7 +857,7 @@ VIIIg    Abraham Johannes Bekooy, baggerman, ged. 17-02-1791, overl. Sloten 02-0
 
 Uit het eerste huwelijk:  
 
-1. Johanna Bekooy, geb. 24-04-1820, overl. 29-12-1903, tr. 02-05-1844  Jan Molet, geb. 22-03-1821, loodgieter, overl. 11-08-1863, zn van Arnoldus Molet en Johanna Brandse.  
+1. Johanna Bekooy, geb. 24-04-1820, overl. 29-12-1903, tr. 02-05-1844 Jan Molet, geb. 22-03-1821, loodgieter, overl. 11-08-1863, zn van Arnoldus Molet en Johanna Brandse.  
 2. Wilhelmina Hendrica Bekooy, geb. 02-07-1822, overl. 24-01-1902 als wed. van Joannes Baak (huw. niet gev.)  
 3. Thomas, geb. 07-10-1824  
 4. Abraham, geb. 07-10-1824, overl. 23-10-1824  
@@ -877,8 +878,8 @@ VIIIi    Jacobus Bekooy, ged. 30-12-1786, vagteblotersknecht, wnt Loyerstraat, o
 N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
-1. Koosje Bekooy, geb./ged. 24/27-10-1808, spinster, overl. 29-11-1840, tr. 03-09-1829 Willem Jacobus Paats, ged. 13-11-1805, dubbelaar, overl. 17-11-1859,  zn van Casparus Paats en Johanna Maria Lambooij.  
-2. Jan,  ged. 24/30-09-1810  
+1. Koosje Bekooy, geb./ged. 24/27-10-1808, spinster, overl. 29-11-1840, tr. 03-09-1829 Willem Jacobus Paats, ged. 13-11-1805, dubbelaar, overl. 17-11-1859, zn van Casparus Paats en Johanna Maria Lambooij.  
+2. Jan, ged. 24/30-09-1810  
 3. Margaretha, geb. 15-07-1812, overl./begr. 16/17-07-1812  
 4. Jacobus, geb. 11-02-1814, volgt [IXf](#ixf-jacobus-bekooy)  
 5. Johannes, geb. 10-06-1817, overl. 25-08-1817  
@@ -900,9 +901,9 @@ Willem Fucks, geb. 11-05-1817, wolkammer, overl. 16-02-1882, zn van Samuel Fucks
 5. Abraham, geb. 13-03-1826  
 6. Jannetje Bekooy, geb. 24-12-1829, overl., tr. 24-11-1858 Daniel Verhoeven, geb. 17-01-1828, sjouwer, overl., zn van Jacobus Verhoeven en Jannetje la Lau.  
 Voorkinderen Jannetje:  
-   - Jannetje, geb. –01-1851, overl. 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
-   - Jakobus, geb. eind 1856/begin 1857, overl. 13-05-1858  
-   - Jannetje Cornelia, geb. 18-09-1858, erkend bij huwelijk.  
+    - Jannetje, geb. –01-1851, overl. 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
+    - Jakobus, geb. eind 1856/begin 1857, overl. 13-05-1858  
+    - Jannetje Cornelia, geb. 18-09-1858, erkend bij huwelijk.  
 1. Arie Bekooi, geb. 24-09-1830, dekenverver, overl. aangeg. Norg/Veenhuizen 25-04-1848  
   
 ### IXa. Jacob Bekooij
@@ -916,11 +917,11 @@ Daniel Regeer, geb. 14-01-1838, wolkammer, overl. niet gev. (na 1866), zn van Da
 4. Jan, geb. 14-08-1844, overl. 02-07-1847  
 5. Johannes, geb. 18-03-1847, overl. 05-07-1847  
 6. Maria Sophia, geb. 21-07-1848, overl. 11-04-1849  
-7. Maria Sophia Bekooi, geb. 14-09-1850, tr. 10-11-1869  Pieter Kukler, wever, geb. 22-05-1851, zn van Jacobus en Pieternella Flaman. Verder bijzonderheden van de echtgenoten niet gevonden.  
+7. Maria Sophia Bekooi, geb. 14-09-1850, tr. 10-11-1869 Pieter Kukler, wever, geb. 22-05-1851, zn van Jacobus en Pieternella Flaman. Verder bijzonderheden van de echtgenoten niet gevonden.  
 8. Jan (Jacob), geb. 14-03-1856, overl. 11-01-1857  
 
 ### IXb. Warnaar Bekooy
-IXb    Warnaar Bekooy, geb. 13-11-1822, opperman, overl. 29-01-1885, otr. 1) 04-09-1852 Cornelia Kranenburg, geb. Voorschoten, overl. 18-01-1853, dr van Johannes Kranenburg en Cornelia van Beveren,  tr. 2) 19-05-1858 Maria Sardijn, geb. 12-05-1823, overl. 23-12-1893, dr van Gerrit Sardijn en Catharina Ligtvoet.  
+IXb    Warnaar Bekooy, geb. 13-11-1822, opperman, overl. 29-01-1885, otr. 1) 04-09-1852 Cornelia Kranenburg, geb. Voorschoten, overl. 18-01-1853, dr van Johannes Kranenburg en Cornelia van Beveren, tr. 2) 19-05-1858 Maria Sardijn, geb. 12-05-1823, overl. 23-12-1893, dr van Gerrit Sardijn en Catharina Ligtvoet.  
 
 Uit het tweede huwelijk:  
 
@@ -955,7 +956,7 @@ Uit dit huwelijk:
 2. Pieter, geb. 11-12-1865, overl. 12-05-1866  
 3. Jacoba Bekooy, geb. 16-07-1867, overl. 22-06-1949, tr. 23-08-1899 Pieter Bavelaar, geb. 02-12-1870, timmerman, overl. na zijn vrouw, zn van Abraham en Johanna Wilhelmina de Koning.  
 4. Elisabeth, geb. 1870, overl. 07-02-1871  
-5. Jacob Bekooy, geb. 07-02-1872, fabrieksarbeider, overl. 05-03-1934, tr. 04-10-1899  Clara Antonietta de Bruijn, geb. 11-04-1875, overl. na haar man,  dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
+5. Jacob Bekooy, geb. 07-02-1872, fabrieksarbeider, overl. 05-03-1934, tr. 04-10-1899 Clara Antonietta de Bruijn, geb. 11-04-1875, overl. na haar man, dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
 6. l.l., geb./overl. 05-08-1874  
 7. Elisabeth, geb. 13-12-1875, overl. 07-09-1882  
 8. Nicolaas, geb. 01-05-1878, overl. 06-09-1887  
@@ -965,10 +966,10 @@ Uit dit huwelijk:
 12?. Pieter, geb. 30-08-1886  
   
 ### IXe. Jacobus Bekooij
-IXe    Jacobus Bekooij, geb. 08-01-1821, sjouwer, overl. Oegstgeest 15-05-1900,  tr. 13-11-1845 Alida Mooten, dubbelaarster, geb. 27-09-1824, overl. 12-01-1914, dr van Jan Mooten en Alida Hensen.  
+IXe    Jacobus Bekooij, geb. 08-01-1821, sjouwer, overl. Oegstgeest 15-05-1900, tr. 13-11-1845 Alida Mooten, dubbelaarster, geb. 27-09-1824, overl. 12-01-1914, dr van Jan Mooten en Alida Hensen.  
 
 Uit dit huwelijk:  
-1. Jansje Bekooy, geb. 30-08-1846, overl. Oegstgeest 04-11-1915, tr. 29-05-1872  Johannes Nieuwenburg, geb. 24-04-1848, timmerman, overl. 05-06-1915, zn van Johannes en Jannetje de Wever.  
+1. Jansje Bekooy, geb. 30-08-1846, overl. Oegstgeest 04-11-1915, tr. 29-05-1872 Johannes Nieuwenburg, geb. 24-04-1848, timmerman, overl. 05-06-1915, zn van Johannes en Jannetje de Wever.  
 2. l.l., geb./overl. 27-01-1849  
 3. Jan, geb. 15-09-1850, volgt [Xb](#xb-jan-bekooy)  
 4. Gerrit, geb. 15-02-1853, overl. 26-04-1856  
@@ -986,7 +987,7 @@ Uit dit huwelijk:
 2. Willem Bekooy, geb. 28-08-1839 (gewettigd bij huw.), ongeh. overl. 30-04-1903.  
 3. Johannes, geb. 28-06-1841 (gewettigd bij huw.), volgt [Xc](#xc-johannes-bekooy)  
 4. Jan, geb. 05-02-1844, overl. 07-09-1845  
-5. Maria Bekooy, geb. 15-07-1846, overl. 30-01-1917, tr. 28-04-1869  Willem Frederik Prins, wever, geb. Den Haag 14-03-1845, overl. 06-07-1917, zn van Egbertus en Maria Cornelia van der Bent.  
+5. Maria Bekooy, geb. 15-07-1846, overl. 30-01-1917, tr. 28-04-1869 Willem Frederik Prins, wever, geb. Den Haag 14-03-1845, overl. 06-07-1917, zn van Egbertus en Maria Cornelia van der Bent.  
 6. Margaretha, geb. 18-12-1849, overl. 12-10-1859  
 7. Jan, geb. 26-04-1852, overl. 14-10-1859  
 
@@ -1005,23 +1006,23 @@ Uit dit huwelijk:
 9. Jan, geb. 01-03-1861, volgt [Xf](#xf-jan-bekooi)  
 
 ### IXh. Willem Bekooy
-IXh    Willem Bekooi, kleermaker, geb. Deventer 14-05-1823,  tr. 11-02-1857 Antje van Zijp, geb. 26-09-1837, dr van Cornelis van Zijp en Maria Christiaanse.  
+IXh    Willem Bekooi, kleermaker, geb. Deventer 14-05-1823, tr. 11-02-1857 Antje van Zijp, geb. 26-09-1837, dr van Cornelis van Zijp en Maria Christiaanse.  
 Het overlijden van Willem Bekooi en Antje van Zijp is t/m 1932 niet in Leiden gevonden.  
 
 Uit dit huwelijk:  
 1. Cornelis Bekooy, geb. 05-09-1857, tr. 11-05-1887 Maria Wilhelmina  
 Andrée, geb. 23-10-1861, naaister, overl. Heemstede 04-11-1937, dr van Johannes Petrus Nicolaas Andrée en Willemina van der Kwartel.  
 2. Johannes, geb. 07-05-1860, overl. 04-01-1861  
-3. Maria Bekooy, geb. 28-12-1861, overl. 19-08-1944, tr. 14-05-1879  Johannes Rijsbergen, geb. 30-10-1858, sigarenmaker, overl. voor zijn vrouw, zn van Johannes Reigersberg\* en Apolonia Johanna Beekman.  
+3. Maria Bekooy, geb. 28-12-1861, overl. 19-08-1944, tr. 14-05-1879 Johannes Rijsbergen, geb. 30-10-1858, sigarenmaker, overl. voor zijn vrouw, zn van Johannes Reigersberg\* en Apolonia Johanna Beekman.  
 \* Bij vonnis van de Rechtbank dd. 14-07-1873 is deze familienaam gewijzigd in Rijsbergen.  
-4. Sara, geb. 19-03-1864, overl. (3 m) 26-06-1864  
+1. Sara, geb. 19-03-1864, overl. (3 m) 26-06-1864  
 
 ### Xa. Jacob Bekooy
 Xa    Jacob Bekooy, geb. 27-07-1837, wolkammer, overl. 27-12-1881, tr. 22-04-1863 Jannetje de la Rie, geb. 22-03-1839 als Jannetje Werk, overl. 03-07-1908, dr vanAbraham de la Rie en (Sara) Johanna Maria Werk.  
 
 Uit dit huwelijk:  
-1. Jacob, geb. 10-07-1863  volgt [XIa](#xia-jacob-bekooy)  
-2. Sara Bekooy, geb. 22-12-1864, dienstbode, overl. 25-02-1945, otr. 1) 10-02-1887 (huw. niet in Leiden) Wilhelmus van de Manacker, geb. Leiden 1858/9 (niet gev.), 28 j, melkman, overl. Delft 11-12-1890, zn van Hendrikus Benedictus van de Manacker en Joanna Janssen, tr. 2) 11-10-1893  Franciscus Rietkerken, geb. 09-03-1866, werkman, overl. 07-03-1945, zn van Christiaan en Elisabeth van Klaveren.  
+1. Jacob, geb. 10-07-1863 volgt [XIa](#xia-jacob-bekooy)  
+2. Sara Bekooy, geb. 22-12-1864, dienstbode, overl. 25-02-1945, otr. 1) 10-02-1887 (huw. niet in Leiden) Wilhelmus van de Manacker, geb. Leiden 1858/9 (niet gev.), 28 j, melkman, overl. Delft 11-12-1890, zn van Hendrikus Benedictus van de Manacker en Joanna Janssen, tr. 2) 11-10-1893 Franciscus Rietkerken, geb. 09-03-1866, werkman, overl. 07-03-1945, zn van Christiaan en Elisabeth van Klaveren.  
 3. Abraham, geb. 10-03-1866, volgt [XIb](#xib-abraham-bekooy)  
 4. Maria Sophia Bekooy, geb. 10-03-1868, overl. 07-10-1935, tr. 1) 15-05-1889  Johannes Willem Teljeur, geb. 06-02-1862, koetsier, overl. voor 13-05-1896 (niet in tafel gev.), zn van Abraham Teljeur en Maria van Taarling, tr. 2) 13-05-1896 Leendert Vrij, 26 j., geb. Hellevoetsluis 1869/70, agent van politie, zn van Leendert Vrij en Jannetje Maria Spoor.  
 5. Jan, geb. 14-11-1869, volgt [XIc](#xic-jan-bekooy)  
@@ -1033,7 +1034,7 @@ Uit dit huwelijk:
 fabrieksarbeider, geb. 10-07-1878, zn van Isaac Arnoldus en Francina van Wijk.  
 
 ### Xb. Jan Bekooy
-Xb    Jan Bekooy, geb. 15-09-1850, zeemtouwer, fabrieksopzichter, overl. 23-12-1893, tr. 13-05-1874 Elisabeth Ligtvoet, geb. 26-03-1851, dienstbode, overl. 07-01-1931,  dr vanWillem Carel Ligtvoet en Johanna Elisabeth van Vliet.  
+Xb    Jan Bekooy, geb. 15-09-1850, zeemtouwer, fabrieksopzichter, overl. 23-12-1893, tr. 13-05-1874 Elisabeth Ligtvoet, geb. 26-03-1851, dienstbode, overl. 07-01-1931, dr vanWillem Carel Ligtvoet en Johanna Elisabeth van Vliet.  
 
 Uit dit huwelijk:  
 1. Alida, geb. 22-05-1875  
@@ -1043,7 +1044,7 @@ Uit dit huwelijk:
 5?  Jan, geb. 29-07-1890  
 
 ### Xc. Johannes Bekooy
-Xc    Johannes Bekooy, geb. 28-06-1841, fabriekwerker, overl. 18-05-1926,  tr. 28-06-1871 Susanna Adriana Kleijn, geb. 09-07-1849, overl. 10-10-1913, dr van Andries Kleijn en Johanna Regeer.  
+Xc    Johannes Bekooy, geb. 28-06-1841, fabriekwerker, overl. 18-05-1926, tr. 28-06-1871 Susanna Adriana Kleijn, geb. 09-07-1849, overl. 10-10-1913, dr van Andries Kleijn en Johanna Regeer.  
 
 Uit dit huwelijk:  
 1. Maria Bekooy, geb. 17-07-1872, overl. 04-01-1937, tr. 23-08-1893 Jacobus Fakkel, geb. 21-04-1871, katoenwever, overl., zn van Jacobus en Johanna Monnee.  
@@ -1104,7 +1105,7 @@ Uit dit huwelijk:
 8. Catharina, geb. 06-12-1902, overl. 18-12-1902  
   
 ### XIb. Abraham Bekooy
-XIb    Abraham Bekooy, geb. 10-03-1866, fabrieksarbeider, koopman, overl. 20-05-1935, tr. 08-05-1889  Anna Geertruida Schreuder, geb. 08-04-1865, overl. 08-04-1944, dr vanJohannes Schreuder en Anna Mulder.  
+XIb    Abraham Bekooy, geb. 10-03-1866, fabrieksarbeider, koopman, overl. 20-05-1935, tr. 08-05-1889 Anna Geertruida Schreuder, geb. 08-04-1865, overl. 08-04-1944, dr vanJohannes Schreuder en Anna Mulder.  
 
 Uit dit huwelijk:  
 1. Jacob, geb. 15-01-1890  
@@ -1184,7 +1185,7 @@ Uit dit huwelijk:
 1. Marie, W ged. 21-09-1631 (get. Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overl.  
 2. Philippe, W ged. 07-12-1632, get. Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
 3. Henri, W ged. 03-12-1634 (get. Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overl. voor 05-06-1677 (15).  
-4. Jeanne (Jannetgen) Bucquoy, W ged.12-10-1636 (get. Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, get. Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8  gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
+4. Jeanne (Jannetgen) Bucquoy, W ged.12-10-1636 (get. Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, get. Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
 5. Marie, W ged. 25-10-1638 (get. Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overl. voor 05-06-1677 (15).  
 6. Susanne du Buquoy, W ged. 21-10-1640 (get. Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), wnt Nieuwe Heeregraft, otr. W 5-11-1677 Pauls van der Poel, wednr. Aeltge Claes van Immerseel, wnt Uytterstegraft.  
 7. Jacques, geb./W. ged. 8/12-09-1641 (get. Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overl. voor 05-06-1677 (15) .  
@@ -1203,9 +1204,9 @@ Op 05-06-1677 testeert Anthony du Bucquoy, stoeldraaier op de Heeregracht, voor 
 IIIa    Philippus du Bucquoy, W ged. 07-12-1632, overl. voor 05-06-1677, wnt Oude Vest, otr. W 21-4-1661 Cathalijne du Prez, van Marvillje, wnt Gaernmarct, get. Proontgen du Prez haar zuster.  
 
 Uit dit huwelijk, W ged.:  
-1. Abraham,  ged. 08-03-1662, get. Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
-2. Philippe, ged. 14-10-1663, get.  Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
-3. Philippe,  ged. 23-11-1664, get. Anthoine de Bucquoy, Thomas de Bucquoy, Pieronne de Pré et Jeane de Bucquoy.  
+1. Abraham, ged. 08-03-1662, get. Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
+2. Philippe, ged. 14-10-1663, get. Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
+3. Philippe, ged. 23-11-1664, get. Anthoine de Bucquoy, Thomas de Bucquoy, Pieronne de Pré et Jeane de Bucquoy.  
 4. Abraham, ged. 09-01-1667, get. Jacob Cateau, Jean Cornelis van Tol (Jean Thonisz de Toeur ?), Jeane de Bucquoy, et Pieronne de Pré.  
 5. Izaac, ged. 02-12-1668, get. Henry del Bucquoy, Marc Varnié, Susanne des Bucquois, Judith de Mortier.  
 6. Marya, geb./ged. 26-01/02-02-1670, get. Abraham des Buquoi et Marc Varnie, Susanne des Buquoi et Judith de Mortie.  
@@ -1213,11 +1214,11 @@ Uit dit huwelijk, W ged.:
 8. Marya de Bucquoy, geb./ged. 05/07-06-1673 (get. Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begr. 04/11-12-1745, otr. 07-11-1698 Jacobus Vileyn, overl. wschl. na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle)  
 
 ### IIIb. Abraham du Buquoy
-IIIb    Abraham du Buquoy, W ged. 25-08-1647, greinwever, wnt Heeregraft, bij 2e huw. Doelgraft,  overl. voor 01-09-1691,  otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (wschl. ged. 07-01-1652, dr van Claes Jansz en Martgen Willems), wnt Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans  van Dyck, van Wijck bij Duyrstede,  wnt  Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, wnt Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, wnt Koepoortsgraft.)  
+IIIb    Abraham du Buquoy, W ged. 25-08-1647, greinwever, wnt Heeregraft, bij 2e huw. Doelgraft, overl. voor 01-09-1691, otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (wschl. ged. 07-01-1652, dr van Claes Jansz en Martgen Willems), wnt Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans van Dyck, van Wijck bij Duyrstede, wnt Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, wnt Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, wnt Koepoortsgraft.)  
 
 Uit het eerste huwelijk:  
 
-1. Jannetjen de Bucquoy, ged. 04-02-1681, begr. 10/17-02-1742, wnt Langegragt, otr. 20-5-1707 Abr. Beaumont, overl. voor 10/17-02-1742,  wnt Nieuwe Voldersgragt, lakenwerker, get. Jan Beaumont zijn vader.  
+1. Jannetjen de Bucquoy, ged. 04-02-1681, begr. 10/17-02-1742, wnt Langegragt, otr. 20-5-1707 Abr. Beaumont, overl. voor 10/17-02-1742, wnt Nieuwe Voldersgragt, lakenwerker, get. Jan Beaumont zijn vader.  
 2. Antony, ged. 28-10-1682, overl. voor 22-06-1686 (voogdijstelling)  
 3. Marytgen, ged. 20-09-1685  
 
@@ -1228,7 +1229,7 @@ Uit het tweede huwelijk:
 ## D. ANTHONI DE BUCQUOY EN ZIJN NAKOMELINGEN  
 
 ### I. Anthoni de Bucquoy
-I    Anthoni de Bucquoy, verm. geb. Mouveaux, overl. voor 05-11-1653 (19) tr. 1) Jacquemine le Beseu(r), overl. voor 1640,  tr. 2) Maria de Pla, overl. voor 05-11-1653 (19)  
+I    Anthoni de Bucquoy, verm. geb. Mouveaux, overl. voor 05-11-1653 (19) tr. 1) Jacquemine le Beseu(r), overl. voor 1640, tr. 2) Maria de Pla, overl. voor 05-11-1653 (19)  
 
 Uit het eerste huwelijk:  
 
@@ -1242,10 +1243,10 @@ Uit het tweede huwelijk
 5. Marie, geb. 1644, overl. voor nov. 1660 (22)  
 6. Elisabeth, geb. 1646, overl. voor nov. 1660 (22)  
 
-Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 j., Jaques, 11 j, Marie 9 j. en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is (22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 j. of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, otr. Leiden 12-02-1637 Mary le Beseu, van Movou.)  Anthoni had twee overleden halfzusters Maria en Elisabeth (19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is (21). Marie en Elisabeth zijn voor 03-11-1660 overleden (22).  
+Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 j., Jaques, 11 j, Marie 9 j. en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is (22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 j. of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, otr. Leiden 12-02-1637 Mary le Beseu, van Movou.) Anthoni had twee overleden halfzusters Maria en Elisabeth (19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is (21). Marie en Elisabeth zijn voor 03-11-1660 overleden (22).  
 
 ### IIa. Jan de Bucquoy
-IIa    Jan de  Bucquoy, geb. voor 1635, van Mouveaux, overl. kort voor 24-12-1668, wnt Gaernmarckt, greinreder, otr. W 14-11-1657 (get. Jean de Tombe zijn oom) Marya de Buff, van Leyden, (overl. kort voor 28-02-1670; voogdijstelling), wnt Maersmansteech, get. Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dr van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is wschl. niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
+IIa    Jan de Bucquoy, geb. voor 1635, van Mouveaux, overl. kort voor 24-12-1668, wnt Gaernmarckt, greinreder, otr. W 14-11-1657 (get. Jean de Tombe zijn oom) Marya de Buff, van Leyden, (overl. kort voor 28-02-1670; voogdijstelling), wnt Maersmansteech, get. Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dr van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is wschl. niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
 
 Uit dit huwelijk, NG ged.:  
 1. Johannes, ged. 29-08-1658, get. Jan de Beuf, Jan des Tombe, Aeltgen Veerem, Maria des Tombe.  
@@ -1269,7 +1270,7 @@ Uit dit huwelijk:
 (Gillis del Mare, wednr. Jeanne Cornaer, wnt St-Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, j.d. van bij Rijssel, get. haar zuster.)  
   
 - Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, wnt Middelstegraft, otr. W 30-4-1658 (get. Pierone le Bruyne haar moeder) Ooste de Rouseau, wolkammer van Tourcoigne, wnt Coddesteech.  
-Kinderen van het paar:  Anthoinette, ged. 26-02-1659, get. Elisabeth Rachon en Anne Noion; Pierre, ged. 07-04-1660, get. Philippe Celos en Judith Magin.  
+Kinderen van het paar: Anthoinette, ged. 26-02-1659, get. Elisabeth Rachon en Anne Noion; Pierre, ged. 07-04-1660, get. Philippe Celos en Judith Magin.  
 N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezinnen in Amsterdam opgenomen.  
   
 - S 197v    Jenne du Bucquoy, van bij Rijssel, otr. 14-8-1666 (get. Desabeau Reassy, haar moeder) Jaecq Loocque, wolkammer van Bergen in Henegouwen. Bij de doop van het enige gevonden kind van dit paar (Jaques, ged. 14-03-1668) getuigden o.a. Gille de Bucquoy en zijn vrouw Anna Baillian (zie hieronder). Waren Gille en Jenne broer en zuster?  
@@ -1278,14 +1279,14 @@ N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezin
   
 - T 269v    Hubert Snekou, wednr. Margriet van Arcke, wnt St.Annastraet, otr. W 13-6-1670 Anna Baeljan, wed. Gille du Bucquoy, Minnebroersgraft.  
   
-- W 12v    Jan de Bucquoy, van Hanou ,  wnd Angenietenstraet, steenhouwer, otr. W 10-8-1673 Catharyna Jans, van Ceulen, wnd Scheystraet. N.B. Zie voor een m.i. aannemelijke plaatsing de sectie ‘Gezinnen in Amsterdam’.  
+- W 12v    Jan de Bucquoy, van Hanou, wnd Angenietenstraet, steenhouwer, otr. W 10-8-1673 Catharyna Jans, van Ceulen, wnd Scheystraet. N.B. Zie voor een m.i. aannemelijke plaatsing de sectie ‘Gezinnen in Amsterdam’.  
   
-- BB187v  Elisabeth Bucquoy, wnt oude Hogewoerdt, otr. 21-8-1696 (get. Anna de Waart haar moeder) Johan Sawoerts, van St. Coli in Langendock, wnt  Oude Hogewoerdt.  
+- BB187v  Elisabeth Bucquoy, wnt oude Hogewoerdt, otr. 21-8-1696 (get. Anna de Waart haar moeder) Johan Sawoerts, van St. Coli in Langendock, wnt Oude Hogewoerdt.  
   
 - CC 7    Cornelia de Bucquoy, van Leyden, otr. 15-7-1698 (get. Anna de Waert, haar moeder) Philip Jordaen, koopman, van Avelon, get. Etien Jordaen zijn vader, wnt A’dam.  
 Zie hiervoor Delft en Rotterdam:  
-  - 31-01-1677  otr. Rotterdam Johannes de Bucquoy, wednr., wnt Delft, en Anna de Weert, j.d., geb. Delft (overigens niet gev. !), wnt Hoogstraat.  
-  - 06-02-1677  otr. Delft, Johan du Bucquoy, wednr., met Anna de Weert.  
+  - 31-01-1677 otr. Rotterdam Johannes de Bucquoy, wednr., wnt Delft, en Anna de Weert, j.d., geb. Delft (overigens niet gev. !), wnt Hoogstraat.  
+  - 06-02-1677 otr. Delft, Johan du Bucquoy, wednr., met Anna de Weert.  
   - 22-09-1678 Delft gedoopt Catarina, dr van Johan du Buquoy en Anna de Weert. Getuigen Johan de Weert en Catarina van Eenhoorn.  
   - Gezien hun ondertrouwdata kunnen de kinderen Elisabeth en Cornelia best uit het eerste huwelijk van Johannes de B. zijn. Het is onduidelijk wie de eerste echtgenote was. Misschien Elisabeth Jans: attestatie in Leiden 28-06-1671 Jan de Bucquoy en Elisabeth Jans (m/v) naar niet vermelde plaats. Een huwelijk is echter in Leiden niet gevonden, en evenmin dopen van kinderen.  
   - Kinderen van Philippe Jordan en Cornelia de Bucquoy (Becquoy):  
@@ -1295,7 +1296,7 @@ Zie hiervoor Delft en Rotterdam:
       4. Jean Philippe, geb./ged. 07-08/11-08-1706, get. Jean Cashours en Marguerite Gautier.  
   - N.B. Cornelia de Bucquoy is overleden voor 16-01-1712: 2e huw. Ph.J.  
 
-- H 224v   Pierre Bucquo, van Gernesy (Guernsey ?),  wolkammer, otr. W 27-4-1618 Margriete Martijn, van Atrecht, wed.  Pierre Poo.  
+- H 224v   Pierre Bucquo, van Gernesy (Guernsey ?), wolkammer, otr. W 27-4-1618 Margriete Martijn, van Atrecht, wed. Pierre Poo.  
   
 - L 72     Formeyn de Plancque, wednr. Mary de Bucoo, wolkammer, otr. 12-01-1635 (get. Pierre de Bucquoy in de Sliksteeg en Jacques Fiber zijn bekenden) Jenne Mosuw, van Hanouw.  
   
@@ -1307,9 +1308,9 @@ Zie hiervoor Delft en Rotterdam:
   
 - V 169v   Tousseyn de Buquoy, wednr. Marta del Beecq, wnt Nieuwe Voldersgraft, otr. 13-11-1671 Lyntge Raschal, wed. Frans le Fever.  
   
-- R 54v    Olivier del Moth, wnt St.Jacobsgraft, wolkammer, otr. 10-11-1661, (get.  Gillis del Mair, zijn a.s. zwager op de Vliet) Elysabeth Dras, wed. Gillis de Bucquoy, wnt Vliet, get. Anthonetta Battailje, haar schoonzuster.  
+- R 54v    Olivier del Moth, wnt St.Jacobsgraft, wolkammer, otr. 10-11-1661, (get. Gillis del Mair, zijn a.s. zwager op de Vliet) Elysabeth Dras, wed. Gillis de Bucquoy, wnt Vliet, get. Anthonetta Battailje, haar schoonzuster.  
   
-- X 263v   Coenraedt de Buckoy, wnt Amsterdam, koopman, otr. W 8-7-1681 Marya Mussart, van Amsterdam,  wnt Bredestraet. (N.B. Marya Mussart dr van Abraham Muysaert, geb. Amsterdam, en Marya Flaman, geb. Leiden, otr. Leiden 28-05-1658.  
+- X 263v   Coenraedt de Buckoy, wnt Amsterdam, koopman, otr. W 8-7-1681 Marya Mussart, van Amsterdam, wnt Bredestraet. (N.B. Marya Mussart dr van Abraham Muysaert, geb. Amsterdam, en Marya Flaman, geb. Leiden, otr. Leiden 28-05-1658.  
   
 ## F. DE BUCQUOY/DE KLOPPER  
   
@@ -1332,7 +1333,7 @@ Uit dit huwelijk:
 \*\* M.i. moet Filis, resp Philis hier worden gelezen als een misverstaan Felix, en niet als Philips. Zie ook de doopgetuigen bij enkele kinderen van Jaques. De consequentie is, dat de als eerste in de genealogie-De Klopper in Nederland’s Patriciaat figurerende Jacob Philipsz de Klopper in werkelijkheid Jacob Felixzn de Klopper heette.  
 
 ### III. Jacob Felixzn de Klopper  
-III    Jacob Felixzn de Klopper, W ged. 29-02-1660, boratwerker, begr.  23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, j.d. van Maastricht.  
+III    Jacob Felixzn de Klopper, W ged. 29-02-1660, boratwerker, begr. 23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, j.d. van Maastricht.  
 
 Uit het eerste huwelijk, allen NG gedoopt:  
 
@@ -1370,7 +1371,7 @@ Uit dit huwelijk, alle NG gedoopt:
 10. Johanna, ged. 17-02-1717, begr. 20/27-03-1717.  
 11. Johanna, ged. 15-05-1718, begr. 16/23-03-1720.  
 12. Anthony, ged. 14-05-1720, begr. 06/13-03-1723  
-13. Anthony, ged. 27-12-1724,  volgt [V](#v-mr-anthonie-de-klopper)  
+13. Anthony, ged. 27-12-1724, volgt [V](#v-mr-anthonie-de-klopper)  
 
 Felix de Klopper had de Leydsche Courant gekocht van de vorige eigenaar Van Huisduinen en gaf het blad voor het eerst uit op 20-11-1719 (25). Vanaf 12-07-1737 dreef hij de krant samen met zijn (nog geen 13-jarige !, noot van mij) zoon Anthony, die na de dood van zijn vader ‘alleenheerser’ werd (ongetwijfeld onder supervisie van zijn moeder, noot van mij). In 1819 was de krant nog steeds in het bezit van de familie De Klopper. Wanneer dit eigendom tenslotte eindigde, heb ik niet uitgezocht.  
 
@@ -1418,7 +1419,7 @@ VII    Dr. Paul Elzelin de Klopper, geb./ged. 09/26-10-1785, arts te De Rijp, ov
 
 Uit dit huwelijk:  
 1. Elseline de Klopper, geb. Amsterdam 23-05-1812, overl. 07-11-1843, tr. Leiden 29-10-1834 Adrianus Cornelis Hanegraaff, Rijksbetaalmeester.  
-2. Jan, geb. De Rijp 20-07-1813,  volgt [VIIIa](#viiia-mr-jan-de-klopper)  
+2. Jan, geb. De Rijp 20-07-1813, volgt [VIIIa](#viiia-mr-jan-de-klopper)  
 3. Felix, geb. De Rijp 07-11-1817, volgt [VIIIb](#viiib-mr-felix-de-klopper)  
 
 ### VIIIa. Mr. Jan de Klopper
@@ -1445,15 +1446,15 @@ Ik neem aan, dat het geslacht is uitgestorven.
 Ik heb de genealogie(en) van de Amsterdamse families (de) Bucquoy niet uitputtend onderzocht, maar slechts zover tot duidelijk was dat van directe familiebanden met de Leidse naamgenoten geen sprake was. Een klein aantal samenhangende gegevens is hieronder in de vorm van gezinnen gegeven. Voor zover niet anders vermeld, hebben alle ‘gebeurtenissen’ plaatsgevonden in Amsterdam. Een aantal losse (bijna-)naamdragers, van wie verbanden met de onderstaande families niet of slechts uiterst onzeker te leggen zijn, heb ik niet opgenomen.  
 
 ### A. NN Bucquoy
-A  NN Bucquoy, tr. (Middelburg ?) NN  
+A    NN Bucquoy, tr. (Middelburg ?) NN  
 
 Als hun kinderen zijn bekend:  
 1. Jacques, geb. Middelburg ca. 1588, volgt [I](#i-jacques-bucquoy)  
 2. Isaack Buckoy, cuyper van Middelburg, geb. ca. 1591, otr. (32 j. oud) 16-12-1623 Geertje Reyniers. Geen kinderen gevonden.  
-3. Anneken Bucquoy, geb. Middelburg ca. 1600, otr. (21 j. oud) 20-03-1621  Dirk Leefkens.  
+3. Anneken Bucquoy, geb. Middelburg ca. 1600, otr. (21 j. oud) 20-03-1621 Dirk Leefkens.  
 
 ### I. Jacques Bucquoy
-I    Jacques Bucquoy, geb. Middelburg ca. 1588, hoedenkramer, begr. Amsterdam 29-07-1630,  otr. (30 j. oud) 22-03-1618, Janneke Seys, geb. Brugge ca. 1590 (bij huw. 28 j. oud).  
+I    Jacques Bucquoy, geb. Middelburg ca. 1588, hoedenkramer, begr. Amsterdam 29-07-1630, otr. (30 j. oud) 22-03-1618, Janneke Seys, geb. Brugge ca. 1590 (bij huw. 28 j. oud).  
 
 Uit dit huwelijk bekend:  
 1. Johannes, ged.17-01-1619  
@@ -1503,7 +1504,7 @@ IIb    Pierre du Bucquoy, ged. 08-12-1661, steenhouwer, overl. na 21-04-1711, ot
 
 Uit dit huwelijk bekend:  
 1. Agatha Pieternella du Bucquoy, NG ged. 19-09-1691, otr. 25-05-1718 Levinius Vincent, van Amsterdam, wnt Haarlem.,  
-2. Alida Elisabeth du Bucquoy, NG ged.14-11-1694, otr.  25-05-1718  Daniel Nicolaas Olbers, van Stockholm.  
+2. Alida Elisabeth du Bucquoy, NG ged.14-11-1694, otr. 25-05-1718 Daniel Nicolaas Olbers, van Stockholm.  
 N.B. Beide zusters ondertrouwden op dezelfde datum !  
 3. Pieter, ged. 09-08-1697, begr. 14-10-1697  
 4. Pieter, ged. 06-08-1698  
