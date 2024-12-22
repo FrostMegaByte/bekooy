@@ -926,8 +926,7 @@ IXb    Warnaar Bekooy, geb. 13-11-1822, opperman, overl. 29-01-1885, otr. 1) 04-
 Uit het tweede huwelijk:  
 
 1. Jannetje Bekooy, geb. 18-06-1858, ongeh. overl. 05-11-1932.  
-2. Jacobus, geb. 10-04-1861  
-Jacobus Bekooy, geb. 10-04-1861, fabriekwerker, overl. 10-03-1905, tr. 20-08-1890 Jacoba van der Linden, geb. 29-04-1861, overl. 10-05-1911, dr van Johannes en Maria Schouten.  
+2. Jacobus Bekooy, geb. 10-04-1861, fabriekwerker, overl. 10-03-1905, tr. 20-08-1890 Jacoba van der Linden, geb. 29-04-1861, overl. 10-05-1911, dr van Johannes en Maria Schouten.  
 3. Catharina, geb. 16-04-1863, overl. 02-08-1865  
 4. Maria Catharina, geb. 30-11-1865  
 5. Wilhelmina, geb. 1866 ?, overl. 20-08-1873  
