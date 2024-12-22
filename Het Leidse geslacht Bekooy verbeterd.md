@@ -601,7 +601,7 @@ I    Jean (?) de Bucquoy, tr. NN
 Uit dit huwelijk bekend:  
 - Walram, volgt [IIa](#iia-walram-de-bucquoy)  
 - Philippe ?, volgt [IIb](#iib-philippe--de-bucquoy)  
-- Lysbeth de Bucquoy, overl. voor 27-04-1653, tr. Gilbert Derfeu, greinwerker. (G.D. herotr. 27-04-1653, vergezeld door zijn zwager Walran de Bucquoy (IIa), met Maria de Gardijn, wed. Pieter Barbian).  
+- Lysbeth de Bucquoy, overl. voor 27-04-1653, tr. Gilbert Derfeu, greinwerker. (Gilbert Derfeu hertr. 27-04-1653, vergezeld door zijn zwager Walran de Bucquoy ([IIa](#iia-walram-de-bucquoy)), met Maria de Gardijn, wed. Pieter Barbian).  
 
 ### IIa. Walram de Bucquoy
 IIa    Walram de Bucquoy, geb. Bondues, begr. Leiden 19-08-1669, tr. NN.  
