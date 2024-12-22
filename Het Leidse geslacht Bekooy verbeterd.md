@@ -176,7 +176,7 @@ Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend, :
 1. Elie, geb. ca. 1560/65, volgt [IIIa](#iiia-elias-de-buko)  
 2. Olivier, geb. ca. 1560/65, volgt [IIIb](#iiib-olifier-de-buquo)  
 3. Pierre, geb. ca. 1560/65, volgt [IIIc](#iiic-pier-de-bucquoy)  
-4. Jacomijne de Buco, van omtrent Rijsele, otr. 02-03-1585 (get. Anthonnis de Buco haar oom) Jan Deuterre, van Bergen in Henegouwen, get. Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet m.b.v. doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie m.i. safe. Hetzelfde geldt voor Pierre (IIa-3), bij wiens huwelijk ook oom Anthoine getuigde.  
+4. Jacomijne de Buco, van omtrent Rijsele, otr. 02-03-1585 (get. Anthonnis de Buco haar oom) Jan Deuterre, van Bergen in Henegouwen, get. Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet m.b.v. doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie m.i. safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
 
 ### IIb. Anthoine de Bucquoy
 IIb    Anthoine de Bucquoy, geb. wschl. Tourcoing ca. 1530, verm. begr. Leiden 24-03-1603, tr. NN.  
@@ -190,7 +190,7 @@ Uit dit huwelijk, verm. geb. Tourcoing, volgorde onbekend:
 6. Catryne de Bucquot, van Turquoin, mog. overl./begr. (‘hvr van Jan de Can op de Koepoortsgraft’) 27-12-1624, otr. 12-09-1587 (get. Barbe de Bucquot en Marie Casteel) Jan de Camp, van Bondue bij Rijssel.  
 7. ?Barbe de Bucquoy, begr. Leiden 25-03-1608  
 
-IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder IIIa), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
+IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder [IIIa](#iiia-elias-de-buko)), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
 
 ### IIIa. Elias de Buko
 IIIa    Elias de Buko, van Turkeng in Vlaanderen, geb. ca. 1560, overl. Leiden aan de pest 07-09-1602, otr. NG 03-08-1585 (get. Anton de Buko zijn oom) Jacomyne du Pré, van Armentiers, get. Claret du Pré haar moeder.  
@@ -199,6 +199,7 @@ Uit dit huwelijk bekend:
 1. Elie, W ged. Leiden 05-11-1600, leeft nog 30-09-1629 (3)  
 
 Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.  
+
 Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucquoy Arnoutsz een bedrag van 100 gld ter weeskamer, zijnde de opbrengst van een obligatie gedateerd 15-05-1603, op naam van ‘Elias du Bucquoy Arnouts zoons weeskint genaemt Elias’. Zij hebben het geld ontvangen van Jaspar du Pré, van Armentières. Op 15-10-1607 brengen Olivier Arnoutsz en Olivier Anthonisz nog eens resp. 140 en 340 gld, eveneens interest tot onderhoud van het kind (4). Na zijn quittering van Weesmeesters bij gelegenheid van zijn meerderjarigheid (3) wordt van Elias Jr. niets meer vernomen.  
 
 ### IIIb. Olifier de Buquo
