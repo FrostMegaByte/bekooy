@@ -355,7 +355,7 @@ Uit dit huwelijk:
 4. Tanneken Bucquoy, ged. 12-03-1649, begr. Amsterdam 03-05-1685 (als vr. van Petter Eerassemus, welk huwelijk echter niet is gevonden), woont Oude Cingel, otr. 10-3-1668 Abraham Costerus, woont Amsterdam, begr. ald. 29-08-1679. Tanneken Gillis Bucquoy ontvangt 25-03-1668 attestatie naar niet vermelde plaats, kennelijk Amsterdam.  
 5. Willem, ged. 13-03-1652.  
 
-Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr.wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
+Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr. wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
 
 ### VIa. Abraham Bukoy
 VIa    Abraham Bukoy, geb./W ged. 11/13-10-1680, tr.? (huw. niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
@@ -395,7 +395,7 @@ Uit dit huwelijk:
 1. Anna Buckooy, ged. 17-02-1735, begr. 07/14-07-1804, otr. 1) 28-04-1752 Johannes Mugge, ged. 08-11-1730, straatmakersknecht, verm. begr. 03/10-07-1784, zoon van Hermannus Mugge en Jannetje van Hoecken, otr. 2) 20-03-1778 Bart Gonsaal, ged. 12-03-1724, begr. 16/23-07-1791, wednr. Suzanne van Barte, zoon van Bartholomeus Gansal en Grietje de Broeder.  
 2. Elisabeth Buqooy, ged. 17-03-1737, overl. 09-01-1815, otr. 18-03-1768 Hendrik Mulhovius, ged. 19-09-1734, greinwerker, begr. 05/12-10-1799, zoon van Pieter Mulhovius en Maria Veering.  
 3. Isaac, ged. 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy)  
-4. Catharina Bucquoy, ged. 03-06-1742, overl./begr. 19/23-04-1813, otr.1)16-12-1763 Claas Boom, ged. 14-12-1729, wolkammersknecht, begr. 18/25-08-1770, zoon van Abraham Boom en Magdalena Tijken, otr. 2) 15-05-1772 Abraham van Putten, ged. 02-02-1744, warmoeziersknecht, begr. 03/10-08-1805, zoon van Johannes van der Putten en Jannetje van den Dop, otr/tr 3) 28-08/12-09-1807 Jan van Leeuwen, leeft nog 19-04-1813, wednr. Styntje van Engelen.  
+4. Catharina Bucquoy, ged. 03-06-1742, overl./begr. 19/23-04-1813, otr. 1)16-12-1763 Claas Boom, ged. 14-12-1729, wolkammersknecht, begr. 18/25-08-1770, zoon van Abraham Boom en Magdalena Tijken, otr. 2) 15-05-1772 Abraham van Putten, ged. 02-02-1744, warmoeziersknecht, begr. 03/10-08-1805, zoon van Johannes van der Putten en Jannetje van den Dop, otr/tr 3) 28-08/12-09-1807 Jan van Leeuwen, leeft nog 19-04-1813, wednr. Styntje van Engelen.  
 5. Geertruy Bekooy, ged. 30-12-1744, begr. 10/17-10-1778, otr. 04-06-1773 Willem Kloek, ged. 04-11-1751, mandemakersknecht, overl. na 1811 (niet gevonden), zoon van Pieter Kloek en Marytje Malie (= Mahieu).  
 6. Johannes, ged. 14-06-1747  
 7. Abram, ged. 30-11-1749, volgt [VIIIc](#viiic-abraham-bekooy)  
@@ -517,7 +517,7 @@ Het overlijden van Jannetje Gijsje Bekooy en Fredrik Richard is tot 1950 niet in
     - Natuurlijke zoon: Johannes Anthonie, geb. 21-01-1870, overl. 14-04-1871  
 
 ### Xc. Pieter Bekooy
-Xc    Pieter Bekooy, geb. 08-07-1823, overl. 19-11-1893, smid, tr. 02-09-1857 Jacoba Petronella de Cler, geb. 27-02-1828, overl. 23-05-1909, dr.v. Albertus de Cler en Wijntje Valentgoed.  
+Xc    Pieter Bekooy, geb. 08-07-1823, overl. 19-11-1893, smid, tr. 02-09-1857 Jacoba Petronella de Cler, geb. 27-02-1828, overl. 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
 
 Uit dit huwelijk:  
 1. Catharina Bekooy, geb. 03-08-1858, ongeh. overl. 16-02-1947  
@@ -734,10 +734,10 @@ Uit dit huwelijk:
 10. Antony, ged. 15-11-1795, volgt [VIIId](#viiid-anthony-boekkoij)  
 
 ### VIIb. Anthony Bekooy
-VIIb    Anthony Bekooy, ged. 08-10-1752, lakenwerker, overl./begr. 19/21-03-1814, otr. 22-04-1777 Johanna van Riet, ged.10-12-1750, overl./begr. 12/16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
+VIIb    Anthony Bekooy, ged. 08-10-1752, lakenwerker, overl./begr. 19/21-03-1814, otr. 22-04-1777 Johanna van Riet, ged. 10-12-1750, overl./begr. 12/16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
 
 Uit dit huwelijk:  
-1. Kaatje Bekooy, ged. 26-04-1778, spinster, overl. 09-04-1857, otr./tr. 1)(als Caatje Peut) 20-07/02-08-1804 Jan Overduyn, overl. 24-10-1808, wednr. Anna van der Voorde(n) (otr. 16-07-1757), tr. 2) 23-08-1827 Jacobus Scheffer, Elu ged. 14-07-1756, kleermaker, overl. 21-04-1846, wednr. Jacoba de Haas, zn.v. Johan Valentin Scheffer en Pieternelletje van Tilburg  
+1. Kaatje Bekooy, ged. 26-04-1778, spinster, overl. 09-04-1857, otr./tr. 1)(als Caatje Peut) 20-07/02-08-1804 Jan Overduyn, overl. 24-10-1808, wednr. Anna van der Voorde(n) (otr. 16-07-1757), tr. 2) 23-08-1827 Jacobus Scheffer, Elu ged. 14-07-1756, kleermaker, overl. 21-04-1846, wednr. Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
 2. Anna, ged. 13-01-1780, begr. 02-09-04-1785  
 3. Pieternelletje, ged. 11-04-1782  
 4. Antonia Bekooi, ged. 23-05-1784, overl. 13-06-1843, otr. 26-08-1808 Jan Nagelsmit, ged. 10-03-1785, opperman, overl. 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
@@ -823,7 +823,7 @@ Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet ge
 10. Antonie, (Boekkooi) geb. 29-05-1841, volgt [IXc](#ixc-antonie-boekkooi)  
   
 ### VIIIe. Jacob Bekooy
-VIIIe    Jacob Bekooy, ged. 04-09-1786, kruier, overl. 26-07-1849, tr. 1) 24-11-1813 Maria Sjardijn, ged. 30-12-1783, spinster, overl. 01-11-1832, dochter van Pieter Sardijn en Maria Schootman tr. 2) 17-10-1833 Jacoba van der Moesel, ged. 22-11-1801, visverkoopster, overl. 28-12-1863, wed. Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. J.v.d.M was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, ged. 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
+VIIIe    Jacob Bekooy, ged. 04-09-1786, kruier, overl. 26-07-1849, tr. 1) 24-11-1813 Maria Sjardijn, ged. 30-12-1783, spinster, overl. 01-11-1832, dochter van Pieter Sardijn en Maria Schootman tr. 2) 17-10-1833 Jacoba van der Moesel, ged. 22-11-1801, visverkoopster, overl. 28-12-1863, wed. Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. Jacoba van der Moesel was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, ged. 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
 
 Uit het eerste huwelijk:  
 
@@ -1192,7 +1192,7 @@ Uit dit huwelijk:
 1. Marie, W ged. 21-09-1631 (get. Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overl.  
 2. Philippe, W ged. 07-12-1632, get. Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
 3. Henri, W ged. 03-12-1634 (get. Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overl. voor 05-06-1677 (15).  
-4. Jeanne (Jannetgen) Bucquoy, W ged.12-10-1636 (get. Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, get. Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
+4. Jeanne (Jannetgen) Bucquoy, W ged. 12-10-1636 (get. Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, get. Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
 5. Marie, W ged. 25-10-1638 (get. Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overl. voor 05-06-1677 (15).  
 6. Susanne du Buquoy, W ged. 21-10-1640 (get. Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, otr. W 5-11-1677 Pauls van der Poel, wednr. Aeltge Claes van Immerseel, woont Uytterstegraft.  
 7. Jacques, geb./W. ged. 8/12-09-1641 (get. Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overl. voor 05-06-1677 (15) .  
@@ -1394,7 +1394,7 @@ Uit dit huwelijk:
 3. Felix, ged. 27-02-1763, volgt [VI](#vi-mr-felix-de-klopper)  
 4. Kornelis Johannes, ged. 07-03-1766, begr. 08/15-03-1767.  
 5. Maria Katharina, ged. 29-01-1768, begr. 19/26-11-1768  
-6. Cornelis Abraham, ged.04-04-1770, begr. 04/11-01-1772  
+6. Cornelis Abraham, ged. 04-04-1770, begr. 04/11-01-1772  
 
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
@@ -1409,14 +1409,14 @@ Uit het eerste huwelijk, W gedoopt:
 Uit het tweede huwelijk, W gedoopt:  
 
 3. Antoinette Levine, geb./ged. 23/28-10-1787  
-4. Adrienne Gertrude, geb./ged.14/19-10-1788, begr. 27-12-1794/03-01-1795  
+4. Adrienne Gertrude, geb./ged. 14/19-10-1788, begr. 27-12-1794/03-01-1795  
 5. Abraham, doop niet gevonden, begr. 15/22-05-1790  
 6. Antoine, geb./ged. 29-04/04-05-1791,  
 7. Cornelie Petronelle, geb./ged. 28-07/01-08-1792, begr. 25-08/01-09-1792  
 8. Jeanne Marie, geb./ged. 02/09-12-1793,  
 9. Adrienne Gertrude, geb./ged. 05/20-05-1795  
 10. Felix Corneille, geb./ged. 24-02/08-03-1797,  
-11. Sara Catharine, geb./ged. 31-05/15-06-1798, begr.09/16-11-1768  
+11. Sara Catharine, geb./ged. 31-05/15-06-1798, begr. 09/16-11-1768  
   
 N.B. Van de generaties VII t/m IX zijn de gegevens overgenomen uit diverse bronnen\* en niet door mij gecontroleerd!  
 \* Nederland’s Patriciaat 10 (1919), p. 188 e.v., FamilySearch (Mormonen) en diverse CD-roms van genealogische periodieken.  
@@ -1464,7 +1464,7 @@ Als hun kinderen zijn bekend:
 I    Jacques Bucquoy, geb. Middelburg ca. 1588, hoedenkramer, begr. Amsterdam 29-07-1630, otr. (30 j. oud) 22-03-1618, Janneke Seys, geb. Brugge ca. 1590 (bij huw. 28 j. oud).  
 
 Uit dit huwelijk bekend:  
-1. Johannes, ged.17-01-1619  
+1. Johannes, ged. 17-01-1619  
 2. Nicolaes, ged. 05-05-1620  
 3. Jacobus, ged. 27-12-1626  
 
@@ -1511,7 +1511,7 @@ IIb    Pierre du Bucquoy, ged. 08-12-1661, steenhouwer, overl. na 21-04-1711, ot
 
 Uit dit huwelijk bekend:  
 1. Agatha Pieternella du Bucquoy\*, NG ged. 19-09-1691, otr. 25-05-1718 Levinius Vincent, van Amsterdam, woont Haarlem.,  
-2. Alida Elisabeth du Bucquoy\*, NG ged.14-11-1694, otr. 25-05-1718 Daniel Nicolaas Olbers, van Stockholm.  
+2. Alida Elisabeth du Bucquoy\*, NG ged. 14-11-1694, otr. 25-05-1718 Daniel Nicolaas Olbers, van Stockholm.  
 3. Pieter, ged. 09-08-1697, begr. 14-10-1697  
 4. Pieter, ged. 06-08-1698  
 5. Catrina Maria, ged. 30-07-1702  
