@@ -37,17 +37,26 @@ Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucq
 
 ### IIIb. Olifier de Buquo
 IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overl./begr. 06-06-1616; voogdijstelling 17-08-1616), wednr. Joseyne Liagre, wolkammer, otr. 8-11-1602 (get. Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) Martijne du Boys, van Verlenghem bij Rijssele, wed. Anthone Monier.  
-Uit het eerste huwelijk bekend(5):  
-- Elisabeth de Bucquoy, geb. ca. 1590, otr. 1) 14-3-1614 Bernaerdt Legete, baaiwerker, van Tweyne in Henegouwen, otr. 2) 29-1-1627 Anthoni Haveyne (Avenne), wolkammer.  
+
+Uit het eerste huwelijk bekend (5):  
+
+1. Elisabeth de Bucquoy, geb. ca. 1590, otr. 1) 14-3-1614 Bernaerdt Legete, baaiwerker, van Tweyne in Henegouwen, otr. 2) 29-1-1627 Anthoni Haveyne (Avenne), wolkammer.  
+
 Uit het tweede huwelijk bekend:  
-- Judith de Bucquoy, geb. 1603(5), otr. 23-3-1626 Aman Barnyer, wolkammer van bij Valencijn.  
+
+2. Judith de Bucquoy, geb. 1603(5), otr. 23-3-1626 Aman Barnyer, wolkammer van bij Valencijn.  
+
 Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifier-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc. Pier de Bucquoy
 IIIc    Pier de Bucquoy, wednr. van Turcoingen, otr. W 05-05-1600 (get. Anthony de Bucquoy zijn oom en Samuel Mephuys (?) zijn schoonbroeder) Judick Amory, van Amarsy, get. Sjenne Amory haar zuster en Rebecca Hoene haar bekende.  
+
 Uit een eerder huwelijk bekend:  
+
 1. Mary de Bucquo, van Bondu, mog. overl./begr. (‘hvr van Davidt Lanoy, wnt Nieuwe Stadt’) 23-11-1637, otr. 28-12-1613 (get. Judith Amory haar (stief-)moeder) Davidt de Lano, wolkammer van Leyden, get. Charles de  Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+
 Uit het tweede huwelijk:  
+
 2. Jacques, W ged. 09-06-1603  
 3. Jean, W ged. mei 1605  
 4. Pierre, W ged. 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy)  
@@ -84,18 +93,22 @@ Uit dit huwelijk bekend, volgorde niet geheel bekend:
 IVa    Pierre du Bucquoy, W ged. 1e kwartaal 1607, wnt St.Aechtenstraet, droogscheerder, otr. 16-5-1639 (get. Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, wnt St-Aechtenstraet, get. Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dr van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 Uit dit huwelijk:  
 1. Pierre, W ged. 26-02-1640, get. Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
-2/3  Judith en Janneken, NG ged. 17-04-1641, get. Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+2/3.  Judith en Janneken, NG ged. 17-04-1641, get. Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
 4. Judith, W ged. 06-09-1643, get. Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
 5. Jean, W ged. 05-03-1645, get. Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy)  
 
 ### IVb. Jheremias de Bucquoy
 IVb    Jheremias de Bucquoy, geb. Leiden ca. 1588, passementwerker, overl. niet lang voor 03-04-1636(9), otr. 1)W 21-1-1611 (get. Pieter Bodeyn zijn beste vader (= grootvader) en Olivier de Bucquoy zijn oom) Proontgen van den Camere, van Turcoingen, overl. voor 03-04-1636, tr.(?) 2) Adriaentgen Cornelisdr(9).  
+
 Uit het eerste huwelijk:  
+
 1. Lowijs,  geb. 11-09-1611/W ged. 29-01-1612, overl. voor 03-04-1636(9)  
 2. Martine de Bucquoy, W ged. ??-3/4/5-1614, tr. voor 1647 (?) Andries Aertsz van der Schuyren, mog. te Utrecht(10).  
 3. Jeremias, geb. 1616/17, overl. voor 1647 (?)  
 4. Jan,  NG ged. 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
+
 Uit het tweede huwelijk (huwelijk en doop niet gevonden):  
+
 5. Cornelis, geb. 1635 (9)  
 
 ### IVc. Pierre de Bucquoy
@@ -118,8 +131,7 @@ Uit dit huwelijk, NG ged.:
 5. Elisabeth du Bucquoy, ged. 09-09-1639, overl. voor 07-01-1676, otr. 08-06-1667 (get. Clasyne Stockius haar moeder) Frans Vromans, ged. 12-12-1641, overl. niet gev., zn van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, wnt Bredestraet, otr. 7-1-1676 Maria Leffen, wnt Klocksteech.)  
 6. Sophia, ged. 23-01-1643, begr. 15-05-1645  
 7. Paulus, ged. 29-03-1645, begr. 25-04-1643  
-8. Paulina de Bucquoy, ged. 25-04-1646, overl. na 07-11-1679, maar voor 08-  
-11-1686 (hertr. 2e man), wnt Steenschuur, otr. 1) 02-03-1673 Benjamyn Muller, wednr. Judith de l’Hommel, wnt Hamburch, tr. (?) 2) Andries van Roest, bode met de roede van Leiden.  
+8. Paulina de Bucquoy, ged. 25-04-1646, overl. na 07-11-1679, maar voor 08-11-1686 (hertr. 2e man), wnt Steenschuur, otr. 1) 02-03-1673 Benjamyn Muller, wednr. Judith de l’Hommel, wnt Hamburch, tr. (?) 2) Andries van Roest, bode met de roede van Leiden.
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
@@ -229,18 +241,25 @@ Uit dit huwelijk:
 
 ### IXa. Johannes Bekooy
 IXa    Johannes Bekooy, ged. 20-12-1772, letterzettersknecht, overl. 15-01-1843 , otr. 1) 01-05-1795 Jannetje Genon, ged. 20-09-1764, overl. Leiden 07-03-1825, buitenechtelijke dr van Jan Genon en Grietje de Vink, tr. 2) Zoeterwoude 08-03-1830 Anna Elisabeth Schröders, geb. en/of RK ged. Roermond 16-05-1770, overl. 14-11-1853, wed. D. Saris, dr van Matthias Schroëders en Maria Josepha Sagers.  
-Uit het eerste huwelijk:  
+
+Uit het eerste huwelijk:
+
 1. Johannes, ged. 29-05-1796, volgt [Xa](#xa-johannes-bekooy)  
 2. Helena Margareta Bekooy, ged. 01-04-1801, ongeh. overl. 20-08-1885  
     ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader  
     Johannes, 67 j.: Johannes, geb. nov./dec. 1839, overl. 09-05-1840  
+
 Uit een relatie met Susanna Kloots (ged. 18-09-1767, overl. 31-08-1828, wed. Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
-1. Johannes Antonie, ‘onecht’, ged. 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy)  
+
+3. Johannes Antonie, ‘onecht’, ged. 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy)  
+
 N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, ged. 13-12-1770, overl. Leiden, begr. Oegstgeest 16-07-1802, zn van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 j.) en Johannes Anthonie Bekooy (koetsier, 25 j.).  
 
 ### IXb. Leonardus Gerard Bekooy
 IXb    Leonardus Gerard Bekooy, ged. 23-07-1782, kleermakersknecht, overl. 05-01-1858, wnt Spekhof, otr./tr. 1) 18-08/05-09-1810 Johanna van Meeteren, ged. 30-08-1769, overl. 15-03-1833, dr van Klaas van Meeteren en Guertje Bispink, tr. 2) 30-10-1833 Francina van der Blom, ged. 09-08-1792, overl. 06-06-1866, wed. Willem van Meeteren, dr vanCornelis van der Blom en Maria van Eijk.  
+
 Uit het tweede huwelijk:  
+
 1. Johanna Bekooy, geb. 17-01-1835, overl. 10-04-1914, tr. Marinus Jacobus Lafeber.  
 
 ### IXc. Abraham Bekooy
@@ -314,16 +333,20 @@ Uit dit huwelijk:
 
 ### XIa. Jacobus Bekooy
 XIa    Jacobus Bekooy, geb. 18-01-1841, sigarenmaker, overl. 15-10-1928, tr. 1) 27-01-1864 Elisabeth van der Reijden, geb. 27-05-1839, overl. 19-06-1872, dr vanJohannes van der Reijden en Elisabeth Bink, tr. 2) 30-04-1873 Maria van Duuren, geb. 04-09-1834, overl. 09-05-1910,  wed. Hendrik Kanbier, dr vanAdrianus van Duuren en Maria van Tongeren.  
+
 Uit het eerste huwelijk:  
+
 1. Margaretha Bekooy, geb. 05-02-1864, overl. 05-03-1920, tr. 22-08-1888 Pieter Jacobus Vervark, geb. 01-05-1864, timmerman, overl. 18-04-1902, zn van Pieter Jacobus en Cornelia van Leeuwen.  
 2. Johannes, geb. 23-12-1866, overl. 19-05-1870  
 3. Jacobus, geb. 22-12-1869, volgt [XIIa](#xiia-jacobus-bekooy)  
 4. Elisabeth, geb. 19-06-1872, overl. 09-09-1872  
+
 Uit het tweede huwelijk:  
-1. Maria Bekooy, geb. 02-05-1873, overl., tr. 28-09-1894 Willem Frederik Sommeling, geb. Geertruidenberg, 23, overl., bierbottelaar, zn van Jacob Hendrik en Geertruida Adriana van der Velden.  
-2. Johannes, geb. 19-10-1875, volgt [XIIb](#xiib-johannes-bekooy)  
-3. Jurrianus, geb. 14-11-1878  
-4. Pieter, geb. 15-09-1881, overl. 06-08-1882  
+
+5. Maria Bekooy, geb. 02-05-1873, overl., tr. 28-09-1894 Willem Frederik Sommeling, geb. Geertruidenberg, 23, overl., bierbottelaar, zn van Jacob Hendrik en Geertruida Adriana van der Velden.  
+6. Johannes, geb. 19-10-1875, volgt [XIIb](#xiib-johannes-bekooy)  
+7. Jurrianus, geb. 14-11-1878  
+8. Pieter, geb. 15-09-1881, overl. 06-08-1882  
 
 ### XIb. Bartholomeus Bekooy
 XIb    Bartholomeus Bekooy, geb. 18-05-1838, overl. 11-09-1902, tr. 21-08-1867 Maria Elisabeth le Febere, naaister, geb. 11-06-1834, overl. 03-09-1911, dr vanTheodorus Christiaan la Febere en Maria Pieket.  

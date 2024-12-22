@@ -147,19 +147,23 @@ Voorkind van Geertruy: Jacoba Bekooy, ged. 22-12-1805, overl. 26-11-1869, tr. 14
 5. Jacobus, ged. 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy)  
 6. Jantje, ged. 25-02-1789  
 7. Jannetje, ged. 17-02-1791, begr. 22-02/01-03-1794  
-7. Susanna, ged. 30-12-1792,  
-8. Jannetje Bekooy, ged. 07-12-1794, spinster, overl. 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. 24-04-1813 Gerrit Bavelaar, wever, ged. 26-03-1794, overl. 28-10-1881, zn van Johannes Bavelaar en Sara Ket.  
-9. Cornelis, ged. 22-01-1797 , volgt [VIIIj](#viiij-cornelis-bekooy)  
-10. Adriana, ged. 12-02-1800, begr. 23/30-10-1802  
-11. Hester, ged. 10-04-1803, begr. 24-11/01-12-1804  
+8. Susanna, ged. 30-12-1792,  
+9. Jannetje Bekooy, ged. 07-12-1794, spinster, overl. 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. 24-04-1813 Gerrit Bavelaar, wever, ged. 26-03-1794, overl. 28-10-1881, zn van Johannes Bavelaar en Sara Ket.  
+10. Cornelis, ged. 22-01-1797 , volgt [VIIIj](#viiij-cornelis-bekooy)  
+11. Adriana, ged. 12-02-1800, begr. 23/30-10-1802  
+12. Hester, ged. 10-04-1803, begr. 24-11/01-12-1804  
 
 ### VIIIa. Jacobus Bekooy
 VIIIa    Jacobus Bekooy, ged.  23-07-1783, dekenwerker, overl. 13-07-1849, otr./tr. 1) 26-07/09-08-1806 Cornelia Elisabeth Briër, ged. 11-12-1781, overl. 08-01-1813, dr van Samuel Bruijer en Elisabeth Piket, tr. 2) 21-04-1814 Judith Neuteboom, ged. 13-07-1777, spinster, overl. 14-12-1846, dr vanPieter Nooteboom en Grietje Broerlet.  
+
 Uit het eerste huwelijk:  
+
 1. Geertruy Bekooy, geb./ged. 04/08-01-1807, overl. 13-09-1856, tr. 16-09-1830 Dirk Jacobus Thiel, huisverwer, geb. 14-09-1811,  overl. t/m 1912 niet gev., zn van Jan Hendrik Tiel en Maria Wassenaar.  
 2. Elizabeth, geb./ged. 25/26-11-1809, overl./begr. 18/19-06-1813  
+
 Uit het tweede huwelijk:  
-1. Alida Dina Bekooy, geb. 23-07-1814, naaister, overl. 05-07-1873, tr. 31-  
+
+3. Alida Dina Bekooy, geb. 23-07-1814, naaister, overl. 05-07-1873, tr. 31-  
 07-1834 Izaak Arkeveld, geb. 18-06-1810, greinwever, overl. 15-06-1866, zn van Izaak Arkeveld en Johanna Bolstier.  
 
 ### VIIIb. Jan Boekooy
@@ -207,7 +211,9 @@ Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet ge
   
 ### VIIIe. Jacob Bekooy
 VIIIe    Jacob Bekooy, ged. 04-09-1786, kruier, overl. 26-07-1849, tr. 1) 24-11-1813 Maria Sjardijn, ged. 30-12-1783, spinster, overl. 01-11-1832, dr van Pieter Sardijn en Maria Schootman  tr. 2) 17-10-1833 Jacoba van der Moesel, ged. 22-11-1801, visverkoopster, overl. 28-12-1863, wed. Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. J.v.d.M was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, ged. 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
+
 Uit het eerste huwelijk:  
+
 1. Thomas, geb. 16-09-1814, overl./begr. 24/27-11-1814  
 2. Maria Bekooy, geb. 24-09-1815, overl. 14-11-1865, tr. 17-09-1835 Jan de Vlaam, geb. 08-08-1807, greinwever, overl. 26-09-1877, zn van Johannes de Vlaam en Hendrieka Rijkewaart.  
 3. Pieter, geb. 22-10-1819  
@@ -215,14 +221,16 @@ Uit het eerste huwelijk:
 5. Thomas Bekooy, geb. 02-12-1825, overl. 20-06-1866, tr. Sara Korver,  
 overl. niet gevonden, maar voor haar man.  
 6. Elisabeth, geb. 07-11-1830, overl. 17-06-1831  
+
 Uit het tweede huwelijk:  
-1. Nicolaas, geb. 05-09-1834, volgt [IXd](#ixd-nicolaas-bekooy)  
-2. Jacoba Bekooy, geb. 25-10-1836, overl. 21-01-1913, tr. 12-04-1865  
+
+7. Nicolaas, geb. 05-09-1834, volgt [IXd](#ixd-nicolaas-bekooy)  
+8. Jacoba Bekooy, geb. 25-10-1836, overl. 21-01-1913, tr. 12-04-1865  
 Christiaan van der Linden, geb. 18-11-1839, sjouwer, overl. 31-03-1904, zn van Christiaan en Catharina Zaalberg.  
 Voorzoons Jacoba:
-- Jacobus, geb. 29-12-1863,  
-- Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
-1. Abraham, geb. 22-05-1840, overl. 19-01-1843  
+   - Jacobus, geb. 29-12-1863,  
+   - Christiaan, geb. 01-01-1862. Bij huwelijk erkend.  
+9. Abraham, geb. 22-05-1840, overl. 19-01-1843  
   
 ### VIIIf. Pieter Bekooy
 VIIIf    Pieter Bekooy, ged. 28-10-1788, baggerman, overl. 09-10-1859, tr. 09-09-1814 Margaretha Rosendaal, ged. 15-02-1795, overl. 03-09-1875, dr van Willem Rozendaal en Maria Elkerbout.  
@@ -243,12 +251,16 @@ Uit dit huwelijk:
 
 ### VIIIg. Abraham Johannes Bekooy
 VIIIg    Abraham Johannes Bekooy, baggerman, ged. 17-02-1791, overl. Sloten 02-02-1828, tr. 1) 23-12-1819 Jacomina van Ent, ged. Deventer 28-01-1798, naaister, overl. 30-08-1826, dr van Willem van Ent en Johanna Jezebieters, tr. 2) 09-11-1826 Cornelia Densel, ged. 15-01-1797, schoonmaakster, overl. 09-12-1844, dr van Cornelis Densel en Johanna Werst.  
+
 Uit het eerste huwelijk:  
+
 1. Johanna Bekooy, geb. 24-04-1820, overl. 29-12-1903, tr. 02-05-1844  Jan Molet, geb. 22-03-1821, loodgieter, overl. 11-08-1863, zn van Arnoldus Molet en Johanna Brandse.  
 2. Wilhelmina Hendrica Bekooy, geb. 02-07-1822, overl. 24-01-1902 als wed. van Joannes Baak (huw. niet gev.)  
 3. Thomas, geb. 07-10-1824  
 4. Abraham, geb. 07-10-1824, overl. 23-10-1824  
+
 Uit het tweede huwelijk:  
+
 5. Cornelis, geb. 22-09-1827, overl. 30-05-1848  
   
 ### VIIIh. Japik (Jacob) Bekooy
@@ -296,19 +308,21 @@ Uit dit huwelijk:
 1. Jacob, geb. 27-07-1837, volgt [Xa](#xa-jacob-bekooy)  
 2. Grietje Bekooy, geb. 02-04-1840, overl. 31-07-1866, tr. 04-09-1861  
 Daniel Regeer, geb. 14-01-1838, wolkammer, overl. niet gev. (na 1866), zn van Daniel Regeer en Alida Sophia Voorzaat.  
-1. Jan, geb. 26-07-1843, overl. 30-08-1843  
-2. Jan, geb. 14-08-1844, overl. 02-07-1847  
-3. Johannes, geb. 18-03-1847, overl. 05-07-1847  
-4. Maria Sophia, geb. 21-07-1848, overl. 11-04-1849  
-5. Maria Sophia Bekooi, geb. 14-09-1850, tr. 10-11-1869  Pieter Kukler, wever, geb. 22-05-1851, zn van Jacobus en Pieternella Flaman. Verder bijzonderheden van de echtgenoten niet gevonden.  
-6. Jan (Jacob), geb. 14-03-1856, overl. 11-01-1857  
+3. Jan, geb. 26-07-1843, overl. 30-08-1843  
+4. Jan, geb. 14-08-1844, overl. 02-07-1847  
+5. Johannes, geb. 18-03-1847, overl. 05-07-1847  
+6. Maria Sophia, geb. 21-07-1848, overl. 11-04-1849  
+7. Maria Sophia Bekooi, geb. 14-09-1850, tr. 10-11-1869  Pieter Kukler, wever, geb. 22-05-1851, zn van Jacobus en Pieternella Flaman. Verder bijzonderheden van de echtgenoten niet gevonden.  
+8. Jan (Jacob), geb. 14-03-1856, overl. 11-01-1857  
 
 ### IXb. Warnaar Bekooy
 IXb    Warnaar Bekooy, geb. 13-11-1822, opperman, overl. 29-01-1885, otr. 1) 04-09-1852 Cornelia Kranenburg, geb. Voorschoten, overl. 18-01-1853, dr van Johannes Kranenburg en Cornelia van Beveren,  tr. 2) 19-05-1858 Maria Sardijn, geb. 12-05-1823, overl. 23-12-1893, dr van Gerrit Sardijn en Catharina Ligtvoet.  
+
 Uit het tweede huwelijk:  
+
 1. Jannetje Bekooy, geb. 18-06-1858, ongeh. overl. 05-11-1932.  
 2. Jacobus, geb. 10-04-1861  
-    Jacobus Bekooy, geb. 10-04-1861, fabriekwerker, overl. 10-03-1905, tr. 20-08-1890 Jacoba van der Linden, geb. 29-04-1861, overl. 10-05-1911, dr van Johannes en Maria Schouten.  
+Jacobus Bekooy, geb. 10-04-1861, fabriekwerker, overl. 10-03-1905, tr. 20-08-1890 Jacoba van der Linden, geb. 29-04-1861, overl. 10-05-1911, dr van Johannes en Maria Schouten.  
 3. Catharina, geb. 16-04-1863, overl. 02-08-1865  
 4. Maria Catharina, geb. 30-11-1865  
 5. Wilhelmina, geb. 1866 ?, overl. 20-08-1873  
@@ -337,12 +351,12 @@ Uit dit huwelijk:
 4. Elisabeth, geb. 1870, overl. 07-02-1871  
 5. Jacob Bekooy, geb. 07-02-1872, fabrieksarbeider, overl. 05-03-1934, tr. 04-10-1899  Clara Antonietta de Bruijn, geb. 11-04-1875, overl. na haar man,  dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
 6. l.l., geb./overl. 05-08-1874  
-6. Elisabeth, geb. 13-12-1875, overl. 07-09-1882  
-7. Nicolaas, geb. 01-05-1878, overl. 06-09-1887  
-8. Pieter, geb. 08-07-1881, overl. 31-07-1881  
-9. Christiaan, geb. 08-07-1881  
-10. Elizabeth, geb. 21-10-1882  
-11? Pieter, geb. 30-08-1886  
+7. Elisabeth, geb. 13-12-1875, overl. 07-09-1882  
+8. Nicolaas, geb. 01-05-1878, overl. 06-09-1887  
+9. Pieter, geb. 08-07-1881, overl. 31-07-1881  
+10. Christiaan, geb. 08-07-1881  
+11. Elizabeth, geb. 21-10-1882  
+12?. Pieter, geb. 30-08-1886  
   
 ### IXe. Jacobus Bekooij
 IXe    Jacobus Bekooij, geb. 08-01-1821, sjouwer, overl. Oegstgeest 15-05-1900,  tr. 13-11-1845 Alida Mooten, dubbelaarster, geb. 27-09-1824, overl. 12-01-1914, dr van Jan Mooten en Alida Hensen.  
@@ -402,10 +416,10 @@ Uit dit huwelijk:
 5. Jan, geb. 14-11-1869, volgt [XIc](#xic-jan-bekooy)  
 6. Elisabeth Bekooy, geb. 08-01-1872, overl. 12-01-1947, tr. 15-05-1895  
 Reinier van der Heemst, geb. 15-09-1861, portier, zn van Johannes Bernardus van der Heemst en Anna Taayspel. (Anna Taayspel overleed in Leiden op 31-01-1910. Daarmee stierf de Leidse tak van het oorspronkelijk Vlaamse geslacht Taeyspil uit.)  
-1. Pieter, geb. 13-04-1873, volgt [XId](#xid-pieter-bekooy)  
-2. Hendrik, geb. 20-04-1875, overl. 05-01-1877  
-3. Hendrik, geb. 31-03-1877, volgt [XIe](#xie-hendrik-boekkooi)  
-4. Jansje Boekkooi, geb. 22-04-1879, tr. 10-05-1899 Hendrik Arnoldus,  
+7. Pieter, geb. 13-04-1873, volgt [XId](#xid-pieter-bekooy)  
+8. Hendrik, geb. 20-04-1875, overl. 05-01-1877  
+9. Hendrik, geb. 31-03-1877, volgt [XIe](#xie-hendrik-boekkooi)  
+10. Jansje Boekkooi, geb. 22-04-1879, tr. 10-05-1899 Hendrik Arnoldus,  
 fabrieksarbeider, geb. 10-07-1878, zn van Isaac Arnoldus en Francina van Wijk.  
 
 ### Xb. Jan Bekooy
@@ -490,7 +504,7 @@ XIc    Jan Bekooy, geb. 14-11-1869, bediende, arbeider, overl. ca. 24-01-1909 (O
 Uit dit huwelijk:  
 1. Jacobus, geb. 04-05-1890  
 2. Alida Christina, geb. 11-12-1892  
-2. Isaac Bekooy, geb. Leiderdorp 1895, overl. 24-10-1943, tr. 17-09-1919  
+3. Isaac Bekooy, geb. Leiderdorp 1895, overl. 24-10-1943, tr. 17-09-1919  
 Agatha van Schoonderwoerd den Bezemer, geb. 28-04-1899, dr van Jacobus van  
 Schoonderwoerd den Bezemer en Aagje Ciere.  
 4. Jan, geb. 10-01-1897  
