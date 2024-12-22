@@ -1,14 +1,14 @@
-Philippe## C. PHILIPPE DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
+## C. PHILIPPE DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
   
 De niet bekende voorvader van deze tak kwam (vanuit Tourcoing ?) in Canterbury terecht. Hij zal een tijdgenoot zijn geweest van de personen IIIa t/m g uit lijn A. Zijn zoon Philippe de Bucquoy emigreerde met zijn gezin uit Canterbury naar Leiden, mogelijk in een periode dat het voor calvinistische protestanten in Engeland moeilijk was hun religie te belijden.  
 
 ### I. Philippe de Bucquoy
-I      Philippe de Bucquoy, geb. Canterbury (??), overl. Leiden, tr. Canterbury (?) NN (Marie du Bois ??). Het was vermoedelijk deze Philippe de Bucquoy, die op 27-06-1611 als poorter werd ontvangen.  
+I    Philippe de Bucquoy, geb. Canterbury (??), overl. Leiden, tr. Canterbury (?) NN (Marie du Bois ??). Het was vermoedelijk deze Philippe de Bucquoy, die op 27-06-1611 als poorter werd ontvangen.  
 Uit dit huwelijk bekend:  
 1. Anthoni, geb. Canterbury ca. 1605, volgt [II](#ii-anthoni-de-bucquoy)  
 
 ### II. Anthoni de Bucquoy
-II     Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, otr. 12-08-1630 (get. Philippe de Bucquoy zijn vader) Jannetgen Govertsdr, van Leiden (overl./begr. 29-04-1671), get. Jannetgen Claesdr haar moeder.  
+II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, otr. 12-08-1630 (get. Philippe de Bucquoy zijn vader) Jannetgen Govertsdr, van Leiden (overl./begr. 29-04-1671), get. Jannetgen Claesdr haar moeder.  
 Uit dit huwelijk:  
 1. Marie, W ged. 21-09-1631 (get. Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overl.  
 2. Philippe, W ged. 07-12-1632, get. Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
@@ -28,7 +28,7 @@ Uit dit huwelijk:
 Op 05-06-1677 testeert Anthony du Bucquoy, stoeldraaier op de Heeregracht, voor notaris Den Oosterling (15). Uit het testament blijkt, dat nog slechts 3 kinderen in leven zijn: Jeanne (getrouwd), Susanna en Abram (beiden nog ongehuwd). Philippe overleefde de kindertijd, trouwde en was inmiddels overleden en liet enkele (hoeveel ?) kinderen na.  
 
 ### IIIa. Philippus du Bucquoy
-IIIa   Philippus du Bucquoy, W ged. 07-12-1632, overl. voor 05-06-1677, wnt Oude Vest, otr. W 21-4-1661 Cathalijne du Prez, van Marvillje, wnt Gaernmarct, get. Proontgen du Prez haar zuster.  
+IIIa    Philippus du Bucquoy, W ged. 07-12-1632, overl. voor 05-06-1677, wnt Oude Vest, otr. W 21-4-1661 Cathalijne du Prez, van Marvillje, wnt Gaernmarct, get. Proontgen du Prez haar zuster.  
 Uit dit huwelijk, W ged.:  
 1. Abraham,  ged. 08-03-1662, get. Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
 2. Philippe, ged. 14-10-1663, get.  Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
@@ -40,7 +40,7 @@ Uit dit huwelijk, W ged.:
 8. Marya de Bucquoy, geb./ged. 05/07-06-1673 (get. Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begr. 04/11-12-1745, otr. 07-11-1698 Jacobus Vileyn, overl. wschl. na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle)  
 
 ### IIIb. Abraham du Buquoy
-IIIb   Abraham du Buquoy, W ged. 25-08-1647, greinwever, wnt Heeregraft, bij 2e huw. Doelgraft,  overl. voor 01-09-1691,  otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (wschl. ged. 07-01-1652, dr van Claes Jansz en Martgen Willems), wnt Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans  van Dyck, van Wijck bij Duyrstede,  wnt  Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, wnt Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, wnt Koepoortsgraft.)  
+IIIb    Abraham du Buquoy, W ged. 25-08-1647, greinwever, wnt Heeregraft, bij 2e huw. Doelgraft,  overl. voor 01-09-1691,  otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (wschl. ged. 07-01-1652, dr van Claes Jansz en Martgen Willems), wnt Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans  van Dyck, van Wijck bij Duyrstede,  wnt  Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, wnt Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, wnt Koepoortsgraft.)  
 Uit het eerste huwelijk:  
 1. Jannetjen de Bucquoy, ged. 04-02-1681, begr. 10/17-02-1742, wnt Langegragt, otr. 20-5-1707 Abr. Beaumont, overl. voor 10/17-02-1742,  wnt Nieuwe Voldersgragt, lakenwerker, get. Jan Beaumont zijn vader.  
 2. Antony, ged. 28-10-1682, overl. voor 22-06-1686 (voogdijstelling)  
@@ -51,7 +51,7 @@ Uit het tweede huwelijk:
 ## D. ANTHONI DE BUCQUOY EN ZIJN NAKOMELINGEN  
 
 ### I. Anthoni de Bucquoy
-I        Anthoni de Bucquoy, verm. geb. Mouveaux, overl. voor 05-11-1653(19) tr. 1) Jacquemine le Beseu(r), overl. voor 1640,  tr. 2) Maria de Pla, overl. voor 05-11-1653(19)  
+I    Anthoni de Bucquoy, verm. geb. Mouveaux, overl. voor 05-11-1653(19) tr. 1) Jacquemine le Beseu(r), overl. voor 1640,  tr. 2) Maria de Pla, overl. voor 05-11-1653(19)  
 Uit het eerste huwelijk :  
 - Johannes, geb. voor 1635 (in 1660 meerderjarig), overl. voor 24-12-1668(20), volgt [IIa](#iia-jan-de-bucquoy)  
 - Anthoni, geb. ca. 1636(21), volgt [IIb](#iib-anthony-de-bucquoy)  
@@ -63,7 +63,7 @@ Uit het tweede huwelijk
 Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 j., Jaques, 11 j, Marie 9 j. en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is(22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 j. of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, otr. Leiden 12-02-1637 Mary le Beseu, van Movou.)  Anthoni had twee overleden halfzusters Maria en Elisabeth(19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is(21). Marie en Elisabeth zijn voor 03-11-1660 overleden(22).  
 
 ### IIa. Jan de Bucquoy
-IIa     Jan de  Bucquoy, geb. voor 1635, van Mouveaux, overl. kort voor 24-12-1668, wnt Gaernmarckt, greinreder, otr. W 14-11-1657 (get. Jean de Tombe zijn oom) Marya de Buff, van Leyden, (overl. kort voor 28-02-1670; voogdijstelling), wnt Maersmansteech, get. Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dr van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is wschl. niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
+IIa    Jan de  Bucquoy, geb. voor 1635, van Mouveaux, overl. kort voor 24-12-1668, wnt Gaernmarckt, greinreder, otr. W 14-11-1657 (get. Jean de Tombe zijn oom) Marya de Buff, van Leyden, (overl. kort voor 28-02-1670; voogdijstelling), wnt Maersmansteech, get. Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dr van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is wschl. niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
 Uit dit huwelijk, NG ged.:  
 1. Johannes, ged. 29-08-1658, get. Jan de Beuf, Jan des Tombe, Aeltgen Veerem, Maria des Tombe.  
 2. Marie Bucquoy, W ged. 11-06-1660 (get. Henry de Beuf, Anthoine de Buquoy, Madeleine de Tombe, Susanne de Camp), otr. 7-6-1686 (get. Lysbeth van Cranenburgh haar meuy; Lysbeth van Cranenburch otr. Leiden/tr. Zoeterwoude 04-03/26-03-1684 Hendrik de Buff(23)) Jacobus de Bunje, chirurgijn van L., get. Jacobus de Bunje zijn oom.  
@@ -75,13 +75,13 @@ Bij de dopen van de kinderen uit dit gezin getuigden steeds Sara’s zuster en z
 Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven(24). Waarschijnlijk leefden in 1686 alleen Sara en Maria nog.  
 
 ### IIb. Anthony de Bucquoy
-IIb     Anthony de Bucquoy, van Mouvoe, wnt Orangiegraft, greinwerker, otr. W 18-9-1668 Jannetge Denijs, wed. Bonaventuyr  Martijn, wnt Orangiegraft.  
+IIb    Anthony de Bucquoy, van Mouvoe, wnt Orangiegraft, greinwerker, otr. W 18-9-1668 Jannetge Denijs, wed. Bonaventuyr  Martijn, wnt Orangiegraft.  
 Uit dit huwelijk:  
 - Johanna, W ged. 29-01-1669, get. Jan de Tombe, Suzanna de Tombe.  
   
 ## E. NIET PLAATSBAREN  
   
-O 58      Gillis del Mare, wednr. Cathalina de Bucquoy, wnt St. Annenstraet, otr. W 17-7-1648 (get. Anthony Feijs zijn bekende en Jean del Mote zijn oom) Jenne Cornaer, wed Jaecque de Chorcell, wnt Marendorp.  
+O 58    Gillis del Mare, wednr. Cathalina de Bucquoy, wnt St. Annenstraet, otr. W 17-7-1648 (get. Anthony Feijs zijn bekende en Jean del Mote zijn oom) Jenne Cornaer, wed Jaecque de Chorcell, wnt Marendorp.  
 (Gillis del Mare, wednr. Jeanne Cornaer, wnt St-Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, j.d. van bij Rijssel, get. haar zuster.)  
   
 Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, wnt Middelstegraft, otr. W 30-4-1658 (get. Pierone le Bruyne haar moeder) Ooste de Rouseau, wolkammer van Tourcoigne, wnt Coddesteech.  
@@ -90,9 +90,9 @@ N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezin
   
 S 197v    Jenne du Bucquoy, van bij Rijssel, otr. 14-8-1666 (get. Desabeau Reassy, haar moeder) Jaecq Loocque, wolkammer van Bergen in Henegouwen. Bij de doop van het enige gevonden kind van dit paar (Jaques, ged. 14-03-1668) getuigden o.a. Gille de Bucquoy en zijn vrouw Anna Baillian (zie hieronder). Waren Gille en Jenne broer en zuster ?  
   
-O 68     Gillis du Bucquoy, van Waterloo, wnt Middelstegraft, lakenwerker, otr. W 25-9-1648 (get. Gillis de Bucquoy zijn oom) Anna Baillian, van Gou(v), wnt Middelstegraft. N.B. Mogelijk, maar niet te bewijzen, is Gillis de Bucquoy ‘Oom’ dezelfde als Gillis Pietersz de Bucquoy, Vd in de Sectie A van de genealogieën.  
+O 68    Gillis du Bucquoy, van Waterloo, wnt Middelstegraft, lakenwerker, otr. W 25-9-1648 (get. Gillis de Bucquoy zijn oom) Anna Baillian, van Gou(v), wnt Middelstegraft. N.B. Mogelijk, maar niet te bewijzen, is Gillis de Bucquoy ‘Oom’ dezelfde als Gillis Pietersz de Bucquoy, Vd in de Sectie A van de genealogieën.  
   
-T 269v   Hubert Snekou, wednr. Margriet van Arcke, wnt St.Annastraet, otr. W 13-6-1670 Anna Baeljan, wed. Gille du Bucquoy, Minnebroersgraft.  
+T 269v    Hubert Snekou, wednr. Margriet van Arcke, wnt St.Annastraet, otr. W 13-6-1670 Anna Baeljan, wed. Gille du Bucquoy, Minnebroersgraft.  
   
 W 12v    Jan de Bucquoy, van Hanou ,  wnd Angenietenstraet, steenhouwer, otr. W 10-8-1673 Catharyna Jans, van Ceulen, wnd Scheystraet. N.B. Zie voor een m.i. aannemelijke plaatsing de sectie ‘Gezinnen in Amsterdam’.  
   
@@ -165,7 +165,7 @@ Uit het tweede huwelijk, NG gedoopt:
 11. Philippus, ged. 12-03-1704 (get. Philippus Bosman en Sara de la Plate)  
 
 ### IVa. Felix de Klopper
-IVa   Felix de Klopper, geb./ged. 26/27-04-1683, wijnkoper, later  
+IVa    Felix de Klopper, geb./ged. 26/27-04-1683, wijnkoper, later  
 stadscourantier(25), overl. 29-03-1738, otr. 23-10-1701 Maria Doterem,  
 geb./ged. 17/21-07-1683, begr. 17/24-03-1753, dr van Huybert Doterem en Maria de Vries.  
 Uit dit huwelijk, alle NG gedoopt:  
@@ -200,7 +200,7 @@ Uit dit huwelijk:
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
-VI   Mr. Felix de Klopper, geb./ged. 23/27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb./ged. 25/28-12-1763, overl. 18-10-1785, dr van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, j.d. van Vlissingen.  
+VI    Mr. Felix de Klopper, geb./ged. 23/27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb./ged. 25/28-12-1763, overl. 18-10-1785, dr van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, j.d. van Vlissingen.  
 
 Uit het eerste huwelijk, W gedoopt:  
 
@@ -258,7 +258,7 @@ Als hun kinderen zijn bekend :
 3. Anneken Bucquoy, geb. Middelburg ca. 1600, otr. (21 j. oud) 20-03-1621  Dirk Leefkens.  
 
 ### I. Jacques Bucquoy
-I   Jacques Bucquoy, geb. Middelburg ca. 1588, hoedenkramer, begr. Amsterdam 29-07-1630,  otr. (30 j. oud) 22-03-1618, Janneke Seys, geb. Brugge ca. 1590 (bij huw. 28 j. oud).  
+I    Jacques Bucquoy, geb. Middelburg ca. 1588, hoedenkramer, begr. Amsterdam 29-07-1630,  otr. (30 j. oud) 22-03-1618, Janneke Seys, geb. Brugge ca. 1590 (bij huw. 28 j. oud).  
 Uit dit huwelijk bekend:  
 1. Johannes, ged.17-01-1619  
 2. Nicolaes, ged. 05-05-1620  
@@ -311,5 +311,6 @@ N.B. Beide zusters ondertrouwden op dezelfde datum !
 ### III. Jacob de Bucquoy
 III    Jacob de Bucquoy, NG ged. 25-10-1693, otr. 25-03-1718, get. zijn moeder Jacoba Hartman, Catrina Fok, get. haar moeder Aaltje Focke. Catharina Fok, wed. Jacob de Buiquoy, is in Amsterdam begraven 08-01-1777.  
 Uit dit huwelijk bekend:  
-   Jeronimus, NG ged. 21-08-1718  
+- Jeronimus, NG ged. 21-08-1718  
+
 Uit een vraag en antwoord in de eerste jaargang van De Navorscher (1851!) valt te reconstrueren, dat Jacob de Bucquoy een in zijn tijd befaamd zeereiziger en cartograaf was(27). Op deze figuur gaat ook de hierboven al genoemde J.H. Bekouw in. Tevens wordt in een latere jaargang van De Navorscher de vraag gesteld, of er een familierelatie bestond met een Leidse naamgenoot (A-Vc), die slotenmaker was en later lector in de mathesis aan de universiteit van Leiden werd (13). Zoals blijkt, is zo’n verwantschap, indien al aanwezig, ver verwijderd.  
