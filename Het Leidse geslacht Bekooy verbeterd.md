@@ -155,7 +155,19 @@ Met betrekking tot de hierna volgende genealogieën-Bucquoy/Bekooy/Boek(k)oo(i,y
 
 In de genealogie zijn de plaatsnamen gespeld zoals ik ze in de papieren tegenkwam. De (thans) correcte spelling volgt hier: Bondu = Bondues; Turkeng en andere varianten = Tourcoing; Rijsele, Rijssel, heet thans Lille; Movou etc. = Mouvaux; Waterloo/Waterleeuw = m.i. Wattrelos, nabij Tourcoing (dus niet het Waals-Brabantse Waterloo!). Daar waar ik vermoedelijke (dus niet in de papieren gevonden) geboorteplaatsen vermeld, met name dus bij kinderen die in het verband van hun ouderlijk gezin naar Leiden kwamen, heb ik de juiste spelling gebruikt. Wat de spelling van de toenamen betreft, heb ik de vorm gebruikt die bij de ondertrouw of (na 1811) het burgerlijk huwelijk werd gevonden. Indien bij de doop of aangifte van kinderen de spelling van de toenaam van de vader van deze vorm afweek (wat nogal eens voorkwam), is de afwijkende vorm bij de naam van het kind vermeld.  
 
-Gebruikte afkortingen: geb./ged. = geboren/gedoopt, W/NG = Waals resp. Nederduits Gereformeerd, otr./tr. = ondertrouw/trouw, overl./begr. = overlden/begraven, wnt = woont, get. = getuige, wed/wednr. = weduwe/weduwnaar, j.m./j.d. = jongman/jongedochter, gev. = gevonden, dr/zn van = dochter/zoon van, mog./verm./wschl. = mogelijk/vermoedelijk/waarschijnlijk, hvr. van = huisvrouw van.  
+Gebruikte afkortingen:
+- geb./ged. = geboren/gedoopt  
+- W/NG = Waals resp. Nederduits Gereformeerd  
+- otr./tr. = ondertrouw/trouw  
+- overl./begr. = overleden/begraven  
+- wnt = woont  
+- get. = getuige  
+- wed/wednr. = weduwe/weduwnaar  
+- j.m./j.d. = jongman/jongedochter (ongetrouwde man/ongetrouwde vrouw)  
+- gev. = gevonden  
+- dr/zn van = dochter/zoon van  
+- mog./verm./wschl. = mogelijk/vermoedelijk/waarschijnlijk  
+- hvr. van = huisvrouw van  
 
 # GENEALOGIEËN DE BUCQUOY/BEKOOY
 
