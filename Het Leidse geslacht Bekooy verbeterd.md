@@ -271,7 +271,7 @@ Uit dit huwelijk bekend, volgorde niet geheel bekend:
 4. Chaterine, W ged. 24-02-1602  
   
 ### IVa. Pierre de Bucquoy
-IVa    Pierre du Bucquoy, W ged. 1e kwartaal 1607, wnt St.Aechtenstraet, droogscheerder, otr. 16-5-1639 (get. Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, wnt St-Aechtenstraet, get. Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
+IVa    Pierre du Bucquoy, W ged. 1e kwartaal 1607, wnt St. Aechtenstraet, droogscheerder, otr. 16-5-1639 (get. Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, wnt St. Aechtenstraet, get. Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 
 Uit dit huwelijk:  
 1. Pierre, W ged. 26-02-1640, get. Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
@@ -320,7 +320,7 @@ Uit dit huwelijk, NG ged.:
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
-Va    Pieter Bucquoy, W ged. 26-02-1640, greinwerker, wnt St.Aechtenstraet, overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (get. Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gevonden, (Franchyntge Jans, wed. Pieter du B, wnt Cleystraet. otr. 02-02-1669 Jan Roelofsz, wnt Langegraft, lakenwerker)  
+Va    Pieter Bucquoy, W ged. 26-02-1640, greinwerker, wnt St. Aechtenstraet, overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (get. Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gevonden, (Franchyntge Jans, wed. Pieter du B, wnt Cleystraet. otr. 02-02-1669 Jan Roelofsz, wnt Langegraft, lakenwerker)  
 
 Uit dit huwelijk:  
 1. Jeane, W ged. 05-08-1663, get. Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
@@ -620,7 +620,7 @@ IIb    Philippe ? de Bucquoy, tr. NN
 Uit dit huwelijk bekend:  
 - Philippe, volgt [IIId](#iiid-philips-de-bucquoy)  
 - Jean, volgt [IIIe](#iiie-jan-de-bucquoy)  
-- Margariet du Bucquoy, van Bondu, wnt Cleystraet, overl. voor 26-06-1671, otr. W 30-7-1660 (get. Pironne Catheris haar schoonzuster) Jean du Cane (in orig.: Quenne), van Mouvou, greinwerker, get. Pierre du Cane zijn vader. (Jan du Cane (in orig.: Ken), wednr. Margariet de B, wnt St.Jacobsgraft, otr. W 26-6-1671 Marya Moncourt, wed. Pieter Lievensz, wnt St.Jacobsgraft.)  
+- Margariet du Bucquoy, van Bondu, wnt Cleystraet, overl. voor 26-06-1671, otr. W 30-7-1660 (get. Pironne Catheris haar schoonzuster) Jean du Cane (in orig.: Quenne), van Mouvou, greinwerker, get. Pierre du Cane zijn vader. (Jan du Cane (in orig.: Ken), wednr. Margariet de B, wnt St. Jacobsgraft, otr. W 26-6-1671 Marya Moncourt, wed. Pieter Lievensz, wnt St. Jacobsgraft.)  
 
 ### IIIa. Jean de Bucquoy
 IIIa (Q 246)    Jean de Bucquoy, van Movou, wnt Corte Scheystraet, greinwerker, (overl. kort voor 08-09-1670 (16)) otr. W 21-7-1659 (get. Walrave de Buquoy zijn vader) Machtelt (of Michelle) de Quiene, wnt Rijnsburgerpoort, get. Pierone Bayse haar moeder.  
@@ -1275,7 +1275,7 @@ Uit dit huwelijk:
 ## E. NIET PLAATSBAREN  
   
 - O 58    Gillis del Mare, wednr. Cathalina de Bucquoy, wnt St. Annenstraet, otr. W 17-7-1648 (get. Anthony Feijs zijn bekende en Jean del Mote zijn oom) Jenne Cornaer, wed Jaecque de Chorcell, wnt Marendorp.  
-(Gillis del Mare, wednr. Jeanne Cornaer, wnt St-Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, jongedochter (ongetrouwde vrouw) van bij Rijssel, get. haar zuster.)  
+(Gillis del Mare, wednr. Jeanne Cornaer, wnt St. Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, jongedochter (ongetrouwde vrouw) van bij Rijssel, get. haar zuster.)  
   
 - Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, wnt Middelstegraft, otr. W 30-4-1658 (get. Pierone le Bruyne haar moeder) Ooste de Rouseau, wolkammer van Tourcoigne, wnt Coddesteech.  
 Kinderen van het paar: Anthoinette, ged. 26-02-1659, get. Elisabeth Rachon en Anne Noion; Pierre, ged. 07-04-1660, get. Philippe Celos en Judith Magin.  
@@ -1285,7 +1285,7 @@ N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezin
   
 - O 68    Gillis du Bucquoy, van Waterloo, wnt Middelstegraft, lakenwerker, otr. W 25-9-1648 (get. Gillis de Bucquoy zijn oom) Anna Baillian, van Gou(v), wnt Middelstegraft. N.B. Mogelijk, maar niet te bewijzen, is Gillis de Bucquoy ‘Oom’ dezelfde als Gillis Pietersz de Bucquoy, Vd in de Sectie A van de genealogieën.  
   
-- T 269v    Hubert Snekou, wednr. Margriet van Arcke, wnt St.Annastraet, otr. W 13-6-1670 Anna Baeljan, wed. Gille du Bucquoy, Minnebroersgraft.  
+- T 269v    Hubert Snekou, wednr. Margriet van Arcke, wnt St. Annastraet, otr. W 13-6-1670 Anna Baeljan, wed. Gille du Bucquoy, Minnebroersgraft.  
   
 - W 12v    Jan de Bucquoy, van Hanou, wnd Angenietenstraet, steenhouwer, otr. W 10-8-1673 Catharyna Jans, van Ceulen, wnd Scheystraet. N.B. Zie voor een m.i. aannemelijke plaatsing de sectie ‘Gezinnen in Amsterdam’.  
   
@@ -1312,11 +1312,11 @@ Zie hiervoor Delft en Rotterdam:
   
 - O 86v    Jean du Bucquoy, wnt Oude Chingel, wednr. Anna de Coucelle, otr. W 28-9-1648 Sara Muysart, wnt Bredestraet.  
   
-- N 263v   Toucheyn du Bucquoy, van Bondu, wnt Garemart, greinwerker, otr. W 26-4-1647 (get. Anthony du Bucquoy zijn oom) Maertgen del Beeck, van Bondu, wnt St.Jacobsgraft. N.B. Mogelijk is Anthony de Bucquoy te identificeren met Anthoine du Boucquois, IIId in Sectie A van de genalogieën. Deze zou dan echter al wel zeer bejaard zijn geweest (ruim 80 j!).  
+- N 263v   Toucheyn du Bucquoy, van Bondu, wnt Garemart, greinwerker, otr. W 26-4-1647 (get. Anthony du Bucquoy zijn oom) Maertgen del Beeck, van Bondu, wnt St. Jacobsgraft. N.B. Mogelijk is Anthony de Bucquoy te identificeren met Anthoine du Boucquois, IIId in Sectie A van de genalogieën. Deze zou dan echter al wel zeer bejaard zijn geweest (ruim 80 j!).  
   
 - V 169v   Tousseyn de Buquoy, wednr. Marta del Beecq, wnt Nieuwe Voldersgraft, otr. 13-11-1671 Lyntge Raschal, wed. Frans le Fever.  
   
-- R 54v    Olivier del Moth, wnt St.Jacobsgraft, wolkammer, otr. 10-11-1661, (get. Gillis del Mair, zijn a.s. zwager op de Vliet) Elysabeth Dras, wed. Gillis de Bucquoy, wnt Vliet, get. Anthonetta Battailje, haar schoonzuster.  
+- R 54v    Olivier del Moth, wnt St. Jacobsgraft, wolkammer, otr. 10-11-1661, (get. Gillis del Mair, zijn a.s. zwager op de Vliet) Elysabeth Dras, wed. Gillis de Bucquoy, wnt Vliet, get. Anthonetta Battailje, haar schoonzuster.  
   
 - X 263v   Coenraedt de Buckoy, wnt Amsterdam, koopman, otr. W 8-7-1681 Marya Mussart, van Amsterdam, wnt Bredestraet. (N.B. Marya Mussart dochter van Abraham Muysaert, geb. Amsterdam, en Marya Flaman, geb. Leiden, otr. Leiden 28-05-1658.  
   
