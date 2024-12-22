@@ -163,11 +163,9 @@ Gebruikte afkortingen:
 - wnt = woont  
 - get. = getuige  
 - wed/wednr. = weduwe/weduwnaar  
-- j.m./j.d. = jongman/jongedochter (ongetrouwde man/ongetrouwde vrouw)  
 - gev. = gevonden  
 - dr/zn van = dochter/zoon van  
 - mog./verm./wschl. = mogelijk/vermoedelijk/waarschijnlijk  
-- hvr. van = huisvrouw van  
 
 # GENEALOGIEËN DE BUCQUOY/BEKOOY
 
@@ -1279,7 +1277,7 @@ Uit dit huwelijk:
 ## E. NIET PLAATSBAREN  
   
 - O 58    Gillis del Mare, wednr. Cathalina de Bucquoy, wnt St. Annenstraet, otr. W 17-7-1648 (get. Anthony Feijs zijn bekende en Jean del Mote zijn oom) Jenne Cornaer, wed Jaecque de Chorcell, wnt Marendorp.  
-(Gillis del Mare, wednr. Jeanne Cornaer, wnt St-Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, j.d. van bij Rijssel, get. haar zuster.)  
+(Gillis del Mare, wednr. Jeanne Cornaer, wnt St-Aegtenstraat, otr. 23-06-1683 Anthonetta Bettailly, jongedochter (ongetrouwde vrouw) van bij Rijssel, get. haar zuster.)  
   
 - Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, wnt Middelstegraft, otr. W 30-4-1658 (get. Pierone le Bruyne haar moeder) Ooste de Rouseau, wolkammer van Tourcoigne, wnt Coddesteech.  
 Kinderen van het paar: Anthoinette, ged. 26-02-1659, get. Elisabeth Rachon en Anne Noion; Pierre, ged. 07-04-1660, get. Philippe Celos en Judith Magin.  
@@ -1297,7 +1295,7 @@ N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezin
   
 - CC 7    Cornelia de Bucquoy, van Leyden, otr. 15-7-1698 (get. Anna de Waert, haar moeder) Philip Jordaen, koopman, van Avelon, get. Etien Jordaen zijn vader, wnt A’dam.  
 Zie hiervoor Delft en Rotterdam:  
-  - 31-01-1677 otr. Rotterdam Johannes de Bucquoy, wednr., wnt Delft, en Anna de Weert, j.d., geb. Delft (overigens niet gev.!), wnt Hoogstraat.  
+  - 31-01-1677 otr. Rotterdam Johannes de Bucquoy, wednr., wnt Delft, en Anna de Weert, jongedochter (ongetrouwde vrouw), geb. Delft (overigens niet gev.!), wnt Hoogstraat.  
   - 06-02-1677 otr. Delft, Johan du Bucquoy, wednr., met Anna de Weert.  
   - 22-09-1678 Delft gedoopt Catarina, dr van Johan du Buquoy en Anna de Weert. Getuigen Johan de Weert en Catarina van Eenhoorn.  
   - Gezien hun ondertrouwdata kunnen de kinderen Elisabeth en Cornelia best uit het eerste huwelijk van Johannes de B. zijn. Het is onduidelijk wie de eerste echtgenote was. Misschien Elisabeth Jans: attestatie in Leiden 28-06-1671 Jan de Bucquoy en Elisabeth Jans (m/v) naar niet vermelde plaats. Een huwelijk is echter in Leiden niet gevonden, en evenmin dopen van kinderen.  
@@ -1345,7 +1343,7 @@ Uit dit huwelijk:
 \*\* M.i. moet Filis, resp Philis hier worden gelezen als een misverstaan Felix, en niet als Philips. Zie ook de doopgetuigen bij enkele kinderen van Jaques. De consequentie is, dat de als eerste in de genealogie-De Klopper in Nederland’s Patriciaat figurerende Jacob Philipsz de Klopper in werkelijkheid Jacob Felixzn de Klopper heette.  
 
 ### III. Jacob Felixzn de Klopper  
-III    Jacob Felixzn de Klopper, W ged. 29-02-1660, boratwerker, begr. 23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, j.d. van Maastricht.  
+III    Jacob Felixzn de Klopper, W ged. 29-02-1660, boratwerker, begr. 23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
 
 Uit het eerste huwelijk, allen NG gedoopt:  
 
@@ -1404,7 +1402,7 @@ Uit dit huwelijk:
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
-VI    Mr. Felix de Klopper, geb./ged. 23/27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb./ged. 25/28-12-1763, overl. 18-10-1785, dr van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, j.d. van Vlissingen.  
+VI    Mr. Felix de Klopper, geb./ged. 23/27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb./ged. 25/28-12-1763, overl. 18-10-1785, dr van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
 
 Uit het eerste huwelijk, W gedoopt:  
 
@@ -1479,7 +1477,7 @@ B    Jean du Bukoy, geb. Pont sur Sambre (?), tr. NN
 Uit dit huwelijk bekend:  
 1. Jaques, volgt [Ia](#ia-jaques-du-buskoy)  
 2. Jean, volgt (niet zeker!!!) [Ib](#ib-jean-de-bucquoy)  
-Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is daarom denkbaar, zo niet waarschijnlijk, dat deze Jean (Ib) dezelfde is als Jan de Bucquoy, ‘van Hanou’ (Henegouwen), die op 10-08-1673 in Leiden in ondertrouw gaat met Catharyna Jans, ‘van Ceulen’. Deze Jan de Bucquoy was eveneens steenhouwer, en valt verder in de Leidse genealogieën niet in te passen. Merk ook op, dat Pierre du Bucquoy ([Ia](#ia-jaques-du-buskoy)-4, [IIb](#iib-pierre-du-bucquoy)) bij zijn ondertrouw in 1685 werd vergezeld door zijn oom en voogd Jan du Buquoy, en dat een ‘Trijntje Jans, hvr. van Jan du Buquoy’ in Amsterdam werd begraven. Een meer gedetailleerde en van meer achtergrondinformatie voorziene genealogie van deze familie is al in 1936 gegeven door J.H. Bekouw (26). Daarin ontbreekt echter de door mij geïntroduceerde Jean (Ib).  
+Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is daarom denkbaar, zo niet waarschijnlijk, dat deze Jean (Ib) dezelfde is als Jan de Bucquoy, ‘van Hanou’ (Henegouwen), die op 10-08-1673 in Leiden in ondertrouw gaat met Catharyna Jans, ‘van Ceulen’. Deze Jan de Bucquoy was eveneens steenhouwer, en valt verder in de Leidse genealogieën niet in te passen. Merk ook op, dat Pierre du Bucquoy ([Ia](#ia-jaques-du-buskoy)-4, [IIb](#iib-pierre-du-bucquoy)) bij zijn ondertrouw in 1685 werd vergezeld door zijn oom en voogd Jan du Buquoy, en dat een ‘Trijntje Jans, huisvrouw van Jan du Buquoy’ in Amsterdam werd begraven. Een meer gedetailleerde en van meer achtergrondinformatie voorziene genealogie van deze familie is al in 1936 gegeven door J.H. Bekouw (26). Daarin ontbreekt echter de door mij geïntroduceerde Jean (Ib).  
 
 ### Ia. Jaques du Buskoy
 Ia    Jaques du Buskoy, van Pon(t)(?) sur Sambre, steenhouwer, geb. ca. 1622 (bij huw. 30 j.), begr. 01-08-1682, otr. 1) 27-07-1652, get. zijn vader Jean du Bukoy, Jannetje Karet, van Doornick, begr. 09-09-1673, otr. 2) 01-09-1679 Maria Belterman, wed. Artus de Witt.  
@@ -1491,7 +1489,7 @@ Uit het eerste huwelijk bekend:
 4. Pierre, ged. 08-12-1661, volgt [IIb](#iib-pierre-du-bucquoy)  
 
 ### Ib. Jean de Bucquoy
-Ib    Jean de Bucquoy, steenhouwer van ‘Hanou’, geb. ca. 1635, begr. Amsterdam 22-03-1689, otr. Leiden 10-08-1673 Catharina Jans, van Ceulen, begr. Amsterdam (‘Trijntje Jans, hvr. van Jan du Buquoy’) 27-08-1688. Zowel bruid als bruidegom waren t.t.v. hun huwelijk woonachtig in Leiden.  
+Ib    Jean de Bucquoy, steenhouwer van ‘Hanou’, geb. ca. 1635, begr. Amsterdam 22-03-1689, otr. Leiden 10-08-1673 Catharina Jans, van Ceulen, begr. Amsterdam (‘Trijntje Jans, huisvrouw van Jan du Buquoy’) 27-08-1688. Zowel bruid als bruidegom waren t.t.v. hun huwelijk woonachtig in Leiden.  
 
 Mogelijk had Jean uit een eerder huwelijk of relatie een dochter:  
 1. Selia Jans du Bucquoi, van Amsterdam, geb. ca. 1657 (bij huw. 31 j.), otr. 06-03-1688 (get. haar vader Jan du Bucquoi) Ariaen Philipsz van Leeuwen, van Loosduynen.  
