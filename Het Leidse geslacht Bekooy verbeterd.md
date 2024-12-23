@@ -159,7 +159,7 @@ In de genealogie zijn de plaatsnamen gespeld zoals ik ze in de papieren tegenkwa
 Gebruikte afkortingen:
 - geboren/ged. = geboren/gedoopt  
 - otr./tr. = ondertrouw/trouw  
-- overl./begr. = overleden/begraven   
+- overl./begr. = overleden/begraven  
 
 # GENEALOGIEËN DE BUCQUOY/BEKOOY
 
@@ -308,8 +308,8 @@ Uit dit huwelijk:
 1. Pieternella, Nederduits Gereformeerd ged. 05-03-1631, begr. 16-04-1631  
 2. Pieternella de Bucquoy, Nederduits Gereformeerd ged. 25-08-1632, woont Bredestraet, begr. 02/08-09-1668[†](#notitie), otr. 10-08-1656 Niclaes van Campen, woont Marckt, koopman.  
 (Nicolaes van Campen, weduwnaar van Petronella Bucquoy, woont Bredestraet, otr. 19-03-1670 Susanna de Hoorn, weduwe van Dirck van Assendelft, woont Nieuwen Rijn. De broer van de man is veertig in de raad.)  
-3. Anna de Bucquoy, Nederduits Gereformeerd ged. 06-09-1634, overl. 13-02-1677, otr./tr. Leiden/Leiderdorp 4/23-10-1674 Nicolaes Huyst, doop en overl. niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
-4. Alyda de Bucquoy, Nederduits Gereformeerd ged. 20-03-1637, woont Bredestraet, overl./begr. 27-01-1680, otr./tr. 15-1/4-2-1659 Symon Vliettoorn, woont Bredestraet, apothecaris (geboren Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals otr. 9-5-1680 Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.)  
+3. Anna de Bucquoy, Nederduits Gereformeerd ged. 06-09-1634, overl. 13-02-1677, otr. Leiden 4-10-1674, tr. Leiderdorp 23-10-1674 Nicolaes Huyst, doop en overl. niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
+4. Alyda de Bucquoy, Nederduits Gereformeerd ged. 20-03-1637, woont Bredestraet, overl./begr. 27-01-1680, otr. 15-1-1659, tr. 4-2-1659 Symon Vliettoorn, woont Bredestraet, apothecaris (geboren Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals otr. 9-5-1680 Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.)  
 5. Elisabeth du Bucquoy, Nederduits Gereformeerd ged. 09-09-1639, overl. voor 07-01-1676, otr. 08-06-1667 (getuige Clasyne Stockius haar moeder) Frans Vromans, ged. 12-12-1641, overl. niet gevonden, zoon van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, woont Bredestraet, otr. 7-1-1676 Maria Leffen, woont Klocksteech.)  
 6. Sophia, Nederduits Gereformeerd ged. 23-01-1643, begr. 15-05-1645  
 7. Paulus, Nederduits Gereformeerd ged. 29-03-1645, begr. 25-04-1643  
@@ -393,7 +393,7 @@ Uit dit huwelijk:
 1. Anna Buckooy, ged. 17-02-1735, begr. 07/14-07-1804[†](#notitie), otr. 1) 28-04-1752 Johannes Mugge, ged. 08-11-1730, straatmakersknecht, vermoedelijk begr. 03/10-07-1784[†](#notitie), zoon van Hermannus Mugge en Jannetje van Hoecken, otr. 2) 20-03-1778 Bart Gonsaal, ged. 12-03-1724, begr. 16/23-07-1791[†](#notitie), weduwnaar van Suzanne van Barte, zoon van Bartholomeus Gansal en Grietje de Broeder.  
 2. Elisabeth Buqooy, ged. 17-03-1737, overl. 09-01-1815, otr. 18-03-1768 Hendrik Mulhovius, ged. 19-09-1734, greinwerker, begr. 05/12-10-1799[†](#notitie), zoon van Pieter Mulhovius en Maria Veering.  
 3. Isaac, ged. 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy)  
-4. TODO: Catharina Bucquoy, ged. 03-06-1742, overl./begr. 19/23-04-1813, otr. 1)16-12-1763 Claas Boom, ged. 14-12-1729, wolkammersknecht, begr. 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, otr. 2) 15-05-1772 Abraham van Putten, ged. 02-02-1744, warmoeziersknecht, begr. 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, otr/tr 3) 28-08/12-09-1807 Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
+4. TODO: Catharina Bucquoy, ged. 03-06-1742, overl./begr. 19/23-04-1813, 1) otr. 16-12-1763 Claas Boom, ged. 14-12-1729, wolkammersknecht, begr. 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, 2) otr. 15-05-1772 Abraham van Putten, ged. 02-02-1744, warmoeziersknecht, begr. 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, 3) otr. 28-08-1807, tr. 12-09-1807 Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
 5. Geertruy Bekooy, ged. 30-12-1744, begr. 10/17-10-1778[†](#notitie), otr. 04-06-1773 Willem Kloek, ged. 04-11-1751, mandemakersknecht, overl. na 1811 (niet gevonden), zoon van Pieter Kloek en Marytje Malie (= Mahieu).  
 6. Johannes, ged. 14-06-1747  
 7. Abram, ged. 30-11-1749, volgt [VIIIc](#viiic-abraham-bekooy)  
@@ -428,7 +428,7 @@ Uit dit huwelijk:
 1. Catharina Bekooy, ged. 12-03-1775, overl. 06-01-1841, otr. 12-08-1796 Jacobus van Dissel, lakenwerker, mogelijk ged. 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overl. 10-09-1814  
 2. Pieter, ged. 27-11-1776, begr. 27-12-1777/03-01-1778[†](#notitie)  
 3. Levenloos kind, geboren/overl. 01-05-1779, begr. 08-05-1779  
-4. Johanna Bekooy, ged. 27-09-1780, overl., otr/tr 02-06/17-06-1809 Abraham Holswilder, ged. 28-08-1782, warmoezier, overl. 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
+4. Johanna Bekooy, ged. 27-09-1780, overl., otr. 02-06-1809, tr. 17-06-1809 Abraham Holswilder, ged. 28-08-1782, warmoezier, overl. 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
 5. Leonardus Gerard, ged. 23-07-1782, volgt [IXb](#ixb-leonardus-gerard-bekooy)  
 6. Abraham, ged. 23-07-1782,  
 7. Maria, ged. 01-09-1784, begr. 23/30-10-1784[†](#notitie)  
@@ -453,7 +453,7 @@ Uit een relatie met Susanna Kloots (ged. 18-09-1767, overl. 31-08-1828, weduwe v
 N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, ged. 13-12-1770, overl. Leiden, begr. Oegstgeest 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
 
 ### IXb. Leonardus Gerard Bekooy
-IXb    Leonardus Gerard Bekooy, ged. 23-07-1782, kleermakersknecht, overl. 05-01-1858, woont Spekhof, otr./tr. 1) 18-08/05-09-1810 Johanna van Meeteren, ged. 30-08-1769, overl. 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, tr. 2) 30-10-1833 Francina van der Blom, ged. 09-08-1792, overl. 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
+IXb    Leonardus Gerard Bekooy, ged. 23-07-1782, kleermakersknecht, overl. 05-01-1858, woont Spekhof, 1) otr. 18-08-1810, tr. 05-09-1810 Johanna van Meeteren, ged. 30-08-1769, overl. 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) tr. 30-10-1833 Francina van der Blom, ged. 09-08-1792, overl. 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
 
 Uit het tweede huwelijk:  
 
@@ -660,7 +660,7 @@ Uit dit huwelijk:
 1. Jean, Waals ged. 23-02-1661, getuige Jean du Quesne et Marie Masse.  
 2. Sara (de) Bucquoy, Waals ged. 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, Waals otr. 07-10-1689/tr. Voorschoten Jean Howel, woont Scheystraet, weduwnaar van Mary Hoesee.  
 3. Abram (18), Waals ged. 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
-4. Maria de Bekoy, geboren 24-06-1672, Waals ged. 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begr. 02/09-07-1740[†](#notitie), otr 30-05-1698 (getuige Sara de Bekoy haar zuster) Johannes la Louw, overl. voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
+4. Maria de Bekoy, geboren 24-06-1672, Waals ged. 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begr. 02/09-07-1740[†](#notitie), otr. 30-05-1698 (getuige Sara de Bekoy haar zuster) Johannes la Louw, overl. voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
 
 Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, woont in de Scheystraat. Zij prelegateert aan haar dochter Jeanne Cottiny en haar drie andere kinderen Sara, Abram en Marie de Bucquoy bedragen van rond 1000 glds en benoemt Abraham la Lau, Jean la Lau en Jean Houwel tot executeurs-testamentair. De akte is merkwaardigerwijs in het Frans. Zou deze in redelijke welstand verkeerd hebbende dame zich te groot hebben gevoeld om, na ruim 40 jaar in Holland te hebben gewoond, de taal te spreken? De executie vangt aan op 05-03-1704 (18).  
 
@@ -702,7 +702,7 @@ Uit dit huwelijk:
 7. Maria, ged. 12-05-1763, begr. 04/11-06-1763[†](#notitie)  
 8. Warrenaad, ged. 27-05-1764, begr. 16/23-06-1764[†](#notitie)  
 9. Johannes, ged. 03-07-1765, begr. 26-06/03-07-1773[†](#notitie)  
-10. Maria Bekooy, ged. 28-02-1768, overl. 26-07-1851, otr/tr 24-11/09-12-1797 Pieter le Leu, ged. 22-06-1758, overl. 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
+10. Maria Bekooy, ged. 28-02-1768, overl. 26-07-1851, otr. 24-11-1797, tr. 09-12-1797 Pieter le Leu, ged. 22-06-1758, overl. 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
 11. Warnaar, ged. 12-03-1772, begr. 03/10-07-1773[†](#notitie)  
 
 ### VIb. Jacob Bekooy
@@ -735,7 +735,7 @@ Uit dit huwelijk:
 VIIb    TODO: Anthony Bekooy, ged. 08-10-1752, lakenwerker, overl./begr. 19/21-03-1814, otr. 22-04-1777 Johanna van Riet, ged. 10-12-1750, overl./begr. 12/16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
 
 Uit dit huwelijk:  
-1. Kaatje Bekooy, ged. 26-04-1778, spinster, overl. 09-04-1857, otr./tr. 1) (als Caatje Peut) 20-07/02-08-1804 Jan Overduyn, overl. 24-10-1808, weduwnaar van Anna van der Voorde(n) (otr. 16-07-1757), tr. 2) 23-08-1827 Jacobus Scheffer, Elu ged. 14-07-1756, kleermaker, overl. 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
+1. Kaatje Bekooy, ged. 26-04-1778, spinster, overl. 09-04-1857, 1) otr. 20-07-1804, tr. (als Caatje Peut) 02-08-1804 Jan Overduyn, overl. 24-10-1808, weduwnaar van Anna van der Voorde(n) (otr. 16-07-1757), 2) tr. 23-08-1827 Jacobus Scheffer, Elu ged. 14-07-1756, kleermaker, overl. 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
 2. Anna, ged. 13-01-1780, begr. 02-09-04-1785  
 3. Pieternelletje, ged. 11-04-1782  
 4. Antonia Bekooi, ged. 23-05-1784, overl. 13-06-1843, otr. 26-08-1808 Jan Nagelsmit, ged. 10-03-1785, opperman, overl. 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
@@ -749,10 +749,10 @@ VIIc    Jacobus Bekooy, ged. 24-02-1760, vachteblotersknegt, overl. 24-03-1836, 
 
 Uit dit huwelijk:  
 1. Japik, ged. 17-09-1780, volgt [VIIIh](#viiih-japik-jacob-bekooy)  
-2. Geertruy Bekooy, ged. 31-01-1782, overl. 05-12-1864, otr/tr 20-12-1810/05-01-1811 Denys van der Blom, ged. 29-06-1783, dekenkaarter, overl. 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
+2. Geertruy Bekooy, ged. 31-01-1782, overl. 05-12-1864, otr. 20-12-1810, tr. 05-01-1811 Denys van der Blom, ged. 29-06-1783, dekenkaarter, overl. 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
 Voorkind van Geertruy: Jacoba Bekooy, ged. 22-12-1805, overl. 26-11-1869, tr. 14-12-1826 Salomo den Os, ged. 29-12-1803, overl. 05-05-1856, zoon van Dirk den Os en Hendrika Vasseur.  
 3. Catharina Bekooy, ged. 16-07-1783, overl. 13-03-1874, otr. 25-02-1803 Willem Regeer, ged. 07-06-1780, lakenwerker, overl. 16-09-1832, zoon van Willem Regeer en Neeltje Ket.  
-4. Rachel Bekooy, ged. 23-04-1785, overl. 02-11-1865, otr./tr. 17-05/02-06-1810 Huybert van der Walle, ged. 16-04-1772, pruikmakersknecht, overl. 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
+4. Rachel Bekooy, ged. 23-04-1785, overl. 02-11-1865, otr. 17-05-1810, tr. 02-06-1810 Huybert van der Walle, ged. 16-04-1772, pruikmakersknecht, overl. 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
 5. Jacobus, ged. 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy)  
 6. Jantje, ged. 25-02-1789  
 7. Jannetje, ged. 17-02-1791, begr. 22-02/01-03-1794[†](#notitie)  
@@ -763,7 +763,7 @@ Voorkind van Geertruy: Jacoba Bekooy, ged. 22-12-1805, overl. 26-11-1869, tr. 14
 12. Hester, ged. 10-04-1803, begr. 24-11/01-12-1804[†](#notitie)  
 
 ### VIIIa. Jacobus Bekooy
-VIIIa    Jacobus Bekooy, ged. 23-07-1783, dekenwerker, overl. 13-07-1849, otr./tr. 1) 26-07/09-08-1806 Cornelia Elisabeth Briër, ged. 11-12-1781, overl. 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, tr. 2) 21-04-1814 Judith Neuteboom, ged. 13-07-1777, spinster, overl. 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
+VIIIa    Jacobus Bekooy, ged. 23-07-1783, dekenwerker, overl. 13-07-1849, 1) otr. 26-07-1806, tr. 09-08-1806 Cornelia Elisabeth Briër, ged. 11-12-1781, overl. 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, 2) tr. 21-04-1814 Judith Neuteboom, ged. 13-07-1777, spinster, overl. 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
 
 Uit het eerste huwelijk:  
 
@@ -873,14 +873,14 @@ Uit het tweede huwelijk:
 5. Cornelis, geboren 22-09-1827, overl. 30-05-1848  
   
 ### VIIIh. Japik (Jacob) Bekooy
-VIIIh    Japik (Jacob) Bekooy, ged. 17-09-1780, lakenwerker, woont Loyerstraat, overl. 18-12-1866, otr./tr. 03/18-10-1806 (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat) Maria Regeer, ged. 03-02-1778, overl. 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
+VIIIh    Japik (Jacob) Bekooy, ged. 17-09-1780, lakenwerker, woont Loyerstraat, overl. 18-12-1866, otr. 03-10-1806, tr. 18-10-1806 (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat) Maria Regeer, ged. 03-02-1778, overl. 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren 09-10-1811, ged. 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij)  
 2. Hester Bekooy, geboren 12-11-1814, spinster, overl. 30-07-1872, tr. 18-12-1834 Johannes Franken, geboren 17-03-1816, greinwever, overl. 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
 
 ### VIIIi. Jacobus Bekooy
-VIIIi    Jacobus Bekooy, ged. 30-12-1786, vagteblotersknecht, woont Loyerstraat, overl. 17-11-1839, otr./tr. 16/30-07-1808 (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat) Grietje van Eck, geboren 19-04-1789, ged. 23-04-1789, overl. 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
+VIIIi    Jacobus Bekooy, ged. 30-12-1786, vagteblotersknecht, woont Loyerstraat, overl. 17-11-1839, otr. 16-07-1808, tr. 30-07-1808 (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat) Grietje van Eck, geboren 19-04-1789, ged. 23-04-1789, overl. 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
 N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
@@ -1374,7 +1374,7 @@ Uit dit huwelijk:
 6. Hubert, Nederduits Gereformeerd ged. 17-05-1709, begr. 10/17-08-1709[†](#notitie).  
 7. Catarina de Klopper, Nederduits Gereformeerd ged. 24-06-1711, otr. 28-09-1731 Isaak Oosterwijk, weduwnaar van Agatha Maria van der Pont.  
 8. Maria de Klopper, Nederduits Gereformeerd ged. 05-02-1713, otr. 21-08-1739 Gerardus van Maanen, leverancier van ammunitie, geboren Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
-9. TODO: Susanna de Klopper, Nederduits Gereformeerd ged. 05-10-1714, overl./begr. Den Haag 18/22-05-1773, otr./tr. Leiden 05/23-10-1736 Cornelis van Maanen, ged. Den Haag 08-05-1708, notaris etc., overl./begr. Den Haag 12/16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
+9. TODO: Susanna de Klopper, Nederduits Gereformeerd ged. 05-10-1714, overl./begr. Den Haag 18/22-05-1773, otr. 05-10-1736, tr. Leiden 23-10-1736 Cornelis van Maanen, ged. Den Haag 08-05-1708, notaris etc., overl./begr. Den Haag 12/16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
 10. Johanna, Nederduits Gereformeerd ged. 17-02-1717, begr. 20/27-03-1717[†](#notitie).  
 11. Johanna, Nederduits Gereformeerd ged. 15-05-1718, begr. 16/23-03-1720[†](#notitie).  
 12. Anthony, Nederduits Gereformeerd ged. 14-05-1720, begr. 06/13-03-1723[†](#notitie).  
