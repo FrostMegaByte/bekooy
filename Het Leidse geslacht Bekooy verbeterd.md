@@ -202,14 +202,14 @@ IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vade
 IIIa    Elias de Buko, van Turkeng in Vlaanderen, geb. ca. 1560, overl. Leiden aan de pest 07-09-1602, otr. NG 03-08-1585 (getuige Anton de Buko zijn oom) Jacomyne du Pré, van Armentiers, getuige Claret du Pré haar moeder.  
 
 Uit dit huwelijk bekend:  
-1. Elie, W ged. Leiden 05-11-1600, leeft nog 30-09-1629 (3)  
+1. Elie, Waals ged. Leiden 05-11-1600, leeft nog 30-09-1629 (3)  
 
 Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.  
 
 Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucquoy Arnoutsz een bedrag van 100 gld ter weeskamer, zijnde de opbrengst van een obligatie gedateerd 15-05-1603, op naam van ‘Elias du Bucquoy Arnouts zoons weeskint genaemt Elias’. Zij hebben het geld ontvangen van Jaspar du Pré, van Armentières. Op 15-10-1607 brengen Olivier Arnoutsz en Olivier Anthonisz nog eens resp. 140 en 340 gld, eveneens interest tot onderhoud van het kind (4). Na zijn quittering van Weesmeesters bij gelegenheid van zijn meerderjarigheid (3) wordt van Elias Jr. niets meer vernomen.  
 
 ### IIIb. Olifier de Buquo
-IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overl./begr. 06-06-1616; voogdijstelling 17-08-1616), wednr. Joseyne Liagre, wolkammer, otr. 8-11-1602 (getuige Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) Martijne du Boys, van Verlenghem bij Rijssele, wed. Anthone Monier.  
+IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overl./begr. 06-06-1616; voogdijstelling 17-08-1616), wednr. Joseyne Liagre, wolkammer, otr. 08-11-1602 (getuige Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) Martijne du Boys, van Verlenghem bij Rijssele, wed. Anthone Monier.  
 
 Uit het eerste huwelijk bekend (5):  
 
@@ -230,10 +230,10 @@ Uit een eerder huwelijk bekend:
 
 Uit het tweede huwelijk:  
 
-2. Jacques, W ged. 09-06-1603  
-3. Jean, W ged. mei 1605  
-4. Pierre, W ged. 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy)  
-5. Sara de Bucquoy, W ged. 08-03-1615, woont bij de Byercaey, otr. 4-1-1636  
+2. Jacques, Waals ged. 09-06-1603  
+3. Jean, Waals ged. mei 1605  
+4. Pierre, Waals ged. 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy)  
+5. Sara de Bucquoy, Waals ged. 08-03-1615, woont bij de Byercaey, otr. 4-1-1636  
 (getuige Maria de Bucquoy haar zuster) Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, getuige Pieter le Toeur zijn broer.  
 
 ### IIId. Anthoine des Boucquois
@@ -265,28 +265,28 @@ IIIg    Olifier de Buckoy, van Turcoyn, overl./begr. 17-01-1620, otr. 26-8-1589 
 Uit dit huwelijk bekend, volgorde niet geheel bekend:  
 1. Annetgen des Bucquoy, geb. Leiden ca. 1598, otr. W 19-7-1618 (getuige Catrijne Spierings haar moeder) ds. Petrus Moyses, van Leyden, woont Nieuweveen.  
 2. Olivier, geb. ca. 1600, volgt [IVd](#ivd-olivier-de-bucquoy)  
-3. Marie, W ged. 04-02-1601  
-4. Chaterine, W ged. 24-02-1602  
+3. Marie, Waals ged. 04-02-1601  
+4. Chaterine, Waals ged. 24-02-1602  
   
 ### IVa. Pierre de Bucquoy
-IVa    Pierre du Bucquoy, W ged. 1e kwartaal 1607, woont St. Aechtenstraet, droogscheerder, otr. 16-5-1639 (getuige Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
+IVa    Pierre du Bucquoy, Waals ged. 1e kwartaal 1607, woont St. Aechtenstraet, droogscheerder, otr. 16-5-1639 (getuige Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 
 Uit dit huwelijk:  
-1. Pierre, W ged. 26-02-1640, getuige Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
-2. Judith, NG ged. 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
-3. Janneken, NG ged. 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
-4. Judith, W ged. 06-09-1643, getuige Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
-5. Jean, W ged. 05-03-1645, getuige Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy)  
+1. Pierre, Waals ged. 26-02-1640, getuige Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
+2. Judith, Nederduits Gereformeerd ged. 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+3. Janneken, Nederduits Gereformeerd ged. 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+4. Judith, Waals ged. 06-09-1643, getuige Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
+5. Jean, Waals ged. 05-03-1645, getuige Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy)  
 
 ### IVb. Jheremias de Bucquoy
-IVb    Jheremias de Bucquoy, geb. Leiden ca. 1588, passementwerker, overl. niet lang voor 03-04-1636 (9), otr. 1)W 21-1-1611 (getuige Pieter Bodeyn zijn beste vader (= grootvader) en Olivier de Bucquoy zijn oom) Proontgen van den Camere, van Turcoingen, overl. voor 03-04-1636, tr.(?) 2) Adriaentgen Cornelisdr (9).  
+IVb    Jheremias de Bucquoy, geb. Leiden ca. 1588, passementwerker, overl. niet lang voor 03-04-1636 (9), otr. 1) W 21-1-1611 (getuige Pieter Bodeyn zijn beste vader (= grootvader) en Olivier de Bucquoy zijn oom) Proontgen van den Camere, van Turcoingen, overl. voor 03-04-1636, tr.(?) 2) Adriaentgen Cornelisdr (9).  
 
 Uit het eerste huwelijk:  
 
-1. Lowijs, geb. 11-09-1611/W ged. 29-01-1612, overl. voor 03-04-1636 (9)  
-2. Martine de Bucquoy, W ged. ??-3/4/5-1614, tr. voor 1647 (?) Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
+1. Lowijs, geb. 11-09-1611/Waals ged. 29-01-1612, overl. voor 03-04-1636 (9)  
+2. Martine de Bucquoy, Waals ged. ??-3/4/5-1614, tr. voor 1647 (?) Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
 3. Jeremias, geb. 1616/17, overl. voor 1647 (?)  
-4. Jan, NG ged. 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
+4. Jan, Nederduits Gereformeerd ged. 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
 
 Uit het tweede huwelijk (huwelijk en doop niet gevonden):  
 
@@ -305,7 +305,7 @@ Theunis de Bucquoy, greinwerker van Medemblik, is op 11-08-1645 op de getuigenis
 ### IVd. Olivier de Bucquoy
 IVd    Olivier Bucquoy, herkomst niet genoemd, woont Bredestraet, begr. 09/15-01-1667, otr. 27-9-1629 (getuige Olivier Bucquoy, zijn vader) Claesgen Stockius (getuige Sophia van Dilsen, haar moeder. Sophia van Dilsen otr. Paulus Stock 29-10-1598), woont Bredestraet, geb. ca. 1605, overl. 28-10-1669,  
 
-Uit dit huwelijk, NG ged.:  
+Uit dit huwelijk, Nederduits Gereformeerd ged.:  
 1. Pieternella, ged. 05-03-1631, begr. 16-04-1631  
 2. Pieternella de Bucquoy, ged. 25-08-1632, woont Bredestraet, begr. 02/08-09-1668, otr. 10-8-1656 Niclaes van Campen, woont Marckt, koopman.  
 (Nicolaes van Campen, wednr. Petronella Bucquoy, woont Bredestraet, otr. 19-3-1670 Susanna de Hoorn, wed. Dirck van Assendelft, woont Nieuwen Rijn. De broer van de man is veertig in de raad.)  
@@ -318,29 +318,29 @@ Uit dit huwelijk, NG ged.:
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
-Va    Pieter Bucquoy, W ged. 26-02-1640, greinwerker, woont St. Aechtenstraet, overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (getuige Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gevonden, (Franchyntge Jans, wed. Pieter du B, woont Cleystraet. otr. 02-02-1669 Jan Roelofsz, woont Langegraft, lakenwerker)  
+Va    Pieter Bucquoy, Waals ged. 26-02-1640, greinwerker, woont St. Aechtenstraet, overl. voor 02-02-1669 (voogdijstelling), otr. W 02-04-1661 (getuige Sara Bucquoy zijn moeye) Franchyntgen Jans, van Haerlem, overl. niet gevonden, (Franchyntge Jans, wed. Pieter du B, woont Cleystraet. otr. 02-02-1669 Jan Roelofsz, woont Langegraft, lakenwerker)  
 
 Uit dit huwelijk:  
-1. Jeane, W ged. 05-08-1663, getuige Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
-2. Pierre, W ged. 06-12-1665, getuige Jean de Bucquoy, Jaque Favarcque, Anne Fransse et Judith Castel.  
+1. Jeane, Waals ged. 05-08-1663, getuige Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
+2. Pierre, Waals ged. 06-12-1665, getuige Jean de Bucquoy, Jaque Favarcque, Anne Fransse et Judith Castel.  
 
 ### Vb. Johannes de Bucquoy
-Vb    Johannes de Bucquoy, W ged. 05-03-1645, woont Cruysstraet, greinwerker, otr. 01-09-1674 (getuige Claes Locquefier zijn neef) Catharina le Franck, W ged. 09-03-1653, woont Cruysstraet, begr. 18/25-09-1717, dochter van Charles de Francque en Catharine de Langle (l’Engle).  
+Vb    Johannes de Bucquoy, Waals ged. 05-03-1645, woont Cruysstraet, greinwerker, otr. 01-09-1674 (getuige Claes Locquefier zijn neef) Catharina le Franck, Waals ged. 09-03-1653, woont Cruysstraet, begr. 18/25-09-1717, dochter van Charles de Francque en Catharine de Langle (l’Engle).  
 
 Uit dit huwelijk:  
-1. Sara Bucquoy, geb./W ged. 30-08/01-09-1675, woont Meutiesteegh, otr. (Schepenen) 19-05-1703 (getuige haar moeder Catharina le Fran) Cornelis Reyniersz, lakenwerker van Leiden, woont Nieuwe Levendael. N.B. De bruidegeom was RK.  
-2. Rebecca, geb./W ged./ 14/20-06-1676  
-3. Abraham, geb./W ged. 11/13-10-1680, volgt [VIa](#via-abraham-bukoy)  
-4. Isac, geb./W ged. 04/07-03-1683, volgt [VIb](#vib-isack-bucquoy)  
-5. Jacob, NG ged. 12-12-1685  
+1. Sara Bucquoy, geb. 30-08-1675, Waals ged. 01-09-1675, woont Meutiesteegh, otr. (Schepenen) 19-05-1703 (getuige haar moeder Catharina le Fran) Cornelis Reyniersz, lakenwerker van Leiden, woont Nieuwe Levendael. N.B. De bruidegeom was RK.  
+2. Rebecca, geb. 14-06-1676, Waals ged. 20-06-1676  
+3. Abraham, geb. 11-10-1680, Waals ged. 13-10-1680, volgt [VIa](#via-abraham-bukoy)  
+4. Isac, geb. 04-03-1683, Waals ged. 07-03-1683, volgt [VIb](#vib-isack-bucquoy)  
+5. Jacob, Nederduits Gereformeerd ged. 12-12-1685  
 
 Bij de getuigen bij de dopen van de kinderen is geen enkele Bucquoy, allen zijn uit de schoonfamilie (of verder verwijderde familieleden).  
 
 ### Vc. Jean de Bucquoy
-Vc    Jean de Bucquoy, NG ged. 30-12-1621, woont Paradijssteech, slotenmaker, otr. 28-08-1648 (getuige Abraham de Bodeyn zijn neef) Susannetgen Jacobsdr, woont Paradijssteech.  
+Vc    Jean de Bucquoy, Nederduits Gereformeerd ged. 30-12-1621, woont Paradijssteech, slotenmaker, otr. 28-08-1648 (getuige Abraham de Bodeyn zijn neef) Susannetgen Jacobsdr, woont Paradijssteech.  
 
 Uit dit huwelijk:  
-1. Geertruijdt, NG ged. 15-05-1649, getuige Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
+1. Geertruijdt, Nederduits Gereformeerd ged. 15-05-1649, getuige Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
 
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit (13).  
 
@@ -357,14 +357,14 @@ Uit dit huwelijk:
 Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr. wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
 
 ### VIa. Abraham Bukoy
-VIa    Abraham Bukoy, geb./W ged. 11/13-10-1680, tr.? (huw. niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
+VIa    Abraham Bukoy, geb. 11-10-1680, Waals ged. 13-10-1680, tr.? (huw. niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
 
 Uit dit huwelijk:  
 1. Jan, ged. 11-03-1705, volgt [VIIa](#viia-jan-bekooy)  
 2. Magdalena, ged. 29-09-1706 (getuige Catharina Franc)  
 
 ### VIb. Isack Bucquoy
-VIb    Isack Bucquoy, geb./w ged. 04/07-03-1683, molenaarsknecht, begr. 21/28-04-1736, otr. 07-02-1711 Anna de Vos, ged. 05-10-1687, begr. 10/17-02-1725, dochter van Guilliaem de Vos en Maria Slosser.  
+VIb    Isack Bucquoy, geb. 04-03-1683, Waals ged. 07-03-1683, molenaarsknecht, begr. 21/28-04-1736, otr. 07-02-1711 Anna de Vos, ged. 05-10-1687, begr. 10/17-02-1725, dochter van Guilliaem de Vos en Maria Slosser.  
 
 Uit dit huwelijk:  
 1. Abraham, ged. 29-09-1711, volgt [VIIb](#viib-abraham-buckooy)  
@@ -374,8 +374,8 @@ Uit dit huwelijk:
 5. Angeniet Bekooy, ged. 14-01-1717, begr. 09/16-06-1781, otr. 18-04-1739 Claude le Soin, broodbakkersknecht, ged. 29-04-1714, begr. Leiderdorp 01-07-1802 als Glaude Leswijn, zoon van Paulus Leswijn en Maartje Cegon.  
 6. Hendrina Bucquoy, ged. 16-03-1718, begr. 04/11-07-1772, otr. 22-04-1740 David de Risjouw, droogscheerder van Leiden, ged. 13-04-1718, begr. 24-06/01-07-1769, zoon van David de Rouloi (= de Rousseau) en Abigael Neuteboom  
 (otr. David de Rousseau en Abigael Noteboom 17-07-1717, RAL KOT GG 204).  
-7. Johanna Buckooy, ged. 22-10-1719, begr. 19/26-01-1799, otr. 06-04-1742 Hendrik van der Reyden, metselaarsknecht, ged. 01-05-1716, overl. voor 1799, zoon van Dirk van der Rijden en Johanna Copijn.  
-8. Christina, ged. 16-03-1721  
+1. Johanna Buckooy, ged. 22-10-1719, begr. 19/26-01-1799, otr. 06-04-1742 Hendrik van der Reyden, metselaarsknecht, ged. 01-05-1716, overl. voor 1799, zoon van Dirk van der Rijden en Johanna Copijn.  
+2. Christina, ged. 16-03-1721  
 
 ### VIIa. Jan Bekooy
 VIIa    Jan Bekooy, ged. 11-03-1705, kuypersknecht, otr. 05-08-1735, getuige Isaac Bekooy zijn oom, Joosje van Leeuwen, doop niet gevonden, begr. 08/15-01-1774, dochter van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
@@ -623,7 +623,7 @@ Uit dit huwelijk bekend:
 ### IIIa. Jean de Bucquoy
 IIIa (Q 246)    Jean de Bucquoy, van Movou, woont Corte Scheystraet, greinwerker, (overl. kort voor 08-09-1670 (16)) otr. W 21-7-1659 (getuige Walrave de Buquoy zijn vader) Machtelt (of Michelle) de Quiene, woont Rijnsburgerpoort, getuige Pierone Bayse haar moeder.  
 
-Uit dit huwelijk, W ged.:  
+Uit dit huwelijk, Waals ged.:  
 1. Jean\*, ged. 21-07-1660, getuige Valeran de Bucquoy e.a.  
 2. Abraham\*, ged. 26-10-1661, getuige Pierre du Quesne, Etienne du Quesne, Pierronne Dervaus en Marie Herman.  
 3. Marie\*, ged. 28-01-1663, v. getuige Jean du Chesne, Gerard du Bucquoy, Anne du Chesne et Jeane du Chesne.  
@@ -634,15 +634,15 @@ Uit dit huwelijk, W ged.:
 \* De kinderen 1 t/m 3 en 6 zijn overleden voor 08-09-1670 (16).  
 
 ### IIIb. Gerard du Bucquoy
-IIIb (S 22)    Gerard du Bucquoy, van Bondu, overl. kort voor 25-10-1683 (17), woont Langegraft, greinwerker, otr. W 16-8-1664 (getuige Walram de Bucquoy zijn vader) Lysbet Jenot, geb./W ged./ 21/27-04-1642, woont Corte Scheystraet, dochter van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, wednr. Anthoneth Tjeers, woont Gorstestraet, otr. W 25-10-1683 Lysbeth Jenoth, wed. Gerard du Bucquoy, woont Gorstestraet)  
+IIIb (S 22)    Gerard du Bucquoy, van Bondu, overl. kort voor 25-10-1683 (17), woont Langegraft, greinwerker, otr. W 16-8-1664 (getuige Walram de Bucquoy zijn vader) Lysbet Jenot, geb. 21-04-1642, Waals ged. 27-04-1642, woont Corte Scheystraet, dochter van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, wednr. Anthoneth Tjeers, woont Gorstestraet, otr. W 25-10-1683 Lysbeth Jenoth, wed. Gerard du Bucquoy, woont Gorstestraet)  
 
 Uit dit huwelijk:  
-1. Walran, W ged. 15-07-1665, getuige Walran des Bucquoy, Guilbert Derveau, Antoniette Seteuille et Elisabeth Bailler. Volgt [IVa](#iva-walran-warnaar-de-bucquoy)  
-2. Elizabeth, W ged. 03-07-1669 (getuige Jean de Buquoy, Jean Cathe, Peironne Derveau et Catherine Jenote), overl. voor 25-10-1683.  
-3. Anthoine, geb./W ged. 24/26-08-1671 (getuige Huber de Buquoy, Anthoine de Buquoy, Marie Genote et Elizabeth de Rurau), overl. voor 25-10-1683  
-4. Suzane de Bucquoy, geb./W ged. 7/10-09-1673 (getuige Anthoine de Bucquoy, Marie Schenote, Ester Schenote), woont Binnenvestgraft bij de Rijnstraet, otr. 25-11-1700 (getuige Marytje van Diest haar schoonzuster) Abraham Duchoswaer, greijnwercker, woont Nieuwe Levendael.  
-5. Gerard, geb./W ged. 22-05-1676 (getuige Louys Gloslain, Jehanne Dervaux.  
-6. Pierre, geb./W ged. 22/26-03-1679, getuige Pierre Genot, Judith Janse et Elisabeth Dervaux), overl. voor 25-10-1683.  
+1. Walran, Waals ged. 15-07-1665, getuige Walran des Bucquoy, Guilbert Derveau, Antoniette Seteuille et Elisabeth Bailler. Volgt [IVa](#iva-walran-warnaar-de-bucquoy)  
+2. Elizabeth, Waals ged. 03-07-1669 (getuige Jean de Buquoy, Jean Cathe, Peironne Derveau et Catherine Jenote), overl. voor 25-10-1683.  
+3. Anthoine, geb. 24-08-1671, Waals ged. 26-08-1671 (getuige Huber de Buquoy, Anthoine de Buquoy, Marie Genote et Elizabeth de Rurau), overl. voor 25-10-1683  
+4. Suzane de Bucquoy, geb. 07-09-1673, Waals ged. 10-09-1673 (getuige Anthoine de Bucquoy, Marie Schenote, Ester Schenote), woont Binnenvestgraft bij de Rijnstraet, otr. 25-11-1700 (getuige Marytje van Diest haar schoonzuster) Abraham Duchoswaer, greijnwercker, woont Nieuwe Levendael.  
+5. Gerard, geb./Waals ged. 22-05-1676 (getuige Louys Gloslain, Jehanne Dervaux).  
+6. Pierre, geb. 22-03-1679, Waals ged. 26-03-1679, (getuige Pierre Genot, Judith Janse et Elisabeth Dervaux), overl. voor 25-10-1683.  
 
 Op 25-10-1683 worden Pieter Anthonisz, bierdrager, en Anthony Bucquoy, greinwerker, voogd gesteld over Warnaer, 18 j, en Susanna, 10 j, nagelaten kinderen van Gerrit de Bucquoy bij Elisabeth Jennot (17).  
 
@@ -658,10 +658,10 @@ Barent Koster ondertrouwde Marytje Verrejager, wed. Joris van Bremen, op 14-07-1
 IIId    Philps de Bucquoy, van Bondu, woont Haerlemstraet, kleermaker, otr. W 1-5-1660 (getuige Walram de Bucquoy zijn oom) Pierone Caterijs, (overl. op of kort voor 05-03-1704), wed. Huybert de Coutinje, woont Cleystraet.  
 
 Uit dit huwelijk:  
-1. Jean, W ged. 23-02-1661, getuige Jean du Quesne et Marie Masse.  
-2. Sara (de) Bucquoy, W ged. 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, otr. W 07-10-1689/tr. Voorschoten Jean Howel, woont Scheystraet, wednr. Mary Hoesee.  
-3. Abram (18), W ged. 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
-4. Maria de Bekoy, geb./W ged. 24/26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begr. 02/09-07-1740, otr 30-5-1698 (getuige Sara de Bekoy haar zuster) Johannes la Louw, overl. voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
+1. Jean, Waals ged. 23-02-1661, getuige Jean du Quesne et Marie Masse.  
+2. Sara (de) Bucquoy, Waals ged. 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, otr. W 07-10-1689/tr. Voorschoten Jean Howel, woont Scheystraet, wednr. Mary Hoesee.  
+3. Abram (18), Waals ged. 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
+4. Maria de Bekoy, geb. 24-06-1672, Waals ged. 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begr. 02/09-07-1740, otr 30-5-1698 (getuige Sara de Bekoy haar zuster) Johannes la Louw, overl. voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
 
 Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, woont in de Scheystraat. Zij prelegateert aan haar dochter Jeanne Cottiny en haar drie andere kinderen Sara, Abram en Marie de Bucquoy bedragen van rond 1000 glds en benoemt Abraham la Lau, Jean la Lau en Jean Houwel tot executeurs-testamentair. De akte is merkwaardigerwijs in het Frans. Zou deze in redelijke welstand verkeerd hebbende dame zich te groot hebben gevoeld om, na ruim 40 jaar in Holland te hebben gewoond, de taal te spreken? De executie vangt aan op 05-03-1704 (18).  
 
@@ -669,12 +669,12 @@ Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, woont in d
 IIIe (T 200v)    Jan de Bucquoy, van Bondu, woont Dieffsteech, greinreder, otr. 28-11-1669 (getuige Philps de Bucqoy zijn broeder) Elysabeth Hallius, van Leyden, woont Dieffsteech.  
 
 Uit dit huwelijk:  
-1. Jan, NG ged. 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), getuige Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
+1. Jan, Nederduits Gereformeerd ged. 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), getuige Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
 
 ### IVa. Walran (Warnaar) de Bucquoy
-IVa    Walran (Warnaar) de Bucquoy, W ged. 15-07-1665, greynwerker opt Levendael, begr. 26-02/05-03-1735, otr. 12-11-1694 (getuige Jan Lemoine, zijn schoonvader (=stiefvader)) Maria van Diest, overl. voor 26-02-1735, weduwe van Pieter de Pree (otr. 19-10-1689)  
+IVa    Walran (Warnaar) de Bucquoy, Waals ged. 15-07-1665, greynwerker opt Levendael, begr. 26-02/05-03-1735, otr. 12-11-1694 (getuige Jan Lemoine, zijn schoonvader (=stiefvader)) Maria van Diest, overl. voor 26-02-1735, weduwe van Pieter de Pree (otr. 19-10-1689)  
 
-Uit dit huwelijk, NG ged.:  
+Uit dit huwelijk, Nederduits Gereformeerd ged.:  
 1. Gerrit, ged. 21-09-1695, getuige Jan Le Moine, Antonette Servie, Susanna de Bucoy.  
 2. Jacobus, ged. 25-08-1697, getuige Antoon de Bucooy, Maria Claas. Volgt Va  
 3. Elisabeth de Bucquoij, ged. 24-12-1699 (getuige Susannetjen de Bukoij), overl. voor 18-08-1732 (voogdijstelling), otr. 26-4-1721 Abraham le Pers (= le Pair), greijnwerker, getuige Jan le Pers, zijn vader.  
@@ -683,7 +683,7 @@ Uit dit huwelijk, NG ged.:
 ### Va. Jacobus de Bucquoy
 Va    Jacobus de Bucquoy, ged. 25-08-1697, greynwercker, begr. 05/12-05-1731, otr. 20-04-1726 Rachel Tijn, ged. 30-11-1698, begr.  
 25-08/01-09-1787 als wed. van Jan Olivier, dochter van Jacob Teyn en Grietje Jans le Pair (la Paar). (Rachel T. herotr. 02-04-1735 Johannes Olivier.)  
-De Franse versie van de achternaam van Rachel is waarschijnlijk Tin: op 04-08-1680 werd W ged. Jacob, zoon van Abraham Tin en Jeanne du Quenne. Onder de getuigen waren Jacob Tin en Marguerite le Per, die op 25-04-1682 als Jacob Teyn en Grietje Jans le Pair in ondertrouw gingen.  
+De Franse versie van de achternaam van Rachel is waarschijnlijk Tin: op 04-08-1680 werd Waals ged. Jacob, zoon van Abraham Tin en Jeanne du Quenne. Onder de getuigen waren Jacob Tin en Marguerite le Per, die op 25-04-1682 als Jacob Teyn en Grietje Jans le Pair in ondertrouw gingen.  
 
 Uit dit huwelijk:  
 1. Warnaar, ged. 28-05-1726, volgt [VIa](#via-warnaar-bekooy)  
@@ -740,7 +740,7 @@ Uit dit huwelijk:
 2. Anna, ged. 13-01-1780, begr. 02-09-04-1785  
 3. Pieternelletje, ged. 11-04-1782  
 4. Antonia Bekooi, ged. 23-05-1784, overl. 13-06-1843, otr. 26-08-1808 Jan Nagelsmit, ged. 10-03-1785, opperman, overl. 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
-5. Jacob, geb./ged. 4/5-09-1786, volgt [VIIIe](#viiie-jacob-bekooy)  
+5. Jacob, geb. 04-09-1786, ged. 05-09-1786, volgt [VIIIe](#viiie-jacob-bekooy)  
 6. Pieter, ged. 28-10-1788, volgt [VIIIf](#viiif-pieter-bekooy)  
 7. Abraham Johannes, ged. 17-02-1791, volgt [VIIIg](#viiig-abraham-johannes-bekooy)  
 x. Hendrica (onecht), ged. 11-05-1785, m. Hendrikje Lakoert  
@@ -768,8 +768,8 @@ VIIIa    Jacobus Bekooy, ged. 23-07-1783, dekenwerker, overl. 13-07-1849, otr./t
 
 Uit het eerste huwelijk:  
 
-1. Geertruy Bekooy, geb./ged. 04/08-01-1807, overl. 13-09-1856, tr. 16-09-1830 Dirk Jacobus Thiel, huisverwer, geb. 14-09-1811, overl. t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
-2. Elizabeth, geb./ged. 25/26-11-1809, overl./begr. 18/19-06-1813  
+1. Geertruy Bekooy, geb. 04-01-1807, ged. 08-01-1807, overl. 13-09-1856, tr. 16-09-1830 Dirk Jacobus Thiel, huisverwer, geb. 14-09-1811, overl. t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
+2. Elizabeth, geb. 25-11-1809, ged. 26-11-1809, overl./begr. 18/19-06-1813  
 
 Uit het tweede huwelijk:  
 
@@ -847,7 +847,7 @@ Voorzoons Jacoba:
 VIIIf    Pieter Bekooy, ged. 28-10-1788, baggerman, overl. 09-10-1859, tr. 09-09-1814 Margaretha Rosendaal, ged. 15-02-1795, overl. 03-09-1875, dochter van Willem Rozendaal en Maria Elkerbout.  
 
 Uit dit huwelijk:  
-1. Johanna Bekooy, geb. 27-09-1814, overl. 20-10-1844, tr. 29-01-1835 Johannes Laterveer, geb./ged. 02/08-12-1811, wever, later politieagent, overl. 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
+1. Johanna Bekooy, geb. 27-09-1814, overl. 20-10-1844, tr. 29-01-1835 Johannes Laterveer, geb. 02-12-1811/ged. 08-12-1811, wever, later politieagent, overl. 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
 2. Willem, geb. 28-08-1816, overl. 14-04-1820  
 3. Maria Elisabeth Bekooy, geb. 16-01-1819, dienstbode, overl. 02-09-1892, tr. 15-05-1845 Cornelis Johannes Oudshoorn, geb. 17-07-1818, warmoezier, overl. 26-02-1892, zoon van Johannes Oudshoorn en Maria Cornelia van Drongen.  
 4. Sophia Wilhelmina Bekooi, geb. 09-09-1820, dienstbode, overl. 09-06-1882 als weduwe van Isaac Starre, welk huwelijk niet is gevonden.  
@@ -877,15 +877,15 @@ Uit het tweede huwelijk:
 VIIIh    Japik (Jacob) Bekooy, ged. 17-09-1780, lakenwerker, woont Loyerstraat, overl. 18-12-1866, otr./tr. 03/18-10-1806 (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat) Maria Regeer, ged. 03-02-1778, overl. 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
 
 Uit dit huwelijk:  
-1. Jacob, geb./ged. 09/13-10-1811, volgt [IXe](#ixe-jacobus-bekooij)  
+1. Jacob, geb. 09-10-1811, ged. 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij)  
 2. Hester Bekooy, geb. 12-11-1814, spinster, overl. 30-07-1872, tr. 18-12-1834 Johannes Franken, geb. 17-03-1816, greinwever, overl. 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
 
 ### VIIIi. Jacobus Bekooy
-VIIIi    Jacobus Bekooy, ged. 30-12-1786, vagteblotersknecht, woont Loyerstraat, overl. 17-11-1839, otr./tr. 16/30-07-1808 (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat) Grietje van Eck, geb./ged. 19/23-04-1789, overl. 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
+VIIIi    Jacobus Bekooy, ged. 30-12-1786, vagteblotersknecht, woont Loyerstraat, overl. 17-11-1839, otr./tr. 16/30-07-1808 (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat) Grietje van Eck, geb. 19-04-1789, ged. 23-04-1789, overl. 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
 N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
-1. Koosje Bekooy, geb./ged. 24/27-10-1808, spinster, overl. 29-11-1840, tr. 03-09-1829 Willem Jacobus Paats, ged. 13-11-1805, dubbelaar, overl. 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
+1. Koosje Bekooy, geb. 24-10-1808, ged. 27-10-1808, spinster, overl. 29-11-1840, tr. 03-09-1829 Willem Jacobus Paats, ged. 13-11-1805, dubbelaar, overl. 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
 2. Jan, ged. 24/30-09-1810  
 3. Margaretha, geb. 15-07-1812, overl./begr. 16/17-07-1812  
 4. Jacobus, geb. 11-02-1814, volgt [IXf](#ixf-jacobus-bekooy)  
@@ -1188,39 +1188,39 @@ Uit dit huwelijk bekend:
 II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, otr. 12-08-1630 (getuige Philippe de Bucquoy zijn vader) Jannetgen Govertsdr, van Leiden (overl./begr. 29-04-1671), getuige Jannetgen Claesdr haar moeder.  
 
 Uit dit huwelijk:  
-1. Marie, W ged. 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overl.  
-2. Philippe, W ged. 07-12-1632, getuige Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
-3. Henri, W ged. 03-12-1634 (getuige Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overl. voor 05-06-1677 (15).  
-4. Jeanne (Jannetgen) Bucquoy, W ged. 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
-5. Marie, W ged. 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overl. voor 05-06-1677 (15).  
-6. Susanne du Buquoy, W ged. 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, otr. W 5-11-1677 Pauls van der Poel, wednr. Aeltge Claes van Immerseel, woont Uytterstegraft.  
-7. Jacques, geb./W. ged. 8/12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overl. voor 05-06-1677 (15) .  
-8. Ester, W ged. 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overl. voor 05-06-1677 (15).  
-9. Marie, W ged. 21-02-1644 (getuige Jan des Tombe, Jacques le Plat, Judith et Sara des Bucquoy), jong overl.  
-10. Jean, W ged. 30-04-1645 (getuige Arent Smitsaer, Noé Catoire, Susanne Gofar et Sara L’ansel), overl. voor 05-06-1677 (15)  
-11. Elisabeth, W ged. 15-04-1646 (getuige Lauren de Planques, Tybaut Lambert, Marie Hubert et Ester Pierreux), overl. voor 05-06-1677 (15).  
-12. Abraham, W ged. 25-08-1647, getuige Jean Carette, Gilles Desbuquoy, Jeanne Clarisse et Marie Pollé. Volgt [IIIb](#iiib-abraham-du-buquoy)  
-13. Isaac, W ged. 06-03-1650 (getuige Henry des Busquoy, Elie Cateau, Susanne Goffart et Sara Croneler), overl. voor 05-06-1677 (15).  
-14. Marie, W ged. 09-07-1652, overl. voor 05-06-1677 (15).  
-15. Jacob, W ged. 21-09-1653 (getuige Ezechiel de Tombe, Marc Varin, Rachel Forman et Claire de Planc), overl. voor 05-06-1677 (15).  
+1. Marie, Waals ged. 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overl.  
+2. Philippe, Waals ged. 07-12-1632, getuige Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
+3. Henri, Waals ged. 03-12-1634 (getuige Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overl. voor 05-06-1677 (15).  
+4. Jeanne (Jannetgen) Bucquoy, Waals ged. 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overl. voor 12-05-1678, otr. 1) 09-10-1659 Phillips de Prez, bakker van Mervillje, overl. voor 03-12-1670, otr. 2) 03-12-1670 Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, wednr. Jannetge de Bucquoy, otr. 12-5-1678 Anna Kamper).  
+5. Marie, Waals ged. 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overl. voor 05-06-1677 (15).  
+6. Susanne du Buquoy, Waals ged. 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, otr. W 05-11-1677 Pauls van der Poel, wednr. Aeltge Claes van Immerseel, woont Uytterstegraft.  
+7. Jacques, geb. 08-09-1641, Waals ged. 12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overl. voor 05-06-1677 (15) .  
+8. Ester, Waals ged. 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overl. voor 05-06-1677 (15).  
+9. Marie, Waals ged. 21-02-1644 (getuige Jan des Tombe, Jacques le Plat, Judith et Sara des Bucquoy), jong overl.  
+10. Jean, Waals ged. 30-04-1645 (getuige Arent Smitsaer, Noé Catoire, Susanne Gofar et Sara L’ansel), overl. voor 05-06-1677 (15)  
+11. Elisabeth, Waals ged. 15-04-1646 (getuige Lauren de Planques, Tybaut Lambert, Marie Hubert et Ester Pierreux), overl. voor 05-06-1677 (15).  
+12. Abraham, Waals ged. 25-08-1647, getuige Jean Carette, Gilles Desbuquoy, Jeanne Clarisse et Marie Pollé. Volgt [IIIb](#iiib-abraham-du-buquoy)  
+13. Isaac, Waals ged. 06-03-1650 (getuige Henry des Busquoy, Elie Cateau, Susanne Goffart et Sara Croneler), overl. voor 05-06-1677 (15).  
+14. Marie, Waals ged. 09-07-1652, overl. voor 05-06-1677 (15).  
+15. Jacob, Waals ged. 21-09-1653 (getuige Ezechiel de Tombe, Marc Varin, Rachel Forman et Claire de Planc), overl. voor 05-06-1677 (15).  
 
 Op 05-06-1677 testeert Anthony du Bucquoy, stoeldraaier op de Heeregracht, voor notaris Den Oosterling (15). Uit het testament blijkt, dat nog slechts 3 kinderen in leven zijn: Jeanne (getrouwd), Susanna en Abram (beiden nog ongehuwd). Philippe overleefde de kindertijd, trouwde en was inmiddels overleden en liet enkele (hoeveel ?) kinderen na.  
 
 ### IIIa. Philippus du Bucquoy
-IIIa    Philippus du Bucquoy, W ged. 07-12-1632, overl. voor 05-06-1677, woont Oude Vest, otr. W 21-4-1661 Cathalijne du Prez, van Marvillje, woont Gaernmarct, getuige Proontgen du Prez haar zuster.  
+IIIa    Philippus du Bucquoy, Waals ged. 07-12-1632, overl. voor 05-06-1677, woont Oude Vest, otr. W 21-4-1661 Cathalijne du Prez, van Marvillje, woont Gaernmarct, getuige Proontgen du Prez haar zuster.  
 
-Uit dit huwelijk, W ged.:  
+Uit dit huwelijk, Waals ged.:  
 1. Abraham, ged. 08-03-1662, getuige Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
 2. Philippe, ged. 14-10-1663, getuige Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
 3. Philippe, ged. 23-11-1664, getuige Anthoine de Bucquoy, Thomas de Bucquoy, Pieronne de Pré et Jeane de Bucquoy.  
 4. Abraham, ged. 09-01-1667, getuige Jacob Cateau, Jean Cornelis van Tol (Jean Thonisz de Toeur ?), Jeane de Bucquoy, et Pieronne de Pré.  
 5. Izaac, ged. 02-12-1668, getuige Henry del Bucquoy, Marc Varnié, Susanne des Bucquois, Judith de Mortier.  
-6. Marya, geb./ged. 26-01/02-02-1670, getuige Abraham des Buquoi et Marc Varnie, Susanne des Buquoi et Judith de Mortie.  
-7. Jehan, geb./ged. 11/13-05-1671, getuige Anthoine de Bucquoy et Françoise de Hopa, Susanne de Bucquoy et Susanna Gofar.  
-8. Marya de Bucquoy, geb./ged. 05/07-06-1673 (getuige Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begr. 04/11-12-1745, otr. 07-11-1698 Jacobus Vileyn, overl. waarschijnlijk na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle)  
+6. Marya, geb. 26-01-1670, ged. 02-02-1670, getuige Abraham des Buquoi et Marc Varnie, Susanne des Buquoi et Judith de Mortie.  
+7. Jehan, geb. 11-05-1671, ged. 13-05-1671, getuige Anthoine de Bucquoy et Françoise de Hopa, Susanne de Bucquoy et Susanna Gofar.  
+8. Marya de Bucquoy, geb. 05-06-1673, ged. 07-06-1673 (getuige Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begr. 04/11-12-1745, otr. 07-11-1698 Jacobus Vileyn, overl. waarschijnlijk na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle)  
 
 ### IIIb. Abraham du Buquoy
-IIIb    Abraham du Buquoy, W ged. 25-08-1647, greinwever, woont Heeregraft, bij 2e huw. Doelgraft, overl. voor 01-09-1691, otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (waarschijnlijk ged. 07-01-1652, dochter van Claes Jansz en Martgen Willems), woont Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans van Dyck, van Wijck bij Duyrstede, woont Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, woont Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, woont Koepoortsgraft.)  
+IIIb    Abraham du Buquoy, Waals ged. 25-08-1647, greinwever, woont Heeregraft, bij 2e huw. Doelgraft, overl. voor 01-09-1691, otr. 1) 26-4-1680 Maertge Claes van Immerseel, geb. Warmond (waarschijnlijk ged. 07-01-1652, dochter van Claes Jansz en Martgen Willems), woont Koppenklincksteech, overl. voor 15-06-1686, otr. 2) 15-6-1686 Geertruy Jans van Dyck, van Wijck bij Duyrstede, woont Doelgraft. (Geertruyt Jans van Dijck, wed. Abraham de Buckoy, woont Doelgraft, otr. 1-9-1691 Pieter de Turck, wednr. Claesie Dircks, woont Koepoortsgraft.)  
 
 Uit het eerste huwelijk:  
 
@@ -1254,9 +1254,9 @@ Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangeste
 ### IIa. Jan de Bucquoy
 IIa    Jan de Bucquoy, geb. voor 1635, van Mouveaux, overl. kort voor 24-12-1668, woont Gaernmarckt, greinreder, otr. W 14-11-1657 (getuige Jean de Tombe zijn oom) Marya de Buff, van Leyden, (overl. kort voor 28-02-1670; voogdijstelling), woont Maersmansteech, getuige Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dochter van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is waarschijnlijk niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
 
-Uit dit huwelijk, NG ged.:  
+Uit dit huwelijk, Nederduits Gereformeerd ged.:  
 1. Johannes, ged. 29-08-1658, getuige Jan de Beuf, Jan des Tombe, Aeltgen Veerem, Maria des Tombe.  
-2. Marie Bucquoy, W ged. 11-06-1660 (getuige Henry de Beuf, Anthoine de Buquoy, Madeleine de Tombe, Susanne de Camp), otr. 7-6-1686 (getuige Lysbeth van Cranenburgh haar meuy; Lysbeth van Cranenburch otr. Leiden/tr. Zoeterwoude 04-03/26-03-1684 Hendrik de Buff (23)) Jacobus de Bunje, chirurgijn van L., getuige Jacobus de Bunje zijn oom.  
+2. Marie Bucquoy, Waals ged. 11-06-1660 (getuige Henry de Beuf, Anthoine de Buquoy, Madeleine de Tombe, Susanne de Camp), otr. 7-6-1686 (getuige Lysbeth van Cranenburgh haar meuy; Lysbeth van Cranenburch otr. Leiden/tr. Zoeterwoude 04-03/26-03-1684 Hendrik de Buff (23)) Jacobus de Bunje, chirurgijn van L., getuige Jacobus de Bunje zijn oom.  
 3. Hester, ged. 01-10-1662, getuige Jan de Buff d’Oude, Jan de Buff de Jonge, Aeltie Veerom, Marie Le Baisseur.  
 4. Suzanna, ged. 11-11-1664,  
 5. Sara Bucquoy, ged. 06-12-1665, woont Nieuwe Rijn, begr. 21/28-04-1753, otr. 30-12-1686 (getuige Maria Bucquoy haar zuster) Dirk Drijfnoo (Drijfloo ?), ged. 28-11-1658, chirurgijn, woont Haerlemstraet, overl. voor april 1753, zoon van Cornelis Drijflo en Susanna Palingh.  
@@ -1268,7 +1268,7 @@ Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven (24). Waarschijnl
 IIb    Anthony de Bucquoy, van Mouvoe, woont Orangiegraft, greinwerker, otr. W 18-9-1668 Jannetge Denijs, wed. Bonaventuyr  Martijn, woont Orangiegraft.  
 
 Uit dit huwelijk:  
-1. Johanna, W ged. 29-01-1669, getuige Jan de Tombe, Suzanna de Tombe.  
+1. Johanna, Waals ged. 29-01-1669, getuige Jan de Tombe, Suzanna de Tombe.  
   
 ## E. NIET PLAATSBAREN  
   
@@ -1296,10 +1296,10 @@ Zie hiervoor Delft en Rotterdam:
   - 22-09-1678 Delft gedoopt Catarina, dochter van Johan du Buquoy en Anna de Weert. Getuigen Johan de Weert en Catarina van Eenhoorn.  
   - Gezien hun ondertrouwdata kunnen de kinderen Elisabeth en Cornelia best uit het eerste huwelijk van Johannes de B. zijn. Het is onduidelijk wie de eerste echtgenote was. Misschien Elisabeth Jans: attestatie in Leiden 28-06-1671 Jan de Bucquoy en Elisabeth Jans (m/v) naar niet vermelde plaats. Een huwelijk is echter in Leiden niet gevonden, en evenmin dopen van kinderen.  
   - Kinderen van Philippe Jordan en Cornelia de Bucquoy (Becquoy):  
-      1. Elisabeth, geb./ged. 1/8-12-1700, getuige Jean en Violente Despuile.  
-      2. Nathanael, geb./ged. 17/19-05-1702, getuige Nathanael Gautier en Marguerite de la Bergerie.  
-      3. Louise, geb./ged. 31-07/03-08-1703, getuige Philippe Jordan (??) en Louise de la Bergerie.  
-      4. Jean Philippe, geb./ged. 07-08/11-08-1706, getuige Jean Cashours en Marguerite Gautier.  
+      1. Elisabeth, geb. 01-12-1700, ged. 08-12-1700, getuige Jean en Violente Despuile.  
+      2. Nathanael, geb. 17-05-1702, ged. 19-05-1702, getuige Nathanael Gautier en Marguerite de la Bergerie.  
+      3. Louise, geb. 31-07-1703, ged. 03-08-1703, getuige Philippe Jordan (??) en Louise de la Bergerie.  
+      4. Jean Philippe, geb. 07-08-1706, ged. 11-08-1706, getuige Jean Cashours en Marguerite Gautier.  
   - N.B. Cornelia de Bucquoy is overleden voor 16-01-1712: 2e huw. Ph.J.  
 
 - H 224v   Pierre Bucquo, van Gernesy (Guernsey ?), wolkammer, otr. W 27-4-1618 Margriete Martijn, van Atrecht, wed. Pierre Poo.  
@@ -1333,59 +1333,59 @@ Als zijn zoon bekend:
 II    Filis\*\* de Bucquoy, van Waterloo\*, woont Middelstegraft, lakenwerker, otr. W 5-8-1651 (vergezeld door Louijs de Bucquoy zijn vader) Francoise Guynjon, van Rijsel, vergezeld door Barbar Blanchaer haar moeder.  
 
 Uit dit huwelijk:  
-1. Marie, W ged. 12-07-1654. De vader heet hier Felix de Bucquoy, de moeder Francoyse Guignot. De getuigen waren ‘Lowijs de Bucquoy en Pierre Guignot avec leurs femmes’.  
-2. Jaques, W ged. 29-02-1660 (De vader is hier Philis\*\* du Buquoy, de moeder Francoise NN), volgt [III](#iii-jacob-felixzn-de-klopper)  
+1. Marie, Waals ged. 12-07-1654. De vader heet hier Felix de Bucquoy, de moeder Francoyse Guignot. De getuigen waren ‘Lowijs de Bucquoy en Pierre Guignot avec leurs femmes’.  
+2. Jaques, Waals ged. 29-02-1660 (De vader is hier Philis\*\* du Buquoy, de moeder Francoise NN), volgt [III](#iii-jacob-felixzn-de-klopper)  
   
 \*\* M.i. moet Filis, resp Philis hier worden gelezen als een misverstaan Felix, en niet als Philips. Zie ook de doopgetuigen bij enkele kinderen van Jaques. De consequentie is, dat de als eerste in de genealogie-De Klopper in Nederland’s Patriciaat figurerende Jacob Philipsz de Klopper in werkelijkheid Jacob Felixzn de Klopper heette.  
 
 ### III. Jacob Felixzn de Klopper  
-III    Jacob Felixzn de Klopper, W ged. 29-02-1660, boratwerker, begr. 23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
+III    Jacob Felixzn de Klopper, Waals ged. 29-02-1660, boratwerker, begr. 23/30-10-1717, otr. 1) 22-06-1681 Catharina Goossens (begr. 28-05/04-06-1701), wed. Gerrit van der Meulen, otr. 2) 01-09-1701 Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
 
-Uit het eerste huwelijk, allen NG gedoopt:  
+Uit het eerste huwelijk:  
 
-1. Felix, ged. 27-08-1683 (getuige Felix de Bucquoy, Francyntje Guinjo, Pieter Ferrijn en Catharina Cornelis), volgt [IVa](#iva-felix-de-klopper)  
-2. Gooswin, ged. 03-12-1684, (getuige Felix de Bucquoy, Francyntje Guines, Johannes Kouwenhooven en Jacomijntje Brouwer). N.B. In Nederland’s Patriciaat wordt deze figuur zonder enige argumentatie opgevoerd als ‘Gozen de Bucquoy (zonder doopdatum!), uit wien een vermoedelijk uitgestorven tak’.  
-3. Jakobus, ged. 12-02-1686 (getuige Jakobus Valkenier, Sara Maartensdr, Felix de Bucquoy en Francyntje Guinott), volgt [IVb](#ivb-jacob-de-klopper-de-jonge)  
-4. Aeltje, ged. 03-10-1687, getuige Huybert Snekouwen, Annetje Baljan e.a.  
+1. Felix, Nederduits Gereformeerd ged. 27-08-1683 (getuige Felix de Bucquoy, Francyntje Guinjo, Pieter Ferrijn en Catharina Cornelis), volgt [IVa](#iva-felix-de-klopper)  
+2. Gooswin, Nederduits Gereformeerd ged. 03-12-1684, (getuige Felix de Bucquoy, Francyntje Guines, Johannes Kouwenhooven en Jacomijntje Brouwer). N.B. In Nederland’s Patriciaat wordt deze figuur zonder enige argumentatie opgevoerd als ‘Gozen de Bucquoy (zonder doopdatum!), uit wien een vermoedelijk uitgestorven tak’.  
+3. Jakobus, Nederduits Gereformeerd ged. 12-02-1686 (getuige Jakobus Valkenier, Sara Maartensdr, Felix de Bucquoy en Francyntje Guinott), volgt [IVb](#ivb-jacob-de-klopper-de-jonge)  
+4. Aeltje, Nederduits Gereformeerd ged. 03-10-1687, getuige Huybert Snekouwen, Annetje Baljan e.a.  
 Hubert Snekou was de tweede echtgenoot van Anne Baillian, die weduwe was van Gillis du Bucquoy. De laatste was afkomstig uit ‘Waterloo’. Er zal dus wel sprake zijn van een familierelatie. De precieze aard van die relatie kon ik niet achterhalen.  
-5. Maria de Clopper, ged. 01-01-1689, begr. 07/14-06-1760, otr. 09-03-1713 Hendrik Koot, wednr. Helena van Baarle.  
-6. Catharina de Klopper, ged. 28-06-1690, begr. 06/13-08-1729, otr. 30-11-1726 Arent Bruynes van der Bijl, vachtenploter.  
-7. Joannes, ged. 23-10-1691  
-8. Hendrikus Lucas, ged. 10-12-1692  
-9. Jan, ged. 20-10-1697  
+5. Maria de Clopper, Nederduits Gereformeerd ged. 01-01-1689, begr. 07/14-06-1760, otr. 09-03-1713 Hendrik Koot, wednr. Helena van Baarle.  
+6. Catharina de Klopper, Nederduits Gereformeerd ged. 28-06-1690, begr. 06/13-08-1729, otr. 30-11-1726 Arent Bruynes van der Bijl, vachtenploter.  
+7. Joannes, Nederduits Gereformeerd ged. 23-10-1691  
+8. Hendrikus Lucas, Nederduits Gereformeerd ged. 10-12-1692  
+9. Jan, Nederduits Gereformeerd ged. 20-10-1697  
 
-Uit het tweede huwelijk, NG gedoopt:  
+Uit het tweede huwelijk:  
 
-10. Jan, ged. 14-02-1703  
-11. Philippus, ged. 12-03-1704 (getuige Philippus Bosman en Sara de la Plate)  
+10. Jan, Nederduits Gereformeerd ged. 14-02-1703  
+11. Philippus, Nederduits Gereformeerd ged. 12-03-1704 (getuige Philippus Bosman en Sara de la Plate)  
 
 ### IVa. Felix de Klopper
-IVa    Felix de Klopper, geb./ged. 26/27-04-1683, wijnkoper, later  
+IVa    Felix de Klopper, geb. 26-04-1683, ged. 27-04-1683, wijnkoper, later  
 stadscourantier (25), overl. 29-03-1738, otr. 23-10-1701 Maria Doterem,  
-geb./ged. 17/21-07-1683, begr. 17/24-03-1753, dochter van Huybert Doterem en Maria de Vries.  
+geb. 17-07-1683, ged. 21-07-1683, begr. 17/24-03-1753, dochter van Huybert Doterem en Maria de Vries.  
 
-Uit dit huwelijk, alle NG gedoopt:  
-1. Jacob, ged. 10-09-1702, begr. 21/28-10-1702.  
-2. Maria, ged. 16-09-1703, begr. 27-06/04-07-1705.  
-3. Catharina, ged. 17-05-1705, begr. 19/26-09-1705.  
-4. Huybert, ged. 10-06-1706, begr. 19/26-02-1707.  
-5. Johanna, ged. 24-11-1707, begr. 22/29-09-1708.  
-6. Hubert, ged. 17-05-1709, begr. 10/17-08-1709.  
-7. Catarina de Klopper, ged. 24-06-1711, otr. 28-09-1731 Isaak Oosterwijk, wednr. Agatha Maria van der Pont.  
-8. Maria de Klopper, ged. 05-02-1713, otr. 21-08-1739 Gerardus van Maanen, leverancier van ammunitie, geb. Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
-9. Susanna de Klopper, ged. 05-10-1714, overl./begr. Den Haag 18/22-05-1773, otr./tr. Leiden 05/23-10-1736 Cornelis van Maanen, ged. Den Haag 08-05-1708, notaris etc., overl./begr. Den Haag 12/16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
-10. Johanna, ged. 17-02-1717, begr. 20/27-03-1717.  
-11. Johanna, ged. 15-05-1718, begr. 16/23-03-1720.  
-12. Anthony, ged. 14-05-1720, begr. 06/13-03-1723  
-13. Anthony, ged. 27-12-1724, volgt [V](#v-mr-anthonie-de-klopper)  
+Uit dit huwelijk:  
+1. Jacob, Nederduits Gereformeerd ged. 10-09-1702, begr. 21/28-10-1702.  
+2. Maria, Nederduits Gereformeerd ged. 16-09-1703, begr. 27-06/04-07-1705.  
+3. Catharina, Nederduits Gereformeerd ged. 17-05-1705, begr. 19/26-09-1705.  
+4. Huybert, Nederduits Gereformeerd ged. 10-06-1706, begr. 19/26-02-1707.  
+5. Johanna, Nederduits Gereformeerd ged. 24-11-1707, begr. 22/29-09-1708.  
+6. Hubert, Nederduits Gereformeerd ged. 17-05-1709, begr. 10/17-08-1709.  
+7. Catarina de Klopper, Nederduits Gereformeerd ged. 24-06-1711, otr. 28-09-1731 Isaak Oosterwijk, wednr. Agatha Maria van der Pont.  
+8. Maria de Klopper, Nederduits Gereformeerd ged. 05-02-1713, otr. 21-08-1739 Gerardus van Maanen, leverancier van ammunitie, geb. Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
+9. Susanna de Klopper, Nederduits Gereformeerd ged. 05-10-1714, overl./begr. Den Haag 18/22-05-1773, otr./tr. Leiden 05/23-10-1736 Cornelis van Maanen, ged. Den Haag 08-05-1708, notaris etc., overl./begr. Den Haag 12/16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
+10. Johanna, Nederduits Gereformeerd ged. 17-02-1717, begr. 20/27-03-1717.  
+11. Johanna, Nederduits Gereformeerd ged. 15-05-1718, begr. 16/23-03-1720.  
+12. Anthony, Nederduits Gereformeerd ged. 14-05-1720, begr. 06/13-03-1723  
+13. Anthony, Nederduits Gereformeerd ged. 27-12-1724, volgt [V](#v-mr-anthonie-de-klopper)  
 
 Felix de Klopper had de Leydsche Courant gekocht van de vorige eigenaar Van Huisduinen en gaf het blad voor het eerst uit op 20-11-1719 (25). Vanaf 12-07-1737 dreef hij de krant samen met zijn (N.B. nog geen 13-jarige!) zoon Anthony, die na de dood van zijn vader ‘alleenheerser’ werd (ongetwijfeld onder supervisie van zijn moeder, noot van mij). In 1819 was de krant nog steeds in het bezit van de familie De Klopper. Wanneer dit eigendom tenslotte eindigde, heb ik niet uitgezocht.  
 
 ### IVb. Jacob de Klopper de Jonge
-IVb    Jacob de Klopper de Jonge, NG ged. 12-02-1686, distillateur, begr. 24/31-12-1729, otr. 11-04-1709 Yda Kievidt (getuige haar schoonmoeder (=stief-) Annetje van Roon), geb. Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
+IVb    Jacob de Klopper de Jonge, Nederduits Gereformeerd ged. 12-02-1686, distillateur, begr. 24/31-12-1729, otr. 11-04-1709 Yda Kievidt (getuige haar schoonmoeder (=stief-) Annetje van Roon), geb. Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
 
 ### V. Mr. Anthonie de Klopper  
-V    Mr. Anthonie de Klopper, geb./ged. 26/27-12-1724, stadscourantier, overl./begr. 30-11/07-12-1771, tr. 07-08-1759 Levina Westerbaen, geb. Katwijk o/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
+V    Mr. Anthonie de Klopper, geb. 26/27-12-1724/ged. 26/27-12-1724, stadscourantier, overl./begr. 30-11/07-12-1771, tr. 07-08-1759 Levina Westerbaen, geb. Katwijk o/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
 
 Uit dit huwelijk:  
 1. Felix, ged. 22-05-1760, begr. 26-12-1761/02-01-1762.  
@@ -1398,30 +1398,30 @@ Uit dit huwelijk:
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
-VI    Mr. Felix de Klopper, geb./ged. 23/27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb./ged. 25/28-12-1763, overl. 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
+VI    Mr. Felix de Klopper, geb. 23-02-1763, ged. 27-02-1763, stadscourantier e.v.a. functies, overl. 14-10-1804, tr. 1) 01-07-1783 Elselina du Rieu, geb. 25-12-1763, ged. 28-12-1763, overl. 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, tr. 2) 07-12-1786 Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
 
 Uit het eerste huwelijk, W gedoopt:  
 
-1. Antoine Paul, geb./ged. 25/30-05-1784, begr. 20/27-05-1786  
-2. Paul Elzelin, geb./ged. 9/26-10-1785, volgt [VII](#vii-dr-paul-elzelin-de-klopper)  
+1. Antoine Paul, geb. 25-05-1784, ged. 30-05-1784, begr. 20/27-05-1786  
+2. Paul Elzelin, geb. 09-10-1785, ged. 26-10-1785, volgt [VII](#vii-dr-paul-elzelin-de-klopper)  
 
 Uit het tweede huwelijk, W gedoopt:  
 
-3. Antoinette Levine, geb./ged. 23/28-10-1787  
-4. Adrienne Gertrude, geb./ged. 14/19-10-1788, begr. 27-12-1794/03-01-1795  
+3. Antoinette Levine, geb. 23-10-1787, ged. 28-10-1787  
+4. Adrienne Gertrude, geb. 14-10-1788, ged. 19-10-1788, begr. 27-12-1794/03-01-1795  
 5. Abraham, doop niet gevonden, begr. 15/22-05-1790  
-6. Antoine, geb./ged. 29-04/04-05-1791,  
-7. Cornelie Petronelle, geb./ged. 28-07/01-08-1792, begr. 25-08/01-09-1792  
-8. Jeanne Marie, geb./ged. 02/09-12-1793,  
-9. Adrienne Gertrude, geb./ged. 05/20-05-1795  
-10. Felix Corneille, geb./ged. 24-02/08-03-1797,  
-11. Sara Catharine, geb./ged. 31-05/15-06-1798, begr. 09/16-11-1768  
+6. Antoine, geb. 29-04-1791, ged. 04-05-1791,  
+7. Cornelie Petronelle, geb. 28-07-1792, ged. 01-08-1792, begr. 25-08/01-09-1792  
+8. Jeanne Marie, geb. 02-12-1793, ged. 09-12-1793  
+9. Adrienne Gertrude, geb. 05-05-1795, ged. 20-05-1795  
+10. Felix Corneille, geb. 24-02-1797, ged. 08-03-1797,  
+11. Sara Catharine, geb. 31-05-1798, ged. 15-06-1798, begr. 09/16-11-1768  
   
 N.B. Van de generaties VII t/m IX zijn de gegevens overgenomen uit diverse bronnen\* en niet door mij gecontroleerd!  
 \* Nederland’s Patriciaat 10 (1919), p. 188 e.v., FamilySearch (Mormonen) en diverse CD-roms van genealogische periodieken.  
 
 ### VII. Dr. Paul Elzelin de Klopper
-VII    Dr. Paul Elzelin de Klopper, geb./ged. 09/26-10-1785, arts te De Rijp, overl. Amsterdam 17-09-1821, tr. ald. 08-05-1810 Cornelia van Nueborgh, ged. ald. 25-04-1791, overl. ald. 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
+VII    Dr. Paul Elzelin de Klopper, geb. 09-10-1785, ged. 26-10-1785, arts te De Rijp, overl. Amsterdam 17-09-1821, tr. ald. 08-05-1810 Cornelia van Nueborgh, ged. ald. 25-04-1791, overl. ald. 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
 
 Uit dit huwelijk:  
 1. Elseline de Klopper, geb. Amsterdam 23-05-1812, overl. 07-11-1843, tr. Leiden 29-10-1834 Adrianus Cornelis Hanegraaff, Rijksbetaalmeester.  
@@ -1479,9 +1479,9 @@ Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is d
 Ia    Jaques du Buskoy, van Pon(t)(?) sur Sambre, steenhouwer, geb. ca. 1622 (bij huw. 30 j.), begr. 01-08-1682, otr. 1) 27-07-1652, getuige zijn vader Jean du Bukoy, Jannetje Karet, van Doornick, begr. 09-09-1673, otr. 2) 01-09-1679 Maria Belterman, wed. Artus de Witt.  
 
 Uit het eerste huwelijk bekend:  
-1. Adrien, W ged. 25-04-1655,  
-2. Tomas, W ged. 15-02-1657  
-3. Jerosme, W ged. 20-10-1658, volgt [IIa](#iia-jeronimus-de-bucquoi)  
+1. Adrien, Waals ged. 25-04-1655,  
+2. Tomas, Waals ged. 15-02-1657  
+3. Jerosme, Waals ged. 20-10-1658, volgt [IIa](#iia-jeronimus-de-bucquoi)  
 4. Pierre, ged. 08-12-1661, volgt [IIb](#iib-pierre-du-bucquoy)  
 
 ### Ib. Jean de Bucquoy
@@ -1491,7 +1491,7 @@ Mogelijk had Jean uit een eerder huwelijk of relatie een dochter:
 1. Selia Jans du Bucquoi, van Amsterdam, geb. ca. 1657 (bij huw. 31 j.), otr. 06-03-1688 (getuige haar vader Jan du Bucquoi) Ariaen Philipsz van Leeuwen, van Loosduynen.  
 
 ### IIa. Jeronimus de Bucquoi
-IIa    Jeronimus de Bucquoi, W ged. 20-10-1658, steenhouwer, begr. 12-04-1714, otr. 1) 09-10-1682 (getuige zijn stiefmoeder Maria Belterman) Marritje Floris van Leeuwen, 30 j., van Haserswoude, otr. 2) Leiden 26-03-1692/A’dam 12-04-1692 Jaepie Hartman, ged. A’dam 05-01-1667, dochter van Isaack Hartman en Jaepie Rodenburgh. Jeronimus’ eerste huwelijk eindigde in scheiding wegens ‘gekrakeel’ (Album Buquoye). Bij zijn tweede huweljk woonde Jeronimus de B. in Leiden aan de Rijn, Jaepie Hartman(s) woonde in Leiden op de Steenschuur.  
+IIa    Jeronimus de Bucquoi, Waals ged. 20-10-1658, steenhouwer, begr. 12-04-1714, otr. 1) 09-10-1682 (getuige zijn stiefmoeder Maria Belterman) Marritje Floris van Leeuwen, 30 j., van Haserswoude, otr. 2) Leiden 26-03-1692/A’dam 12-04-1692 Jaepie Hartman, ged. A’dam 05-01-1667, dochter van Isaack Hartman en Jaepie Rodenburgh. Jeronimus’ eerste huwelijk eindigde in scheiding wegens ‘gekrakeel’ (Album Buquoye). Bij zijn tweede huweljk woonde Jeronimus de B. in Leiden aan de Rijn, Jaepie Hartman(s) woonde in Leiden op de Steenschuur.  
 
 Uit het eerste huwelijk:  
 
@@ -1499,18 +1499,18 @@ Uit het eerste huwelijk:
 
 Voor het tweede huwelijk:  
 
-2. Sjaak, NG ged. 14-10-1692, moeder Geertruyt Bresila, getuige Cornelia Cornelis.  
+2. Sjaak, Nederduits Gereformeerd ged. 14-10-1692, moeder Geertruyt Bresila, getuige Cornelia Cornelis.  
 
 Uit het tweede huwelijk:  
 
-3. Jacob, NG ged. 25-10-1693, volgt [III](#iii-jacob-de-bucquoy)  
+3. Jacob, Nederduits Gereformeerd ged. 25-10-1693, volgt [III](#iii-jacob-de-bucquoy)  
 
 ### IIb. Pierre du Bucquoy
 IIb    Pierre du Bucquoy, ged. 08-12-1661, steenhouwer, overl. na 21-04-1711, otr. 13-07-1685 (getuige zijn oom en voogd Jan du Buquoy) Alida Hartman, ged. 23-05-1664, begr. 21-04-1711, dochter van Isaak Hartman en Jacoba Rodenburgh.  
 
 Uit dit huwelijk bekend:  
-1. Agatha Pieternella du Bucquoy\*, NG ged. 19-09-1691, otr. 25-05-1718 Levinius Vincent, van Amsterdam, woont Haarlem.,  
-2. Alida Elisabeth du Bucquoy\*, NG ged. 14-11-1694, otr. 25-05-1718 Daniel Nicolaas Olbers, van Stockholm.  
+1. Agatha Pieternella du Bucquoy\*, Nederduits Gereformeerd ged. 19-09-1691, otr. 25-05-1718 Levinius Vincent, van Amsterdam, woont Haarlem.,  
+2. Alida Elisabeth du Bucquoy\*, Nederduits Gereformeerd ged. 14-11-1694, otr. 25-05-1718 Daniel Nicolaas Olbers, van Stockholm.  
 3. Pieter, ged. 09-08-1697, begr. 14-10-1697  
 4. Pieter, ged. 06-08-1698  
 5. Catrina Maria, ged. 30-07-1702  
@@ -1519,10 +1519,10 @@ Uit dit huwelijk bekend:
 \* N.B. Beide zusters ondertrouwden op dezelfde datum!  
 
 ### III. Jacob de Bucquoy
-III    Jacob de Bucquoy, NG ged. 25-10-1693, otr. 25-03-1718, getuige zijn moeder Jacoba Hartman, Catrina Fok, getuige haar moeder Aaltje Focke. Catharina Fok, wed. Jacob de Buiquoy, is in Amsterdam begraven 08-01-1777.  
+III    Jacob de Bucquoy, Nederduits Gereformeerd ged. 25-10-1693, otr. 25-03-1718, getuige zijn moeder Jacoba Hartman, Catrina Fok, getuige haar moeder Aaltje Focke. Catharina Fok, wed. Jacob de Buiquoy, is in Amsterdam begraven 08-01-1777.  
 
 Uit dit huwelijk bekend:  
-1. Jeronimus, NG ged. 21-08-1718  
+1. Jeronimus, Nederduits Gereformeerd ged. 21-08-1718  
 
 Uit een vraag en antwoord in de eerste jaargang van De Navorscher (1851!) valt te reconstrueren, dat Jacob de Bucquoy een in zijn tijd befaamd zeereiziger en cartograaf was (27). Op deze figuur gaat ook de hierboven al genoemde J.H. Bekouw in. Tevens wordt in een latere jaargang van De Navorscher de vraag gesteld, of er een familierelatie bestond met een Leidse naamgenoot (A-Vc), die slotenmaker was en later lector in de mathesis aan de universiteit van Leiden werd (13). Zoals blijkt, is zo’n verwantschap, indien al aanwezig, ver verwijderd.
 
