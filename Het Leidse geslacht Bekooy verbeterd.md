@@ -179,7 +179,7 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 1. Elie, geboren ca. 1560/65, volgt [IIIa](#iiia-elias-de-buko).  
 2. Olivier, geboren ca. 1560/65, volgt [IIIb](#iiib-olifier-de-buquo).  
 3. Pierre, geboren ca. 1560/65, volgt [IIIc](#iiic-pier-de-bucquoy).  
-4. Jacomijne de Buco, van omtrent Rijsele, ondertrouw op 02-03-1585 (getuige Anthonnis de Buco haar oom) met Jan Deuterre, van Bergen in Henegouwen, getuige Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet m.b.v. doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie naar mijn mening safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
+4. Jacomijne de Buco, van omtrent Rijsele, ondertrouw op 02-03-1585 (getuige Anthonnis de Buco haar oom) met Jan Deuterre, van Bergen in Henegouwen, getuige Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet met behulp van doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie naar mijn mening safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
 
 ### IIb. Anthoine de Bucquoy
 IIb    Anthoine de Bucquoy, waarschijnlijk geboren in Tourcoing ca. 1530, vermoedelijk begraven Leiden 24-03-1603, tr. met NN.  
@@ -619,12 +619,12 @@ Uit dit huwelijk bekend:
 IIIa (Q 246)    Jean de Bucquoy, van Movou, woont Corte Scheystraet, greinwerker, (overleden kort voor 08-09-1670 (16)) Waals ondertrouw op 21-07-1659 (getuige Walrave de Buquoy zijn vader) met Machtelt (of Michelle) de Quiene, woont Rijnsburgerpoort, getuige Pierone Bayse haar moeder.  
 
 Uit dit huwelijk:  
-1. Jean\*, Waals gedoopt 21-07-1660, getuige Valeran de Bucquoy e.a.  
-2. Abraham\*, Waals gedoopt 26-10-1661, getuige Pierre du Quesne, Etienne du Quesne, Pierronne Dervaus en Marie Herman.  
-3. Marie\*, Waals gedoopt 28-01-1663, v. getuige Jean du Chesne, Gerard du Bucquoy, Anne du Chesne et Jeane du Chesne.  
-4. Marie, Waals gedoopt 23-03-1664, getuige Jean du Quesne, Gerard de Bucquoy, Jeane du Quesne et Elisabeth Jenote.  
-5. Sara, Waals gedoopt 31-01-1666, getuige Hubert Desbucquoy, Pierre Loubert, Marguerite Desbucquoy et Lysbeth Derveau.  
-6. Pieronne, Waals gedoopt 07-08-1667, getuige Antony des Buquoy, Pierre du Chenne, Jeanne de Rucan, Susanne Blonk.  
+1. Jean\*, Waals gedoopt 21-07-1660 (getuige Valeran de Bucquoy en anderen)  
+2. Abraham\*, Waals gedoopt 26-10-1661 (getuige Pierre du Quesne, Etienne du Quesne, Pierronne Dervaus en Marie Herman).  
+3. Marie\*, Waals gedoopt 28-01-1663, (getuige Jean du Chesne, Gerard du Bucquoy, Anne du Chesne et Jeane du Chesne).  
+4. Marie, Waals gedoopt 23-03-1664, (getuige Jean du Quesne, Gerard de Bucquoy, Jeane du Quesne en Elisabeth Jenote).  
+5. Sara, Waals gedoopt 31-01-1666, (getuige Hubert Desbucquoy, Pierre Loubert, Marguerite Desbucquoy en Lysbeth Derveau).  
+6. Pieronne, Waals gedoopt 07-08-1667, (getuige Antony des Buquoy, Pierre du Chenne, Jeanne de Rucan en Susanne Blonk).  
 
 \* De kinderen 1 t/m 3 en 6 zijn overleden voor 08-09-1670 (16).  
 
@@ -1337,7 +1337,7 @@ Uit het eerste huwelijk:
 1. Felix, Nederduits Gereformeerd gedoopt 27-08-1683 (getuige Felix de Bucquoy, Francyntje Guinjo, Pieter Ferrijn en Catharina Cornelis), volgt [IVa](#iva-felix-de-klopper).  
 2. Gooswin, Nederduits Gereformeerd gedoopt 03-12-1684, (getuige Felix de Bucquoy, Francyntje Guines, Johannes Kouwenhooven en Jacomijntje Brouwer). N.B. In Nederland’s Patriciaat wordt deze figuur zonder enige argumentatie opgevoerd als ‘Gozen de Bucquoy (zonder doopdatum!), uit wien een vermoedelijk uitgestorven tak’.  
 3. Jakobus, Nederduits Gereformeerd gedoopt 12-02-1686 (getuige Jakobus Valkenier, Sara Maartensdr, Felix de Bucquoy en Francyntje Guinott), volgt [IVb](#ivb-jacob-de-klopper-de-jonge).  
-4. Aeltje, Nederduits Gereformeerd gedoopt 03-10-1687, getuige Huybert Snekouwen, Annetje Baljan e.a.  
+4. Aeltje, Nederduits Gereformeerd gedoopt 03-10-1687, (getuige Huybert Snekouwen, Annetje Baljan en anderen).  
 Hubert Snekou was de tweede echtgenoot van Anne Baillian, die weduwe was van Gillis du Bucquoy. De laatste was afkomstig uit ‘Waterloo’. Er zal dus wel sprake zijn van een familierelatie. De precieze aard van die relatie kon ik niet achterhalen.  
 5. Maria de Clopper, Nederduits Gereformeerd gedoopt 01-01-1689, begraven 07/14-06-1760[†](#notitie), ondertrouw op 09-03-1713 met Hendrik Koot, weduwnaar van Helena van Baarle.  
 6. Catharina de Klopper, Nederduits Gereformeerd gedoopt 28-06-1690, begraven 06/13-08-1729[†](#notitie), ondertrouw op 30-11-1726 met Arent Bruynes van der Bijl, vachtenploter.  
