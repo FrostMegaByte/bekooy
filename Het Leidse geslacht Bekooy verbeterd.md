@@ -347,13 +347,13 @@ Uit dit huwelijk:
 1. Willemtgen, gedoopt op 24-07-1641, getuige Pieter Debucquoy, Jacob Krouwelaer, Willemtgen Dirckx en Judith Carette. Willemtgen overleed vermoedelijk (‘dochter van Gillis Bekoy, woont Kijfhoek’) op 20-09-1655 in Medemblik, vermoedelijk aan de pest, mogelijk uit L. meegenomen.  
 2. Pieter, gedoopt op 20-01-1644, getuige Pieter Dubuquoy, Jan Corette, Willemtgen Dirckx, Gillisgen van Molensteyn.  
 3. Pieter, gedoopt op 08-10-1645, getuige Pieter de Buquoy, Teunis de Buquoy, Susanna de Buquoy, Judith Crouwelaers.  
-4. Tanneken Bucquoy, gedoopt op 12-03-1649, begraven in Amsterdam op 03-05-1685 (als vr. van Petter Eerassemus, welk huwelijk echter niet is gevonden), woont Oude Cingel, ondertrouw op 10-03-1668 met Abraham Costerus, woont Amsterdam, begraven in Amsterdam op 29-08-1679. Tanneken Gillis Bucquoy ontvangt 25-03-1668 attestatie naar niet vermelde plaats, kennelijk Amsterdam.  
+4. Tanneken Bucquoy, gedoopt op 12-03-1649, begraven in Amsterdam op 03-05-1685 (als vrouw van Petter Eerassemus, welk huwelijk echter niet is gevonden), woont Oude Cingel, ondertrouw op 10-03-1668 met Abraham Costerus, woont Amsterdam, begraven in Amsterdam op 29-08-1679. Tanneken Gillis Bucquoy ontvangt 25-03-1668 attestatie naar niet vermelde plaats, kennelijk Amsterdam.  
 5. Willem, gedoopt op 13-03-1652.  
 
 Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr. wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
 
 ### VIa. Abraham Bukoy
-VIa    Abraham Bukoy, geboren op 11-10-1680, Waals gedoopt op 13-10-1680, tr.? (huwelijk niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
+VIa    Abraham Bukoy, geboren op 11-10-1680, Waals gedoopt op 13-10-1680, tr. (?) (huwelijk niet gevonden) Magdalena Hoogenboom of Hoogenvleck.  
 
 Uit dit huwelijk:  
 1. Jan, gedoopt op 11-03-1705, volgt [VIIa](#viia-jan-bekooy).  
@@ -374,6 +374,7 @@ Uit dit huwelijk:
 
 ### VIIa. Jan Bekooy
 VIIa    Jan Bekooy, gedoopt op 11-03-1705, kuypersknecht, ondertrouw op 05-08-1735 (getuige Isaac Bekooy zijn oom) met Joosje van Leeuwen, doop niet gevonden, begraven tussen 08/15-01-1774[†](#notitie), dochter van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
+
 Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel is van hen een Akte van Seclusie bekend, gedateerd 06-06-1706. Na haar dood (begraven tussen 19/26-02-1735[†](#notitie)) hertrouwde Leendert van Leeuwen met Maria Ruygewey (ondertrouw op 18-05-1736). Maria Ruygewey getuigde als Maria Ruygnoy bij de doop van het eerste kind Leendert van haar stiefdochter Joosje van Leeuwen en Jan Bekooy.  
 
 Uit dit huwelijk:  
@@ -875,7 +876,8 @@ Uit dit huwelijk:
 
 ### VIIIi. Jacobus Bekooy
 VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden op 17-11-1839, ondertrouw op 16-07-1808, tr. op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden op 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
-N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
+
+N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), gehuwd met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
 1. Koosje Bekooy, geboren op 24-10-1808, gedoopt op 27-10-1808, spinster, overleden op 29-11-1840, tr. op 03-09-1829 met Willem Jacobus Paats, gedoopt op 13-11-1805, dubbelaar, overleden op 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
@@ -1004,6 +1006,7 @@ Uit dit huwelijk:
 
 ### IXh. Willem Bekooy
 IXh    Willem Bekooi, kleermaker, geboren in Deventer op 14-05-1823, tr. op 11-02-1857 met Antje van Zijp, geboren op 26-09-1837, dochter van Cornelis van Zijp en Maria Christiaanse.  
+
 Het overlijden van Willem Bekooi en Antje van Zijp is t/m 1932 niet in Leiden gevonden.  
 
 Uit dit huwelijk:  
@@ -1266,8 +1269,10 @@ Uit dit huwelijk:
 (Gillis del Mare, weduwnaar van Jeanne Cornaer, woont St. Aegtenstraat, ondertrouw op 23-06-1683 met Anthonetta Bettailly, jongedochter (ongetrouwde vrouw) van bij Rijssel, getuige haar zuster.)  
   
 - Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, woont Middelstegraft, Waals ondertrouw op 30-04-1658 (getuige Pierone le Bruyne haar moeder) met Ooste de Rouseau, wolkammer van Tourcoigne, woont Coddesteech.  
-Kinderen van het paar: Anthoinette, gedoopt op 26-02-1659, getuige Elisabeth Rachon en Anne Noion; Pierre, gedoopt op 07-04-1660, getuige Philippe Celos en Judith Magin.  
-N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezinnen in Amsterdam opgenomen.  
+  - Kinderen van het paar:
+    - Anthoinette, gedoopt op 26-02-1659 (getuige Elisabeth Rachon en Anne Noion).
+    - Pierre, gedoopt op 07-04-1660 (getuige Philippe Celos en Judith Magin).  
+  - N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezinnen in Amsterdam opgenomen.  
   
 - S 197v    Jenne du Bucquoy, van bij Rijssel, ondertrouw op 14-08-1666 (getuige Desabeau Reassy, haar moeder) met Jaecq Loocque, wolkammer van Bergen in Henegouwen. Bij de doop van het enige gevonden kind van dit paar (Jaques, gedoopt op 14-03-1668) getuigden o.a. Gille de Bucquoy en zijn vrouw Anna Baillian (zie hieronder). Waren Gille en Jenne broer en zuster?  
   
@@ -1351,9 +1356,7 @@ Uit het tweede huwelijk:
 11. Philippus, Nederduits Gereformeerd gedoopt op 12-03-1704 (getuige Philippus Bosman en Sara de la Plate).  
 
 ### IVa. Felix de Klopper
-IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt op 27-04-1683, wijnkoper, later  
-stadscourantier (25), overleden op 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem,  
-geboren op 17-07-1683, gedoopt op 21-07-1683, begraven tussen 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
+IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt op 27-04-1683, wijnkoper, later stadscourantier (25), overleden op 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem, geboren op 17-07-1683, gedoopt op 21-07-1683, begraven tussen 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
 
 Uit dit huwelijk:  
 1. Jacob, Nederduits Gereformeerd gedoopt op 10-09-1702, begraven tussen 21/28-10-1702[†](#notitie).  
@@ -1547,7 +1550,7 @@ Nav = De Navorscher
 22) RAL, Quit. Voljaarden H, f. 80 dd. 03-11-1660  
 23) RAL, KOT Y 155v  
 24) RAL, Quit. voljaarden I, f. 83  
-25) Nav 14 (1864), p 173,  
+25) Nav 14 (1864), p 173  
 26) Amstelodamum 23 (1936), p. 82 en volgende  
 27) Nav 1 (1851), p. 257 en 375  
 
