@@ -199,7 +199,7 @@ IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vade
 IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden Leiden aan de pest 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko zijn oom) met Jacomyne du Pré, van Armentiers, getuige Claret du Pré haar moeder.  
 
 Uit dit huwelijk bekend:  
-1. Elie, Waals gedoopt Leiden 05-11-1600, leeft nog 30-09-1629 (3)  
+1. Elie, Waals gedoopt in Leiden op 05-11-1600, leeft nog 30-09-1629 (3)  
 
 Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.  
 
@@ -227,10 +227,10 @@ Uit een eerder huwelijk bekend:
 
 Uit het tweede huwelijk:  
 
-2. Jacques, Waals gedoopt 09-06-1603.  
-3. Jean, Waals gedoopt ??-05-1605.  
-4. Pierre, Waals gedoopt 1e kw. 1607, volgt [IVa](#iva-pierre-de-bucquoy).  
-5. Sara de Bucquoy, Waals gedoopt 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy haar zuster) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, getuige Pieter le Toeur zijn broer.  
+2. Jacques, Waals gedoopt op 09-06-1603.  
+3. Jean, Waals gedoopt op ??-05-1605.  
+4. Pierre, Waals gedoopt in 1e kwartaal van 1607, volgt [IVa](#iva-pierre-de-bucquoy).  
+5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy haar zuster) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, getuige Pieter le Toeur zijn broer.  
 
 ### IIId. Anthoine des Boucquois
 IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige zijn vader Anthoine de Bouckois en zijn broeder) met Marie Ruytere, van Tourquoin, getuige Barbara Camer haar nicht en Ysabeaux Plantefebre.  
@@ -261,28 +261,28 @@ IIIg    Olifier de Buckoy, van Turcoyn, overleden/begraven 17-01-1620, ondertrou
 Uit dit huwelijk bekend, volgorde niet geheel bekend:  
 1. Annetgen des Bucquoy, geboren in Leiden ca. 1598, Waals ondertrouw op 19-07-1618 (getuige Catrijne Spierings haar moeder) met ds. Petrus Moyses, van Leyden, woont Nieuweveen.  
 2. Olivier, geboren ca. 1600, volgt [IVd](#ivd-olivier-de-bucquoy).  
-3. Marie, Waals gedoopt 04-02-1601.  
-4. Chaterine, Waals gedoopt 24-02-1602.  
+3. Marie, Waals gedoopt op 04-02-1601.  
+4. Chaterine, Waals gedoopt op 24-02-1602.  
   
 ### IVa. Pierre de Bucquoy
-IVa    Pierre du Bucquoy, Waals gedoopt 1e kwartaal 1607, woont St. Aechtenstraet, droogscheerder, ondertrouw op 16-05-1639 (getuige Jan la Tour zijn zwager) met Jenne Nolaa, weduwe van Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, ondertrouw op 11-08-1626 met Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
+IVa    Pierre du Bucquoy, Waals gedoopt in 1e kwartaal van 1607, woont St. Aechtenstraet, droogscheerder, ondertrouw op 16-05-1639 (getuige Jan la Tour zijn zwager) met Jenne Nolaa, weduwe van Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, ondertrouw op 11-08-1626 met Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 
 Uit dit huwelijk:  
-1. Pierre, Waals gedoopt 26-02-1640, getuige Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy).  
-2. Judith, Nederduits Gereformeerd gedoopt 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
-3. Janneken, Nederduits Gereformeerd gedoopt 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
-4. Judith, Waals gedoopt 06-09-1643, getuige Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
-5. Jean, Waals gedoopt 05-03-1645, getuige Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy).  
+1. Pierre, Waals gedoopt op 26-02-1640, getuige Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy).  
+2. Judith, Nederduits Gereformeerd gedoopt op 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+3. Janneken, Nederduits Gereformeerd gedoopt op 17-04-1641, getuige Jan de la Tour, Maria Buquoy, Sara de Buquoy.  
+4. Judith, Waals gedoopt op 06-09-1643, getuige Nicolas Loquefier, Marie Loquefier et Judith de Lanoy.  
+5. Jean, Waals gedoopt op 05-03-1645, getuige Nicolas et Judith Loquisier, volgt [Vb](#vb-johannes-de-bucquoy).  
 
 ### IVb. Jheremias de Bucquoy
 IVb    Jheremias de Bucquoy, geboren in Leiden ca. 1588, passementwerker, overleden niet lang voor 03-04-1636 (9), 1) Waals ondertrouw op 21-01-1611 (getuige Pieter Bodeyn zijn beste vader (= grootvader) en Olivier de Bucquoy zijn oom) met Proontgen van den Camere, van Turcoingen, overleden voor 03-04-1636, 2) tr. (?) met Adriaentgen Cornelisdr (9).  
 
 Uit het eerste huwelijk:  
 
-1. Lowijs, geboren op 11-09-1611, Waals gedoopt 29-01-1612, overleden voor 03-04-1636 (9).  
-2. TODO: Martine de Bucquoy, Waals gedoopt ??-3/4/5-1614, tr. voor 1647 (?) met Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
+1. Lowijs, geboren op 11-09-1611, Waals gedoopt op 29-01-1612, overleden voor 03-04-1636 (9).  
+2. TODO: Martine de Bucquoy, Waals gedoopt op ??-3/4/5-1614, tr. voor 1647 (?) met Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
 3. Jeremias, geboren in 1616/17, overleden voor 1647 (?).  
-4. Jan, Nederduits Gereformeerd gedoopt 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy).  
+4. Jan, Nederduits Gereformeerd gedoopt op 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy).  
 
 Uit het tweede huwelijk (huwelijk en doop niet gevonden):  
 
@@ -302,41 +302,41 @@ Theunis de Bucquoy, greinwerker van Medemblik, is op 11-08-1645 op de getuigenis
 IVd    Olivier Bucquoy, herkomst niet genoemd, woont Bredestraet, begraven 09/15-01-1667[†](#notitie), ondertrouw op 27-09-1629 (getuige Olivier Bucquoy, zijn vader en Sophia van Dilsen, haar moeder. Sophia van Dilsen ondertrouw op 29-10-1598 met Paulus Stock) met Claesgen Stockius, woont Bredestraet, geboren ca. 1605, overleden 28-10-1669.  
 
 Uit dit huwelijk:  
-1. Pieternella, Nederduits Gereformeerd gedoopt 05-03-1631, begraven 16-04-1631.  
-2. Pieternella de Bucquoy, Nederduits Gereformeerd gedoopt 25-08-1632, woont Bredestraet, begraven 02/08-09-1668[†](#notitie), ondertrouw op 10-08-1656 met Niclaes van Campen, woont Marckt, koopman.  
+1. Pieternella, Nederduits Gereformeerd gedoopt op 05-03-1631, begraven 16-04-1631.  
+2. Pieternella de Bucquoy, Nederduits Gereformeerd gedoopt op 25-08-1632, woont Bredestraet, begraven 02/08-09-1668[†](#notitie), ondertrouw op 10-08-1656 met Niclaes van Campen, woont Marckt, koopman.  
 (Nicolaes van Campen, weduwnaar van Petronella Bucquoy, woont Bredestraet, ondertrouw op 19-03-1670 met Susanna de Hoorn, weduwe van Dirck van Assendelft, woont Nieuwen Rijn. De broer van de man is veertig in de raad.)  
-3. Anna de Bucquoy, Nederduits Gereformeerd gedoopt 06-09-1634, overleden 13-02-1677, ondertrouw in Leiden op 04-10-1674, tr. in Leiderdorp op 23-10-1674 met Nicolaes Huyst, doop en overleden niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
-4. Alyda de Bucquoy, Nederduits Gereformeerd gedoopt 20-03-1637, woont Bredestraet, overleden/begraven 27-01-1680, ondertrouw op 15-01-1659, tr. op 04-02-1659 met Symon Vliettoorn, woont Bredestraet, apothecaris (geboren in Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals ondertrouw op 09-05-1680 met Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.).  
-5. Elisabeth du Bucquoy, Nederduits Gereformeerd gedoopt 09-09-1639, overleden voor 07-01-1676, ondertrouw op 08-06-1667 (getuige Clasyne Stockius haar moeder) met Frans Vromans, gedoopt 12-12-1641, overleden niet gevonden, zoon van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, woont Bredestraet, ondertrouw op 07-01-1676 met Maria Leffen, woont Klocksteech.).  
-6. Sophia, Nederduits Gereformeerd gedoopt 23-01-1643, begraven 15-05-1645.  
-7. Paulus, Nederduits Gereformeerd gedoopt 29-03-1645, begraven 25-04-1643.  
-8. Paulina de Bucquoy, Nederduits Gereformeerd gedoopt 25-04-1646, overleden na 07-11-1679, maar voor 08-11-1686 (hertrouwd 2e man), woont Steenschuur, 1) ondertrouw op 02-03-1673 met Benjamyn Muller, weduwnaar van Judith de l’Hommel, woont Hamburch, 2) tr. (?) met Andries van Roest, bode met de roede van Leiden.  
+3. Anna de Bucquoy, Nederduits Gereformeerd gedoopt op 06-09-1634, overleden 13-02-1677, ondertrouw in Leiden op 04-10-1674, tr. in Leiderdorp op 23-10-1674 met Nicolaes Huyst, doop en overleden niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
+4. Alyda de Bucquoy, Nederduits Gereformeerd gedoopt op 20-03-1637, woont Bredestraet, overleden/begraven 27-01-1680, ondertrouw op 15-01-1659, tr. op 04-02-1659 met Symon Vliettoorn, woont Bredestraet, apothecaris (geboren in Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals ondertrouw op 09-05-1680 met Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.).  
+5. Elisabeth du Bucquoy, Nederduits Gereformeerd gedoopt op 09-09-1639, overleden voor 07-01-1676, ondertrouw op 08-06-1667 (getuige Clasyne Stockius haar moeder) met Frans Vromans, gedoopt op 12-12-1641, overleden niet gevonden, zoon van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, woont Bredestraet, ondertrouw op 07-01-1676 met Maria Leffen, woont Klocksteech.).  
+6. Sophia, Nederduits Gereformeerd gedoopt op 23-01-1643, begraven 15-05-1645.  
+7. Paulus, Nederduits Gereformeerd gedoopt op 29-03-1645, begraven 25-04-1643.  
+8. Paulina de Bucquoy, Nederduits Gereformeerd gedoopt op 25-04-1646, overleden na 07-11-1679, maar voor 08-11-1686 (hertrouwd 2e man), woont Steenschuur, 1) ondertrouw op 02-03-1673 met Benjamyn Muller, weduwnaar van Judith de l’Hommel, woont Hamburch, 2) tr. (?) met Andries van Roest, bode met de roede van Leiden.  
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
-Va    Pieter Bucquoy, Waals gedoopt 26-02-1640, greinwerker, woont St. Aechtenstraet, overleden voor 02-02-1669 (voogdijstelling), Waals ondertrouw op 02-04-1661 (getuige Sara Bucquoy zijn moeye) met Franchyntgen Jans, van Haerlem, overleden niet gevonden, (Franchyntge Jans, weduwe van Pieter du B, woont Cleystraet. ondertrouw op 02-02-1669 met Jan Roelofsz, woont Langegraft, lakenwerker)  
+Va    Pieter Bucquoy, Waals gedoopt op 26-02-1640, greinwerker, woont St. Aechtenstraet, overleden voor 02-02-1669 (voogdijstelling), Waals ondertrouw op 02-04-1661 (getuige Sara Bucquoy zijn moeye) met Franchyntgen Jans, van Haerlem, overleden niet gevonden, (Franchyntge Jans, weduwe van Pieter du B, woont Cleystraet. ondertrouw op 02-02-1669 met Jan Roelofsz, woont Langegraft, lakenwerker)  
 
 Uit dit huwelijk:  
-1. Jeane, Waals gedoopt 05-08-1663, getuige Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
-2. Pierre, Waals gedoopt 06-12-1665, getuige Jean de Bucquoy, Jaque Favarcque, Anne Fransse et Judith Castel.  
+1. Jeane, Waals gedoopt op 05-08-1663, getuige Pierre du Bucquoy, Jean del Tour, Jeane Noulet et Judith de Lannoy.  
+2. Pierre, Waals gedoopt op 06-12-1665, getuige Jean de Bucquoy, Jaque Favarcque, Anne Fransse et Judith Castel.  
 
 ### Vb. Johannes de Bucquoy
-Vb    Johannes de Bucquoy, Waals gedoopt 05-03-1645, woont Cruysstraet, greinwerker, ondertrouw op 01-09-1674 (getuige Claes Locquefier zijn neef) met Catharina le Franck, Waals gedoopt 09-03-1653, woont Cruysstraet, begraven 18/25-09-1717[†](#notitie), dochter van Charles de Francque en Catharine de Langle (l’Engle).  
+Vb    Johannes de Bucquoy, Waals gedoopt op 05-03-1645, woont Cruysstraet, greinwerker, ondertrouw op 01-09-1674 (getuige Claes Locquefier zijn neef) met Catharina le Franck, Waals gedoopt op 09-03-1653, woont Cruysstraet, begraven 18/25-09-1717[†](#notitie), dochter van Charles de Francque en Catharine de Langle (l’Engle).  
 
 Uit dit huwelijk:  
-1. Sara Bucquoy, geboren op 30-08-1675, Waals gedoopt 01-09-1675, woont Meutiesteegh, ondertrouw (Schepenen) op 19-05-1703 (getuige haar moeder Catharina le Fran) met Cornelis Reyniersz, lakenwerker van Leiden, woont Nieuwe Levendael. N.B. De bruidegeom was RK.  
-2. Rebecca, geboren op 14-06-1676, Waals gedoopt 20-06-1676.  
-3. Abraham, geboren op 11-10-1680, Waals gedoopt 13-10-1680, volgt [VIa](#via-abraham-bukoy).  
-4. Isac, geboren op 04-03-1683, Waals gedoopt 07-03-1683, volgt [VIb](#vib-isack-bucquoy).  
-5. Jacob, Nederduits Gereformeerd gedoopt 12-12-1685.  
+1. Sara Bucquoy, geboren op 30-08-1675, Waals gedoopt op 01-09-1675, woont Meutiesteegh, ondertrouw (Schepenen) op 19-05-1703 (getuige haar moeder Catharina le Fran) met Cornelis Reyniersz, lakenwerker van Leiden, woont Nieuwe Levendael. N.B. De bruidegeom was RK.  
+2. Rebecca, geboren op 14-06-1676, Waals gedoopt op 20-06-1676.  
+3. Abraham, geboren op 11-10-1680, Waals gedoopt op 13-10-1680, volgt [VIa](#via-abraham-bukoy).  
+4. Isac, geboren op 04-03-1683, Waals gedoopt op 07-03-1683, volgt [VIb](#vib-isack-bucquoy).  
+5. Jacob, Nederduits Gereformeerd gedoopt op 12-12-1685.  
 
 Bij de getuigen bij de dopen van de kinderen is geen enkele Bucquoy, allen zijn uit de schoonfamilie (of verder verwijderde familieleden).  
 
 ### Vc. Jean de Bucquoy
-Vc    Jean de Bucquoy, Nederduits Gereformeerd gedoopt 30-12-1621, woont Paradijssteech, slotenmaker, ondertrouw op 28-08-1648 (getuige Abraham de Bodeyn zijn neef) met Susannetgen Jacobsdr, woont Paradijssteech.  
+Vc    Jean de Bucquoy, Nederduits Gereformeerd gedoopt op 30-12-1621, woont Paradijssteech, slotenmaker, ondertrouw op 28-08-1648 (getuige Abraham de Bodeyn zijn neef) met Susannetgen Jacobsdr, woont Paradijssteech.  
 
 Uit dit huwelijk:  
-1. Geertruijdt, Nederduits Gereformeerd gedoopt 15-05-1649, getuige Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
+1. Geertruijdt, Nederduits Gereformeerd gedoopt op 15-05-1649, getuige Abraham Bodijn, Geertruijdt Bodijn, Neeltien Vreelings, Pieter Jacobsz.  
 
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit (13).  
 
@@ -344,119 +344,119 @@ Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden 
 Vd    Gillis Pietersz de Bucquoy, van Medenblick, woont Vrouwencamp, bij 2e huwelijk Kijffhoek, wolkammer, mogelijk begraven 13/19-04-1664[†](#notitie) (‘(G?)Illis Bekoy, woont b/d Lakenhal’), 1) ondertrouw op 27-07-1640 (getuige Jan Caret zijn oom) met Sara Crauwelaers, van Leyden (getuige Judith Crauwelaers haar zuster), woont Groenhasegraft, (overleden Medemblik 25-09-1655, vermoedelijk aan de pest, mogelijk uit L. meegenomen), 2) ondertrouw op 15-06-1656 (getuige Ezechiel de Tombe zijn oom) met Verronne Wartelle, van bij Rijssel, weduwe van Pierre Sij, woont Oude Singel.  
 
 Uit dit huwelijk:  
-1. Willemtgen, gedoopt 24-07-1641, getuige Pieter Debucquoy, Jacob Krouwelaer, Willemtgen Dirckx en Judith Carette. Willemtgen overleed vermoedelijk (‘dochter van Gillis Bekoy, woont Kijfhoek’) op 20-09-1655 in Medemblik, vermoedelijk aan de pest, mogelijk uit L. meegenomen.  
-2. Pieter, gedoopt 20-01-1644, getuige Pieter Dubuquoy, Jan Corette, Willemtgen Dirckx, Gillisgen van Molensteyn.  
-3. Pieter, gedoopt 08-10-1645, getuige Pieter de Buquoy, Teunis de Buquoy, Susanna de Buquoy, Judith Crouwelaers.  
-4. Tanneken Bucquoy, gedoopt 12-03-1649, begraven Amsterdam 03-05-1685 (als vr. van Petter Eerassemus, welk huwelijk echter niet is gevonden), woont Oude Cingel, ondertrouw op 10-03-1668 met Abraham Costerus, woont Amsterdam, begraven aldaar 29-08-1679. Tanneken Gillis Bucquoy ontvangt 25-03-1668 attestatie naar niet vermelde plaats, kennelijk Amsterdam.  
-5. Willem, gedoopt 13-03-1652.  
+1. Willemtgen, gedoopt op 24-07-1641, getuige Pieter Debucquoy, Jacob Krouwelaer, Willemtgen Dirckx en Judith Carette. Willemtgen overleed vermoedelijk (‘dochter van Gillis Bekoy, woont Kijfhoek’) op 20-09-1655 in Medemblik, vermoedelijk aan de pest, mogelijk uit L. meegenomen.  
+2. Pieter, gedoopt op 20-01-1644, getuige Pieter Dubuquoy, Jan Corette, Willemtgen Dirckx, Gillisgen van Molensteyn.  
+3. Pieter, gedoopt op 08-10-1645, getuige Pieter de Buquoy, Teunis de Buquoy, Susanna de Buquoy, Judith Crouwelaers.  
+4. Tanneken Bucquoy, gedoopt op 12-03-1649, begraven Amsterdam 03-05-1685 (als vr. van Petter Eerassemus, welk huwelijk echter niet is gevonden), woont Oude Cingel, ondertrouw op 10-03-1668 met Abraham Costerus, woont Amsterdam, begraven aldaar 29-08-1679. Tanneken Gillis Bucquoy ontvangt 25-03-1668 attestatie naar niet vermelde plaats, kennelijk Amsterdam.  
+5. Willem, gedoopt op 13-03-1652.  
 
 Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr. wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
 
 ### VIa. Abraham Bukoy
-VIa    Abraham Bukoy, geboren op 11-10-1680, Waals gedoopt 13-10-1680, tr.? (huwelijk niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
+VIa    Abraham Bukoy, geboren op 11-10-1680, Waals gedoopt op 13-10-1680, tr.? (huwelijk niet gevonden) Magdalena Hoogenboom of Hoogenvleck,  
 
 Uit dit huwelijk:  
-1. Jan, gedoopt 11-03-1705, volgt [VIIa](#viia-jan-bekooy).  
-2. Magdalena, gedoopt 29-09-1706 (getuige Catharina Franc).  
+1. Jan, gedoopt op 11-03-1705, volgt [VIIa](#viia-jan-bekooy).  
+2. Magdalena, gedoopt op 29-09-1706 (getuige Catharina Franc).  
 
 ### VIb. Isack Bucquoy
-VIb    Isack Bucquoy, geboren op 04-03-1683, Waals gedoopt 07-03-1683, molenaarsknecht, begraven 21/28-04-1736[†](#notitie), ondertrouw op 07-02-1711 met Anna de Vos, gedoopt 05-10-1687, begraven 10/17-02-1725[†](#notitie), dochter van Guilliaem de Vos en Maria Slosser.  
+VIb    Isack Bucquoy, geboren op 04-03-1683, Waals gedoopt op 07-03-1683, molenaarsknecht, begraven 21/28-04-1736[†](#notitie), ondertrouw op 07-02-1711 met Anna de Vos, gedoopt op 05-10-1687, begraven 10/17-02-1725[†](#notitie), dochter van Guilliaem de Vos en Maria Slosser.  
 
 Uit dit huwelijk:  
-1. Abraham, gedoopt 29-09-1711, volgt [VIIb](#viib-abraham-buckooy).  
-2. TODO: Maria Bekooy, gedoopt 18-09-1712, begraven 17/21-11-1792[†](#notitie), 1) ondertrouw op 22-09-1735 met Jacob Verkouw, timmermansknecht van Remp(t)(?)in Gelderland, begraven 11/18-04-1744[†](#notitie), 2) ondertrouw op 09-03-1759 met Isaac Pel, laatst weduwnaar van Trijntje Bedier, gedoopt 14-08-1716, begraven Katwijk a/Z 10-02-1803, zoon van Isaack Pel en Katharina Risseveldt.  
-3. Anna, gedoopt 15-02-1714.  
-4. Catharina Bucquoy, gedoopt 17-05-1715, ondertrouw op 16-05-1732 met Adrianus Henneboo, grutter, van Leiden, vermoedelijk gedoopt 09-04-1698 als zoon van Adriaan Henneboo en Anna de Winter. Het paar krijgt 29-01-1741 attestatie naar Woerden.  
-5. Angeniet Bekooy, gedoopt 14-01-1717, begraven 09/16-06-1781[†](#notitie), ondertrouw op 18-04-1739 met Claude le Soin, broodbakkersknecht, gedoopt 29-04-1714, begraven Leiderdorp 01-07-1802 als Glaude Leswijn, zoon van Paulus Leswijn en Maartje Cegon.  
-6. Hendrina Bucquoy, gedoopt 16-03-1718, begraven 04/11-07-1772[†](#notitie), ondertrouw op 22-04-1740 met David de Risjouw, droogscheerder van Leiden, gedoopt 13-04-1718, begraven 24-06/01-07-1769[†](#notitie), zoon van David de Rouloi (= de Rousseau) en Abigael Neuteboom (ondertrouw met David de Rousseau en Abigael Noteboom op 17-07-1717, RAL KOT GG 204).  
-7. Johanna Buckooy, gedoopt 22-10-1719, begraven 19/26-01-1799[†](#notitie), ondertrouw op 06-04-1742 met Hendrik van der Reyden, metselaarsknecht, gedoopt 01-05-1716, overleden voor 1799, zoon van Dirk van der Rijden en Johanna Copijn.  
-8. Christina, gedoopt 16-03-1721.  
+1. Abraham, gedoopt op 29-09-1711, volgt [VIIb](#viib-abraham-buckooy).  
+2. TODO: Maria Bekooy, gedoopt op 18-09-1712, begraven 17/21-11-1792[†](#notitie), 1) ondertrouw op 22-09-1735 met Jacob Verkouw, timmermansknecht van Remp(t)(?)in Gelderland, begraven 11/18-04-1744[†](#notitie), 2) ondertrouw op 09-03-1759 met Isaac Pel, laatst weduwnaar van Trijntje Bedier, gedoopt op 14-08-1716, begraven Katwijk a/Z 10-02-1803, zoon van Isaack Pel en Katharina Risseveldt.  
+3. Anna, gedoopt op 15-02-1714.  
+4. Catharina Bucquoy, gedoopt op 17-05-1715, ondertrouw op 16-05-1732 met Adrianus Henneboo, grutter, van Leiden, vermoedelijk gedoopt op 09-04-1698 als zoon van Adriaan Henneboo en Anna de Winter. Het paar krijgt 29-01-1741 attestatie naar Woerden.  
+5. Angeniet Bekooy, gedoopt op 14-01-1717, begraven 09/16-06-1781[†](#notitie), ondertrouw op 18-04-1739 met Claude le Soin, broodbakkersknecht, gedoopt op 29-04-1714, begraven Leiderdorp 01-07-1802 als Glaude Leswijn, zoon van Paulus Leswijn en Maartje Cegon.  
+6. Hendrina Bucquoy, gedoopt op 16-03-1718, begraven 04/11-07-1772[†](#notitie), ondertrouw op 22-04-1740 met David de Risjouw, droogscheerder van Leiden, gedoopt op 13-04-1718, begraven 24-06/01-07-1769[†](#notitie), zoon van David de Rouloi (= de Rousseau) en Abigael Neuteboom (ondertrouw met David de Rousseau en Abigael Noteboom op 17-07-1717, RAL KOT GG 204).  
+7. Johanna Buckooy, gedoopt op 22-10-1719, begraven 19/26-01-1799[†](#notitie), ondertrouw op 06-04-1742 met Hendrik van der Reyden, metselaarsknecht, gedoopt op 01-05-1716, overleden voor 1799, zoon van Dirk van der Rijden en Johanna Copijn.  
+8. Christina, gedoopt op 16-03-1721.  
 
 ### VIIa. Jan Bekooy
-VIIa    Jan Bekooy, gedoopt 11-03-1705, kuypersknecht, ondertrouw op 05-08-1735 (getuige Isaac Bekooy zijn oom) met Joosje van Leeuwen, doop niet gevonden, begraven 08/15-01-1774[†](#notitie), dochter van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
+VIIa    Jan Bekooy, gedoopt op 11-03-1705, kuypersknecht, ondertrouw op 05-08-1735 (getuige Isaac Bekooy zijn oom) met Joosje van Leeuwen, doop niet gevonden, begraven 08/15-01-1774[†](#notitie), dochter van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
 Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel is van hen een Akte van Seclusie bekend, gedateerd 06-06-1706. Na haar dood (begraven 19/26-02-1735[†](#notitie)) hertrouwde Leendert van Leeuwen met Maria Ruygewey (ondertrouw op 18-05-1736). Maria Ruygewey getuigde als Maria Ruygnoy bij de doop van het eerste kind Leendert van haar stiefdochter Joosje van Leeuwen en Jan Bekooy.  
 
 Uit dit huwelijk:  
-1. Leendert, gedoopt 14-10-1737, volgt [VIIIa](#viiia-leendert-bekooy).  
-2. Katharina Buquooy, gedoopt 31-08-1738, overleden 26-01-1821, ondertrouw op 29-04-1768 met Johannes Taayspel, gedoopt 21-11-1745, rokjeswerker, overleden 27-12-1829, zoon van Daniël Taayspel en Margareta van Riet.  
-3. Abraham, gedoopt 22-04-1742, begraven 18/25-04-1744[†](#notitie).  
-4. Jan, gedoopt 21-04-1745, begraven 16/23-02-1754[†](#notitie).  
+1. Leendert, gedoopt op 14-10-1737, volgt [VIIIa](#viiia-leendert-bekooy).  
+2. Katharina Buquooy, gedoopt op 31-08-1738, overleden 26-01-1821, ondertrouw op 29-04-1768 met Johannes Taayspel, gedoopt op 21-11-1745, rokjeswerker, overleden 27-12-1829, zoon van Daniël Taayspel en Margareta van Riet.  
+3. Abraham, gedoopt op 22-04-1742, begraven 18/25-04-1744[†](#notitie).  
+4. Jan, gedoopt op 21-04-1745, begraven 16/23-02-1754[†](#notitie).  
 
 ### VIIb. Abraham Buckooy
-VIIb    Abraham Buckooy, gedoopt 29-09-1711, metselaarsknecht, woont Zijtgragt, overleden Banda 11-06-1759, ondertrouw op 23-04-1734 met Catharina Hartogh, gedoopt 08-06-1710, begraven 07/14-03-1778[†](#notitie), dochter van Johannes Hertige en Lysbeth Tijke.  
+VIIb    Abraham Buckooy, gedoopt op 29-09-1711, metselaarsknecht, woont Zijtgragt, overleden Banda 11-06-1759, ondertrouw op 23-04-1734 met Catharina Hartogh, gedoopt op 08-06-1710, begraven 07/14-03-1778[†](#notitie), dochter van Johannes Hertige en Lysbeth Tijke.  
 
 Uit dit huwelijk:  
-1. Anna Buckooy, gedoopt 17-02-1735, begraven 07/14-07-1804[†](#notitie), 1) ondertrouw op 28-04-1752 met Johannes Mugge, gedoopt 08-11-1730, straatmakersknecht, vermoedelijk begraven 03/10-07-1784[†](#notitie), zoon van Hermannus Mugge en Jannetje van Hoecken, 2) ondertrouw op 20-03-1778 met Bart Gonsaal, gedoopt 12-03-1724, begraven 16/23-07-1791[†](#notitie), weduwnaar van Suzanne van Barte, zoon van Bartholomeus Gansal en Grietje de Broeder.  
-2. Elisabeth Buqooy, gedoopt 17-03-1737, overleden 09-01-1815, ondertrouw op 18-03-1768 met Hendrik Mulhovius, gedoopt 19-09-1734, greinwerker, begraven 05/12-10-1799[†](#notitie), zoon van Pieter Mulhovius en Maria Veering.  
-3. Isaac, gedoopt 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy).  
-4. Catharina Bucquoy, gedoopt 03-06-1742, overleden 19-04-1813, begraven 23-04-1813, 1) ondertrouw op 16-12-1763 met Claas Boom, gedoopt 14-12-1729, wolkammersknecht, begraven 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, 2) ondertrouw op 15-05-1772 met Abraham van Putten, gedoopt 02-02-1744, warmoeziersknecht, begraven 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, 3) ondertrouw op 28-08-1807, tr. op 12-09-1807 met Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
-5. Geertruy Bekooy, gedoopt 30-12-1744, begraven 10/17-10-1778[†](#notitie), ondertrouw op 04-06-1773 met Willem Kloek, gedoopt 04-11-1751, mandemakersknecht, overleden na 1811 (niet gevonden), zoon van Pieter Kloek en Marytje Malie (= Mahieu).  
-6. Johannes, gedoopt 14-06-1747.  
-7. Abram, gedoopt 30-11-1749, volgt [VIIIc](#viiic-abraham-bekooy).  
+1. Anna Buckooy, gedoopt op 17-02-1735, begraven 07/14-07-1804[†](#notitie), 1) ondertrouw op 28-04-1752 met Johannes Mugge, gedoopt op 08-11-1730, straatmakersknecht, vermoedelijk begraven 03/10-07-1784[†](#notitie), zoon van Hermannus Mugge en Jannetje van Hoecken, 2) ondertrouw op 20-03-1778 met Bart Gonsaal, gedoopt op 12-03-1724, begraven 16/23-07-1791[†](#notitie), weduwnaar van Suzanne van Barte, zoon van Bartholomeus Gansal en Grietje de Broeder.  
+2. Elisabeth Buqooy, gedoopt op 17-03-1737, overleden 09-01-1815, ondertrouw op 18-03-1768 met Hendrik Mulhovius, gedoopt op 19-09-1734, greinwerker, begraven 05/12-10-1799[†](#notitie), zoon van Pieter Mulhovius en Maria Veering.  
+3. Isaac, gedoopt op 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy).  
+4. Catharina Bucquoy, gedoopt op 03-06-1742, overleden 19-04-1813, begraven 23-04-1813, 1) ondertrouw op 16-12-1763 met Claas Boom, gedoopt op 14-12-1729, wolkammersknecht, begraven 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, 2) ondertrouw op 15-05-1772 met Abraham van Putten, gedoopt op 02-02-1744, warmoeziersknecht, begraven 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, 3) ondertrouw op 28-08-1807, tr. op 12-09-1807 met Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
+5. Geertruy Bekooy, gedoopt op 30-12-1744, begraven 10/17-10-1778[†](#notitie), ondertrouw op 04-06-1773 met Willem Kloek, gedoopt op 04-11-1751, mandemakersknecht, overleden na 1811 (niet gevonden), zoon van Pieter Kloek en Marytje Malie (= Mahieu).  
+6. Johannes, gedoopt op 14-06-1747.  
+7. Abram, gedoopt op 30-11-1749, volgt [VIIIc](#viiic-abraham-bekooy).  
 
 Abraham Bekooy is in 1756 met het schip ‘Slooten’ naar Indië gegaan en op 11 juni 1759 op Banda overleden (14).  
 
 ### VIIIa. Leendert Bekooy
-VIIIa    Leendert Bekooy, gedoopt 14-10-1737, molenaarsknecht, overleden 14-04-1822, ondertrouw op 07-05-1762 met Francyntje van Leeuwen, overleden 12-02-1811, begraven 14-02-1811, waarschijnlijk gedoopt 15-05-1735 als dochter van Aart Jansz van Leeuwen en Trijntje Willems.  
+VIIIa    Leendert Bekooy, gedoopt op 14-10-1737, molenaarsknecht, overleden 14-04-1822, ondertrouw op 07-05-1762 met Francyntje van Leeuwen, overleden 12-02-1811, begraven 14-02-1811, waarschijnlijk gedoopt op 15-05-1735 als dochter van Aart Jansz van Leeuwen en Trijntje Willems.  
 
 Uit dit huwelijk:  
-1. Jezyntje, gedoopt 22-03-1763, begraven 19/26-12-1767[†](#notitie).  
-2. Maria Catharina Bekooy, gedoopt 27-06-1766, ongehuwd overleden 02-10-1829.  
-3. Alida Bekooy, gedoopt 10-01-1770, overleden Leiderdorp 24-05-1830, 1) ondertrouw op 14-04-1791 met Pieter van Klaveren, gedoopt 05-10-1768, melkverkoper, overleden Leiderdorp 11-08-1816, zoon van Willem van Klavere en Marytie van der Plas, 2) tr. in Leiderdorp op 22-03-1818 met Ary Poot, gedoopt Maasland 19-11-1786, jagersbaas, overleden Leiderdorp 13-09-1831, zoon van Jan Poot en Neltje van der Waal.  
-4. Joannes, gedoopt 20-12-1772, volgt [IXa](#ixa-johannes-bekooy).  
+1. Jezyntje, gedoopt op 22-03-1763, begraven 19/26-12-1767[†](#notitie).  
+2. Maria Catharina Bekooy, gedoopt op 27-06-1766, ongehuwd overleden 02-10-1829.  
+3. Alida Bekooy, gedoopt op 10-01-1770, overleden Leiderdorp 24-05-1830, 1) ondertrouw op 14-04-1791 met Pieter van Klaveren, gedoopt op 05-10-1768, melkverkoper, overleden Leiderdorp 11-08-1816, zoon van Willem van Klavere en Marytie van der Plas, 2) tr. in Leiderdorp op 22-03-1818 met Ary Poot, in Maasland op 19-11-1786, jagersbaas, overleden Leiderdorp 13-09-1831, zoon van Jan Poot en Neltje van der Waal.  
+4. Joannes, gedoopt op 20-12-1772, volgt [IXa](#ixa-johannes-bekooy).  
 
 ### VIIIb. Isaac Bekooy
-VIIIb    Isaac Bekooy, gedoopt Leiden 13-09-1739, metselaarsknecht, overleden na 01-1808, zoon van Abram Bekooy en Catharina Hartog, ondertrouw op 24-08-1764 met Geertruy Maas, gedoopt 03-08-1738, overleden 13-01-1808, begraven 16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
+VIIIb    Isaac Bekooy, gedoopt in Leiden op 13-09-1739, metselaarsknecht, overleden na 01-1808, zoon van Abram Bekooy en Catharina Hartog, ondertrouw op 24-08-1764 met Geertruy Maas, gedoopt op 03-08-1738, overleden 13-01-1808, begraven 16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
 
 Uit dit huwelijk:  
 1. Ongedoopt kind, geboren op 23-03-1765, begraven 30-03-1765.  
-2. Catharina Bucquoy, gedoopt 19-03-1766, begraven 16/23-10-1773[†](#notitie).  
-3. Immetje Bekooy, geboren in 1768, dubbelaarster, overleden 03-04-1851, ondertrouw op 28-09-1792 (getuige haar moeder Geertruy Maas) met Frans van der Kaay, gedoopt 22-12-1771, baaijwerker, overleden 18-03-1810, zoon van Lucas van der Kaay en Dirkje Romeyn.  
+2. Catharina Bucquoy, gedoopt op 19-03-1766, begraven 16/23-10-1773[†](#notitie).  
+3. Immetje Bekooy, geboren in 1768, dubbelaarster, overleden 03-04-1851, ondertrouw op 28-09-1792 (getuige haar moeder Geertruy Maas) met Frans van der Kaay, gedoopt op 22-12-1771, baaijwerker, overleden 18-03-1810, zoon van Lucas van der Kaay en Dirkje Romeyn.  
 Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, weduwe van Frans van der Kaay, overleed op 03-04-1851 (in de 10-jarentafel: Susannetje; de akte leest duidelijk Immetje) op 83-jarige leeftijd als dochter van Isaac Bekooy en Jannetje Romijn (??). Immetje Bekooy en Frans van der Kaay worden ook genoemd bij het huwelijk van hun dochter Hendrina in Rotterdam. Op 28-09-1792 werd (RAL, KOT YY 115) de ondertrouw geregistreerd tussen Jannetje (!) Bekooy en Frans van der Kaay.  
-1. Abram, gedoopt 21-06-1769, begraven 09/16-10-1773[†](#notitie).  
-2. Johanna Bekooy, gedoopt 22-09-1771, begraven 14/21-12-1771[†](#notitie).  
-3. Arnoldus, gedoopt 22-11-1772.  
+1. Abram, gedoopt op 21-06-1769, begraven 09/16-10-1773[†](#notitie).  
+2. Johanna Bekooy, gedoopt op 22-09-1771, begraven 14/21-12-1771[†](#notitie).  
+3. Arnoldus, gedoopt op 22-11-1772.  
 
 ### VIIIc. Abraham Bekooy
-VIIIc    Abraham Bekooy, gedoopt 30-11-1749, metselaarsknecht, overleden 04-02-1815, ondertrouw op 22-04-1774 met Anna Mulhovius, gedoopt 18-12-1748, overleden 06-03-1818, dochter van Pieter Mulhovius en Maria Schrijver (Veering ??).  
+VIIIc    Abraham Bekooy, gedoopt op 30-11-1749, metselaarsknecht, overleden 04-02-1815, ondertrouw op 22-04-1774 met Anna Mulhovius, gedoopt op 18-12-1748, overleden 06-03-1818, dochter van Pieter Mulhovius en Maria Schrijver (Veering ??).  
 
 Uit dit huwelijk:  
-1. Catharina Bekooy, gedoopt 12-03-1775, overleden 06-01-1841, ondertrouw op 12-08-1796 met Jacobus van Dissel, lakenwerker, mogelijk gedoopt 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overleden 10-09-1814.  
-2. Pieter, gedoopt 27-11-1776, begraven 27-12-1777/03-01-1778[†](#notitie).  
+1. Catharina Bekooy, gedoopt op 12-03-1775, overleden 06-01-1841, ondertrouw op 12-08-1796 met Jacobus van Dissel, lakenwerker, mogelijk gedoopt op 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overleden 10-09-1814.  
+2. Pieter, gedoopt op 27-11-1776, begraven 27-12-1777/03-01-1778[†](#notitie).  
 3. Levenloos kind, geboren/overleden 01-05-1779, begraven 08-05-1779.  
-4. Johanna Bekooy, gedoopt 27-09-1780, overleden, ondertrouw op 02-06-1809, tr. op 17-06-1809 met Abraham Holswilder, gedoopt 28-08-1782, warmoezier, overleden 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
-5. Leonardus Gerard, gedoopt 23-07-1782, volgt [IXb](#ixb-leonardus-gerard-bekooy).  
-6. Abraham, gedoopt 23-07-1782.  
-7. Maria, gedoopt 01-09-1784, begraven 23/30-10-1784[†](#notitie).  
-8. Abram, gedoopt 25-07-1787, volgt [IXc](#ixc-abraham-bekooy).  
-9. Pieter, gedoopt 27-09-1789, volgt [IXd](#ixd-pieter-bekooy).  
-10. Hendrik, gedoopt 08-07-1792, volgt [IXe](#ixe-hendrik-bekooy).  
+4. Johanna Bekooy, gedoopt op 27-09-1780, overleden, ondertrouw op 02-06-1809, tr. op 17-06-1809 met Abraham Holswilder, gedoopt op 28-08-1782, warmoezier, overleden 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
+5. Leonardus Gerard, gedoopt op 23-07-1782, volgt [IXb](#ixb-leonardus-gerard-bekooy).  
+6. Abraham, gedoopt op 23-07-1782.  
+7. Maria, gedoopt op 01-09-1784, begraven 23/30-10-1784[†](#notitie).  
+8. Abram, gedoopt op 25-07-1787, volgt [IXc](#ixc-abraham-bekooy).  
+9. Pieter, gedoopt op 27-09-1789, volgt [IXd](#ixd-pieter-bekooy).  
+10. Hendrik, gedoopt op 08-07-1792, volgt [IXe](#ixe-hendrik-bekooy).  
 
 ### IXa. Johannes Bekooy
-IXa    Johannes Bekooy, gedoopt 20-12-1772, letterzettersknecht, overleden 15-01-1843, 1) ondertrouw op 01-05-1795 met Jannetje Genon, gedoopt 20-09-1764, overleden Leiden 07-03-1825, buitenechtelijke dochter van Jan Genon en Grietje de Vink, 2) tr. in Zoeterwoude op 08-03-1830 met Anna Elisabeth Schröders, geboren en/of RK gedoopt Roermond 16-05-1770, overleden 14-11-1853, weduwe van D. Saris, dochter van Matthias Schroëders en Maria Josepha Sagers.  
+IXa    Johannes Bekooy, gedoopt op 20-12-1772, letterzettersknecht, overleden 15-01-1843, 1) ondertrouw op 01-05-1795 met Jannetje Genon, gedoopt op 20-09-1764, overleden Leiden 07-03-1825, buitenechtelijke dochter van Jan Genon en Grietje de Vink, 2) tr. in Zoeterwoude op 08-03-1830 met Anna Elisabeth Schröders, geboren en/of RK gedoopt in Roermond op 16-05-1770, overleden 14-11-1853, weduwe van D. Saris, dochter van Matthias Schroëders en Maria Josepha Sagers.  
 
 Uit het eerste huwelijk:
 
-1. Johannes, gedoopt 29-05-1796, volgt [Xa](#xa-johannes-bekooy).  
-2. Helena Margareta Bekooy, gedoopt 01-04-1801, ongehuwd overleden 20-08-1885.  
+1. Johannes, gedoopt op 29-05-1796, volgt [Xa](#xa-johannes-bekooy).  
+2. Helena Margareta Bekooy, gedoopt op 01-04-1801, ongehuwd overleden 20-08-1885.  
   ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader  
     - Johannes, 67 jaar: Johannes, geboren in nov./dec. 1839, overleden 09-05-1840  
 
-Uit een relatie met Susanna Kloots (gedoopt 18-09-1767, overleden 31-08-1828, weduwe van Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
+Uit een relatie met Susanna Kloots (gedoopt op 18-09-1767, overleden 31-08-1828, weduwe van Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
 
-1. Johannes Antonie, ‘onecht’, gedoopt 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy).  
+1. Johannes Antonie, ‘onecht’, gedoopt op 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy).  
 
-N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, gedoopt 13-12-1770, overleden Leiden, begraven Oegstgeest 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
+N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, gedoopt op 13-12-1770, overleden Leiden, begraven Oegstgeest 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
 
 ### IXb. Leonardus Gerard Bekooy
-IXb    Leonardus Gerard Bekooy, gedoopt 23-07-1782, kleermakersknecht, overleden 05-01-1858, woont Spekhof, 1) ondertrouw op 18-08-1810, tr. op 05-09-1810 met Johanna van Meeteren, gedoopt 30-08-1769, overleden 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) tr. op 30-10-1833 met Francina van der Blom, gedoopt 09-08-1792, overleden 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
+IXb    Leonardus Gerard Bekooy, gedoopt op 23-07-1782, kleermakersknecht, overleden 05-01-1858, woont Spekhof, 1) ondertrouw op 18-08-1810, tr. op 05-09-1810 met Johanna van Meeteren, gedoopt op 30-08-1769, overleden 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) tr. op 30-10-1833 met Francina van der Blom, gedoopt op 09-08-1792, overleden 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
 
 Uit het tweede huwelijk:  
 
 1. Johanna Bekooy, geboren op 17-01-1835, overleden 10-04-1914, tr. met Marinus Jacobus Lafeber.  
 
 ### IXc. Abraham Bekooy
-IXc    Abraham Bekooy, gedoopt 25-07-1787, mandenmaker, overleden 16-03-1864, tr. op 01-08-1816 met Maartje Engelbrecht, gedoopt 18-12-1785, overleden 27-12-1851, dochter van Jacob Engelbregt en Johanna Verdonk.  
+IXc    Abraham Bekooy, gedoopt op 25-07-1787, mandenmaker, overleden 16-03-1864, tr. op 01-08-1816 met Maartje Engelbrecht, gedoopt op 18-12-1785, overleden 27-12-1851, dochter van Jacob Engelbregt en Johanna Verdonk.  
 
 Uit dit huwelijk:  
 1. Abraham, geboren op 12-07-1817, volgt [Xd](#xd-abraham-bekooy).  
@@ -465,7 +465,7 @@ Uit dit huwelijk:
 4. Leonardus Gerard Johan Bekooy, geboren op 06-02-1826, mandenmaker, ongehuwd overleden 25-02-1884.  
 
 ### IXd. Pieter Bekooy
-IXd    Pieter Bekooy, gedoopt 27-09-1789, timmerman, overleden 10-09-1866, tr. op 20-02-1817 met Catharina Midderhof, gedoopt 06-02-1785, overleden 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise.  
+IXd    Pieter Bekooy, gedoopt op 27-09-1789, timmerman, overleden 10-09-1866, tr. op 20-02-1817 met Catharina Midderhof, gedoopt op 06-02-1785, overleden 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise.  
 
 Uit dit huwelijk:  
 1. Abraham, geboren op 21-06-1817, overleden 27-10-1835.  
@@ -474,7 +474,7 @@ Uit dit huwelijk:
 4. Johanna Catharina, geboren op 16-01-1825, overleden 15-12-1835.  
   
 ### IXe. Hendrik Bekooy
-IXe    Hendrik Bekooy, gedoopt 08-07-1792, metselaar, overleden 17-04-1874, tr. op 28-10-1812 met Geertruy Johanna de Nobel, gedoopt 23-10-1791, overleden 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
+IXe    Hendrik Bekooy, gedoopt op 08-07-1792, metselaar, overleden 17-04-1874, tr. op 28-10-1812 met Geertruy Johanna de Nobel, gedoopt op 23-10-1791, overleden 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
 
 Uit dit huwelijk:  
 1. Abraham Bekooy, geboren op 08-01-1813, overleden 04-02-1893.  
@@ -486,7 +486,7 @@ Uit dit huwelijk:
 7. Isaac, geboren op 02-04-1826.  
 
 ### Xa. Johannes Bekooy
-Xa    Johannes Bekooij, gedoopt 29-05-1796, daggelder, overleden 21-11-1879, tr. op 07-06-1832 met Margaretha van Tongeren, geboren/gedoopt 18-02-1808, overleden tot 1940 niet in Leiden gevonden, dochter van Jacobus van Tongere en Sijtje de Gunst.  
+Xa    Johannes Bekooij, gedoopt op 29-05-1796, daggelder, overleden 21-11-1879, tr. op 07-06-1832 met Margaretha van Tongeren, geboren/gedoopt op 18-02-1808, overleden tot 1940 niet in Leiden gevonden, dochter van Jacobus van Tongere en Sijtje de Gunst.  
 
 Uit dit huwelijk:  
 1. Johannes, geboren op 18-06-1836, overleden 18-01-1837.  
@@ -497,7 +497,7 @@ Uit dit huwelijk:
 5. Maria, geboren op 19-12-1848, overleden 23-08-1852.  
 
 ### Xb. Johannes Antonie Bekooy
-Xb    Johannes Antonie Bekooy, gedoopt 07-10-1804, wijnkopersknecht, overleden 13-05-1846, tr. op 19-11-1829 met Grietje Kooij, gedoopt De Meern 30-03-1808, dienstbode, overleden 24-03-1870, dochter van Maarten Kooy en Catharina Coomans.  
+Xb    Johannes Antonie Bekooy, gedoopt op 07-10-1804, wijnkopersknecht, overleden 13-05-1846, tr. op 19-11-1829 met Grietje Kooij, gedoopt in De Meern op 30-03-1808, dienstbode, overleden 24-03-1870, dochter van Maarten Kooy en Catharina Coomans.  
 
 Uit dit huwelijk:  
 1. Johannes Antonie Bekooy, geboren op 10-07-1830, schrijnwerker, overleden 09-08-1892, tr. op 26-07-1865 met Helena van der Geer, geboren op 01-12-1828, overleden 27-08-1898, gescheiden echtgenote van Piet de Raad, dochter van Richard van der Geer en Helena Florijn.  
@@ -619,44 +619,44 @@ Uit dit huwelijk bekend:
 IIIa (Q 246)    Jean de Bucquoy, van Movou, woont Corte Scheystraet, greinwerker, (overleden kort voor 08-09-1670 (16)) Waals ondertrouw op 21-07-1659 (getuige Walrave de Buquoy zijn vader) met Machtelt (of Michelle) de Quiene, woont Rijnsburgerpoort, getuige Pierone Bayse haar moeder.  
 
 Uit dit huwelijk:  
-1. Jean\*, Waals gedoopt 21-07-1660 (getuige Valeran de Bucquoy en anderen)  
-2. Abraham\*, Waals gedoopt 26-10-1661 (getuige Pierre du Quesne, Etienne du Quesne, Pierronne Dervaus en Marie Herman).  
-3. Marie\*, Waals gedoopt 28-01-1663, (getuige Jean du Chesne, Gerard du Bucquoy, Anne du Chesne et Jeane du Chesne).  
-4. Marie, Waals gedoopt 23-03-1664, (getuige Jean du Quesne, Gerard de Bucquoy, Jeane du Quesne en Elisabeth Jenote).  
-5. Sara, Waals gedoopt 31-01-1666, (getuige Hubert Desbucquoy, Pierre Loubert, Marguerite Desbucquoy en Lysbeth Derveau).  
-6. Pieronne, Waals gedoopt 07-08-1667, (getuige Antony des Buquoy, Pierre du Chenne, Jeanne de Rucan en Susanne Blonk).  
+1. Jean\*, Waals gedoopt op 21-07-1660 (getuige Valeran de Bucquoy en anderen)  
+2. Abraham\*, Waals gedoopt op 26-10-1661 (getuige Pierre du Quesne, Etienne du Quesne, Pierronne Dervaus en Marie Herman).  
+3. Marie\*, Waals gedoopt op 28-01-1663, (getuige Jean du Chesne, Gerard du Bucquoy, Anne du Chesne et Jeane du Chesne).  
+4. Marie, Waals gedoopt op 23-03-1664, (getuige Jean du Quesne, Gerard de Bucquoy, Jeane du Quesne en Elisabeth Jenote).  
+5. Sara, Waals gedoopt op 31-01-1666, (getuige Hubert Desbucquoy, Pierre Loubert, Marguerite Desbucquoy en Lysbeth Derveau).  
+6. Pieronne, Waals gedoopt op 07-08-1667, (getuige Antony des Buquoy, Pierre du Chenne, Jeanne de Rucan en Susanne Blonk).  
 
 \* De kinderen 1 t/m 3 en 6 zijn overleden voor 08-09-1670 (16).  
 
 ### IIIb. Gerard du Bucquoy
-IIIb (S 22)    Gerard du Bucquoy, van Bondu, overleden kort voor 25-10-1683 (17), woont Langegraft, greinwerker, Waals ondertrouw op 16-08-1664 (getuige Walram de Bucquoy zijn vader) met Lysbet Jenot, geboren op 21-04-1642, Waals gedoopt 27-04-1642, woont Corte Scheystraet, dochter van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, weduwnaar van Anthoneth Tjeers, woont Gorstestraet, Waals ondertrouw op 25-10-1683 met Lysbeth Jenoth, weduwe van Gerard du Bucquoy, woont Gorstestraet).  
+IIIb (S 22)    Gerard du Bucquoy, van Bondu, overleden kort voor 25-10-1683 (17), woont Langegraft, greinwerker, Waals ondertrouw op 16-08-1664 (getuige Walram de Bucquoy zijn vader) met Lysbet Jenot, geboren op 21-04-1642, Waals gedoopt op 27-04-1642, woont Corte Scheystraet, dochter van Antoine Jeannot en Anthonette Servie. (Sjean le Moine, weduwnaar van Anthoneth Tjeers, woont Gorstestraet, Waals ondertrouw op 25-10-1683 met Lysbeth Jenoth, weduwe van Gerard du Bucquoy, woont Gorstestraet).  
 
 Uit dit huwelijk:  
-1. Walran, Waals gedoopt 15-07-1665, getuige Walran des Bucquoy, Guilbert Derveau, Antoniette Seteuille et Elisabeth Bailler. volgt [IVa](#iva-walran-warnaar-de-bucquoy).  
-2. Elizabeth, Waals gedoopt 03-07-1669 (getuige Jean de Buquoy, Jean Cathe, Peironne Derveau et Catherine Jenote), overleden voor 25-10-1683.  
-3. Anthoine, geboren op 24-08-1671, Waals gedoopt 26-08-1671 (getuige Huber de Buquoy, Anthoine de Buquoy, Marie Genote et Elizabeth de Rurau), overleden voor 25-10-1683.  
-4. Suzane de Bucquoy, geboren op 07-09-1673, Waals gedoopt 10-09-1673 (getuige Anthoine de Bucquoy, Marie Schenote, Ester Schenote), woont Binnenvestgraft bij de Rijnstraet, ondertrouw op 25-11-1700 (getuige Marytje van Diest haar schoonzuster) met Abraham Duchoswaer, greijnwercker, woont Nieuwe Levendael.  
-5. Gerard, geboren/Waals gedoopt 22-05-1676 (getuige Louys Gloslain, Jehanne Dervaux).  
-6. Pierre, geboren op 22-03-1679, Waals gedoopt 26-03-1679, (getuige Pierre Genot, Judith Janse et Elisabeth Dervaux), overleden voor 25-10-1683.  
+1. Walran, Waals gedoopt op 15-07-1665, getuige Walran des Bucquoy, Guilbert Derveau, Antoniette Seteuille et Elisabeth Bailler. volgt [IVa](#iva-walran-warnaar-de-bucquoy).  
+2. Elizabeth, Waals gedoopt op 03-07-1669 (getuige Jean de Buquoy, Jean Cathe, Peironne Derveau et Catherine Jenote), overleden voor 25-10-1683.  
+3. Anthoine, geboren op 24-08-1671, Waals gedoopt op 26-08-1671 (getuige Huber de Buquoy, Anthoine de Buquoy, Marie Genote et Elizabeth de Rurau), overleden voor 25-10-1683.  
+4. Suzane de Bucquoy, geboren op 07-09-1673, Waals gedoopt op 10-09-1673 (getuige Anthoine de Bucquoy, Marie Schenote, Ester Schenote), woont Binnenvestgraft bij de Rijnstraet, ondertrouw op 25-11-1700 (getuige Marytje van Diest haar schoonzuster) met Abraham Duchoswaer, greijnwercker, woont Nieuwe Levendael.  
+5. Gerard, geboren/Waals gedoopt op 22-05-1676 (getuige Louys Gloslain, Jehanne Dervaux).  
+6. Pierre, geboren op 22-03-1679, Waals gedoopt op 26-03-1679, (getuige Pierre Genot, Judith Janse et Elisabeth Dervaux), overleden voor 25-10-1683.  
 
 Op 25-10-1683 worden Pieter Anthonisz, bierdrager, en Anthony Bucquoy, greinwerker, voogd gesteld over Warnaer, 18 jaar, en Susanna, 10 jaar, nagelaten kinderen van Gerrit de Bucquoy bij Elisabeth Jennot (17).  
 
 ### IIIc. Anthony de Bucquoy
-IIIc    Anthony de Bucquoy, van Bondu, woont Scheystraet, greinwever, Waals ondertrouw op 31-03-1685 (getuige Jan le Moine zijn zwager) met Sara van der Walle, gedoopt 11-04-1655, dochter van Mathieu van de Walle en Jannetje Coninck, woont Corte Scheystraet.  
+IIIc    Anthony de Bucquoy, van Bondu, woont Scheystraet, greinwever, Waals ondertrouw op 31-03-1685 (getuige Jan le Moine zijn zwager) met Sara van der Walle, gedoopt op 11-04-1655, dochter van Mathieu van de Walle en Jannetje Coninck, woont Corte Scheystraet.  
 
 Uit dit huwelijk:  
-1. Sara de Bucquoy, gedoopt 01-03-1686, woont Haasewindsteegh, ondertrouw op 13-02-1712 (getuige haar tante Rebecca van der Walle) met Joris Verrejager, kleermaker van Leiden, (woont Haasewindsteegh, getuige zijn zwager Barent Koster), doop niet gevonden, maar waarschijnlijk zoon van Louris Lourisz (Verrejager ?) en Catrijna Steenberg(en).  
+1. Sara de Bucquoy, gedoopt op 01-03-1686, woont Haasewindsteegh, ondertrouw op 13-02-1712 (getuige haar tante Rebecca van der Walle) met Joris Verrejager, kleermaker van Leiden, (woont Haasewindsteegh, getuige zijn zwager Barent Koster), doop niet gevonden, maar waarschijnlijk zoon van Louris Lourisz (Verrejager ?) en Catrijna Steenberg(en).  
 Barent Koster ondertrouwde Marytje Verrejager, weduwe van Joris van Bremen, op 14-07-1702. Zij werd daarbij geassisteerd door een schoonzuster en door Cathalijn Steenbergh, haar schoon(=stief)moeder. Op 07-02-1681 ondertrouwden Marytje Lourens Piteyn en Joris van Breemen, Mr. Slootmaker. Op 14-03-1665 werd de ondertrouw gesloten tussen Lourens Lourisz, weduwnaar van Neeltgen Jans, met Cathalijne Steenberch. Zeer waarschijnlijk is Marytje Verrejager dezelfde als Marytje Lourens Piteyn, en dan een dochter uit het eerste huwelijk van Lourens Lourisz met Neeltgen Jans. Joris Verrejager is naar mijn mening een (half-?)broer van Marytje Verrejager.  
-2. Janneke, gedoopt 24-09-1687, getuige Jan le Moijne, Elisabeth Jeneth, Martha van der Walle.  
+2. Janneke, gedoopt op 24-09-1687, getuige Jan le Moijne, Elisabeth Jeneth, Martha van der Walle.  
 
 ### IIId. Philips de Bucquoy
 IIId    Philps de Bucquoy, van Bondu, woont Haerlemstraet, kleermaker, Waals ondertrouw op 01-05-1660 (getuige Walram de Bucquoy zijn oom) met Pierone Caterijs, (overleden op of kort voor 05-03-1704), weduwe van Huybert de Coutinje, woont Cleystraet.  
 
 Uit dit huwelijk:  
-1. Jean, Waals gedoopt 23-02-1661, getuige Jean du Quesne et Marie Masse.  
-2. Sara (de) Bucquoy, Waals gedoopt 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, Waals ondertrouw op 07-10-1689, tr. in Voorschoten op (?) met Jean Howel, woont Scheystraet, weduwnaar van Mary Hoesee.  
-3. Abram (18), Waals gedoopt 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
-4. Maria de Bekoy, geboren op 24-06-1672, Waals gedoopt 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begraven 02/09-07-1740[†](#notitie), ondertrouw op 30-05-1698 (getuige Sara de Bekoy haar zuster) met Johannes la Louw, overleden voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
+1. Jean, Waals gedoopt op 23-02-1661, getuige Jean du Quesne et Marie Masse.  
+2. Sara (de) Bucquoy, Waals gedoopt op 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, Waals ondertrouw op 07-10-1689, tr. in Voorschoten op (?) met Jean Howel, woont Scheystraet, weduwnaar van Mary Hoesee.  
+3. Abram (18), Waals gedoopt op 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
+4. Maria de Bekoy, geboren op 24-06-1672, Waals gedoopt op 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begraven 02/09-07-1740[†](#notitie), ondertrouw op 30-05-1698 (getuige Sara de Bekoy haar zuster) met Johannes la Louw, overleden voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
 
 Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, woont in de Scheystraat. Zij prelegateert aan haar dochter Jeanne Cottiny en haar drie andere kinderen Sara, Abram en Marie de Bucquoy bedragen van rond 1000 glds en benoemt Abraham la Lau, Jean la Lau en Jean Houwel tot executeurs-testamentair. De akte is merkwaardigerwijs in het Frans. Zou deze in redelijke welstand verkeerd hebbende dame zich te groot hebben gevoeld om, na ruim 40 jaar in Holland te hebben gewoond, de taal te spreken? De executie vangt aan op 05-03-1704 (18).  
 
@@ -664,114 +664,114 @@ Op 10-01-1702 testeert Pieronne Catris, weduwe van Philip de Bucquoy, woont in d
 IIIe (T 200v)    Jan de Bucquoy, van Bondu, woont Dieffsteech, greinreder, ondertrouw op 28-11-1669 (getuige Philps de Bucqoy zijn broeder) met Elysabeth Hallius, van Leyden, woont Dieffsteech.  
 
 Uit dit huwelijk:  
-1. Jan, Nederduits Gereformeerd gedoopt 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), getuige Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
+1. Jan, Nederduits Gereformeerd gedoopt op 18-01-1671, (v. Jan de Buquoy, m. Elisabeth Abise (!)), getuige Philip de Buquoy, Pieronne Catrise, Artus Crojett.  
 
 ### IVa. Walran (Warnaar) de Bucquoy
-IVa    Walran (Warnaar) de Bucquoy, Waals gedoopt 15-07-1665, greynwerker opt Levendael, begraven 26-02/05-03-1735[†](#notitie), ondertrouw op 12-11-1694 (getuige Jan Lemoine, zijn schoonvader (=stiefvader)) met Maria van Diest, overleden voor 26-02-1735, weduwe van Pieter de Pree (ondertrouw op 19-10-1689).  
+IVa    Walran (Warnaar) de Bucquoy, Waals gedoopt op 15-07-1665, greynwerker opt Levendael, begraven 26-02/05-03-1735[†](#notitie), ondertrouw op 12-11-1694 (getuige Jan Lemoine, zijn schoonvader (=stiefvader)) met Maria van Diest, overleden voor 26-02-1735, weduwe van Pieter de Pree (ondertrouw op 19-10-1689).  
 
 Uit dit huwelijk:  
-1. Gerrit, Nederduits Gereformeerd gedoopt 21-09-1695, getuige Jan Le Moine, Antonette Servie, Susanna de Bucoy.  
-2. TODO: Jacobus, Nederduits Gereformeerd gedoopt 25-08-1697, getuige Antoon de Bucooy, Maria Claas. Volgt Va.  
-3. Elisabeth de Bucquoij, Nederduits Gereformeerd gedoopt 24-12-1699 (getuige Susannetjen de Bukoij), overleden voor 18-08-1732 (voogdijstelling), ondertrouw op 26-04-1721 met Abraham le Pers (= le Pair), greijnwerker, getuige Jan le Pers, zijn vader.  
-4. Gerrit, Nederduits Gereformeerd gedoopt 13-05-1703.  
+1. Gerrit, Nederduits Gereformeerd gedoopt op 21-09-1695, getuige Jan Le Moine, Antonette Servie, Susanna de Bucoy.  
+2. TODO: Jacobus, Nederduits Gereformeerd gedoopt op 25-08-1697, getuige Antoon de Bucooy, Maria Claas. Volgt Va.  
+3. Elisabeth de Bucquoij, Nederduits Gereformeerd gedoopt op 24-12-1699 (getuige Susannetjen de Bukoij), overleden voor 18-08-1732 (voogdijstelling), ondertrouw op 26-04-1721 met Abraham le Pers (= le Pair), greijnwerker, getuige Jan le Pers, zijn vader.  
+4. Gerrit, Nederduits Gereformeerd gedoopt op 13-05-1703.  
   
 ### Va. Jacobus de Bucquoy
-Va    Jacobus de Bucquoy, gedoopt 25-08-1697, greynwercker, begraven 05/12-05-1731[†](#notitie), ondertrouw op 20-04-1726 met Rachel Tijn, gedoopt 30-11-1698, begraven  
-25-08/01-09-1787[†](#notitie) als weduwe van Jan Olivier, dochter van Jacob Teyn en Grietje Jans le Pair (la Paar). (Rachel T. hertrouwde op 02-04-1735 met Johannes Olivier.).  
+Va    Jacobus de Bucquoy, gedoopt op 25-08-1697, greynwercker, begraven 05/12-05-1731[†](#notitie), ondertrouw op 20-04-1726 met Rachel Tijn, gedoopt op 30-11-1698, begraven 25-08/01-09-1787[†](#notitie) als weduwe van Jan Olivier, dochter van Jacob Teyn en Grietje Jans le Pair (la Paar). (Rachel T. hertrouwde op 02-04-1735 met Johannes Olivier.).  
+
 De Franse versie van de achternaam van Rachel is waarschijnlijk Tin: op 04-08-1680 werd Waals gedoopt Jacob, zoon van Abraham Tin en Jeanne du Quenne. Onder de getuigen waren Jacob Tin en Marguerite le Per, die op 25-04-1682 als Jacob Teyn en Grietje Jans le Pair in ondertrouw gingen.  
 
 Uit dit huwelijk:  
-1. Warnaar, gedoopt 28-05-1726, volgt [VIa](#via-warnaar-bekooy).  
-2. Jakob, gedoopt 13-11-1727, begraven 20/27-12-1727[†](#notitie).  
-3. Jakob, gedoopt 22-02-1729, volgt [VIb](#vib-jacob-bekooy).  
+1. Warnaar, gedoopt op 28-05-1726, volgt [VIa](#via-warnaar-bekooy).  
+2. Jakob, gedoopt op 13-11-1727, begraven 20/27-12-1727[†](#notitie).  
+3. Jakob, gedoopt op 22-02-1729, volgt [VIb](#vib-jacob-bekooy).  
 
 ### VIa. Warnaar Bekooy
-VIa    Warnaar Bekooy, gedoopt 28-05-1726, greinwerker, begraven 26-12-1789/02-01-1790[†](#notitie), ondertrouw op 10-04-1751 met Dina Nikasie, RK gedoopt 03-03-1729 (? Op de vermelde doopdatum wordt de naam gegeven als Hendrica; de andere dochters van het ouderpaar heetten Anna en Maria), vermoedelijk overleden tussen 21-11-1783 (laatste getuigenis, bij huwelijk van dochter Johanna) en 07-12-1787 (huwelijk dochter Dina, waarbij zij niet meer aanwezig was), dochter van Gillis (Aegidius) Nicasie en Anna van der Velde. Dina Nikasie komt in enkele doopinschrijvingen van haar kinderen en bij optredens als getuige voor als La(c)kasje, Lakatie, Lackarie.  
+VIa    Warnaar Bekooy, gedoopt op 28-05-1726, greinwerker, begraven 26-12-1789/02-01-1790[†](#notitie), ondertrouw op 10-04-1751 met Dina Nikasie, RK gedoopt op 03-03-1729 (? Op de vermelde doopdatum wordt de naam gegeven als Hendrica; de andere dochters van het ouderpaar heetten Anna en Maria), vermoedelijk overleden tussen 21-11-1783 (laatste getuigenis, bij huwelijk van dochter Johanna) en 07-12-1787 (huwelijk dochter Dina, waarbij zij niet meer aanwezig was), dochter van Gillis (Aegidius) Nicasie en Anna van der Velde. Dina Nikasie komt in enkele doopinschrijvingen van haar kinderen en bij optredens als getuige voor als La(c)kasje, Lakatie, Lackarie.  
 
 Uit dit huwelijk:  
-1. Rachel Bekooy, gedoopt 15-07-1751, overleden 27-12-1816, 1) ondertrouw op 08-05-1773 met Mattheus Wesselius, gedoopt 02-02-1749, greindroger, begraven 27-09/04-10-1777[†](#notitie), zoon van Willem Verselis (Wesselius) en Judith Cornilje, 2) ondertrouw op 14-07-1780 met Matthijs Ouderkerk, gedoopt ?, begraven 15/22-05-1802[†](#notitie), weduwnaar van Jannetje van der Star, zoon van Johannes Ouderkerk en ??.  
+1. Rachel Bekooy, gedoopt op 15-07-1751, overleden 27-12-1816, 1) ondertrouw op 08-05-1773 met Mattheus Wesselius, gedoopt op 02-02-1749, greindroger, begraven 27-09/04-10-1777[†](#notitie), zoon van Willem Verselis (Wesselius) en Judith Cornilje, 2) ondertrouw op 14-07-1780 met Matthijs Ouderkerk, gedoopt ?, begraven 15/22-05-1802[†](#notitie), weduwnaar van Jannetje van der Star, zoon van Johannes Ouderkerk en ??.  
 2. Levenloos kind, geboren/overleden 14-10-1752, begraven 21-10-1752.  
-3. Johanna Bekooy, gedoopt 11-12-1753, ondertrouw op 21-11-1783 met Matthijs leeft nog 1814, overleden t/m 1852 niet gevonden, gedoopt 03-11-1743, overleden 18-12-1814, begraven 23-12-1814, weduwnaar van Alida Vilvoorden, zoon van Hannes Piket en Marytje het Hooft.  
-4. Jacobus, gedoopt 08-04-1756, volgt [VIIa](#viia-jacobus-boekooy).  
-5. Dina Bekooy, gedoopt 19-11-1758, overleden 16-07-1843, ondertrouw op 07-12-1787 met Pieter Marka, gedoopt 18-04-1762, overleden 22-02-1839, weduwnaar van Elisabeth de Nie, zoon van Willem Markaa en Santje Maarschalk.  
-6. Catharina Bekooy, gedoopt 17-02-1761, begraven 24/31-01-1795[†](#notitie), ondertrouw op 07-11-1794 met Abraham Marka, gedoopt 24-07-1774, lakenwerker, zoon van Willem Marka en Suzanna Maarschalk. Abraham Marka hertrouwt (zonder kinderen) 28-11-1795 met Elisbeth Koevee.  
-7. Maria, gedoopt 12-05-1763, begraven 04/11-06-1763[†](#notitie).  
-8. Warrenaad, gedoopt 27-05-1764, begraven 16/23-06-1764[†](#notitie).  
-9. Johannes, gedoopt 03-07-1765, begraven 26-06/03-07-1773[†](#notitie).  
-10. Maria Bekooy, gedoopt 28-02-1768, overleden 26-07-1851, ondertrouw op 24-11-1797, tr. op 09-12-1797 met Pieter le Leu, gedoopt 22-06-1758, overleden 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
-11. Warnaar, gedoopt 12-03-1772, begraven 03/10-07-1773[†](#notitie).  
+3. Johanna Bekooy, gedoopt op 11-12-1753, ondertrouw op 21-11-1783 met Matthijs leeft nog 1814, overleden t/m 1852 niet gevonden, gedoopt op 03-11-1743, overleden 18-12-1814, begraven 23-12-1814, weduwnaar van Alida Vilvoorden, zoon van Hannes Piket en Marytje het Hooft.  
+4. Jacobus, gedoopt op 08-04-1756, volgt [VIIa](#viia-jacobus-boekooy).  
+5. Dina Bekooy, gedoopt op 19-11-1758, overleden 16-07-1843, ondertrouw op 07-12-1787 met Pieter Marka, gedoopt op 18-04-1762, overleden 22-02-1839, weduwnaar van Elisabeth de Nie, zoon van Willem Markaa en Santje Maarschalk.  
+6. Catharina Bekooy, gedoopt op 17-02-1761, begraven 24/31-01-1795[†](#notitie), ondertrouw op 07-11-1794 met Abraham Marka, gedoopt op 24-07-1774, lakenwerker, zoon van Willem Marka en Suzanna Maarschalk. Abraham Marka hertrouwt (zonder kinderen) 28-11-1795 met Elisbeth Koevee.  
+7. Maria, gedoopt op 12-05-1763, begraven 04/11-06-1763[†](#notitie).  
+8. Warrenaad, gedoopt op 27-05-1764, begraven 16/23-06-1764[†](#notitie).  
+9. Johannes, gedoopt op 03-07-1765, begraven 26-06/03-07-1773[†](#notitie).  
+10. Maria Bekooy, gedoopt op 28-02-1768, overleden 26-07-1851, ondertrouw op 24-11-1797, tr. op 09-12-1797 met Pieter le Leu, gedoopt op 22-06-1758, overleden 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
+11. Warnaar, gedoopt op 12-03-1772, begraven 03/10-07-1773[†](#notitie).  
 
 ### VIb. Jacob Bekooy
-VIb    Jacob Bekooy, gedoopt 22-02-1729, lakenwerker, begraven 07/14-04-1804[†](#notitie), ondertrouw op 12-01-1760 met Catharina Planje, gedoopt 03-12-1719,  begraven 09/16-01-1802[†](#notitie), weduwe van Jacobus van Oosten, dochter van Paulus Planier en Teuntje Mulder.  
+VIb    Jacob Bekooy, gedoopt op 22-02-1729, lakenwerker, begraven 07/14-04-1804[†](#notitie), ondertrouw op 12-01-1760 met Catharina Planje, gedoopt op 03-12-1719,  begraven 09/16-01-1802[†](#notitie), weduwe van Jacobus van Oosten, dochter van Paulus Planier en Teuntje Mulder.  
 
 Uit dit huwelijk:  
-1. Anthony\*, gedoopt 08-10-1752, volgt [VIIb](#viib-anthony-bekooy).  
-2. Jacob, gedoopt 24-02-1754.  
-3. Thomas, gedoopt 08-04-1755.  
-4. Jannetje, gedoopt 20-05-1757, begraven 30-07/06-08-1757[†](#notitie).  
-5. Jacobus, gedoopt 24-02-1760, volgt [VIIc](#viic-jacobus-bekooy).  
+1. Anthony\*, gedoopt op 08-10-1752, volgt [VIIb](#viib-anthony-bekooy).  
+2. Jacob, gedoopt op 24-02-1754.  
+3. Thomas, gedoopt op 08-04-1755.  
+4. Jannetje, gedoopt op 20-05-1757, begraven 30-07/06-08-1757[†](#notitie).  
+5. Jacobus, gedoopt op 24-02-1760, volgt [VIIc](#viic-jacobus-bekooy).  
 \* Ingeschreven bij doop als Rachel. In de marge van het klapperblad in het ‘Leidse boekje’ staat geschreven: ‘zou Anthony moeten zijn’. Gezien diens leeftijd bij overlijden klopt dit. Waar ‘Rachel’ vandaan komt, is onduidelijk. De moeder van de doopvader heette weliswaar Rachel (Tijn), maar die was bij de doop niet aanwezig.  
   
 ### VIIa. Jacobus Boekooy
-VIIa    Jacobus Boekooy, gedoopt 08-04-1756, dekenwerker, overleden 30-06-1831, woont Waartgragt, ondertrouw op 06-06-1778 met Geertje Kliepee, gedoopt 05-11-1752, overleden 21-08-1832 (cholera), dr. van Jacobus Kliepee en Aaltje Vermey.  
+VIIa    Jacobus Boekooy, gedoopt op 08-04-1756, dekenwerker, overleden 30-06-1831, woont Waartgragt, ondertrouw op 06-06-1778 met Geertje Kliepee, gedoopt op 05-11-1752, overleden 21-08-1832 (cholera), dr. van Jacobus Kliepee en Aaltje Vermey.  
 
 Uit dit huwelijk:  
-1. Dina, gedoopt 02-04-1779, begraven 15/22-04-1780[†](#notitie).  
-2. Jacobus, gedoopt 29-10-1780, begraven 22/29-06-1782[†](#notitie).  
-3. Dina, gedoopt 09-01-1782, begraven 23-02/02-03-1782[†](#notitie).  
-4. Jakobus, gedoopt 23-07-1783, volgt [VIIIa](#viiia-jacobus-bekooy).  
-5. Warnaart, gedoopt 30-10-1785, overleden 28-10-1809, begraven 01-11-1809.  
-6. Jan, gedoopt 27-05-1787, begraven 20/27-03-1790[†](#notitie).  
-7. Alida Dina Bukkoy, gedoopt 02-07-1789, overleden 23-11-1871, tr. op 07-09-1820 met (Johannes) Willem Laterveer, gedoopt 14-01-1798, vachtbloter, overleden 09-04-1869, zoon van Johannes Laterveer en Elisabeth Maas.  
-8. Jan, gedoopt 27-02-1791, volgt [VIIIb](#viiib-jan-boekooy).  
-9. Gerrit, gedoopt 28-08-1793, volgt [VIIIc](#viiic-gerrit-boekooy).  
-10. Antony, gedoopt 15-11-1795, volgt [VIIId](#viiid-anthony-boekkoij).  
+1. Dina, gedoopt op 02-04-1779, begraven 15/22-04-1780[†](#notitie).  
+2. Jacobus, gedoopt op 29-10-1780, begraven 22/29-06-1782[†](#notitie).  
+3. Dina, gedoopt op 09-01-1782, begraven 23-02/02-03-1782[†](#notitie).  
+4. Jakobus, gedoopt op 23-07-1783, volgt [VIIIa](#viiia-jacobus-bekooy).  
+5. Warnaart, gedoopt op 30-10-1785, overleden 28-10-1809, begraven 01-11-1809.  
+6. Jan, gedoopt op 27-05-1787, begraven 20/27-03-1790[†](#notitie).  
+7. Alida Dina Bukkoy, gedoopt op 02-07-1789, overleden 23-11-1871, tr. op 07-09-1820 met (Johannes) Willem Laterveer, gedoopt op 14-01-1798, vachtbloter, overleden 09-04-1869, zoon van Johannes Laterveer en Elisabeth Maas.  
+8. Jan, gedoopt op 27-02-1791, volgt [VIIIb](#viiib-jan-boekooy).  
+9. Gerrit, gedoopt op 28-08-1793, volgt [VIIIc](#viiic-gerrit-boekooy).  
+10. Antony, gedoopt op 15-11-1795, volgt [VIIId](#viiid-anthony-boekkoij).  
 
 ### VIIb. Anthony Bekooy
-VIIb    Anthony Bekooy, gedoopt 08-10-1752, lakenwerker, overleden 19-03-1814, begraven 21-03-1814, ondertrouw op 22-04-1777 met Johanna van Riet, gedoopt 10-12-1750, overleden 12-12-1808, begraven 16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
+VIIb    Anthony Bekooy, gedoopt op 08-10-1752, lakenwerker, overleden 19-03-1814, begraven 21-03-1814, ondertrouw op 22-04-1777 met Johanna van Riet, gedoopt op 10-12-1750, overleden 12-12-1808, begraven 16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
 
 Uit dit huwelijk:  
-1. Kaatje Bekooy, gedoopt 26-04-1778, spinster, overleden 09-04-1857, 1) ondertrouw op 20-07-1804, tr. (als Caatje Peut) op 02-08-1804 met Jan Overduyn, overleden 24-10-1808, weduwnaar van Anna van der Voorde(n) (ondertrouw op 16-07-1757), 2) tr. op 23-08-1827 met Jacobus Scheffer, Elu gedoopt 14-07-1756, kleermaker, overleden 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
-2. Anna, gedoopt 13-01-1780, begraven 02/09-04-1785[†](#notitie).  
-3. Pieternelletje, gedoopt 11-04-1782.  
-4. Antonia Bekooi, gedoopt 23-05-1784, overleden 13-06-1843, ondertrouw op 26-08-1808 met Jan Nagelsmit, gedoopt 10-03-1785, opperman, overleden 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
-5. Jacob, geboren op 04-09-1786, gedoopt 05-09-1786, volgt [VIIIe](#viiie-jacob-bekooy).  
-6. Pieter, gedoopt 28-10-1788, volgt [VIIIf](#viiif-pieter-bekooy).  
-7. Abraham Johannes, gedoopt 17-02-1791, volgt [VIIIg](#viiig-abraham-johannes-bekooy).  
-x. Hendrica (onecht), gedoopt 11-05-1785, m. Hendrikje Lakoert.  
+1. Kaatje Bekooy, gedoopt op 26-04-1778, spinster, overleden 09-04-1857, 1) ondertrouw op 20-07-1804, tr. (als Caatje Peut) op 02-08-1804 met Jan Overduyn, overleden 24-10-1808, weduwnaar van Anna van der Voorde(n) (ondertrouw op 16-07-1757), 2) tr. op 23-08-1827 met Jacobus Scheffer, Elu gedoopt op 14-07-1756, kleermaker, overleden 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
+2. Anna, gedoopt op 13-01-1780, begraven 02/09-04-1785[†](#notitie).  
+3. Pieternelletje, gedoopt op 11-04-1782.  
+4. Antonia Bekooi, gedoopt op 23-05-1784, overleden 13-06-1843, ondertrouw op 26-08-1808 met Jan Nagelsmit, gedoopt op 10-03-1785, opperman, overleden 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
+5. Jacob, geboren op 04-09-1786, gedoopt op 05-09-1786, volgt [VIIIe](#viiie-jacob-bekooy).  
+6. Pieter, gedoopt op 28-10-1788, volgt [VIIIf](#viiif-pieter-bekooy).  
+7. Abraham Johannes, gedoopt op 17-02-1791, volgt [VIIIg](#viiig-abraham-johannes-bekooy).  
+x. Hendrica (onecht), gedoopt op 11-05-1785, m. Hendrikje Lakoert.  
 
 ### VIIc. Jacobus Bekooy
-VIIc    Jacobus Bekooy, gedoopt 24-02-1760, vachteblotersknegt, overleden 24-03-1836, ondertrouw op 02-06-1780 met Hester Baas, gedoopt 27-08-1761, overleden 23-08-1836, dochter van Cornelis Pieterse Baas en Geertje Moree.  
+VIIc    Jacobus Bekooy, gedoopt op 24-02-1760, vachteblotersknegt, overleden 24-03-1836, ondertrouw op 02-06-1780 met Hester Baas, gedoopt op 27-08-1761, overleden 23-08-1836, dochter van Cornelis Pieterse Baas en Geertje Moree.  
 
 Uit dit huwelijk:  
-1. Japik, gedoopt 17-09-1780, volgt [VIIIh](#viiih-japik-jacob-bekooy).  
-2. Geertruy Bekooy, gedoopt 31-01-1782, overleden 05-12-1864, ondertrouw op 20-12-1810, tr. op 05-01-1811 met Denys van der Blom, gedoopt 29-06-1783, dekenkaarter, overleden 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
-Voorkind van Geertruy: Jacoba Bekooy, gedoopt 22-12-1805, overleden 26-11-1869, tr. op 14-12-1826 met Salomo den Os, gedoopt 29-12-1803, overleden 05-05-1856, zoon van Dirk den Os en Hendrika Vasseur.  
-3. Catharina Bekooy, gedoopt 16-07-1783, overleden 13-03-1874, ondertrouw op 25-02-1803 met Willem Regeer, gedoopt 07-06-1780, lakenwerker, overleden 16-09-1832, zoon van Willem Regeer en Neeltje Ket.  
-4. Rachel Bekooy, gedoopt 23-04-1785, overleden 02-11-1865, ondertrouw op 17-05-1810, tr. op 02-06-1810 met Huybert van der Walle, gedoopt 16-04-1772, pruikmakersknecht, overleden 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
-5. Jacobus, gedoopt 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy).  
-6. Jantje, gedoopt 25-02-1789.  
-7. Jannetje, gedoopt 17-02-1791, begraven 22-02/01-03-1794[†](#notitie).  
-8. Susanna, gedoopt 30-12-1792.  
-9. Jannetje Bekooy, gedoopt 07-12-1794, spinster, overleden 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. op 24-04-1813 met Gerrit Bavelaar, wever, gedoopt 26-03-1794, overleden 28-10-1881, zoon van Johannes Bavelaar en Sara Ket.  
-10. Cornelis, gedoopt 22-01-1797, volgt [VIIIj](#viiij-cornelis-bekooy).  
-11. Adriana, gedoopt 12-02-1800, begraven 23/30-10-1802[†](#notitie).  
-12. Hester, gedoopt 10-04-1803, begraven 24-11/01-12-1804[†](#notitie).  
+1. Japik, gedoopt op 17-09-1780, volgt [VIIIh](#viiih-japik-jacob-bekooy).  
+2. Geertruy Bekooy, gedoopt op 31-01-1782, overleden 05-12-1864, ondertrouw op 20-12-1810, tr. op 05-01-1811 met Denys van der Blom, gedoopt op 29-06-1783, dekenkaarter, overleden 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
+Voorkind van Geertruy: Jacoba Bekooy, gedoopt op 22-12-1805, overleden 26-11-1869, tr. op 14-12-1826 met Salomo den Os, gedoopt op 29-12-1803, overleden 05-05-1856, zoon van Dirk den Os en Hendrika Vasseur.  
+3. Catharina Bekooy, gedoopt op 16-07-1783, overleden 13-03-1874, ondertrouw op 25-02-1803 met Willem Regeer, gedoopt op 07-06-1780, lakenwerker, overleden 16-09-1832, zoon van Willem Regeer en Neeltje Ket.  
+4. Rachel Bekooy, gedoopt op 23-04-1785, overleden 02-11-1865, ondertrouw op 17-05-1810, tr. op 02-06-1810 met Huybert van der Walle, gedoopt op 16-04-1772, pruikmakersknecht, overleden 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
+5. Jacobus, gedoopt op 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy).  
+6. Jantje, gedoopt op 25-02-1789.  
+7. Jannetje, gedoopt op 17-02-1791, begraven 22-02/01-03-1794[†](#notitie).  
+8. Susanna, gedoopt op 30-12-1792.  
+9. Jannetje Bekooy, gedoopt op 07-12-1794, spinster, overleden 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. op 24-04-1813 met Gerrit Bavelaar, wever, gedoopt op 26-03-1794, overleden 28-10-1881, zoon van Johannes Bavelaar en Sara Ket.  
+10. Cornelis, gedoopt op 22-01-1797, volgt [VIIIj](#viiij-cornelis-bekooy).  
+11. Adriana, gedoopt op 12-02-1800, begraven 23/30-10-1802[†](#notitie).  
+12. Hester, gedoopt op 10-04-1803, begraven 24-11/01-12-1804[†](#notitie).  
 
 ### VIIIa. Jacobus Bekooy
-VIIIa    Jacobus Bekooy, gedoopt 23-07-1783, dekenwerker, overleden 13-07-1849, 1) ondertrouw op 26-07-1806, tr. op 09-08-1806 met Cornelia Elisabeth Briër, gedoopt 11-12-1781, overleden 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, 2) tr. op 21-04-1814 met Judith Neuteboom, gedoopt 13-07-1777, spinster, overleden 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
+VIIIa    Jacobus Bekooy, gedoopt op 23-07-1783, dekenwerker, overleden 13-07-1849, 1) ondertrouw op 26-07-1806, tr. op 09-08-1806 met Cornelia Elisabeth Briër, gedoopt op 11-12-1781, overleden 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, 2) tr. op 21-04-1814 met Judith Neuteboom, gedoopt op 13-07-1777, spinster, overleden 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
 
 Uit het eerste huwelijk:  
 
-1. Geertruy Bekooy, geboren op 04-01-1807, gedoopt 08-01-1807, overleden 13-09-1856, tr. op 16-09-1830 met Dirk Jacobus Thiel, huisverwer, geboren op 14-09-1811, overleden t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
-2. Elizabeth, geboren op 25-11-1809, gedoopt 26-11-1809, overleden 18-06-1813, begraven 19-06-1813.  
+1. Geertruy Bekooy, geboren op 04-01-1807, gedoopt op 08-01-1807, overleden 13-09-1856, tr. op 16-09-1830 met Dirk Jacobus Thiel, huisverwer, geboren op 14-09-1811, overleden t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
+2. Elizabeth, geboren op 25-11-1809, gedoopt op 26-11-1809, overleden 18-06-1813, begraven 19-06-1813.  
 
 Uit het tweede huwelijk:  
 
 3. Alida Dina Bekooy, geboren op 23-07-1814, naaister, overleden 05-07-1873, tr. op 31-07-1834 met Izaak Arkeveld, geboren op 18-06-1810, greinwever, overleden 15-06-1866, zoon van Izaak Arkeveld en Johanna Bolstier.  
 
 ### VIIIb. Jan Boekooy
-VIIIb    Jan Boekooy, gedoopt 27-02-1791, wever, overleden 31-05-1850, tr. op 07-10-1814 met Gerritje Schipaanboord, gedoopt 29-08-1790, spinster, overleden 22-11-1861, dochter van Gerrit Schipaanboord en Maria Catharina Vrijbloet.  
+VIIIb    Jan Boekooy, gedoopt op 27-02-1791, wever, overleden 31-05-1850, tr. op 07-10-1814 met Gerritje Schipaanboord, gedoopt op 29-08-1790, spinster, overleden 22-11-1861, dochter van Gerrit Schipaanboord en Maria Catharina Vrijbloet.  
 
 Uit dit huwelijk:  
 1. Geertruy Boekooy, geboren op 27-06-1815, overleden 09-05-1882, tr. op 11-12-1834 met Jacobus Tegelaar, geboren op 05-12-1816, greinwever, overleden 18-12-1900, zoon van Jacobus Tegelaar en Johanna Kokkedee.  
@@ -782,7 +782,7 @@ Uit dit huwelijk:
 6. Alida Dina Bekooy, geboren op 15-06-1833, overleden 22-11-1916, tr. op 10-02-1858 met Hermanus de Vink, geboren op 23-02-1828, blauwverver, overleden 27-03-1899, zoon van Carel de Vink en Willemina van der Ark.  
 
 ### VIIIc. Gerrit B(o)ekooy
-VIIIc    Gerrit B(o)ekooy, gedoopt 28-08-1793, wever, overleden 20-01-1843, tr. op 04-01-1821 met Jansje van Bemmel, gedoopt 14-01-1796, dienstbode, overleden 04-03-1851, dochter van Gerrit van Bemmel en Catharina Gelton.  
+VIIIc    Gerrit B(o)ekooy, gedoopt op 28-08-1793, wever, overleden 20-01-1843, tr. op 04-01-1821 met Jansje van Bemmel, gedoopt op 14-01-1796, dienstbode, overleden 04-03-1851, dochter van Gerrit van Bemmel en Catharina Gelton.  
 
 Uit dit huwelijk:  
 1. Jacobus, geboren op 08-01-1821, volgt [IXa](#ixa-jacob-bekooij).  
@@ -798,7 +798,7 @@ Uit dit huwelijk:
 11. Gerrit Boekooy, geboren op 13-06-1840, timmerman, overleden 26-02-1911, tr. op 15-08-1866 met Dirkie Briejer, geboren op 16-11-1839, dienstbode, overleden 09-08-1931 als weduwe van Nicolaas Stiva, dochter van Dirk Briejer en Johanna Lares.  
   
 ### VIIId. Anthony Boekkoij
-VIIId    Antony Boekkoij, gedoopt 15-11-1795, wever, overleden 09-01-1872, tr. op 04-05-1820 met Pieternella Stouten, gedoopt 01-06-1797, overleden 30-10-1869, dochter van Klaas Stouten en Jannetje Flest.  
+VIIId    Antony Boekkoij, gedoopt op 15-11-1795, wever, overleden 09-01-1872, tr. op 04-05-1820 met Pieternella Stouten, gedoopt op 01-06-1797, overleden 30-10-1869, dochter van Klaas Stouten en Jannetje Flest.  
 
 Uit dit huwelijk:  
 1. Geertruy Bekooy, geboren op 14-06-1820, tr. op 20-12-1848 met Christiaan Bronkhorst, geboren in Haarlem op 11-06-1824, schoenmaker, zoon van Cornelis Bronkhorst en Maria Vermaas.  
@@ -816,7 +816,7 @@ Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet ge
 10. Antonie, (Boekkooi) geboren op 29-05-1841, volgt [IXc](#ixc-antonie-boekkooi).  
   
 ### VIIIe. Jacob Bekooy
-VIIIe    Jacob Bekooy, gedoopt 04-09-1786, kruier, overleden 26-07-1849, 1) tr. op 24-11-1813 met Maria Sjardijn, gedoopt 30-12-1783, spinster, overleden 01-11-1832, dochter van Pieter Sardijn en Maria Schootman 2) tr. op 17-10-1833 met Jacoba van der Moesel, gedoopt 22-11-1801, visverkoopster, overleden 28-12-1863, weduwe van Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. Jacoba van der Moesel was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, gedoopt 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
+VIIIe    Jacob Bekooy, gedoopt op 04-09-1786, kruier, overleden 26-07-1849, 1) tr. op 24-11-1813 met Maria Sjardijn, gedoopt op 30-12-1783, spinster, overleden 01-11-1832, dochter van Pieter Sardijn en Maria Schootman 2) tr. op 17-10-1833 met Jacoba van der Moesel, gedoopt op 22-11-1801, visverkoopster, overleden 28-12-1863, weduwe van Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. Jacoba van der Moesel was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, gedoopt op 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
 
 Uit het eerste huwelijk:  
 
@@ -837,10 +837,10 @@ Voorzoons Jacoba:
 9. Abraham, geboren op 22-05-1840, overleden 19-01-1843.  
   
 ### VIIIf. Pieter Bekooy
-VIIIf    Pieter Bekooy, gedoopt 28-10-1788, baggerman, overleden 09-10-1859, tr. op 09-09-1814 met Margaretha Rosendaal, gedoopt 15-02-1795, overleden 03-09-1875, dochter van Willem Rozendaal en Maria Elkerbout.  
+VIIIf    Pieter Bekooy, gedoopt op 28-10-1788, baggerman, overleden 09-10-1859, tr. op 09-09-1814 met Margaretha Rosendaal, gedoopt op 15-02-1795, overleden 03-09-1875, dochter van Willem Rozendaal en Maria Elkerbout.  
 
 Uit dit huwelijk:  
-1. Johanna Bekooy, geboren op 27-09-1814, overleden 20-10-1844, tr. op 29-01-1835 met Johannes Laterveer, geboren op 02-12-1811, gedoopt 08-12-1811, wever, later politieagent, overleden 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
+1. Johanna Bekooy, geboren op 27-09-1814, overleden 20-10-1844, tr. op 29-01-1835 met Johannes Laterveer, geboren op 02-12-1811, gedoopt op 08-12-1811, wever, later politieagent, overleden 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
 2. Willem, geboren op 28-08-1816, overleden 14-04-1820.  
 3. Maria Elisabeth Bekooy, geboren op 16-01-1819, dienstbode, overleden 02-09-1892, tr. op 15-05-1845 met Cornelis Johannes Oudshoorn, geboren op 17-07-1818, warmoezier, overleden 26-02-1892, zoon van Johannes Oudshoorn en Maria Cornelia van Drongen.  
 4. Sophia Wilhelmina Bekooi, geboren op 09-09-1820, dienstbode, overleden 09-06-1882 als weduwe van Isaac Starre, welk huwelijk niet is gevonden.  
@@ -853,7 +853,7 @@ Uit dit huwelijk:
     - Buitenechtelijk kind: Cornelis, geboren op 11-03-1851, overleden 20-05-1853.  
 
 ### VIIIg. Abraham Johannes Bekooy
-VIIIg    Abraham Johannes Bekooy, baggerman, gedoopt 17-02-1791, overleden Sloten 02-02-1828, 1) tr. op 23-12-1819 met Jacomina van Ent, gedoopt Deventer 28-01-1798, naaister, overleden 30-08-1826, dochter van Willem van Ent en Johanna Jezebieters, 2) tr. op 09-11-1826 met Cornelia Densel, gedoopt 15-01-1797, schoonmaakster, overleden 09-12-1844, dochter van Cornelis Densel en Johanna Werst.  
+VIIIg    Abraham Johannes Bekooy, baggerman, gedoopt op 17-02-1791, overleden Sloten 02-02-1828, 1) tr. op 23-12-1819 met Jacomina van Ent, in Deventer op 28-01-1798, naaister, overleden 30-08-1826, dochter van Willem van Ent en Johanna Jezebieters, 2) tr. op 09-11-1826 met Cornelia Densel, gedoopt op 15-01-1797, schoonmaakster, overleden 09-12-1844, dochter van Cornelis Densel en Johanna Werst.  
 
 Uit het eerste huwelijk:  
 
@@ -867,30 +867,30 @@ Uit het tweede huwelijk:
 5. Cornelis, geboren op 22-09-1827, overleden 30-05-1848  
   
 ### VIIIh. Japik (Jacob) Bekooy
-VIIIh    Japik (Jacob) Bekooy, gedoopt 17-09-1780, lakenwerker, woont Loyerstraat, overleden 18-12-1866, ondertrouw op 03-10-1806, tr. op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), gedoopt 03-02-1778, overleden 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
+VIIIh    Japik (Jacob) Bekooy, gedoopt op 17-09-1780, lakenwerker, woont Loyerstraat, overleden 18-12-1866, ondertrouw op 03-10-1806, tr. op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), gedoopt op 03-02-1778, overleden 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
 
 Uit dit huwelijk:  
-1. Jacob, geboren op 09-10-1811, gedoopt 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij).  
+1. Jacob, geboren op 09-10-1811, gedoopt op 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij).  
 2. Hester Bekooy, geboren op 12-11-1814, spinster, overleden 30-07-1872, tr. op 18-12-1834 met Johannes Franken, geboren op 17-03-1816, greinwever, overleden 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
 
 ### VIIIi. Jacobus Bekooy
-VIIIi    Jacobus Bekooy, gedoopt 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden 17-11-1839, ondertrouw op 16-07-1808, tr. op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt 23-04-1789, overleden 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
+VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden 17-11-1839, ondertrouw op 16-07-1808, tr. op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
 N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
-1. Koosje Bekooy, geboren op 24-10-1808, gedoopt 27-10-1808, spinster, overleden 29-11-1840, tr. op 03-09-1829 met Willem Jacobus Paats, gedoopt 13-11-1805, dubbelaar, overleden 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
-2. TODO: Jan, gedoopt 24/30-09-1810.  
+1. Koosje Bekooy, geboren op 24-10-1808, gedoopt op 27-10-1808, spinster, overleden 29-11-1840, tr. op 03-09-1829 met Willem Jacobus Paats, gedoopt op 13-11-1805, dubbelaar, overleden 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
+2. TODO: Jan, gedoopt op 24/30-09-1810.  
 3. Margaretha, geboren op 15-07-1812, overleden 16-07-1812, begraven 17-07-1812.  
 4. Jacobus, geboren op 11-02-1814, volgt [IXf](#ixf-jacobus-bekooy).  
 5. Johannes, geboren op 10-06-1817, overleden 25-08-1817.  
-6. Grietje Bekooy, gedoopt 01-09-1818, overleden 26-03-1883, tr. op 29-08-1839 met Steven Pont, geboren op 29-07-1821, sjouwer, overleden 14-12-1869, zoon van Abraham Pont en Grietje van Leeuwen.  
+6. Grietje Bekooy, gedoopt op 01-09-1818, overleden 26-03-1883, tr. op 29-08-1839 met Steven Pont, geboren op 29-07-1821, sjouwer, overleden 14-12-1869, zoon van Abraham Pont en Grietje van Leeuwen.  
 7. Johannes, in Deventer op 09-03-1821, volgt [IXg](#ixg-johannes-bekooi).  
 8. Willem, geboren in Deventer op 14-05-1823, volgt [IXh](#ixh-willem-bekooy).  
 9. Jan, geboren op 14-11-1825.  
 10. Catharina, geboren op 13-07-1828, overleden 07-11-1828.  
 
 ### VIIIj. Cornelis Bekooy
-VIIIj    Cornelis Bekooy, gedoopt 22-01-1797, vachtenblotersknecht, overleden, tr. op 16-09-1824 met Jannetje Janssen, gedoopt 22-01-1797, spinster, overleden, dochter van Jan Janse en Jannetje Dreef.  
+VIIIj    Cornelis Bekooy, gedoopt op 22-01-1797, vachtenblotersknecht, overleden, tr. op 16-09-1824 met Jannetje Janssen, gedoopt op 22-01-1797, spinster, overleden, dochter van Jan Janse en Jannetje Dreef.  
 
 Uit dit huwelijk:  
 1. Jansje, geboren op 28-10-1821, overleden 03-01-1822.  
@@ -1175,49 +1175,49 @@ Uit dit huwelijk bekend:
 II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, ondertrouw op 12-08-1630 (getuige Philippe de Bucquoy zijn vader) met Jannetgen Govertsdr, van Leiden (overleden/begraven 29-04-1671), getuige Jannetgen Claesdr haar moeder.  
 
 Uit dit huwelijk:  
-1. Marie, Waals gedoopt 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overleden.  
-2. Philippe, Waals gedoopt 07-12-1632, getuige Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
-3. Henri, Waals gedoopt 03-12-1634 (getuige Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overleden voor 05-06-1677 (15).  
-4. Jeanne (Jannetgen) Bucquoy, Waals gedoopt 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overleden voor 12-05-1678, 1) ondertrouw op 09-10-1659 met Phillips de Prez, bakker van Mervillje, overleden voor 03-12-1670, 2) ondertrouw op 03-12-1670 met Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Trouwde in Zoeterwoude op 18-12-1670. Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, weduwnaar van Jannetge de Bucquoy, ondertrouw op 12-05-1678 met Anna Kamper).  
-5. Marie, Waals gedoopt 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overleden voor 05-06-1677 (15).  
-6. Susanne du Buquoy, Waals gedoopt 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, Waals ondertrouw op 05-11-1677 met Pauls van der Poel, weduwnaar van Aeltge Claes van Immerseel, woont Uytterstegraft.  
-7. Jacques, geboren op 08-09-1641, Waals gedoopt 12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overleden voor 05-06-1677 (15) .  
-8. TODO: Ester, Waals gedoopt 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overleden voor 05-06-1677 (15).  
-9. Marie, Waals gedoopt 21-02-1644 (getuige Jan des Tombe, Jacques le Plat, Judith et Sara des Bucquoy), jong overleden.  
-10. Jean, Waals gedoopt 30-04-1645 (getuige Arent Smitsaer, Noé Catoire, Susanne Gofar et Sara L’ansel), overleden voor 05-06-1677 (15).  
-11. Elisabeth, Waals gedoopt 15-04-1646 (getuige Lauren de Planques, Tybaut Lambert, Marie Hubert et Ester Pierreux), overleden voor 05-06-1677 (15).  
-12. Abraham, Waals gedoopt 25-08-1647, getuige Jean Carette, Gilles Desbuquoy, Jeanne Clarisse et Marie Pollé. volgt [IIIb](#iiib-abraham-du-buquoy).  
-13. Isaac, Waals gedoopt 06-03-1650 (getuige Henry des Busquoy, Elie Cateau, Susanne Goffart et Sara Croneler), overleden voor 05-06-1677 (15).  
-14. Marie, Waals gedoopt 09-07-1652, overleden voor 05-06-1677 (15).  
-15. Jacob, Waals gedoopt 21-09-1653 (getuige Ezechiel de Tombe, Marc Varin, Rachel Forman et Claire de Planc), overleden voor 05-06-1677 (15).  
+1. Marie, Waals gedoopt op 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overleden.  
+2. Philippe, Waals gedoopt op 07-12-1632, getuige Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
+3. Henri, Waals gedoopt op 03-12-1634 (getuige Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overleden voor 05-06-1677 (15).  
+4. Jeanne (Jannetgen) Bucquoy, Waals gedoopt op 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overleden voor 12-05-1678, 1) ondertrouw op 09-10-1659 met Phillips de Prez, bakker van Mervillje, overleden voor 03-12-1670, 2) ondertrouw op 03-12-1670 met Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Trouwde in Zoeterwoude op 18-12-1670. Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, weduwnaar van Jannetge de Bucquoy, ondertrouw op 12-05-1678 met Anna Kamper).  
+5. Marie, Waals gedoopt op 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overleden voor 05-06-1677 (15).  
+6. Susanne du Buquoy, Waals gedoopt op 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, Waals ondertrouw op 05-11-1677 met Pauls van der Poel, weduwnaar van Aeltge Claes van Immerseel, woont Uytterstegraft.  
+7. Jacques, geboren op 08-09-1641, Waals gedoopt op 12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overleden voor 05-06-1677 (15) .  
+8. TODO: Ester, Waals gedoopt op 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overleden voor 05-06-1677 (15).  
+9. Marie, Waals gedoopt op 21-02-1644 (getuige Jan des Tombe, Jacques le Plat, Judith et Sara des Bucquoy), jong overleden.  
+10. Jean, Waals gedoopt op 30-04-1645 (getuige Arent Smitsaer, Noé Catoire, Susanne Gofar et Sara L’ansel), overleden voor 05-06-1677 (15).  
+11. Elisabeth, Waals gedoopt op 15-04-1646 (getuige Lauren de Planques, Tybaut Lambert, Marie Hubert et Ester Pierreux), overleden voor 05-06-1677 (15).  
+12. Abraham, Waals gedoopt op 25-08-1647, getuige Jean Carette, Gilles Desbuquoy, Jeanne Clarisse et Marie Pollé. volgt [IIIb](#iiib-abraham-du-buquoy).  
+13. Isaac, Waals gedoopt op 06-03-1650 (getuige Henry des Busquoy, Elie Cateau, Susanne Goffart et Sara Croneler), overleden voor 05-06-1677 (15).  
+14. Marie, Waals gedoopt op 09-07-1652, overleden voor 05-06-1677 (15).  
+15. Jacob, Waals gedoopt op 21-09-1653 (getuige Ezechiel de Tombe, Marc Varin, Rachel Forman et Claire de Planc), overleden voor 05-06-1677 (15).  
 
 Op 05-06-1677 testeert Anthony du Bucquoy, stoeldraaier op de Heeregracht, voor notaris Den Oosterling (15). Uit het testament blijkt, dat nog slechts 3 kinderen in leven zijn: Jeanne (getrouwd), Susanna en Abram (beiden nog ongehuwd). Philippe overleefde de kindertijd, trouwde en was inmiddels overleden en liet enkele (hoeveel ?) kinderen na.  
 
 ### IIIa. Philippus du Bucquoy
-IIIa    Philippus du Bucquoy, Waals gedoopt 07-12-1632, overleden voor 05-06-1677, woont Oude Vest, Waals ondertrouw op 21-04-1661 met Cathalijne du Prez, van Marvillje, woont Gaernmarct, getuige Proontgen du Prez haar zuster.  
+IIIa    Philippus du Bucquoy, Waals gedoopt op 07-12-1632, overleden voor 05-06-1677, woont Oude Vest, Waals ondertrouw op 21-04-1661 met Cathalijne du Prez, van Marvillje, woont Gaernmarct, getuige Proontgen du Prez haar zuster.  
 
 Uit dit huwelijk:  
-1. Abraham, Waals gedoopt 08-03-1662, getuige Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
-2. Philippe, Waals gedoopt 14-10-1663, getuige Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
-3. Philippe, Waals gedoopt 23-11-1664, getuige Anthoine de Bucquoy, Thomas de Bucquoy, Pieronne de Pré et Jeane de Bucquoy.  
-4. Abraham, Waals gedoopt 09-01-1667, getuige Jacob Cateau, Jean Cornelis van Tol (Jean Thonisz de Toeur ?), Jeane de Bucquoy, et Pieronne de Pré.  
-5. Izaac, Waals gedoopt 02-12-1668, getuige Henry del Bucquoy, Marc Varnié, Susanne des Bucquois, Judith de Mortier.  
-6. Marya, geboren op 26-01-1670, Waals gedoopt 02-02-1670, getuige Abraham des Buquoi et Marc Varnie, Susanne des Buquoi et Judith de Mortie.  
-7. Jehan, geboren op 11-05-1671, Waals gedoopt 13-05-1671, getuige Anthoine de Bucquoy et Françoise de Hopa, Susanne de Bucquoy et Susanna Gofar.  
-8. Marya de Bucquoy, geboren op 05-06-1673, Waals gedoopt 07-06-1673 (getuige Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begraven 04/11-12-1745[†](#notitie), ondertrouw op 07-11-1698 met Jacobus Vileyn, overleden waarschijnlijk na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle).  
+1. Abraham, Waals gedoopt op 08-03-1662, getuige Charles Bentem, Philippe de Pré, Jeanne Goffar en Anne de Pré.  
+2. Philippe, Waals gedoopt op 14-10-1663, getuige Anthoine de Bucquoy, Pierre de Pré, Jeane de Bucquoy et Pieronne de Pré.  
+3. Philippe, Waals gedoopt op 23-11-1664, getuige Anthoine de Bucquoy, Thomas de Bucquoy, Pieronne de Pré et Jeane de Bucquoy.  
+4. Abraham, Waals gedoopt op 09-01-1667, getuige Jacob Cateau, Jean Cornelis van Tol (Jean Thonisz de Toeur ?), Jeane de Bucquoy, et Pieronne de Pré.  
+5. Izaac, Waals gedoopt op 02-12-1668, getuige Henry del Bucquoy, Marc Varnié, Susanne des Bucquois, Judith de Mortier.  
+6. Marya, geboren op 26-01-1670, Waals gedoopt op 02-02-1670, getuige Abraham des Buquoi et Marc Varnie, Susanne des Buquoi et Judith de Mortie.  
+7. Jehan, geboren op 11-05-1671, Waals gedoopt op 13-05-1671, getuige Anthoine de Bucquoy et Françoise de Hopa, Susanne de Bucquoy et Susanna Gofar.  
+8. Marya de Bucquoy, geboren op 05-06-1673, Waals gedoopt op 07-06-1673 (getuige Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begraven 04/11-12-1745[†](#notitie), ondertrouw op 07-11-1698 met Jacobus Vileyn, overleden waarschijnlijk na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle).  
 
 ### IIIb. Abraham du Buquoy
-IIIb    Abraham du Buquoy, Waals gedoopt 25-08-1647, greinwever, woont Heeregraft, bij 2e huwelijk Doelgraft, overleden voor 01-09-1691, 1) ondertrouw op 26-04-1680 met Maertge Claes van Immerseel, geboren in Warmond (waarschijnlijk gedoopt 07-01-1652, dochter van Claes Jansz en Martgen Willems), woont Koppenklincksteech, overleden voor 15-06-1686, 2) ondertrouw op 15-06-1686 met Geertruy Jans van Dyck, van Wijck bij Duyrstede, woont Doelgraft. (Geertruyt Jans van Dijck, weduwe van Abraham de Buckoy, woont Doelgraft, ondertrouw op 01-09-1691 met Pieter de Turck, weduwnaar van Claesie Dircks, woont Koepoortsgraft.)  
+IIIb    Abraham du Buquoy, Waals gedoopt op 25-08-1647, greinwever, woont Heeregraft, bij 2e huwelijk Doelgraft, overleden voor 01-09-1691, 1) ondertrouw op 26-04-1680 met Maertge Claes van Immerseel, geboren in Warmond (waarschijnlijk gedoopt op 07-01-1652, dochter van Claes Jansz en Martgen Willems), woont Koppenklincksteech, overleden voor 15-06-1686, 2) ondertrouw op 15-06-1686 met Geertruy Jans van Dyck, van Wijck bij Duyrstede, woont Doelgraft. (Geertruyt Jans van Dijck, weduwe van Abraham de Buckoy, woont Doelgraft, ondertrouw op 01-09-1691 met Pieter de Turck, weduwnaar van Claesie Dircks, woont Koepoortsgraft.)  
 
 Uit het eerste huwelijk:  
 
-1. Jannetjen de Bucquoy, gedoopt 04-02-1681, begraven 10/17-02-1742[†](#notitie), woont Langegragt, ondertrouw op 20-05-1707 met Abr. Beaumont, overleden voor 10/17-02-1742, woont Nieuwe Voldersgragt, lakenwerker, getuige Jan Beaumont zijn vader.  
-2. Antony, gedoopt 28-10-1682, overleden voor 22-06-1686 (voogdijstelling).  
-3. Marytgen, gedoopt 20-09-1685.  
+1. Jannetjen de Bucquoy, gedoopt op 04-02-1681, begraven 10/17-02-1742[†](#notitie), woont Langegragt, ondertrouw op 20-05-1707 met Abr. Beaumont, overleden voor 10/17-02-1742, woont Nieuwe Voldersgragt, lakenwerker, getuige Jan Beaumont zijn vader.  
+2. Antony, gedoopt op 28-10-1682, overleden voor 22-06-1686 (voogdijstelling).  
+3. Marytgen, gedoopt op 20-09-1685.  
 
 Uit het tweede huwelijk:  
 
-4. Sophia, gedoopt 12-06-1689, getuige Suffridus de Buquoy, Adriaentje van Dijk. N.B. Bij ‘de Mormonen’ vond ik een Suffridus de Bucquoy (dezelfde ?), die in Leeuwarden op 02-05-1690 ondertrouwt met Wilhelmina Wiarda. In dit verband is op te merken, dat eveneens in Leeuwarden een Dr. Henricus de Bucquoy in 1731 optreedt als curator voor Alegunda van Overmars. Zie Jaarboek CBG 17 (1963), p. 181.  
+4. Sophia, gedoopt op 12-06-1689, getuige Suffridus de Buquoy, Adriaentje van Dijk. N.B. Bij ‘de Mormonen’ vond ik een Suffridus de Bucquoy (dezelfde ?), die in Leeuwarden op 02-05-1690 ondertrouwt met Wilhelmina Wiarda. In dit verband is op te merken, dat eveneens in Leeuwarden een Dr. Henricus de Bucquoy in 1731 optreedt als curator voor Alegunda van Overmars. Zie Jaarboek CBG 17 (1963), p. 181.  
   
 ## D. ANTHONI DE BUCQUOY EN ZIJN NAKOMELINGEN  
 
@@ -1242,13 +1242,13 @@ Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangeste
 IIa    Jan de Bucquoy, geboren voor 1635, van Mouveaux, overleden kort voor 24-12-1668, woont Gaernmarckt, greinreder, Waals ondertrouw op 14-11-1657 (getuige Jean de Tombe zijn oom) met Marya de Buff, van Leyden, (overleden kort voor 28-02-1670; voogdijstelling), woont Maersmansteech, getuige Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dochter van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is waarschijnlijk niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
 
 Uit dit huwelijk:  
-1. Johannes, Nederduits Gereformeerd gedoopt 29-08-1658, getuige Jan de Beuf, Jan des Tombe, Aeltgen Veerem, Maria des Tombe.  
-2. Marie Bucquoy, Waals\* gedoopt 11-06-1660 (getuige Henry de Beuf, Anthoine de Buquoy, Madeleine de Tombe, Susanne de Camp), ondertrouw op 07-06-1686 (getuige Lysbeth van Cranenburgh haar meuy; Lysbeth van Cranenburch ondertrouw in Leiden op 04-03-1684 en tr. in Zoeterwoude op 26-03-1684 met Hendrik de Buff (23)) met Jacobus de Bunje, chirurgijn van L., getuige Jacobus de Bunje zijn oom.  
-3. Hester, Nederduits Gereformeerd gedoopt 01-10-1662, getuige Jan de Buff d’Oude, Jan de Buff de Jonge, Aeltie Veerom, Marie Le Baisseur.  
-4. Suzanna, Nederduits Gereformeerd gedoopt 11-11-1664.  
-5. Sara Bucquoy, Nederduits Gereformeerd gedoopt 06-12-1665, woont Nieuwe Rijn, begraven 21/28-04-1753[†](#notitie), ondertrouw op 30-12-1686 (getuige Maria Bucquoy haar zuster) met Dirk Drijfnoo (Drijfloo ?), gedoopt 28-11-1658, chirurgijn, woont Haerlemstraet, overleden voor april 1753, zoon van Cornelis Drijflo en Susanna Palingh.  
+1. Johannes, Nederduits Gereformeerd gedoopt op 29-08-1658, getuige Jan de Beuf, Jan des Tombe, Aeltgen Veerem, Maria des Tombe.  
+2. Marie Bucquoy, Waals\* gedoopt op 11-06-1660 (getuige Henry de Beuf, Anthoine de Buquoy, Madeleine de Tombe, Susanne de Camp), ondertrouw op 07-06-1686 (getuige Lysbeth van Cranenburgh haar meuy; Lysbeth van Cranenburch ondertrouw in Leiden op 04-03-1684 en tr. in Zoeterwoude op 26-03-1684 met Hendrik de Buff (23)) met Jacobus de Bunje, chirurgijn van L., getuige Jacobus de Bunje zijn oom.  
+3. Hester, Nederduits Gereformeerd gedoopt op 01-10-1662, getuige Jan de Buff d’Oude, Jan de Buff de Jonge, Aeltie Veerom, Marie Le Baisseur.  
+4. Suzanna, Nederduits Gereformeerd gedoopt op 11-11-1664.  
+5. Sara Bucquoy, Nederduits Gereformeerd gedoopt op 06-12-1665, woont Nieuwe Rijn, begraven 21/28-04-1753[†](#notitie), ondertrouw op 30-12-1686 (getuige Maria Bucquoy haar zuster) met Dirk Drijfnoo (Drijfloo ?), gedoopt op 28-11-1658, chirurgijn, woont Haerlemstraet, overleden voor april 1753, zoon van Cornelis Drijflo en Susanna Palingh.  
 Bij de dopen van de kinderen uit dit gezin getuigden steeds Sara’s zuster en zwager Maria Bucquoy en Jacobus de Bunje. Bij Sara’s begrafenis als ‘weduwe van’ is de spelling van de mansnaam, als bij de ondertrouw, Drijfnoo.  
-6. Johannes, Nederduits Gereformeerd gedoopt 23-05-1668.  
+6. Johannes, Nederduits Gereformeerd gedoopt op 23-05-1668.  
 
 Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven (24). Waarschijnlijk leefden in 1686 alleen Sara en Maria nog.  
 
@@ -1258,7 +1258,7 @@ Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven (24). Waarschijnl
 IIb    Anthony de Bucquoy, van Mouvoe, woont Orangiegraft, greinwerker, Waals ondertrouw op 18-09-1668 met Jannetge Denijs, weduwe van Bonaventuyr  Martijn, woont Orangiegraft.  
 
 Uit dit huwelijk:  
-1. Johanna, Waals gedoopt 29-01-1669, getuige Jan de Tombe, Suzanna de Tombe.  
+1. Johanna, Waals gedoopt op 29-01-1669, getuige Jan de Tombe, Suzanna de Tombe.  
   
 ## E. NIET PLAATSBAREN  
   
@@ -1266,10 +1266,10 @@ Uit dit huwelijk:
 (Gillis del Mare, weduwnaar van Jeanne Cornaer, woont St. Aegtenstraat, ondertrouw op 23-06-1683 met Anthonetta Bettailly, jongedochter (ongetrouwde vrouw) van bij Rijssel, getuige haar zuster.)  
   
 - Q 128v    Jaecquelina de Bucquoy, van Waterleeuw, woont Middelstegraft, Waals ondertrouw op 30-04-1658 (getuige Pierone le Bruyne haar moeder) met Ooste de Rouseau, wolkammer van Tourcoigne, woont Coddesteech.  
-Kinderen van het paar: Anthoinette, gedoopt 26-02-1659, getuige Elisabeth Rachon en Anne Noion; Pierre, gedoopt 07-04-1660, getuige Philippe Celos en Judith Magin.  
+Kinderen van het paar: Anthoinette, gedoopt op 26-02-1659, getuige Elisabeth Rachon en Anne Noion; Pierre, gedoopt op 07-04-1660, getuige Philippe Celos en Judith Magin.  
 N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezinnen in Amsterdam opgenomen.  
   
-- S 197v    Jenne du Bucquoy, van bij Rijssel, ondertrouw op 14-08-1666 (getuige Desabeau Reassy, haar moeder) met Jaecq Loocque, wolkammer van Bergen in Henegouwen. Bij de doop van het enige gevonden kind van dit paar (Jaques, gedoopt 14-03-1668) getuigden o.a. Gille de Bucquoy en zijn vrouw Anna Baillian (zie hieronder). Waren Gille en Jenne broer en zuster?  
+- S 197v    Jenne du Bucquoy, van bij Rijssel, ondertrouw op 14-08-1666 (getuige Desabeau Reassy, haar moeder) met Jaecq Loocque, wolkammer van Bergen in Henegouwen. Bij de doop van het enige gevonden kind van dit paar (Jaques, gedoopt op 14-03-1668) getuigden o.a. Gille de Bucquoy en zijn vrouw Anna Baillian (zie hieronder). Waren Gille en Jenne broer en zuster?  
   
 - O 68    Gillis du Bucquoy, van Waterloo, woont Middelstegraft, lakenwerker, Waals ondertrouw op 25-09-1648 (getuige Gillis de Bucquoy zijn oom) met Anna Baillian, van Gou(v), woont Middelstegraft. N.B. Mogelijk, maar niet te bewijzen, is Gillis de Bucquoy ‘Oom’ dezelfde als Gillis Pietersz de Bucquoy, Vd in de Sectie A van de genealogieën.  
   
@@ -1279,17 +1279,17 @@ N.B. Dit paar is later in Amsterdam gesignaleerd, echter niet in de sectie Gezin
   
 - BB187v  Elisabeth Bucquoy, woont oude Hogewoerdt, ondertrouw op 21-08-1696 (getuige Anna de Waart haar moeder) met Johan Sawoerts, van St. Coli in Langendock, woont Oude Hogewoerdt.  
   
-- CC 7    Cornelia de Bucquoy, van Leyden, ondertrouw op 15-07-1698 (getuige Anna de Waert, haar moeder) met Philip Jordaen, koopman, van Avelon, getuige Etien Jordaen zijn vader, woont A’dam.  
+- CC 7    Cornelia de Bucquoy, van Leyden, ondertrouw op 15-07-1698 (getuige Anna de Waert, haar moeder) met Philip Jordaen, koopman, van Avelon, getuige Etien Jordaen zijn vader, woont Amsterdam.  
 Zie hiervoor Delft en Rotterdam:  
   - 31-01-1677 ondertrouw in Rotterdam van Johannes de Bucquoy, weduwnaar, woont Delft, met Anna de Weert, jongedochter (ongetrouwde vrouw), geboren in Delft (overigens niet gevonden!), woont Hoogstraat.  
   - 06-02-1677 ondertrouw in Delft van Johan du Bucquoy, weduwnaar, met Anna de Weert.  
-  - 22-09-1678 Delft gedoopt Catarina, dochter van Johan du Buquoy en Anna de Weert. Getuigen Johan de Weert en Catarina van Eenhoorn.  
+  - 22-09-1678 gedoopt in Delft is Catarina, dochter van Johan du Buquoy en Anna de Weert. Getuigen Johan de Weert en Catarina van Eenhoorn.  
   - Gezien hun ondertrouwdata kunnen de kinderen Elisabeth en Cornelia best uit het eerste huwelijk van Johannes de B. zijn. Het is onduidelijk wie de eerste echtgenote was. Misschien Elisabeth Jans: attestatie in Leiden 28-06-1671 Jan de Bucquoy en Elisabeth Jans (m/v) naar niet vermelde plaats. Een huwelijk is echter in Leiden niet gevonden, en evenmin dopen van kinderen.  
   - Kinderen van Philippe Jordan en Cornelia de Bucquoy (Becquoy):  
-      1. Elisabeth, geboren op 01-12-1700, gedoopt 08-12-1700, getuige Jean en Violente Despuile.  
-      2. Nathanael, geboren op 17-05-1702, gedoopt 19-05-1702, getuige Nathanael Gautier en Marguerite de la Bergerie.  
-      3. Louise, geboren op 31-07-1703, gedoopt 03-08-1703, getuige Philippe Jordan (??) en Louise de la Bergerie.  
-      4. Jean Philippe, geboren op 07-08-1706, gedoopt 11-08-1706, getuige Jean Cashours en Marguerite Gautier.  
+      1. Elisabeth, geboren op 01-12-1700, gedoopt op 08-12-1700, getuige Jean en Violente Despuile.  
+      2. Nathanael, geboren op 17-05-1702, gedoopt op 19-05-1702, getuige Nathanael Gautier en Marguerite de la Bergerie.  
+      3. Louise, geboren op 31-07-1703, gedoopt op 03-08-1703, getuige Philippe Jordan (??) en Louise de la Bergerie.  
+      4. Jean Philippe, geboren op 07-08-1706, gedoopt op 11-08-1706, getuige Jean Cashours en Marguerite Gautier.  
   - N.B. Cornelia de Bucquoy is overleden voor 16-01-1712: 2e huwelijk Philippe Jordan.  
 
 - H 224v   Pierre Bucquo, van Gernesy (Guernsey ?), wolkammer, Waals ondertrouw op 27-04-1618 met Margriete Martijn, van Atrecht, weduwe van Pierre Poo.  
@@ -1324,95 +1324,95 @@ Als zijn zoon bekend:
 II    Filis\*\* de Bucquoy, van Waterloo\*, woont Middelstegraft, lakenwerker, Waals ondertrouw op 05-08-1651 (vergezeld door Louijs de Bucquoy zijn vader) met Francoise Guynjon, van Rijsel, vergezeld door Barbar Blanchaer haar moeder.  
 
 Uit dit huwelijk:  
-1. Marie, Waals gedoopt 12-07-1654. De vader heet hier Felix de Bucquoy, de moeder Francoyse Guignot. De getuigen waren ‘Lowijs de Bucquoy en Pierre Guignot avec leurs femmes’.  
-2. Jaques, Waals gedoopt 29-02-1660 (De vader is hier Philis\*\* du Buquoy, de moeder Francoise NN), volgt [III](#iii-jacob-felixzn-de-klopper).  
+1. Marie, Waals gedoopt op 12-07-1654. De vader heet hier Felix de Bucquoy, de moeder Francoyse Guignot. De getuigen waren ‘Lowijs de Bucquoy en Pierre Guignot avec leurs femmes’.  
+2. Jaques, Waals gedoopt op 29-02-1660 (De vader is hier Philis\*\* du Buquoy, de moeder Francoise NN), volgt [III](#iii-jacob-felixzn-de-klopper).  
   
 \*\* Naar mijn mening moet Filis, ofwel Philis hier worden gelezen als een misverstaan Felix, en niet als Philips. Zie ook de doopgetuigen bij enkele kinderen van Jaques. De consequentie is, dat de als eerste in de genealogie-De Klopper in Nederland’s Patriciaat figurerende Jacob Philipsz de Klopper in werkelijkheid Jacob Felixzn de Klopper heette.  
 
 ### III. Jacob Felixzn de Klopper  
-III    Jacob Felixzn de Klopper, Waals gedoopt 29-02-1660, boratwerker, begraven 23/30-10-1717[†](#notitie), 1) ondertrouw op 22-06-1681 met Catharina Goossens (begraven 28-05/04-06-1701[†](#notitie)), weduwe van Gerrit van der Meulen, 2) ondertrouw op 01-09-1701 met Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
+III    Jacob Felixzn de Klopper, Waals gedoopt op 29-02-1660, boratwerker, begraven 23/30-10-1717[†](#notitie), 1) ondertrouw op 22-06-1681 met Catharina Goossens (begraven 28-05/04-06-1701[†](#notitie)), weduwe van Gerrit van der Meulen, 2) ondertrouw op 01-09-1701 met Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
 
 Uit het eerste huwelijk:  
 
-1. Felix, Nederduits Gereformeerd gedoopt 27-08-1683 (getuige Felix de Bucquoy, Francyntje Guinjo, Pieter Ferrijn en Catharina Cornelis), volgt [IVa](#iva-felix-de-klopper).  
-2. Gooswin, Nederduits Gereformeerd gedoopt 03-12-1684, (getuige Felix de Bucquoy, Francyntje Guines, Johannes Kouwenhooven en Jacomijntje Brouwer). N.B. In Nederland’s Patriciaat wordt deze figuur zonder enige argumentatie opgevoerd als ‘Gozen de Bucquoy (zonder doopdatum!), uit wien een vermoedelijk uitgestorven tak’.  
-3. Jakobus, Nederduits Gereformeerd gedoopt 12-02-1686 (getuige Jakobus Valkenier, Sara Maartensdr, Felix de Bucquoy en Francyntje Guinott), volgt [IVb](#ivb-jacob-de-klopper-de-jonge).  
-4. Aeltje, Nederduits Gereformeerd gedoopt 03-10-1687, (getuige Huybert Snekouwen, Annetje Baljan en anderen).  
+1. Felix, Nederduits Gereformeerd gedoopt op 27-08-1683 (getuige Felix de Bucquoy, Francyntje Guinjo, Pieter Ferrijn en Catharina Cornelis), volgt [IVa](#iva-felix-de-klopper).  
+2. Gooswin, Nederduits Gereformeerd gedoopt op 03-12-1684, (getuige Felix de Bucquoy, Francyntje Guines, Johannes Kouwenhooven en Jacomijntje Brouwer). N.B. In Nederland’s Patriciaat wordt deze figuur zonder enige argumentatie opgevoerd als ‘Gozen de Bucquoy (zonder doopdatum!), uit wien een vermoedelijk uitgestorven tak’.  
+3. Jakobus, Nederduits Gereformeerd gedoopt op 12-02-1686 (getuige Jakobus Valkenier, Sara Maartensdr, Felix de Bucquoy en Francyntje Guinott), volgt [IVb](#ivb-jacob-de-klopper-de-jonge).  
+4. Aeltje, Nederduits Gereformeerd gedoopt op 03-10-1687, (getuige Huybert Snekouwen, Annetje Baljan en anderen).  
 Hubert Snekou was de tweede echtgenoot van Anne Baillian, die weduwe was van Gillis du Bucquoy. De laatste was afkomstig uit ‘Waterloo’. Er zal dus wel sprake zijn van een familierelatie. De precieze aard van die relatie kon ik niet achterhalen.  
-5. Maria de Clopper, Nederduits Gereformeerd gedoopt 01-01-1689, begraven 07/14-06-1760[†](#notitie), ondertrouw op 09-03-1713 met Hendrik Koot, weduwnaar van Helena van Baarle.  
-6. Catharina de Klopper, Nederduits Gereformeerd gedoopt 28-06-1690, begraven 06/13-08-1729[†](#notitie), ondertrouw op 30-11-1726 met Arent Bruynes van der Bijl, vachtenploter.  
-7. Joannes, Nederduits Gereformeerd gedoopt 23-10-1691.  
-8. Hendrikus Lucas, Nederduits Gereformeerd gedoopt 10-12-1692.  
-9. Jan, Nederduits Gereformeerd gedoopt 20-10-1697.  
+5. Maria de Clopper, Nederduits Gereformeerd gedoopt op 01-01-1689, begraven 07/14-06-1760[†](#notitie), ondertrouw op 09-03-1713 met Hendrik Koot, weduwnaar van Helena van Baarle.  
+6. Catharina de Klopper, Nederduits Gereformeerd gedoopt op 28-06-1690, begraven 06/13-08-1729[†](#notitie), ondertrouw op 30-11-1726 met Arent Bruynes van der Bijl, vachtenploter.  
+7. Joannes, Nederduits Gereformeerd gedoopt op 23-10-1691.  
+8. Hendrikus Lucas, Nederduits Gereformeerd gedoopt op 10-12-1692.  
+9. Jan, Nederduits Gereformeerd gedoopt op 20-10-1697.  
 
 Uit het tweede huwelijk:  
 
-10. Jan, Nederduits Gereformeerd gedoopt 14-02-1703.  
-11. Philippus, Nederduits Gereformeerd gedoopt 12-03-1704 (getuige Philippus Bosman en Sara de la Plate).  
+10. Jan, Nederduits Gereformeerd gedoopt op 14-02-1703.  
+11. Philippus, Nederduits Gereformeerd gedoopt op 12-03-1704 (getuige Philippus Bosman en Sara de la Plate).  
 
 ### IVa. Felix de Klopper
-IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt 27-04-1683, wijnkoper, later  
+IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt op 27-04-1683, wijnkoper, later  
 stadscourantier (25), overleden 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem,  
-geboren op 17-07-1683, gedoopt 21-07-1683, begraven 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
+geboren op 17-07-1683, gedoopt op 21-07-1683, begraven 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
 
 Uit dit huwelijk:  
-1. Jacob, Nederduits Gereformeerd gedoopt 10-09-1702, begraven 21/28-10-1702[†](#notitie).  
-2. Maria, Nederduits Gereformeerd gedoopt 16-09-1703, begraven 27-06/04-07-1705[†](#notitie).  
-3. Catharina, Nederduits Gereformeerd gedoopt 17-05-1705, begraven 19/26-09-1705[†](#notitie).  
-4. Huybert, Nederduits Gereformeerd gedoopt 10-06-1706, begraven 19/26-02-1707[†](#notitie).  
-5. Johanna, Nederduits Gereformeerd gedoopt 24-11-1707, begraven 22/29-09-1708[†](#notitie).  
-6. Hubert, Nederduits Gereformeerd gedoopt 17-05-1709, begraven 10/17-08-1709[†](#notitie).  
-7. Catarina de Klopper, Nederduits Gereformeerd gedoopt 24-06-1711, ondertrouw op 28-09-1731 met Isaak Oosterwijk, weduwnaar van Agatha Maria van der Pont.  
-8. Maria de Klopper, Nederduits Gereformeerd gedoopt 05-02-1713, ondertrouw op 21-08-1739 met Gerardus van Maanen, leverancier van ammunitie, geboren in Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
-9. Susanna de Klopper, Nederduits Gereformeerd gedoopt 05-10-1714, overleden 18-05-1773, begraven Den Haag 22-05-1773, ondertrouw op 05-10-1736, tr. in Leiden op 23-10-1736 met Cornelis van Maanen, gedoopt Den Haag 08-05-1708, notaris etc., overleden 12-01-1743, begraven Den Haag 16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
-10. Johanna, Nederduits Gereformeerd gedoopt 17-02-1717, begraven 20/27-03-1717[†](#notitie).  
-11. Johanna, Nederduits Gereformeerd gedoopt 15-05-1718, begraven 16/23-03-1720[†](#notitie).  
-12. Anthony, Nederduits Gereformeerd gedoopt 14-05-1720, begraven 06/13-03-1723[†](#notitie).  
-13. Anthony, Nederduits Gereformeerd gedoopt 27-12-1724, volgt [V](#v-mr-anthonie-de-klopper).  
+1. Jacob, Nederduits Gereformeerd gedoopt op 10-09-1702, begraven 21/28-10-1702[†](#notitie).  
+2. Maria, Nederduits Gereformeerd gedoopt op 16-09-1703, begraven 27-06/04-07-1705[†](#notitie).  
+3. Catharina, Nederduits Gereformeerd gedoopt op 17-05-1705, begraven 19/26-09-1705[†](#notitie).  
+4. Huybert, Nederduits Gereformeerd gedoopt op 10-06-1706, begraven 19/26-02-1707[†](#notitie).  
+5. Johanna, Nederduits Gereformeerd gedoopt op 24-11-1707, begraven 22/29-09-1708[†](#notitie).  
+6. Hubert, Nederduits Gereformeerd gedoopt op 17-05-1709, begraven 10/17-08-1709[†](#notitie).  
+7. Catarina de Klopper, Nederduits Gereformeerd gedoopt op 24-06-1711, ondertrouw op 28-09-1731 met Isaak Oosterwijk, weduwnaar van Agatha Maria van der Pont.  
+8. Maria de Klopper, Nederduits Gereformeerd gedoopt op 05-02-1713, ondertrouw op 21-08-1739 met Gerardus van Maanen, leverancier van ammunitie, geboren in Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
+9. Susanna de Klopper, Nederduits Gereformeerd gedoopt op 05-10-1714, overleden 18-05-1773, begraven Den Haag 22-05-1773, ondertrouw op 05-10-1736, tr. in Leiden op 23-10-1736 met Cornelis van Maanen, gedoopt in Den Haag op 08-05-1708, notaris etc., overleden 12-01-1743, begraven Den Haag 16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
+10. Johanna, Nederduits Gereformeerd gedoopt op 17-02-1717, begraven 20/27-03-1717[†](#notitie).  
+11. Johanna, Nederduits Gereformeerd gedoopt op 15-05-1718, begraven 16/23-03-1720[†](#notitie).  
+12. Anthony, Nederduits Gereformeerd gedoopt op 14-05-1720, begraven 06/13-03-1723[†](#notitie).  
+13. Anthony, Nederduits Gereformeerd gedoopt op 27-12-1724, volgt [V](#v-mr-anthonie-de-klopper).  
 
 Felix de Klopper had de Leydsche Courant gekocht van de vorige eigenaar Van Huisduinen en gaf het blad voor het eerst uit op 20-11-1719 (25). Vanaf 12-07-1737 dreef hij de krant samen met zijn (N.B. nog geen 13-jarige!) zoon Anthony, die na de dood van zijn vader ‘alleenheerser’ werd (ongetwijfeld onder supervisie van zijn moeder, noot van mij). In 1819 was de krant nog steeds in het bezit van de familie De Klopper. Wanneer dit eigendom tenslotte eindigde, heb ik niet uitgezocht.  
 
 ### IVb. Jacob de Klopper de Jonge
-IVb    Jacob de Klopper de Jonge, Nederduits Gereformeerd gedoopt 12-02-1686, distillateur, begraven 24/31-12-1729[†](#notitie), ondertrouw op 11-04-1709 (getuige haar schoonmoeder (=stief-) Annetje van Roon) met Yda Kievidt, geboren in Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
+IVb    Jacob de Klopper de Jonge, Nederduits Gereformeerd gedoopt op 12-02-1686, distillateur, begraven 24/31-12-1729[†](#notitie), ondertrouw op 11-04-1709 (getuige haar schoonmoeder (=stief-) Annetje van Roon) met Yda Kievidt, geboren in Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
 
 ### V. Mr. Anthonie de Klopper  
-V    Mr. Anthonie de Klopper, geboren op 26-12-1724, gedoopt 27-12-1724, stadscourantier, overleden 30-11-1771, begraven 07-12-1771, tr. op 07-08-1759 met Levina Westerbaen, geboren in Katwijk a/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
+V    Mr. Anthonie de Klopper, geboren op 26-12-1724, gedoopt op 27-12-1724, stadscourantier, overleden 30-11-1771, begraven 07-12-1771, tr. op 07-08-1759 met Levina Westerbaen, geboren in Katwijk a/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
 
 Uit dit huwelijk:  
-1. Felix, gedoopt 22-05-1760, begraven 26-12-1761/02-01-1762[†](#notitie).  
-2. Kornelis Jacobus, gedoopt 03-07-1761, begraven 06/13-10-1764[†](#notitie).  
-3. Felix, gedoopt 27-02-1763, volgt [VI](#vi-mr-felix-de-klopper).  
-4. Kornelis Johannes, gedoopt 07-03-1766, begraven 08/15-03-1767[†](#notitie).  
-5. Maria Katharina, gedoopt 29-01-1768, begraven 19/26-11-1768[†](#notitie).  
-6. Cornelis Abraham, gedoopt 04-04-1770, begraven 04/11-01-1772[†](#notitie).  
+1. Felix, gedoopt op 22-05-1760, begraven 26-12-1761/02-01-1762[†](#notitie).  
+2. Kornelis Jacobus, gedoopt op 03-07-1761, begraven 06/13-10-1764[†](#notitie).  
+3. Felix, gedoopt op 27-02-1763, volgt [VI](#vi-mr-felix-de-klopper).  
+4. Kornelis Johannes, gedoopt op 07-03-1766, begraven 08/15-03-1767[†](#notitie).  
+5. Maria Katharina, gedoopt op 29-01-1768, begraven 19/26-11-1768[†](#notitie).  
+6. Cornelis Abraham, gedoopt op 04-04-1770, begraven 04/11-01-1772[†](#notitie).  
 
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
-VI    Mr. Felix de Klopper, geboren op 23-02-1763, gedoopt 27-02-1763, stadscourantier en vele andere functies, overleden 14-10-1804, 1) tr. op 01-07-1783 met Elselina du Rieu, geboren op 25-12-1763, gedoopt 28-12-1763, overleden 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, 2) tr. op 07-12-1786 met Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
+VI    Mr. Felix de Klopper, geboren op 23-02-1763, gedoopt op 27-02-1763, stadscourantier en vele andere functies, overleden 14-10-1804, 1) tr. op 01-07-1783 met Elselina du Rieu, geboren op 25-12-1763, gedoopt op 28-12-1763, overleden 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, 2) tr. op 07-12-1786 met Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
 
 Uit het eerste huwelijk:  
 
-1. Antoine Paul, geboren op 25-05-1784, Waals gedoopt 30-05-1784, begraven 20/27-05-1786[†](#notitie).  
-2. Paul Elzelin, geboren op 09-10-1785, Waals gedoopt 26-10-1785, volgt [VII](#vii-dr-paul-elzelin-de-klopper).  
+1. Antoine Paul, geboren op 25-05-1784, Waals gedoopt op 30-05-1784, begraven 20/27-05-1786[†](#notitie).  
+2. Paul Elzelin, geboren op 09-10-1785, Waals gedoopt op 26-10-1785, volgt [VII](#vii-dr-paul-elzelin-de-klopper).  
 
 Uit het tweede huwelijk:  
 
-3. Antoinette Levine, geboren op 23-10-1787, Waals gedoopt 28-10-1787.  
-4. Adrienne Gertrude, geboren op 14-10-1788, Waals gedoopt 19-10-1788, begraven 27-12-1794/03-01-1795[†](#notitie).  
+3. Antoinette Levine, geboren op 23-10-1787, Waals gedoopt op 28-10-1787.  
+4. Adrienne Gertrude, geboren op 14-10-1788, Waals gedoopt op 19-10-1788, begraven 27-12-1794/03-01-1795[†](#notitie).  
 5. Abraham, doop niet gevonden, begraven 15/22-05-1790[†](#notitie).  
-6. Antoine, geboren op 29-04-1791, Waals gedoopt 04-05-1791.  
-7. Cornelie Petronelle, geboren op 28-07-1792, Waals gedoopt 01-08-1792, begraven 25-08/01-09-1792[†](#notitie).  
-8. Jeanne Marie, geboren op 02-12-1793, Waals gedoopt 09-12-1793.  
-9. Adrienne Gertrude, geboren op 05-05-1795, Waals gedoopt 20-05-1795.  
-10. Felix Corneille, geboren op 24-02-1797, Waals gedoopt 08-03-1797.  
-11. Sara Catharine, geboren op 31-05-1798, Waals gedoopt 15-06-1798, begraven 09/16-11-1768[†](#notitie).  
+6. Antoine, geboren op 29-04-1791, Waals gedoopt op 04-05-1791.  
+7. Cornelie Petronelle, geboren op 28-07-1792, Waals gedoopt op 01-08-1792, begraven 25-08/01-09-1792[†](#notitie).  
+8. Jeanne Marie, geboren op 02-12-1793, Waals gedoopt op 09-12-1793.  
+9. Adrienne Gertrude, geboren op 05-05-1795, Waals gedoopt op 20-05-1795.  
+10. Felix Corneille, geboren op 24-02-1797, Waals gedoopt op 08-03-1797.  
+11. Sara Catharine, geboren op 31-05-1798, Waals gedoopt op 15-06-1798, begraven 09/16-11-1768[†](#notitie).  
   
 N.B. Van de generaties VII t/m IX zijn de gegevens overgenomen uit diverse bronnen\* en niet door mij gecontroleerd!  
 \* Nederland’s Patriciaat 10 (1919), p. 188 en volgende, FamilySearch (Mormonen) en diverse CD-roms van genealogische periodieken.  
 
 ### VII. Dr. Paul Elzelin de Klopper
-VII    Dr. Paul Elzelin de Klopper, geboren op 09-10-1785, gedoopt 26-10-1785, arts te De Rijp, overleden Amsterdam 17-09-1821, tr. aldaar op 08-05-1810 met Cornelia van Nueborgh, gedoopt aldaar 25-04-1791, overleden aldaar 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
+VII    Dr. Paul Elzelin de Klopper, geboren op 09-10-1785, gedoopt op 26-10-1785, arts te De Rijp, overleden Amsterdam 17-09-1821, tr. in Amsterdam op 08-05-1810 met Cornelia van Nueborgh, gedoopt in Amsterdam op 25-04-1791, overleden Amsterdam 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
 
 Uit dit huwelijk:  
 1. Elseline de Klopper, geboren in Amsterdam op 23-05-1812, overleden 07-11-1843, tr. in Leiden op 29-10-1834 met Adrianus Cornelis Hanegraaff, Rijksbetaalmeester.  
@@ -1455,9 +1455,9 @@ Als hun kinderen zijn bekend:
 I    Jacques Bucquoy, geboren in Middelburg ca. 1588, hoedenkramer, begraven Amsterdam 29-07-1630, ondertrouw op 22-03-1618 (30 jaar oud) met Janneke Seys, geboren in Brugge ca. 1590 (bij huwelijk 28 jaar oud).  
 
 Uit dit huwelijk bekend:  
-1. Johannes, gedoopt 17-01-1619.  
-2. Nicolaes, gedoopt 05-05-1620.  
-3. Jacobus, gedoopt 27-12-1626.  
+1. Johannes, gedoopt op 17-01-1619.  
+2. Nicolaes, gedoopt op 05-05-1620.  
+3. Jacobus, gedoopt op 27-12-1626.  
 
 ### Jean. du Bukoy
 B    Jean du Bukoy, geboren in Pont sur Sambre (?), tr. met NN.  
@@ -1471,10 +1471,10 @@ Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is d
 Ia    Jaques du Buskoy, van Pon(t)(?) sur Sambre, steenhouwer, geboren ca. 1622 (bij huwelijk 30 jaar), begraven 01-08-1682, 1) ondertrouw op 27-07-1652 (getuige zijn vader Jean du Bukoy) met Jannetje Karet, van Doornick, begraven 09-09-1673, 2) ondertrouw op 01-09-1679 met Maria Belterman, weduwe van Artus de Witt.  
 
 Uit het eerste huwelijk bekend:  
-1. Adrien, Waals gedoopt 25-04-1655.  
-2. Tomas, Waals gedoopt 15-02-1657.  
-3. Jerosme, Waals gedoopt 20-10-1658, volgt [IIa](#iia-jeronimus-de-bucquoi).  
-4. Pierre, gedoopt 08-12-1661, volgt [IIb](#iib-pierre-du-bucquoy).  
+1. Adrien, Waals gedoopt op 25-04-1655.  
+2. Tomas, Waals gedoopt op 15-02-1657.  
+3. Jerosme, Waals gedoopt op 20-10-1658, volgt [IIa](#iia-jeronimus-de-bucquoi).  
+4. Pierre, gedoopt op 08-12-1661, volgt [IIb](#iib-pierre-du-bucquoy).  
 
 ### Ib. Jean de Bucquoy
 Ib    Jean de Bucquoy, steenhouwer van ‘Hanou’, geboren ca. 1635, begraven Amsterdam 22-03-1689, ondertrouw in Leiden op 10-08-1673 met Catharina Jans, van Ceulen, begraven Amsterdam (‘Trijntje Jans, huisvrouw van Jan du Buquoy’) 27-08-1688. Zowel bruid als bruidegom waren ten tijde van hun huwelijk woonachtig in Leiden.  
@@ -1483,38 +1483,38 @@ Mogelijk had Jean uit een eerder huwelijk of relatie een dochter:
 1. Selia Jans du Bucquoi, van Amsterdam, geboren ca. 1657 (bij huwelijk 31 jaar), ondertrouw op 06-03-1688 (getuige haar vader Jan du Bucquoi) met Ariaen Philipsz van Leeuwen, van Loosduynen.  
 
 ### IIa. Jeronimus de Bucquoi
-IIa    Jeronimus de Bucquoi, Waals gedoopt 20-10-1658, steenhouwer, begraven 12-04-1714, 1) ondertrouw op 09-10-1682 (getuige zijn stiefmoeder Maria Belterman) met Marritje Floris van Leeuwen, 30 jaar, van Haserswoude, 2) ondertrouw in Leiden op 26-03-1692, tr. in A’dam op 12-04-1692 met Jaepie Hartman, gedoopt A’dam 05-01-1667, dochter van Isaack Hartman en Jaepie Rodenburgh. Jeronimus’ eerste huwelijk eindigde in scheiding wegens ‘gekrakeel’ (Album Buquoye). Bij zijn tweede huweljk woonde Jeronimus de B. in Leiden aan de Rijn, Jaepie Hartman(s) woonde in Leiden op de Steenschuur.  
+IIa    Jeronimus de Bucquoi, Waals gedoopt op 20-10-1658, steenhouwer, begraven 12-04-1714, 1) ondertrouw op 09-10-1682 (getuige zijn stiefmoeder Maria Belterman) met Marritje Floris van Leeuwen, 30 jaar, van Haserswoude, 2) ondertrouw in Leiden op 26-03-1692, tr. in Amsterdam op 12-04-1692 met Jaepie Hartman, gedoopt in Amsterdam op 05-01-1667, dochter van Isaack Hartman en Jaepie Rodenburgh. Jeronimus’ eerste huwelijk eindigde in scheiding wegens ‘gekrakeel’ (Album Buquoye). Bij zijn tweede huweljk woonde Jeronimus de B. in Leiden aan de Rijn, Jaepie Hartman(s) woonde in Leiden op de Steenschuur.  
 
 Uit het eerste huwelijk:  
 
-1. een ongenoemd kind, begraven Amsterdam 28-12-1683.  
+1. Ongenoemd kind, begraven Amsterdam 28-12-1683.  
 
 Voor het tweede huwelijk:  
 
-2. Sjaak, Nederduits Gereformeerd gedoopt 14-10-1692, moeder Geertruyt Bresila, getuige Cornelia Cornelis.  
+2. Sjaak, Nederduits Gereformeerd gedoopt op 14-10-1692, moeder Geertruyt Bresila, getuige Cornelia Cornelis.  
 
 Uit het tweede huwelijk:  
 
-3. Jacob, Nederduits Gereformeerd gedoopt 25-10-1693, volgt [III](#iii-jacob-de-bucquoy).  
+3. Jacob, Nederduits Gereformeerd gedoopt op 25-10-1693, volgt [III](#iii-jacob-de-bucquoy).  
 
 ### IIb. Pierre du Bucquoy
-IIb    Pierre du Bucquoy, gedoopt 08-12-1661, steenhouwer, overleden na 21-04-1711, ondertrouw op 13-07-1685 (getuige zijn oom en voogd Jan du Buquoy) met Alida Hartman, gedoopt 23-05-1664, begraven 21-04-1711, dochter van Isaak Hartman en Jacoba Rodenburgh.  
+IIb    Pierre du Bucquoy, gedoopt op 08-12-1661, steenhouwer, overleden na 21-04-1711, ondertrouw op 13-07-1685 (getuige zijn oom en voogd Jan du Buquoy) met Alida Hartman, gedoopt op 23-05-1664, begraven 21-04-1711, dochter van Isaak Hartman en Jacoba Rodenburgh.  
 
 Uit dit huwelijk bekend:  
-1. Agatha Pieternella du Bucquoy\*, Nederduits Gereformeerd gedoopt 19-09-1691, ondertrouw op 25-05-1718 met Levinius Vincent, van Amsterdam, woont Haarlem.  
-2. Alida Elisabeth du Bucquoy\*, Nederduits Gereformeerd gedoopt 14-11-1694, ondertrouw op 25-05-1718 met Daniel Nicolaas Olbers, van Stockholm.  
-3. Pieter, gedoopt 09-08-1697, begraven 14-10-1697.  
-4. Pieter, gedoopt 06-08-1698.  
-5. Catrina Maria, gedoopt 30-07-1702.  
-6. Abrahamina Margreta, gedoopt 19-08-1705, begraven 13-04-1708.  
+1. Agatha Pieternella du Bucquoy\*, Nederduits Gereformeerd gedoopt op 19-09-1691, ondertrouw op 25-05-1718 met Levinius Vincent, van Amsterdam, woont Haarlem.  
+2. Alida Elisabeth du Bucquoy\*, Nederduits Gereformeerd gedoopt op 14-11-1694, ondertrouw op 25-05-1718 met Daniel Nicolaas Olbers, van Stockholm.  
+3. Pieter, gedoopt op 09-08-1697, begraven 14-10-1697.  
+4. Pieter, gedoopt op 06-08-1698.  
+5. Catrina Maria, gedoopt op 30-07-1702.  
+6. Abrahamina Margreta, gedoopt op 19-08-1705, begraven 13-04-1708.  
 
 \* N.B. Beide zusters ondertrouwden op dezelfde datum!  
 
 ### III. Jacob de Bucquoy
-III    Jacob de Bucquoy, Nederduits Gereformeerd gedoopt 25-10-1693, ondertrouw op 25-03-1718 (getuige zijn moeder Jacoba Hartman) met Catrina Fok, getuige haar moeder Aaltje Focke. Catharina Fok, weduwe van Jacob de Buiquoy, is in Amsterdam begraven 08-01-1777.  
+III    Jacob de Bucquoy, Nederduits Gereformeerd gedoopt op 25-10-1693, ondertrouw op 25-03-1718 (getuige zijn moeder Jacoba Hartman) met Catrina Fok, getuige haar moeder Aaltje Focke. Catharina Fok, weduwe van Jacob de Buiquoy, is in Amsterdam begraven 08-01-1777.  
 
 Uit dit huwelijk bekend:  
-1. Jeronimus, Nederduits Gereformeerd gedoopt 21-08-1718.  
+1. Jeronimus, Nederduits Gereformeerd gedoopt op 21-08-1718.  
 
 Uit een vraag en antwoord in de eerste jaargang van De Navorscher (1851!) valt te reconstrueren, dat Jacob de Bucquoy een in zijn tijd befaamd zeereiziger en cartograaf was (27). Op deze figuur gaat ook de hierboven al genoemde J.H. Bekouw in. Tevens wordt in een latere jaargang van De Navorscher de vraag gesteld, of er een familierelatie bestond met een Leidse naamgenoot (A-Vc), die slotenmaker was en later lector in de mathesis aan de universiteit van Leiden werd (13). Zoals blijkt, is zo’n verwantschap, indien al aanwezig, ver verwijderd.
 
