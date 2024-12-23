@@ -164,7 +164,7 @@ Gebruikte afkortingen:
 ## A. OLIVIER (?) DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
 
 ### I. Olivier (?) de Bucquoy
-I.    Olivier (?) de Bucquoy, vermoedelijk geboren in Tourcoing ca. 1500, vermoedelijk overleden Tourcoing, tr. met NN.  
+I.    Olivier (?) de Bucquoy, vermoedelijk geboren in Tourcoing ca. 1500, vermoedelijk overleden in Tourcoing, tr. met NN.  
 
 Hieruit vermoedelijk, eveneens geboren in Tourcoing, volgorde onbekend:  
 1. Arnou, geboren ca. 1530, volgt [IIa](#iia-arnou-de-bucquoys).  
@@ -173,7 +173,7 @@ Hieruit vermoedelijk, eveneens geboren in Tourcoing, volgorde onbekend:
 De veronderstelling dat de ‘stamvader’ Olivier heette, is gebaseerd op het feit, dat zijn beide bekende zoons een zoon Olivier hadden.  
 
 ### IIa. Arnou de Bucquoys
-IIa    Arnou de Bucquoys, geboren en waarschijnlijk overleden Tourcoing ca. 1530 - ca. 1585, tr. met NN.  
+IIa    Arnou de Bucquoys, geboren en waarschijnlijk overleden in Tourcoing ca. 1530 - ca. 1585, tr. met NN.  
 
 Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:  
 1. Elie, geboren ca. 1560/65, volgt [IIIa](#iiia-elias-de-buko).  
@@ -190,13 +190,13 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 3. Gilles, geboren ca. 1560, volgt [IIIf](#iiif-gilles-de-bucquoy).  
 4. Olivier, geboren ca. 1560/70, volgt [IIIg](#iiig-olifier-de-buckoy).  
 5. Mary de Buco, van Turcoyn, ondertrouw op 11-09-1591 (getuige Cathelijne Spiring haar (schoon-)zuster) met Pier Tybergien, van Turcoyn, overleden na 02-09-1629 (optreden als doopgetuige). De naam Pierre Tybergien (ook andere spellingen) behoort in deze periode aan tenminste 3 verschillende personen.  
-6. Catryne de Bucquot, van Turquoin, mogelijk overleden/begraven (‘huisvrouw van Jan de Can op de Koepoortsgraft’) 27-12-1624, ondertrouw op 12-09-1587 (getuige Barbe de Bucquot en Marie Casteel) met Jan de Camp, van Bondue bij Rijssel.  
+6. Catryne de Bucquot, van Turquoin, mogelijk overleden/begraven (‘huisvrouw van Jan de Can op de Koepoortsgraft’) op 27-12-1624, ondertrouw op 12-09-1587 (getuige Barbe de Bucquot en Marie Casteel) met Jan de Camp, van Bondue bij Rijssel.  
 7. Barbe? de Bucquoy, begraven Leiden 25-03-1608.  
 
 IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder [IIIa](#iiia-elias-de-buko)), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
 
 ### IIIa. Elias de Buko
-IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden Leiden aan de pest 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko zijn oom) met Jacomyne du Pré, van Armentiers, getuige Claret du Pré haar moeder.  
+IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden in Leiden aan de pest op 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko zijn oom) met Jacomyne du Pré, van Armentiers, getuige Claret du Pré haar moeder.  
 
 Uit dit huwelijk bekend:  
 1. Elie, Waals gedoopt in Leiden op 05-11-1600, leeft nog 30-09-1629 (3)  
@@ -206,7 +206,7 @@ Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.
 Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucquoy Arnoutsz een bedrag van 100 gld ter weeskamer, zijnde de opbrengst van een obligatie gedateerd 15-05-1603, op naam van ‘Elias du Bucquoy Arnouts zoons weeskint genaemt Elias’. Zij hebben het geld ontvangen van Jaspar du Pré, van Armentières. Op 15-10-1607 brengen Olivier Arnoutsz en Olivier Anthonisz nog eens resp. 140 en 340 gld, eveneens interest tot onderhoud van het kind (4). Na zijn quittering van Weesmeesters bij gelegenheid van zijn meerderjarigheid (3) wordt van Elias Jr. niets meer vernomen.  
 
 ### IIIb. Olifier de Buquo
-IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overleden/begraven 06-06-1616; voogdijstelling 17-08-1616), weduwnaar van Joseyne Liagre, wolkammer, ondertrouw op 08-11-1602 (getuige Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) met Martijne du Boys, van Verlenghem bij Rijssele, weduwe van Anthone Monier.  
+IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overleden/begraven op 06-06-1616; voogdijstelling op 17-08-1616), weduwnaar van Joseyne Liagre, wolkammer, ondertrouw op 08-11-1602 (getuige Jasper du Pré zijn bekende en Oliphier de Buquo zijn cosijn) met Martijne du Boys, van Verlenghem bij Rijssele, weduwe van Anthone Monier.  
 
 Uit het eerste huwelijk bekend (5):  
 
@@ -223,7 +223,7 @@ IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05
 
 Uit een eerder huwelijk bekend:  
 
-1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder) met Davidt de Lano, wolkammer van Leyden, getuige Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) op 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder) met Davidt de Lano, wolkammer van Leyden, getuige Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
 
 Uit het tweede huwelijk:  
 
@@ -249,14 +249,14 @@ Op 02-08-1604 heeft Olivier du Bucquoy, kousenbreier, ter kamer gebracht de som 
 Jan de Bucquoy (IIIe-2) was mogelijk gehuwd. Een huwelijk is niet gevonden, evenmin als dopen van kinderen. Op 8 september en 1 en 15 oktober 1624 en op 28 oktober 1627 en 4 januari 1629 werden kinderen begraven van een Jan Bu(c,k)oy die in of bij de Olifantspoort woonde.  
 
 ### IIIf. Gilles de Bucquoy
-IIIf    Gilles de Bucquoy, geboren in Tourcoing (?), overleden voor 20-01-1595, tr. met Philippote Montaigny (de Montagne), overleden 29-02-1640, (Zij hertrouwde op 20-01-1595 met Philippe de Tombe).  
+IIIf    Gilles de Bucquoy, geboren in Tourcoing (?), overleden voor 20-01-1595, tr. met Philippote Montaigny (de Montagne), overleden op 29-02-1640, (Zij hertrouwde op 20-01-1595 met Philippe de Tombe).  
 
 Uit dit huwelijk bekend:  
 1. Pierre, geboren in Antwerpen ca. 1582, volgt [IVc](#ivc-pierre-de-bucquoy).  
-2. Susannetgen de Bucquoy, geboren in Leiden (?) ca. 1588, mogelijk overleden/begraven (‘huisvrouw van Jan Karren op de Uytterste Graft’) 18-11-1622, Waals ondertrouw op 22-04-1611 (getuige Philippote Montegny haar moeder en Cathelyne Spierings haar moeye) met Jan Carret, kleermaker, van Marche bij Rijssel, getuige Pierre Bonduwel en Jheremias de Bucquoy. Jan Carret is mogelijk overleden/begraven als Jan Karre op de Uytterste Graft op 15-10-1624.  
+2. Susannetgen de Bucquoy, geboren in Leiden (?) ca. 1588, mogelijk overleden/begraven (‘huisvrouw van Jan Karren op de Uytterste Graft’) op 18-11-1622, Waals ondertrouw op 22-04-1611 (getuige Philippote Montegny haar moeder en Cathelyne Spierings haar moeye) met Jan Carret, kleermaker, van Marche bij Rijssel, getuige Pierre Bonduwel en Jheremias de Bucquoy. Jan Carret is mogelijk overleden/begraven als Jan Karre op de Uytterste Graft op 15-10-1624.  
 
 ### IIIg. Olifier de Buckoy
-IIIg    Olifier de Buckoy, van Turcoyn, overleden/begraven 17-01-1620, ondertrouw op 26-08-1589 (getuige Abraham de Buckoy (moet naar mijn mening Anthoine zijn), zijn vader (8)) met Cathelijne Spiering, van Doornick, getuige Margriet van Aelst en Marye Flaman, zuster van Cathelyna.  
+IIIg    Olifier de Buckoy, van Turcoyn, overleden/begraven op 17-01-1620, ondertrouw op 26-08-1589 (getuige Abraham de Buckoy (moet naar mijn mening Anthoine zijn), zijn vader (8)) met Cathelijne Spiering, van Doornick, getuige Margriet van Aelst en Marye Flaman, zuster van Cathelyna.  
 
 Uit dit huwelijk bekend, volgorde niet geheel bekend:  
 1. Annetgen des Bucquoy, geboren in Leiden ca. 1598, Waals ondertrouw op 19-07-1618 (getuige Catrijne Spierings haar moeder) met ds. Petrus Moyses, van Leyden, woont Nieuweveen.  
@@ -299,14 +299,14 @@ Aangezien Dirk in 1634 wordt genoemd in het testament van zijn broer Gillis als 
 Theunis de Bucquoy, greinwerker van Medemblik, is op 11-08-1645 op de getuigenis van Jacob Willemsz de Laet en Gillis de Bucquoy als poorter ontvangen. Verder vernemen we niets van hem.  
 
 ### IVd. Olivier de Bucquoy
-IVd    Olivier Bucquoy, herkomst niet genoemd, woont Bredestraet, begraven 09/15-01-1667[†](#notitie), ondertrouw op 27-09-1629 (getuige Olivier Bucquoy, zijn vader en Sophia van Dilsen, haar moeder. Sophia van Dilsen ondertrouw op 29-10-1598 met Paulus Stock) met Claesgen Stockius, woont Bredestraet, geboren ca. 1605, overleden 28-10-1669.  
+IVd    Olivier Bucquoy, herkomst niet genoemd, woont Bredestraet, begraven 09/15-01-1667[†](#notitie), ondertrouw op 27-09-1629 (getuige Olivier Bucquoy, zijn vader en Sophia van Dilsen, haar moeder. Sophia van Dilsen ondertrouw op 29-10-1598 met Paulus Stock) met Claesgen Stockius, woont Bredestraet, geboren ca. 1605, overleden op 28-10-1669.  
 
 Uit dit huwelijk:  
 1. Pieternella, Nederduits Gereformeerd gedoopt op 05-03-1631, begraven 16-04-1631.  
 2. Pieternella de Bucquoy, Nederduits Gereformeerd gedoopt op 25-08-1632, woont Bredestraet, begraven 02/08-09-1668[†](#notitie), ondertrouw op 10-08-1656 met Niclaes van Campen, woont Marckt, koopman.  
 (Nicolaes van Campen, weduwnaar van Petronella Bucquoy, woont Bredestraet, ondertrouw op 19-03-1670 met Susanna de Hoorn, weduwe van Dirck van Assendelft, woont Nieuwen Rijn. De broer van de man is veertig in de raad.)  
-3. Anna de Bucquoy, Nederduits Gereformeerd gedoopt op 06-09-1634, overleden 13-02-1677, ondertrouw in Leiden op 04-10-1674, tr. in Leiderdorp op 23-10-1674 met Nicolaes Huyst, doop en overleden niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
-4. Alyda de Bucquoy, Nederduits Gereformeerd gedoopt op 20-03-1637, woont Bredestraet, overleden/begraven 27-01-1680, ondertrouw op 15-01-1659, tr. op 04-02-1659 met Symon Vliettoorn, woont Bredestraet, apothecaris (geboren in Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals ondertrouw op 09-05-1680 met Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.).  
+3. Anna de Bucquoy, Nederduits Gereformeerd gedoopt op 06-09-1634, overleden op 13-02-1677, ondertrouw in Leiden op 04-10-1674, tr. in Leiderdorp op 23-10-1674 met Nicolaes Huyst, doop en overleden niet gevonden, wedn. Antonette Ravens, vermoedelijk zoon van Gillis Gillisz Huyst en Maeycken de Clercq.  
+4. Alyda de Bucquoy, Nederduits Gereformeerd gedoopt op 20-03-1637, woont Bredestraet, overleden/begraven op 27-01-1680, ondertrouw op 15-01-1659, tr. op 04-02-1659 met Symon Vliettoorn, woont Bredestraet, apothecaris (geboren in Katwijk ?) (Simon Vliethoorn, schepen van Leyden, weduwnaar van Alida du Buquoy (!), woont Steenschuyr, Waals ondertrouw op 09-05-1680 met Margrieta de Quien, woont Oude Chingel. Een broer van Simon was kapitein van de burgerij.).  
 5. Elisabeth du Bucquoy, Nederduits Gereformeerd gedoopt op 09-09-1639, overleden voor 07-01-1676, ondertrouw op 08-06-1667 (getuige Clasyne Stockius haar moeder) met Frans Vromans, gedoopt op 12-12-1641, overleden niet gevonden, zoon van Mr. Jacob Vromans en Jannetje du Merchijn. (Frans Vromans, wdnr Elisabeth de B, woont Bredestraet, ondertrouw op 07-01-1676 met Maria Leffen, woont Klocksteech.).  
 6. Sophia, Nederduits Gereformeerd gedoopt op 23-01-1643, begraven 15-05-1645.  
 7. Paulus, Nederduits Gereformeerd gedoopt op 29-03-1645, begraven 25-04-1643.  
@@ -341,7 +341,7 @@ Uit dit huwelijk:
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit (13).  
 
 ### Vd. Gillis Pietersz de Bucquoy
-Vd    Gillis Pietersz de Bucquoy, van Medenblick, woont Vrouwencamp, bij 2e huwelijk Kijffhoek, wolkammer, mogelijk begraven 13/19-04-1664[†](#notitie) (‘(G?)Illis Bekoy, woont b/d Lakenhal’), 1) ondertrouw op 27-07-1640 (getuige Jan Caret zijn oom) met Sara Crauwelaers, van Leyden (getuige Judith Crauwelaers haar zuster), woont Groenhasegraft, (overleden Medemblik 25-09-1655, vermoedelijk aan de pest, mogelijk uit L. meegenomen), 2) ondertrouw op 15-06-1656 (getuige Ezechiel de Tombe zijn oom) met Verronne Wartelle, van bij Rijssel, weduwe van Pierre Sij, woont Oude Singel.  
+Vd    Gillis Pietersz de Bucquoy, van Medenblick, woont Vrouwencamp, bij 2e huwelijk Kijffhoek, wolkammer, mogelijk begraven 13/19-04-1664[†](#notitie) (‘(G?)Illis Bekoy, woont b/d Lakenhal’), 1) ondertrouw op 27-07-1640 (getuige Jan Caret zijn oom) met Sara Crauwelaers, van Leyden (getuige Judith Crauwelaers haar zuster), woont Groenhasegraft, (overleden in Medemblik op 25-09-1655, vermoedelijk aan de pest, mogelijk uit L. meegenomen), 2) ondertrouw op 15-06-1656 (getuige Ezechiel de Tombe zijn oom) met Verronne Wartelle, van bij Rijssel, weduwe van Pierre Sij, woont Oude Singel.  
 
 Uit dit huwelijk:  
 1. Willemtgen, gedoopt op 24-07-1641, getuige Pieter Debucquoy, Jacob Krouwelaer, Willemtgen Dirckx en Judith Carette. Willemtgen overleed vermoedelijk (‘dochter van Gillis Bekoy, woont Kijfhoek’) op 20-09-1655 in Medemblik, vermoedelijk aan de pest, mogelijk uit L. meegenomen.  
@@ -378,53 +378,53 @@ Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel i
 
 Uit dit huwelijk:  
 1. Leendert, gedoopt op 14-10-1737, volgt [VIIIa](#viiia-leendert-bekooy).  
-2. Katharina Buquooy, gedoopt op 31-08-1738, overleden 26-01-1821, ondertrouw op 29-04-1768 met Johannes Taayspel, gedoopt op 21-11-1745, rokjeswerker, overleden 27-12-1829, zoon van Daniël Taayspel en Margareta van Riet.  
+2. Katharina Buquooy, gedoopt op 31-08-1738, overleden op 26-01-1821, ondertrouw op 29-04-1768 met Johannes Taayspel, gedoopt op 21-11-1745, rokjeswerker, overleden op 27-12-1829, zoon van Daniël Taayspel en Margareta van Riet.  
 3. Abraham, gedoopt op 22-04-1742, begraven 18/25-04-1744[†](#notitie).  
 4. Jan, gedoopt op 21-04-1745, begraven 16/23-02-1754[†](#notitie).  
 
 ### VIIb. Abraham Buckooy
-VIIb    Abraham Buckooy, gedoopt op 29-09-1711, metselaarsknecht, woont Zijtgragt, overleden Banda 11-06-1759, ondertrouw op 23-04-1734 met Catharina Hartogh, gedoopt op 08-06-1710, begraven 07/14-03-1778[†](#notitie), dochter van Johannes Hertige en Lysbeth Tijke.  
+VIIb    Abraham Buckooy, gedoopt op 29-09-1711, metselaarsknecht, woont Zijtgragt, overleden op [Banda](https://nl.wikipedia.org/wiki/VOC-verovering_van_de_Banda-eilanden) op 11-06-1759, ondertrouw op 23-04-1734 met Catharina Hartogh, gedoopt op 08-06-1710, begraven 07/14-03-1778[†](#notitie), dochter van Johannes Hertige en Lysbeth Tijke.  
 
 Uit dit huwelijk:  
 1. Anna Buckooy, gedoopt op 17-02-1735, begraven 07/14-07-1804[†](#notitie), 1) ondertrouw op 28-04-1752 met Johannes Mugge, gedoopt op 08-11-1730, straatmakersknecht, vermoedelijk begraven 03/10-07-1784[†](#notitie), zoon van Hermannus Mugge en Jannetje van Hoecken, 2) ondertrouw op 20-03-1778 met Bart Gonsaal, gedoopt op 12-03-1724, begraven 16/23-07-1791[†](#notitie), weduwnaar van Suzanne van Barte, zoon van Bartholomeus Gansal en Grietje de Broeder.  
-2. Elisabeth Buqooy, gedoopt op 17-03-1737, overleden 09-01-1815, ondertrouw op 18-03-1768 met Hendrik Mulhovius, gedoopt op 19-09-1734, greinwerker, begraven 05/12-10-1799[†](#notitie), zoon van Pieter Mulhovius en Maria Veering.  
+2. Elisabeth Buqooy, gedoopt op 17-03-1737, overleden op 09-01-1815, ondertrouw op 18-03-1768 met Hendrik Mulhovius, gedoopt op 19-09-1734, greinwerker, begraven 05/12-10-1799[†](#notitie), zoon van Pieter Mulhovius en Maria Veering.  
 3. Isaac, gedoopt op 13-09-1739 volgt [VIIIb](#viiib-isaac-bekooy).  
-4. Catharina Bucquoy, gedoopt op 03-06-1742, overleden 19-04-1813, begraven 23-04-1813, 1) ondertrouw op 16-12-1763 met Claas Boom, gedoopt op 14-12-1729, wolkammersknecht, begraven 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, 2) ondertrouw op 15-05-1772 met Abraham van Putten, gedoopt op 02-02-1744, warmoeziersknecht, begraven 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, 3) ondertrouw op 28-08-1807, tr. op 12-09-1807 met Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
+4. Catharina Bucquoy, gedoopt op 03-06-1742, overleden op 19-04-1813, begraven 23-04-1813, 1) ondertrouw op 16-12-1763 met Claas Boom, gedoopt op 14-12-1729, wolkammersknecht, begraven 18/25-08-1770[†](#notitie), zoon van Abraham Boom en Magdalena Tijken, 2) ondertrouw op 15-05-1772 met Abraham van Putten, gedoopt op 02-02-1744, warmoeziersknecht, begraven 03/10-08-1805[†](#notitie), zoon van Johannes van der Putten en Jannetje van den Dop, 3) ondertrouw op 28-08-1807, tr. op 12-09-1807 met Jan van Leeuwen, leeft nog 19-04-1813, weduwnaar van Styntje van Engelen.  
 5. Geertruy Bekooy, gedoopt op 30-12-1744, begraven 10/17-10-1778[†](#notitie), ondertrouw op 04-06-1773 met Willem Kloek, gedoopt op 04-11-1751, mandemakersknecht, overleden na 1811 (niet gevonden), zoon van Pieter Kloek en Marytje Malie (= Mahieu).  
 6. Johannes, gedoopt op 14-06-1747.  
 7. Abram, gedoopt op 30-11-1749, volgt [VIIIc](#viiic-abraham-bekooy).  
 
-Abraham Bekooy is in 1756 met het schip ‘Slooten’ naar Indië gegaan en op 11 juni 1759 op Banda overleden (14).  
+Abraham Bekooy is in 1756 met het schip ‘Slooten’ naar Indië gegaan en op 11 juni 1759 op [Banda](https://nl.wikipedia.org/wiki/VOC-verovering_van_de_Banda-eilanden) overleden (14).  
 
 ### VIIIa. Leendert Bekooy
-VIIIa    Leendert Bekooy, gedoopt op 14-10-1737, molenaarsknecht, overleden 14-04-1822, ondertrouw op 07-05-1762 met Francyntje van Leeuwen, overleden 12-02-1811, begraven 14-02-1811, waarschijnlijk gedoopt op 15-05-1735 als dochter van Aart Jansz van Leeuwen en Trijntje Willems.  
+VIIIa    Leendert Bekooy, gedoopt op 14-10-1737, molenaarsknecht, overleden op 14-04-1822, ondertrouw op 07-05-1762 met Francyntje van Leeuwen, overleden op 12-02-1811, begraven 14-02-1811, waarschijnlijk gedoopt op 15-05-1735 als dochter van Aart Jansz van Leeuwen en Trijntje Willems.  
 
 Uit dit huwelijk:  
 1. Jezyntje, gedoopt op 22-03-1763, begraven 19/26-12-1767[†](#notitie).  
-2. Maria Catharina Bekooy, gedoopt op 27-06-1766, ongehuwd overleden 02-10-1829.  
-3. Alida Bekooy, gedoopt op 10-01-1770, overleden Leiderdorp 24-05-1830, 1) ondertrouw op 14-04-1791 met Pieter van Klaveren, gedoopt op 05-10-1768, melkverkoper, overleden Leiderdorp 11-08-1816, zoon van Willem van Klavere en Marytie van der Plas, 2) tr. in Leiderdorp op 22-03-1818 met Ary Poot, in Maasland op 19-11-1786, jagersbaas, overleden Leiderdorp 13-09-1831, zoon van Jan Poot en Neltje van der Waal.  
+2. Maria Catharina Bekooy, gedoopt op 27-06-1766, ongehuwd overleden op 02-10-1829.  
+3. Alida Bekooy, gedoopt op 10-01-1770, overleden in Leiderdorp op 24-05-1830, 1) ondertrouw op 14-04-1791 met Pieter van Klaveren, gedoopt op 05-10-1768, melkverkoper, overleden in Leiderdorp op 11-08-1816, zoon van Willem van Klavere en Marytie van der Plas, 2) tr. in Leiderdorp op 22-03-1818 met Ary Poot, in Maasland op 19-11-1786, jagersbaas, overleden in Leiderdorp op 13-09-1831, zoon van Jan Poot en Neltje van der Waal.  
 4. Joannes, gedoopt op 20-12-1772, volgt [IXa](#ixa-johannes-bekooy).  
 
 ### VIIIb. Isaac Bekooy
-VIIIb    Isaac Bekooy, gedoopt in Leiden op 13-09-1739, metselaarsknecht, overleden na 01-1808, zoon van Abram Bekooy en Catharina Hartog, ondertrouw op 24-08-1764 met Geertruy Maas, gedoopt op 03-08-1738, overleden 13-01-1808, begraven 16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
+VIIIb    Isaac Bekooy, gedoopt in Leiden op 13-09-1739, metselaarsknecht, overleden na 01-1808, zoon van Abram Bekooy en Catharina Hartog, ondertrouw op 24-08-1764 met Geertruy Maas, gedoopt op 03-08-1738, overleden op 13-01-1808, begraven 16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
 
 Uit dit huwelijk:  
 1. Ongedoopt kind, geboren op 23-03-1765, begraven 30-03-1765.  
 2. Catharina Bucquoy, gedoopt op 19-03-1766, begraven 16/23-10-1773[†](#notitie).  
-3. Immetje Bekooy, geboren in 1768, dubbelaarster, overleden 03-04-1851, ondertrouw op 28-09-1792 (getuige haar moeder Geertruy Maas) met Frans van der Kaay, gedoopt op 22-12-1771, baaijwerker, overleden 18-03-1810, zoon van Lucas van der Kaay en Dirkje Romeyn.  
+3. Immetje Bekooy, geboren in 1768, dubbelaarster, overleden op 03-04-1851, ondertrouw op 28-09-1792 (getuige haar moeder Geertruy Maas) met Frans van der Kaay, gedoopt op 22-12-1771, baaijwerker, overleden op 18-03-1810, zoon van Lucas van der Kaay en Dirkje Romeyn.  
 Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, weduwe van Frans van der Kaay, overleed op 03-04-1851 (in de 10-jarentafel: Susannetje; de akte leest duidelijk Immetje) op 83-jarige leeftijd als dochter van Isaac Bekooy en Jannetje Romijn (??). Immetje Bekooy en Frans van der Kaay worden ook genoemd bij het huwelijk van hun dochter Hendrina in Rotterdam. Op 28-09-1792 werd (RAL, KOT YY 115) de ondertrouw geregistreerd tussen Jannetje (!) Bekooy en Frans van der Kaay.  
 1. Abram, gedoopt op 21-06-1769, begraven 09/16-10-1773[†](#notitie).  
 2. Johanna Bekooy, gedoopt op 22-09-1771, begraven 14/21-12-1771[†](#notitie).  
 3. Arnoldus, gedoopt op 22-11-1772.  
 
 ### VIIIc. Abraham Bekooy
-VIIIc    Abraham Bekooy, gedoopt op 30-11-1749, metselaarsknecht, overleden 04-02-1815, ondertrouw op 22-04-1774 met Anna Mulhovius, gedoopt op 18-12-1748, overleden 06-03-1818, dochter van Pieter Mulhovius en Maria Schrijver (Veering ??).  
+VIIIc    Abraham Bekooy, gedoopt op 30-11-1749, metselaarsknecht, overleden op 04-02-1815, ondertrouw op 22-04-1774 met Anna Mulhovius, gedoopt op 18-12-1748, overleden op 06-03-1818, dochter van Pieter Mulhovius en Maria Schrijver (Veering ??).  
 
 Uit dit huwelijk:  
-1. Catharina Bekooy, gedoopt op 12-03-1775, overleden 06-01-1841, ondertrouw op 12-08-1796 met Jacobus van Dissel, lakenwerker, mogelijk gedoopt op 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overleden 10-09-1814.  
+1. Catharina Bekooy, gedoopt op 12-03-1775, overleden op 06-01-1841, ondertrouw op 12-08-1796 met Jacobus van Dissel, lakenwerker, mogelijk gedoopt op 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overleden op 10-09-1814.  
 2. Pieter, gedoopt op 27-11-1776, begraven 27-12-1777/03-01-1778[†](#notitie).  
-3. Levenloos kind, geboren/overleden 01-05-1779, begraven 08-05-1779.  
-4. Johanna Bekooy, gedoopt op 27-09-1780, overleden, ondertrouw op 02-06-1809, tr. op 17-06-1809 met Abraham Holswilder, gedoopt op 28-08-1782, warmoezier, overleden 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
+3. Levenloos kind, geboren/overleden op 01-05-1779, begraven 08-05-1779.  
+4. Johanna Bekooy, gedoopt op 27-09-1780, overleden, ondertrouw op 02-06-1809, tr. op 17-06-1809 met Abraham Holswilder, gedoopt op 28-08-1782, warmoezier, overleden op 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
 5. Leonardus Gerard, gedoopt op 23-07-1782, volgt [IXb](#ixb-leonardus-gerard-bekooy).  
 6. Abraham, gedoopt op 23-07-1782.  
 7. Maria, gedoopt op 01-09-1784, begraven 23/30-10-1784[†](#notitie).  
@@ -433,129 +433,129 @@ Uit dit huwelijk:
 10. Hendrik, gedoopt op 08-07-1792, volgt [IXe](#ixe-hendrik-bekooy).  
 
 ### IXa. Johannes Bekooy
-IXa    Johannes Bekooy, gedoopt op 20-12-1772, letterzettersknecht, overleden 15-01-1843, 1) ondertrouw op 01-05-1795 met Jannetje Genon, gedoopt op 20-09-1764, overleden Leiden 07-03-1825, buitenechtelijke dochter van Jan Genon en Grietje de Vink, 2) tr. in Zoeterwoude op 08-03-1830 met Anna Elisabeth Schröders, geboren en/of RK gedoopt in Roermond op 16-05-1770, overleden 14-11-1853, weduwe van D. Saris, dochter van Matthias Schroëders en Maria Josepha Sagers.  
+IXa    Johannes Bekooy, gedoopt op 20-12-1772, letterzettersknecht, overleden op 15-01-1843, 1) ondertrouw op 01-05-1795 met Jannetje Genon, gedoopt op 20-09-1764, overleden in Leiden op 07-03-1825, buitenechtelijke dochter van Jan Genon en Grietje de Vink, 2) tr. in Zoeterwoude op 08-03-1830 met Anna Elisabeth Schröders, geboren en/of RK gedoopt in Roermond op 16-05-1770, overleden op 14-11-1853, weduwe van D. Saris, dochter van Matthias Schroëders en Maria Josepha Sagers.  
 
 Uit het eerste huwelijk:
 
 1. Johannes, gedoopt op 29-05-1796, volgt [Xa](#xa-johannes-bekooy).  
-2. Helena Margareta Bekooy, gedoopt op 01-04-1801, ongehuwd overleden 20-08-1885.  
+2. Helena Margareta Bekooy, gedoopt op 01-04-1801, ongehuwd overleden op 20-08-1885.  
   ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader  
-    - Johannes, 67 jaar: Johannes, geboren in nov./dec. 1839, overleden 09-05-1840  
+    - Johannes, 67 jaar: Johannes, geboren in nov./dec. 1839, overleden op 09-05-1840  
 
-Uit een relatie met Susanna Kloots (gedoopt op 18-09-1767, overleden 31-08-1828, weduwe van Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
+Uit een relatie met Susanna Kloots (gedoopt op 18-09-1767, overleden op 31-08-1828, weduwe van Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
 
 1. Johannes Antonie, ‘onecht’, gedoopt op 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy).  
 
-N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, gedoopt op 13-12-1770, overleden Leiden, begraven Oegstgeest 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
+N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, gedoopt op 13-12-1770, overleden in Leiden, begraven Oegstgeest 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
 
 ### IXb. Leonardus Gerard Bekooy
-IXb    Leonardus Gerard Bekooy, gedoopt op 23-07-1782, kleermakersknecht, overleden 05-01-1858, woont Spekhof, 1) ondertrouw op 18-08-1810, tr. op 05-09-1810 met Johanna van Meeteren, gedoopt op 30-08-1769, overleden 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) tr. op 30-10-1833 met Francina van der Blom, gedoopt op 09-08-1792, overleden 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
+IXb    Leonardus Gerard Bekooy, gedoopt op 23-07-1782, kleermakersknecht, overleden op 05-01-1858, woont Spekhof, 1) ondertrouw op 18-08-1810, tr. op 05-09-1810 met Johanna van Meeteren, gedoopt op 30-08-1769, overleden op 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) tr. op 30-10-1833 met Francina van der Blom, gedoopt op 09-08-1792, overleden op 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
 
 Uit het tweede huwelijk:  
 
-1. Johanna Bekooy, geboren op 17-01-1835, overleden 10-04-1914, tr. met Marinus Jacobus Lafeber.  
+1. Johanna Bekooy, geboren op 17-01-1835, overleden op 10-04-1914, tr. met Marinus Jacobus Lafeber.  
 
 ### IXc. Abraham Bekooy
-IXc    Abraham Bekooy, gedoopt op 25-07-1787, mandenmaker, overleden 16-03-1864, tr. op 01-08-1816 met Maartje Engelbrecht, gedoopt op 18-12-1785, overleden 27-12-1851, dochter van Jacob Engelbregt en Johanna Verdonk.  
+IXc    Abraham Bekooy, gedoopt op 25-07-1787, mandenmaker, overleden op 16-03-1864, tr. op 01-08-1816 met Maartje Engelbrecht, gedoopt op 18-12-1785, overleden op 27-12-1851, dochter van Jacob Engelbregt en Johanna Verdonk.  
 
 Uit dit huwelijk:  
 1. Abraham, geboren op 12-07-1817, volgt [Xd](#xd-abraham-bekooy).  
-2. Jacob Johannes, geboren op 14-06-1820, overleden 14-12-1832.  
-3. Johanna Jacoba Bekooy, geboren op 20-03-1823, ongehuwd overleden 20-04-1890.  
-4. Leonardus Gerard Johan Bekooy, geboren op 06-02-1826, mandenmaker, ongehuwd overleden 25-02-1884.  
+2. Jacob Johannes, geboren op 14-06-1820, overleden op 14-12-1832.  
+3. Johanna Jacoba Bekooy, geboren op 20-03-1823, ongehuwd overleden op 20-04-1890.  
+4. Leonardus Gerard Johan Bekooy, geboren op 06-02-1826, mandenmaker, ongehuwd overleden op 25-02-1884.  
 
 ### IXd. Pieter Bekooy
-IXd    Pieter Bekooy, gedoopt op 27-09-1789, timmerman, overleden 10-09-1866, tr. op 20-02-1817 met Catharina Midderhof, gedoopt op 06-02-1785, overleden 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise.  
+IXd    Pieter Bekooy, gedoopt op 27-09-1789, timmerman, overleden op 10-09-1866, tr. op 20-02-1817 met Catharina Midderhof, gedoopt op 06-02-1785, overleden op 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise.  
 
 Uit dit huwelijk:  
-1. Abraham, geboren op 21-06-1817, overleden 27-10-1835.  
-2. Catharina, geboren op 09-03-1821, overleden 23-12-1821.  
+1. Abraham, geboren op 21-06-1817, overleden op 27-10-1835.  
+2. Catharina, geboren op 09-03-1821, overleden op 23-12-1821.  
 3. Pieter, geboren op 08-07-1823, volgt [Xc](#xc-pieter-bekooy).  
-4. Johanna Catharina, geboren op 16-01-1825, overleden 15-12-1835.  
+4. Johanna Catharina, geboren op 16-01-1825, overleden op 15-12-1835.  
   
 ### IXe. Hendrik Bekooy
-IXe    Hendrik Bekooy, gedoopt op 08-07-1792, metselaar, overleden 17-04-1874, tr. op 28-10-1812 met Geertruy Johanna de Nobel, gedoopt op 23-10-1791, overleden 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
+IXe    Hendrik Bekooy, gedoopt op 08-07-1792, metselaar, overleden op 17-04-1874, tr. op 28-10-1812 met Geertruy Johanna de Nobel, gedoopt op 23-10-1791, overleden op 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
 
 Uit dit huwelijk:  
-1. Abraham Bekooy, geboren op 08-01-1813, overleden 04-02-1893.  
-2. Catharina Maria Bekooy, geboren op 18-07-1815, ongehuwd overleden 30-01-1874.  
-3. Hendrika Geertruida Bekooy, geboren op 21-12-1816, dienstbode, overleden Den Haag 22-05-1891, tr. op 08-08-1849 met Abraham Wassenburg, geboren op 06-07-1819, schoenmaker, overleden Veenhuizen (gem. Norg) 09-02-1859, zoon van Aron Wassenburg en Susanna Anneeze. Het paar verhuist met attestatie op 01-10-1854 naar Veenhuizen.  
-4. Isaac, geboren op 30-07-1819, overleden 20-11-1821.  
-5. Sara Bekooy, geboren op 28-09-1822, ongehuwd overleden 24-09-1908.  
-6. Geertruida Johanna Bekooy, geboren op 25-05-1824, overleden 05-10-1899.  
+1. Abraham Bekooy, geboren op 08-01-1813, overleden op 04-02-1893.  
+2. Catharina Maria Bekooy, geboren op 18-07-1815, ongehuwd overleden op 30-01-1874.  
+3. Hendrika Geertruida Bekooy, geboren op 21-12-1816, dienstbode, overleden in Den Haag op 22-05-1891, tr. op 08-08-1849 met Abraham Wassenburg, geboren op 06-07-1819, schoenmaker, overleden in Veenhuizen (gem. Norg) op 09-02-1859, zoon van Aron Wassenburg en Susanna Anneeze. Het paar verhuist met attestatie op 01-10-1854 naar Veenhuizen.  
+4. Isaac, geboren op 30-07-1819, overleden op 20-11-1821.  
+5. Sara Bekooy, geboren op 28-09-1822, ongehuwd overleden op 24-09-1908.  
+6. Geertruida Johanna Bekooy, geboren op 25-05-1824, overleden op 05-10-1899.  
 7. Isaac, geboren op 02-04-1826.  
 
 ### Xa. Johannes Bekooy
-Xa    Johannes Bekooij, gedoopt op 29-05-1796, daggelder, overleden 21-11-1879, tr. op 07-06-1832 met Margaretha van Tongeren, geboren/gedoopt op 18-02-1808, overleden tot 1940 niet in Leiden gevonden, dochter van Jacobus van Tongere en Sijtje de Gunst.  
+Xa    Johannes Bekooij, gedoopt op 29-05-1796, daggelder, overleden op 21-11-1879, tr. op 07-06-1832 met Margaretha van Tongeren, geboren/gedoopt op 18-02-1808, overleden tot 1940 niet in Leiden gevonden, dochter van Jacobus van Tongere en Sijtje de Gunst.  
 
 Uit dit huwelijk:  
-1. Johannes, geboren op 18-06-1836, overleden 18-01-1837.  
-2. Sijtje Bekooy, geboren op 30-04-1838, overleden 24-12-1913, tr. op 23-12-1874 met Izaak Cornet, geboren op 09-03-1843, sjouwer, overleden 10-08-1914, zoon van Izaak Theodorus en Catharina Frankhuizen.  
-    - Natuurlijke dochter: Elisabeth, geboren op 21-05-1867, overleden 10-02-1868.  
+1. Johannes, geboren op 18-06-1836, overleden op 18-01-1837.  
+2. Sijtje Bekooy, geboren op 30-04-1838, overleden op 24-12-1913, tr. op 23-12-1874 met Izaak Cornet, geboren op 09-03-1843, sjouwer, overleden op 10-08-1914, zoon van Izaak Theodorus en Catharina Frankhuizen.  
+    - Natuurlijke dochter: Elisabeth, geboren op 21-05-1867, overleden op 10-02-1868.  
 3. Jacobus, geboren op 18-01-1841, volgt [XIa](#xia-jacobus-bekooy).  
-4. Johanna Bekooy, geboren op 02-12-1843, overleden 06-03-1931, tr. op 08-05-1863 met Gerrit de Boer, arbeider, geboren op 22-01-1837, overleden 25-04-1899, zoon van Johannes en Pieternella Jacoba Hanselaar.  
-5. Maria, geboren op 19-12-1848, overleden 23-08-1852.  
+4. Johanna Bekooy, geboren op 02-12-1843, overleden op 06-03-1931, tr. op 08-05-1863 met Gerrit de Boer, arbeider, geboren op 22-01-1837, overleden op 25-04-1899, zoon van Johannes en Pieternella Jacoba Hanselaar.  
+5. Maria, geboren op 19-12-1848, overleden op 23-08-1852.  
 
 ### Xb. Johannes Antonie Bekooy
-Xb    Johannes Antonie Bekooy, gedoopt op 07-10-1804, wijnkopersknecht, overleden 13-05-1846, tr. op 19-11-1829 met Grietje Kooij, gedoopt in De Meern op 30-03-1808, dienstbode, overleden 24-03-1870, dochter van Maarten Kooy en Catharina Coomans.  
+Xb    Johannes Antonie Bekooy, gedoopt op 07-10-1804, wijnkopersknecht, overleden op 13-05-1846, tr. op 19-11-1829 met Grietje Kooij, gedoopt in De Meern op 30-03-1808, dienstbode, overleden op 24-03-1870, dochter van Maarten Kooy en Catharina Coomans.  
 
 Uit dit huwelijk:  
-1. Johannes Antonie Bekooy, geboren op 10-07-1830, schrijnwerker, overleden 09-08-1892, tr. op 26-07-1865 met Helena van der Geer, geboren op 01-12-1828, overleden 27-08-1898, gescheiden echtgenote van Piet de Raad, dochter van Richard van der Geer en Helena Florijn.  
-2. Catharina, geboren op 27-05-1832, overleden 05-09-1833.  
-3. Susanna, geboren op 17-05-1834, overleden 13-02-1837.  
-4. Martinus, geboren op 02-12-1836, overleden 03-02-1837.  
+1. Johannes Antonie Bekooy, geboren op 10-07-1830, schrijnwerker, overleden op 09-08-1892, tr. op 26-07-1865 met Helena van der Geer, geboren op 01-12-1828, overleden op 27-08-1898, gescheiden echtgenote van Piet de Raad, dochter van Richard van der Geer en Helena Florijn.  
+2. Catharina, geboren op 27-05-1832, overleden op 05-09-1833.  
+3. Susanna, geboren op 17-05-1834, overleden op 13-02-1837.  
+4. Martinus, geboren op 02-12-1836, overleden op 03-02-1837.  
 5. Bartholomeus, geboren op 18-05-1838, volgt [XIb](#xib-bartholomeus-bekooy).  
-6. Maria Catharina Bekooy, geboren op 30-04-1841, dienstbode, overleden 10-02-1892, tr. op 20-05-1874 met Dirk Groeneveld, geboren op 25-06-1849, tabakskerver, overleden niet gevonden (na zijn vrouw), zoon van Bartholomeus Stephanus Groeneveld en Geertrui Vrij.  
+6. Maria Catharina Bekooy, geboren op 30-04-1841, dienstbode, overleden op 10-02-1892, tr. op 20-05-1874 met Dirk Groeneveld, geboren op 25-06-1849, tabakskerver, overleden niet gevonden (na zijn vrouw), zoon van Bartholomeus Stephanus Groeneveld en Geertrui Vrij.  
 7. Jannetje Gijsje Bekooy, geboren op 20-04-1845, dienstbode, overleden, tr. op 27-11-1872 met met Fredrik Richard, geboren op 07-12-1850, stoker, overleden, zoon van Hendrik en Francina van der Zeeuw.  
 Het overlijden van Jannetje Gijsje Bekooy en Fredrik Richard is tot 1950 niet in Leiden gevonden.  
-    - Natuurlijke zoon: Johannes Anthonie, geboren op 21-01-1870, overleden 14-04-1871.  
+    - Natuurlijke zoon: Johannes Anthonie, geboren op 21-01-1870, overleden op 14-04-1871.  
 
 ### Xc. Pieter Bekooy
-Xc    Pieter Bekooy, geboren op 08-07-1823, overleden 19-11-1893, smid, tr. op 02-09-1857 met Jacoba Petronella de Cler, geboren op 27-02-1828, overleden 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
+Xc    Pieter Bekooy, geboren op 08-07-1823, overleden op 19-11-1893, smid, tr. op 02-09-1857 met Jacoba Petronella de Cler, geboren op 27-02-1828, overleden op 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
 
 Uit dit huwelijk:  
-1. Catharina Bekooy, geboren op 03-08-1858, ongehuwd overleden 16-02-1947.  
-2. Wijntje Bekooy, geboren op 07-02-1862, ongehuwd overleden 03-04-1940.  
+1. Catharina Bekooy, geboren op 03-08-1858, ongehuwd overleden op 16-02-1947.  
+2. Wijntje Bekooy, geboren op 07-02-1862, ongehuwd overleden op 03-04-1940.  
 3. Pieter Albertus, geboren op 31-05-1864, volgt [XIc](#xic-pieter-albertus-bekooy).  
-4. Jacoba Petronella, geboren op 10-03-1866, overleden 01-04-1866.  
-5. Jacobus, geboren op 09-11-1867, overleden 28-03-1870.  
-6. Jacoba Petronella Bekooy, geboren op 02-03-1871, ongehuwd overleden 26-08-1937.  
+4. Jacoba Petronella, geboren op 10-03-1866, overleden op 01-04-1866.  
+5. Jacobus, geboren op 09-11-1867, overleden op 28-03-1870.  
+6. Jacoba Petronella Bekooy, geboren op 02-03-1871, ongehuwd overleden op 26-08-1937.  
 
 ### Xd. Abraham Bekooy
-Xd    Abraham Bekooy, geboren op 12-07-1817, timmerman, overleden 21-06-1849, tr. op 24-11-1842 met Elisabeth de Bink, geboren op 22-11-1820, overleden Rotterdam 23-11-1904, dochter van Johannes Bink en Jansje van Leeuwen.  
+Xd    Abraham Bekooy, geboren op 12-07-1817, timmerman, overleden op 21-06-1849, tr. op 24-11-1842 met Elisabeth de Bink, geboren op 22-11-1820, overleden in Rotterdam op 23-11-1904, dochter van Johannes Bink en Jansje van Leeuwen.  
 
 Uit dit huwelijk:  
-1. Maartje, geboren op 03-04-1843, overleden Rotterdam 10-02-1893  
+1. Maartje, geboren op 03-04-1843, overleden in Rotterdam op 10-02-1893  
 2. Jannetje, geboren op 04-05-1845  
 3. Abraham Johannes, geboren op 21-12-1846  
-4. Johannes Nicolaas Bekooy, geboren op 09-09-1848, zeeman, overleden Vlaardingen 27-09-1886, ondertrouw op 24-06-1871 met Klazina Katharina van der Valk, 29 jaar, dochter van Jacob van der Valk en Johanna de Ronde. Uit dit huwelijk zijn in Vlaardingen kinderen geboren.  
+4. Johannes Nicolaas Bekooy, geboren op 09-09-1848, zeeman, overleden in Vlaardingen op 27-09-1886, ondertrouw op 24-06-1871 met Klazina Katharina van der Valk, 29 jaar, dochter van Jacob van der Valk en Johanna de Ronde. Uit dit huwelijk zijn in Vlaardingen kinderen geboren.  
 
 ### XIa. Jacobus Bekooy
-XIa    Jacobus Bekooy, geboren op 18-01-1841, sigarenmaker, overleden 15-10-1928, 1) tr. op 27-01-1864 met Elisabeth van der Reijden, geboren op 27-05-1839, overleden 19-06-1872, dochter van Johannes van der Reijden en Elisabeth Bink, 2) tr. op 30-04-1873 met Maria van Duuren, geboren op 04-09-1834, overleden 09-05-1910,  weduwe van Hendrik Kanbier, dochter van Adrianus van Duuren en Maria van Tongeren.  
+XIa    Jacobus Bekooy, geboren op 18-01-1841, sigarenmaker, overleden op 15-10-1928, 1) tr. op 27-01-1864 met Elisabeth van der Reijden, geboren op 27-05-1839, overleden op 19-06-1872, dochter van Johannes van der Reijden en Elisabeth Bink, 2) tr. op 30-04-1873 met Maria van Duuren, geboren op 04-09-1834, overleden op 09-05-1910,  weduwe van Hendrik Kanbier, dochter van Adrianus van Duuren en Maria van Tongeren.  
 
 Uit het eerste huwelijk:  
 
-1. Margaretha Bekooy, geboren op 05-02-1864, overleden 05-03-1920, tr. op 22-08-1888 met Pieter Jacobus Vervark, geboren op 01-05-1864, timmerman, overleden 18-04-1902, zoon van Pieter Jacobus en Cornelia van Leeuwen.  
-2. Johannes, geboren op 23-12-1866, overleden 19-05-1870.  
+1. Margaretha Bekooy, geboren op 05-02-1864, overleden op 05-03-1920, tr. op 22-08-1888 met Pieter Jacobus Vervark, geboren op 01-05-1864, timmerman, overleden op 18-04-1902, zoon van Pieter Jacobus en Cornelia van Leeuwen.  
+2. Johannes, geboren op 23-12-1866, overleden op 19-05-1870.  
 3. Jacobus, geboren op 22-12-1869, volgt [XIIa](#xiia-jacobus-bekooy).  
-4. Elisabeth, geboren op 19-06-1872, overleden 09-09-1872.  
+4. Elisabeth, geboren op 19-06-1872, overleden op 09-09-1872.  
 
 Uit het tweede huwelijk:  
 
 5. Maria Bekooy, geboren op 02-05-1873, overleden, tr. op 28-09-1894 met Willem Frederik Sommeling, geboren in Geertruidenberg, 23, overleden, bierbottelaar, zoon van Jacob Hendrik en Geertruida Adriana van der Velden.  
 6. Johannes, geboren op 19-10-1875, volgt [XIIb](#xiib-johannes-bekooy).  
 7. Jurrianus, geboren op 14-11-1878.  
-8. Pieter, geboren op 15-09-1881, overleden 06-08-1882.  
+8. Pieter, geboren op 15-09-1881, overleden op 06-08-1882.  
 
 ### XIb. Bartholomeus Bekooy
-XIb    Bartholomeus Bekooy, geboren op 18-05-1838, overleden 11-09-1902, tr. op 21-08-1867 met Maria Elisabeth le Febere, naaister, geboren op 11-06-1834, overleden 03-09-1911, dochter van Theodorus Christiaan la Febere en Maria Pieket.  
+XIb    Bartholomeus Bekooy, geboren op 18-05-1838, overleden op 11-09-1902, tr. op 21-08-1867 met Maria Elisabeth le Febere, naaister, geboren op 11-06-1834, overleden op 03-09-1911, dochter van Theodorus Christiaan la Febere en Maria Pieket.  
 
 Uit dit huwelijk:  
-1. Maria Margaretha Bekooy, geboren op 23-06-1867 (bij huwelijk erkend), overleden 17-05-1935, tr. op 09-05-1900 met Johannes Gijsenij, geboren op 27-12-1866, huisschilder, zoon van Andries Gijsenij en Maria Cinjee.  
-2. Helena Bekooy, geboren op 07-02-1869, dienstbode, overleden 25-12-1934, tr. op 13-11-1889 met Karel Jacobus Philippus Boon, geboren op 23-12-1868, metselaar, overleden 30-12-1917, zoon van Jan Boon en Johanna Hendrica Cinjee.  
-3. Johanna Gijsberta Jannetje, geboren op 23-08-1871, overleden 23-12-1876.  
-4. Catharina Wilhelmina Bekooy, geboren op 23-03-1873, overleden 21-03-1948, 1) tr. op 08-08-1894 met Jan Dirk Hoogervorst, geboren in Zoeterwoude op 09-08-1870, kuiper, overleden 28-06-1896, zoon van Arie Hoogervorst en Neeltje van Elk, 2) tr. op 26-04-1899 met Izaak van de Nadort, geboren in Strijen op 29-01-1867, tramconducteur, zoon van Dirk en Maria Andeweg, 3) tr. op 04-07-1910 met Nicolaas van Leeuwen, overleden niet gevonden.  
-5. Johannes Antonius, geboren op 30-06-1875, overleden 07-03-1876.  
+1. Maria Margaretha Bekooy, geboren op 23-06-1867 (bij huwelijk erkend), overleden op 17-05-1935, tr. op 09-05-1900 met Johannes Gijsenij, geboren op 27-12-1866, huisschilder, zoon van Andries Gijsenij en Maria Cinjee.  
+2. Helena Bekooy, geboren op 07-02-1869, dienstbode, overleden op 25-12-1934, tr. op 13-11-1889 met Karel Jacobus Philippus Boon, geboren op 23-12-1868, metselaar, overleden op 30-12-1917, zoon van Jan Boon en Johanna Hendrica Cinjee.  
+3. Johanna Gijsberta Jannetje, geboren op 23-08-1871, overleden op 23-12-1876.  
+4. Catharina Wilhelmina Bekooy, geboren op 23-03-1873, overleden op 21-03-1948, 1) tr. op 08-08-1894 met Jan Dirk Hoogervorst, geboren in Zoeterwoude op 09-08-1870, kuiper, overleden op 28-06-1896, zoon van Arie Hoogervorst en Neeltje van Elk, 2) tr. op 26-04-1899 met Izaak van de Nadort, geboren in Strijen op 29-01-1867, tramconducteur, zoon van Dirk en Maria Andeweg, 3) tr. op 04-07-1910 met Nicolaas van Leeuwen, overleden niet gevonden.  
+5. Johannes Antonius, geboren op 30-06-1875, overleden op 07-03-1876.  
 
 ### XIc. Pieter Albertus Bekooy
 XIc    Pieter Albertus Bekooy, geboren op 31-05-1864, smid, overleden, tr. op 15-05-1895 met Cornelia van Sluys, geboren in Leeuwarden op 14-10-1874, overleden, dochter van Sein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in [GenLias](https://nl.wikipedia.org/wiki/Genlias) (tegenwoordig [WieWasWie](https://www.wiewaswie.nl/)). De Leidse trouwakte geeft ‘Leen’.  
@@ -563,28 +563,28 @@ XIc    Pieter Albertus Bekooy, geboren op 31-05-1864, smid, overleden, tr. op 15
 Uit dit huwelijk:  
 1. Pieter, geboren op 16-05-1896  
 2. Johanna Charlotta, geboren op 20-05-1899  
-3. Helena Wilhelmina, geboren op 30-09-1901, overleden 19-12-1902  
-4. Jacoba Petronella, geboren op 30-09-1901, overleden 20-12-1902  
+3. Helena Wilhelmina, geboren op 30-09-1901, overleden op 19-12-1902  
+4. Jacoba Petronella, geboren op 30-09-1901, overleden op 20-12-1902  
 
 ### XIIa. Jacobus Bekooy
 XIIa    Jacobus Bekooy, geboren op 22-12-1869, metselaar, overleden, tr. op 02-09-1891 met Anna Maria de Koning, geboren op 29-06-1873, dochter van Christiaan de Koning en Maria Petronella van Leeuwen.  
 
 Uit dit huwelijk:  
-1. Maria Petronella, geboren in 1895 (niet gevonden), overleden 20-05-1896.  
+1. Maria Petronella, geboren in 1895 (niet gevonden), overleden op 20-05-1896.  
 2. Jacobus, geboren op 27-04-1897.  
-3. Maria Petronella Bekooy, geboren op 03-05-1900, overleden 18-11-1937, tr. op 25-07-1921 met Abraham Pielanen, geboren op 27-12-1903, zoon van Abraham Pielanen en Maria Elisabeth Meijer.  
+3. Maria Petronella Bekooy, geboren op 03-05-1900, overleden op 18-11-1937, tr. op 25-07-1921 met Abraham Pielanen, geboren op 27-12-1903, zoon van Abraham Pielanen en Maria Elisabeth Meijer.  
 4. Johanna, geboren op 14-09-1901.  
 
 ### XIIb. Johannes Bekooy
-XIIb    Johannes Bekooy, geboren op 19-10-1875, stucadoor, overleden na 29-10-1938, tr. in Rijnsburg op 19-05-1898 met Jeroentje Bouwman, geboren in Rijnsburg op 24-07-1877, overleden Leiden 29-10-1938, dochter van Willem Bouwman en Immetje Star.
+XIIb    Johannes Bekooy, geboren op 19-10-1875, stucadoor, overleden na 29-10-1938, tr. in Rijnsburg op 19-05-1898 met Jeroentje Bouwman, geboren in Rijnsburg op 24-07-1877, overleden in Leiden op 29-10-1938, dochter van Willem Bouwman en Immetje Star.
 
 Uit dit huwelijk:  
 1. Maria, geboren op 13-01-1899.  
 2. Willem, geboren op 01-04-1900.  
 3. Jacobus, geboren op 10-06-1901.  
 4. Johannes, geboren op 21-12-1902.  
-5. Emma, geboren in 1905, overleden 03-12-1942.  
-6. Hendrik, geboren in 1908, overleden 30-07-1943.  
+5. Emma, geboren in 1905, overleden op 03-12-1942.  
+6. Hendrik, geboren in 1908, overleden op 30-07-1943.  
 
 ## B. JEAN (?) DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
 (zie de namen van twee van zijn kleinzoons)  
@@ -689,16 +689,16 @@ Uit dit huwelijk:
 VIa    Warnaar Bekooy, gedoopt op 28-05-1726, greinwerker, begraven 26-12-1789/02-01-1790[†](#notitie), ondertrouw op 10-04-1751 met Dina Nikasie, RK gedoopt op 03-03-1729 (? Op de vermelde doopdatum wordt de naam gegeven als Hendrica; de andere dochters van het ouderpaar heetten Anna en Maria), vermoedelijk overleden tussen 21-11-1783 (laatste getuigenis, bij huwelijk van dochter Johanna) en 07-12-1787 (huwelijk dochter Dina, waarbij zij niet meer aanwezig was), dochter van Gillis (Aegidius) Nicasie en Anna van der Velde. Dina Nikasie komt in enkele doopinschrijvingen van haar kinderen en bij optredens als getuige voor als La(c)kasje, Lakatie, Lackarie.  
 
 Uit dit huwelijk:  
-1. Rachel Bekooy, gedoopt op 15-07-1751, overleden 27-12-1816, 1) ondertrouw op 08-05-1773 met Mattheus Wesselius, gedoopt op 02-02-1749, greindroger, begraven 27-09/04-10-1777[†](#notitie), zoon van Willem Verselis (Wesselius) en Judith Cornilje, 2) ondertrouw op 14-07-1780 met Matthijs Ouderkerk, gedoopt ?, begraven 15/22-05-1802[†](#notitie), weduwnaar van Jannetje van der Star, zoon van Johannes Ouderkerk en ??.  
-2. Levenloos kind, geboren/overleden 14-10-1752, begraven 21-10-1752.  
-3. Johanna Bekooy, gedoopt op 11-12-1753, ondertrouw op 21-11-1783 met Matthijs leeft nog 1814, overleden t/m 1852 niet gevonden, gedoopt op 03-11-1743, overleden 18-12-1814, begraven 23-12-1814, weduwnaar van Alida Vilvoorden, zoon van Hannes Piket en Marytje het Hooft.  
+1. Rachel Bekooy, gedoopt op 15-07-1751, overleden op 27-12-1816, 1) ondertrouw op 08-05-1773 met Mattheus Wesselius, gedoopt op 02-02-1749, greindroger, begraven 27-09/04-10-1777[†](#notitie), zoon van Willem Verselis (Wesselius) en Judith Cornilje, 2) ondertrouw op 14-07-1780 met Matthijs Ouderkerk, gedoopt ?, begraven 15/22-05-1802[†](#notitie), weduwnaar van Jannetje van der Star, zoon van Johannes Ouderkerk en ??.  
+2. Levenloos kind, geboren/overleden op 14-10-1752, begraven 21-10-1752.  
+3. Johanna Bekooy, gedoopt op 11-12-1753, ondertrouw op 21-11-1783 met Matthijs leeft nog 1814, overleden t/m 1852 niet gevonden, gedoopt op 03-11-1743, overleden op 18-12-1814, begraven 23-12-1814, weduwnaar van Alida Vilvoorden, zoon van Hannes Piket en Marytje het Hooft.  
 4. Jacobus, gedoopt op 08-04-1756, volgt [VIIa](#viia-jacobus-boekooy).  
-5. Dina Bekooy, gedoopt op 19-11-1758, overleden 16-07-1843, ondertrouw op 07-12-1787 met Pieter Marka, gedoopt op 18-04-1762, overleden 22-02-1839, weduwnaar van Elisabeth de Nie, zoon van Willem Markaa en Santje Maarschalk.  
+5. Dina Bekooy, gedoopt op 19-11-1758, overleden op 16-07-1843, ondertrouw op 07-12-1787 met Pieter Marka, gedoopt op 18-04-1762, overleden op 22-02-1839, weduwnaar van Elisabeth de Nie, zoon van Willem Markaa en Santje Maarschalk.  
 6. Catharina Bekooy, gedoopt op 17-02-1761, begraven 24/31-01-1795[†](#notitie), ondertrouw op 07-11-1794 met Abraham Marka, gedoopt op 24-07-1774, lakenwerker, zoon van Willem Marka en Suzanna Maarschalk. Abraham Marka hertrouwt (zonder kinderen) 28-11-1795 met Elisbeth Koevee.  
 7. Maria, gedoopt op 12-05-1763, begraven 04/11-06-1763[†](#notitie).  
 8. Warrenaad, gedoopt op 27-05-1764, begraven 16/23-06-1764[†](#notitie).  
 9. Johannes, gedoopt op 03-07-1765, begraven 26-06/03-07-1773[†](#notitie).  
-10. Maria Bekooy, gedoopt op 28-02-1768, overleden 26-07-1851, ondertrouw op 24-11-1797, tr. op 09-12-1797 met Pieter le Leu, gedoopt op 22-06-1758, overleden 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
+10. Maria Bekooy, gedoopt op 28-02-1768, overleden op 26-07-1851, ondertrouw op 24-11-1797, tr. op 09-12-1797 met Pieter le Leu, gedoopt op 22-06-1758, overleden op 20-12-1848, weduwnaar van Cornelia Claris, zoon van David le Leu en Rachel Bernugon.  
 11. Warnaar, gedoopt op 12-03-1772, begraven 03/10-07-1773[†](#notitie).  
 
 ### VIb. Jacob Bekooy
@@ -713,293 +713,293 @@ Uit dit huwelijk:
 \* Ingeschreven bij doop als Rachel. In de marge van het klapperblad in het ‘Leidse boekje’ staat geschreven: ‘zou Anthony moeten zijn’. Gezien diens leeftijd bij overlijden klopt dit. Waar ‘Rachel’ vandaan komt, is onduidelijk. De moeder van de doopvader heette weliswaar Rachel (Tijn), maar die was bij de doop niet aanwezig.  
   
 ### VIIa. Jacobus Boekooy
-VIIa    Jacobus Boekooy, gedoopt op 08-04-1756, dekenwerker, overleden 30-06-1831, woont Waartgragt, ondertrouw op 06-06-1778 met Geertje Kliepee, gedoopt op 05-11-1752, overleden 21-08-1832 (cholera), dr. van Jacobus Kliepee en Aaltje Vermey.  
+VIIa    Jacobus Boekooy, gedoopt op 08-04-1756, dekenwerker, overleden op 30-06-1831, woont Waartgragt, ondertrouw op 06-06-1778 met Geertje Kliepee, gedoopt op 05-11-1752, overleden op 21-08-1832 (cholera), dr. van Jacobus Kliepee en Aaltje Vermey.  
 
 Uit dit huwelijk:  
 1. Dina, gedoopt op 02-04-1779, begraven 15/22-04-1780[†](#notitie).  
 2. Jacobus, gedoopt op 29-10-1780, begraven 22/29-06-1782[†](#notitie).  
 3. Dina, gedoopt op 09-01-1782, begraven 23-02/02-03-1782[†](#notitie).  
 4. Jakobus, gedoopt op 23-07-1783, volgt [VIIIa](#viiia-jacobus-bekooy).  
-5. Warnaart, gedoopt op 30-10-1785, overleden 28-10-1809, begraven 01-11-1809.  
+5. Warnaart, gedoopt op 30-10-1785, overleden op 28-10-1809, begraven 01-11-1809.  
 6. Jan, gedoopt op 27-05-1787, begraven 20/27-03-1790[†](#notitie).  
-7. Alida Dina Bukkoy, gedoopt op 02-07-1789, overleden 23-11-1871, tr. op 07-09-1820 met (Johannes) Willem Laterveer, gedoopt op 14-01-1798, vachtbloter, overleden 09-04-1869, zoon van Johannes Laterveer en Elisabeth Maas.  
+7. Alida Dina Bukkoy, gedoopt op 02-07-1789, overleden op 23-11-1871, tr. op 07-09-1820 met (Johannes) Willem Laterveer, gedoopt op 14-01-1798, vachtbloter, overleden op 09-04-1869, zoon van Johannes Laterveer en Elisabeth Maas.  
 8. Jan, gedoopt op 27-02-1791, volgt [VIIIb](#viiib-jan-boekooy).  
 9. Gerrit, gedoopt op 28-08-1793, volgt [VIIIc](#viiic-gerrit-boekooy).  
 10. Antony, gedoopt op 15-11-1795, volgt [VIIId](#viiid-anthony-boekkoij).  
 
 ### VIIb. Anthony Bekooy
-VIIb    Anthony Bekooy, gedoopt op 08-10-1752, lakenwerker, overleden 19-03-1814, begraven 21-03-1814, ondertrouw op 22-04-1777 met Johanna van Riet, gedoopt op 10-12-1750, overleden 12-12-1808, begraven 16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
+VIIb    Anthony Bekooy, gedoopt op 08-10-1752, lakenwerker, overleden op 19-03-1814, begraven 21-03-1814, ondertrouw op 22-04-1777 met Johanna van Riet, gedoopt op 10-12-1750, overleden op 12-12-1808, begraven 16-12-1808, dr. van Pieter van Riet en Catharina Spierenburg. N.B. Anthony Bekooy is bij zijn doop foutief ingeschreven als Rachel!  
 
 Uit dit huwelijk:  
-1. Kaatje Bekooy, gedoopt op 26-04-1778, spinster, overleden 09-04-1857, 1) ondertrouw op 20-07-1804, tr. (als Caatje Peut) op 02-08-1804 met Jan Overduyn, overleden 24-10-1808, weduwnaar van Anna van der Voorde(n) (ondertrouw op 16-07-1757), 2) tr. op 23-08-1827 met Jacobus Scheffer, Elu gedoopt op 14-07-1756, kleermaker, overleden 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
+1. Kaatje Bekooy, gedoopt op 26-04-1778, spinster, overleden op 09-04-1857, 1) ondertrouw op 20-07-1804, tr. (als Caatje Peut) op 02-08-1804 met Jan Overduyn, overleden op 24-10-1808, weduwnaar van Anna van der Voorde(n) (ondertrouw op 16-07-1757), 2) tr. op 23-08-1827 met Jacobus Scheffer, Elu gedoopt op 14-07-1756, kleermaker, overleden op 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
 2. Anna, gedoopt op 13-01-1780, begraven 02/09-04-1785[†](#notitie).  
 3. Pieternelletje, gedoopt op 11-04-1782.  
-4. Antonia Bekooi, gedoopt op 23-05-1784, overleden 13-06-1843, ondertrouw op 26-08-1808 met Jan Nagelsmit, gedoopt op 10-03-1785, opperman, overleden 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
+4. Antonia Bekooi, gedoopt op 23-05-1784, overleden op 13-06-1843, ondertrouw op 26-08-1808 met Jan Nagelsmit, gedoopt op 10-03-1785, opperman, overleden op 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
 5. Jacob, geboren op 04-09-1786, gedoopt op 05-09-1786, volgt [VIIIe](#viiie-jacob-bekooy).  
 6. Pieter, gedoopt op 28-10-1788, volgt [VIIIf](#viiif-pieter-bekooy).  
 7. Abraham Johannes, gedoopt op 17-02-1791, volgt [VIIIg](#viiig-abraham-johannes-bekooy).  
 x. Hendrica (onecht), gedoopt op 11-05-1785, m. Hendrikje Lakoert.  
 
 ### VIIc. Jacobus Bekooy
-VIIc    Jacobus Bekooy, gedoopt op 24-02-1760, vachteblotersknegt, overleden 24-03-1836, ondertrouw op 02-06-1780 met Hester Baas, gedoopt op 27-08-1761, overleden 23-08-1836, dochter van Cornelis Pieterse Baas en Geertje Moree.  
+VIIc    Jacobus Bekooy, gedoopt op 24-02-1760, vachteblotersknegt, overleden op 24-03-1836, ondertrouw op 02-06-1780 met Hester Baas, gedoopt op 27-08-1761, overleden op 23-08-1836, dochter van Cornelis Pieterse Baas en Geertje Moree.  
 
 Uit dit huwelijk:  
 1. Japik, gedoopt op 17-09-1780, volgt [VIIIh](#viiih-japik-jacob-bekooy).  
-2. Geertruy Bekooy, gedoopt op 31-01-1782, overleden 05-12-1864, ondertrouw op 20-12-1810, tr. op 05-01-1811 met Denys van der Blom, gedoopt op 29-06-1783, dekenkaarter, overleden 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
-Voorkind van Geertruy: Jacoba Bekooy, gedoopt op 22-12-1805, overleden 26-11-1869, tr. op 14-12-1826 met Salomo den Os, gedoopt op 29-12-1803, overleden 05-05-1856, zoon van Dirk den Os en Hendrika Vasseur.  
-3. Catharina Bekooy, gedoopt op 16-07-1783, overleden 13-03-1874, ondertrouw op 25-02-1803 met Willem Regeer, gedoopt op 07-06-1780, lakenwerker, overleden 16-09-1832, zoon van Willem Regeer en Neeltje Ket.  
-4. Rachel Bekooy, gedoopt op 23-04-1785, overleden 02-11-1865, ondertrouw op 17-05-1810, tr. op 02-06-1810 met Huybert van der Walle, gedoopt op 16-04-1772, pruikmakersknecht, overleden 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
+2. Geertruy Bekooy, gedoopt op 31-01-1782, overleden op 05-12-1864, ondertrouw op 20-12-1810, tr. op 05-01-1811 met Denys van der Blom, gedoopt op 29-06-1783, dekenkaarter, overleden op 06-09-1853, zoon van Willem van der Blom en Lena Hennik.  
+Voorkind van Geertruy: Jacoba Bekooy, gedoopt op 22-12-1805, overleden op 26-11-1869, tr. op 14-12-1826 met Salomo den Os, gedoopt op 29-12-1803, overleden op 05-05-1856, zoon van Dirk den Os en Hendrika Vasseur.  
+3. Catharina Bekooy, gedoopt op 16-07-1783, overleden op 13-03-1874, ondertrouw op 25-02-1803 met Willem Regeer, gedoopt op 07-06-1780, lakenwerker, overleden op 16-09-1832, zoon van Willem Regeer en Neeltje Ket.  
+4. Rachel Bekooy, gedoopt op 23-04-1785, overleden op 02-11-1865, ondertrouw op 17-05-1810, tr. op 02-06-1810 met Huybert van der Walle, gedoopt op 16-04-1772, pruikmakersknecht, overleden op 02-01-1854, weduwnaar van Anna van der Linden, zoon van Jacobus van der Wallen en Marya Bleyleven.  
 5. Jacobus, gedoopt op 30-12-1786, volgt [VIIIi](#viiii-jacobus-bekooy).  
 6. Jantje, gedoopt op 25-02-1789.  
 7. Jannetje, gedoopt op 17-02-1791, begraven 22-02/01-03-1794[†](#notitie).  
 8. Susanna, gedoopt op 30-12-1792.  
-9. Jannetje Bekooy, gedoopt op 07-12-1794, spinster, overleden 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. op 24-04-1813 met Gerrit Bavelaar, wever, gedoopt op 26-03-1794, overleden 28-10-1881, zoon van Johannes Bavelaar en Sara Ket.  
+9. Jannetje Bekooy, gedoopt op 07-12-1794, spinster, overleden op 18-12-1881 (naam in akte en tafel gespeld als Bikkooy), tr. op 24-04-1813 met Gerrit Bavelaar, wever, gedoopt op 26-03-1794, overleden op 28-10-1881, zoon van Johannes Bavelaar en Sara Ket.  
 10. Cornelis, gedoopt op 22-01-1797, volgt [VIIIj](#viiij-cornelis-bekooy).  
 11. Adriana, gedoopt op 12-02-1800, begraven 23/30-10-1802[†](#notitie).  
 12. Hester, gedoopt op 10-04-1803, begraven 24-11/01-12-1804[†](#notitie).  
 
 ### VIIIa. Jacobus Bekooy
-VIIIa    Jacobus Bekooy, gedoopt op 23-07-1783, dekenwerker, overleden 13-07-1849, 1) ondertrouw op 26-07-1806, tr. op 09-08-1806 met Cornelia Elisabeth Briër, gedoopt op 11-12-1781, overleden 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, 2) tr. op 21-04-1814 met Judith Neuteboom, gedoopt op 13-07-1777, spinster, overleden 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
+VIIIa    Jacobus Bekooy, gedoopt op 23-07-1783, dekenwerker, overleden op 13-07-1849, 1) ondertrouw op 26-07-1806, tr. op 09-08-1806 met Cornelia Elisabeth Briër, gedoopt op 11-12-1781, overleden op 08-01-1813, dochter van Samuel Bruijer en Elisabeth Piket, 2) tr. op 21-04-1814 met Judith Neuteboom, gedoopt op 13-07-1777, spinster, overleden op 14-12-1846, dochter van Pieter Nooteboom en Grietje Broerlet.  
 
 Uit het eerste huwelijk:  
 
-1. Geertruy Bekooy, geboren op 04-01-1807, gedoopt op 08-01-1807, overleden 13-09-1856, tr. op 16-09-1830 met Dirk Jacobus Thiel, huisverwer, geboren op 14-09-1811, overleden t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
-2. Elizabeth, geboren op 25-11-1809, gedoopt op 26-11-1809, overleden 18-06-1813, begraven 19-06-1813.  
+1. Geertruy Bekooy, geboren op 04-01-1807, gedoopt op 08-01-1807, overleden op 13-09-1856, tr. op 16-09-1830 met Dirk Jacobus Thiel, huisverwer, geboren op 14-09-1811, overleden t/m 1912 niet gevonden, zoon van Jan Hendrik Tiel en Maria Wassenaar.  
+2. Elizabeth, geboren op 25-11-1809, gedoopt op 26-11-1809, overleden op 18-06-1813, begraven 19-06-1813.  
 
 Uit het tweede huwelijk:  
 
-3. Alida Dina Bekooy, geboren op 23-07-1814, naaister, overleden 05-07-1873, tr. op 31-07-1834 met Izaak Arkeveld, geboren op 18-06-1810, greinwever, overleden 15-06-1866, zoon van Izaak Arkeveld en Johanna Bolstier.  
+3. Alida Dina Bekooy, geboren op 23-07-1814, naaister, overleden op 05-07-1873, tr. op 31-07-1834 met Izaak Arkeveld, geboren op 18-06-1810, greinwever, overleden op 15-06-1866, zoon van Izaak Arkeveld en Johanna Bolstier.  
 
 ### VIIIb. Jan Boekooy
-VIIIb    Jan Boekooy, gedoopt op 27-02-1791, wever, overleden 31-05-1850, tr. op 07-10-1814 met Gerritje Schipaanboord, gedoopt op 29-08-1790, spinster, overleden 22-11-1861, dochter van Gerrit Schipaanboord en Maria Catharina Vrijbloet.  
+VIIIb    Jan Boekooy, gedoopt op 27-02-1791, wever, overleden op 31-05-1850, tr. op 07-10-1814 met Gerritje Schipaanboord, gedoopt op 29-08-1790, spinster, overleden op 22-11-1861, dochter van Gerrit Schipaanboord en Maria Catharina Vrijbloet.  
 
 Uit dit huwelijk:  
-1. Geertruy Boekooy, geboren op 27-06-1815, overleden 09-05-1882, tr. op 11-12-1834 met Jacobus Tegelaar, geboren op 05-12-1816, greinwever, overleden 18-12-1900, zoon van Jacobus Tegelaar en Johanna Kokkedee.  
-2. Maria Catharina, geboren op 06-02-1817, overleden 24-02-1817.  
-3. Maria Catharina Bekooy, geboren op 18-02-1820, overleden 07-01-1913, tr. op 03-08-1853 met Johannes Huge, geboren op 20-12-1818, molenaarsknecht, overleden 12-06-1866, zoon van Hendrik Huge en Grietje Hennebiek.  
-4. Levenloos kind, geboren/overleden 02-04-1823.  
-5. Jacobus, geboren op 28-04-1828, overleden 26-05-1855.  
-6. Alida Dina Bekooy, geboren op 15-06-1833, overleden 22-11-1916, tr. op 10-02-1858 met Hermanus de Vink, geboren op 23-02-1828, blauwverver, overleden 27-03-1899, zoon van Carel de Vink en Willemina van der Ark.  
+1. Geertruy Boekooy, geboren op 27-06-1815, overleden op 09-05-1882, tr. op 11-12-1834 met Jacobus Tegelaar, geboren op 05-12-1816, greinwever, overleden op 18-12-1900, zoon van Jacobus Tegelaar en Johanna Kokkedee.  
+2. Maria Catharina, geboren op 06-02-1817, overleden op 24-02-1817.  
+3. Maria Catharina Bekooy, geboren op 18-02-1820, overleden op 07-01-1913, tr. op 03-08-1853 met Johannes Huge, geboren op 20-12-1818, molenaarsknecht, overleden op 12-06-1866, zoon van Hendrik Huge en Grietje Hennebiek.  
+4. Levenloos kind, geboren/overleden op 02-04-1823.  
+5. Jacobus, geboren op 28-04-1828, overleden op 26-05-1855.  
+6. Alida Dina Bekooy, geboren op 15-06-1833, overleden op 22-11-1916, tr. op 10-02-1858 met Hermanus de Vink, geboren op 23-02-1828, blauwverver, overleden op 27-03-1899, zoon van Carel de Vink en Willemina van der Ark.  
 
 ### VIIIc. Gerrit B(o)ekooy
-VIIIc    Gerrit B(o)ekooy, gedoopt op 28-08-1793, wever, overleden 20-01-1843, tr. op 04-01-1821 met Jansje van Bemmel, gedoopt op 14-01-1796, dienstbode, overleden 04-03-1851, dochter van Gerrit van Bemmel en Catharina Gelton.  
+VIIIc    Gerrit B(o)ekooy, gedoopt op 28-08-1793, wever, overleden op 20-01-1843, tr. op 04-01-1821 met Jansje van Bemmel, gedoopt op 14-01-1796, dienstbode, overleden op 04-03-1851, dochter van Gerrit van Bemmel en Catharina Gelton.  
 
 Uit dit huwelijk:  
 1. Jacobus, geboren op 08-01-1821, volgt [IXa](#ixa-jacob-bekooij).  
 2. Warnaar, geboren op 13-11-1822, volgt [IXb](#ixb-warnaar-bekooy).  
-3. Gerrit, geboren op 01-10-1824, overleden 21-05-1825.  
-4. Gerrit, geboren op 31-01-1826, overleden 14-02-1826.  
-5. Jansje, geboren op 13-03-1827, overleden 01-09-1831.  
-6. Gerrit Johannes, geboren op 27-10-1829, overleden 06-05-1834.  
-7. Anthony, geboren op 13-03-1832, overleden 17-03-1855.  
-8. Jannetje, geboren op 20-01-1834, overleden 29-05-1850.  
-9. Gerrit, geboren op 10-03-1835, overleden 10-06-1835.  
-10. Geertrui Boekooy, geboren op 14-04-1836, overleden 26-09-1870, winkelierster, tr. op 24-08-1859 met Dirk Jacobus Toorens, geboren op 01-12-1835, blikslager, overleden 29-07-1869, zoon van Adrianus Toorens en Lena van den Berg.  
-11. Gerrit Boekooy, geboren op 13-06-1840, timmerman, overleden 26-02-1911, tr. op 15-08-1866 met Dirkie Briejer, geboren op 16-11-1839, dienstbode, overleden 09-08-1931 als weduwe van Nicolaas Stiva, dochter van Dirk Briejer en Johanna Lares.  
+3. Gerrit, geboren op 01-10-1824, overleden op 21-05-1825.  
+4. Gerrit, geboren op 31-01-1826, overleden op 14-02-1826.  
+5. Jansje, geboren op 13-03-1827, overleden op 01-09-1831.  
+6. Gerrit Johannes, geboren op 27-10-1829, overleden op 06-05-1834.  
+7. Anthony, geboren op 13-03-1832, overleden op 17-03-1855.  
+8. Jannetje, geboren op 20-01-1834, overleden op 29-05-1850.  
+9. Gerrit, geboren op 10-03-1835, overleden op 10-06-1835.  
+10. Geertrui Boekooy, geboren op 14-04-1836, overleden op 26-09-1870, winkelierster, tr. op 24-08-1859 met Dirk Jacobus Toorens, geboren op 01-12-1835, blikslager, overleden op 29-07-1869, zoon van Adrianus Toorens en Lena van den Berg.  
+11. Gerrit Boekooy, geboren op 13-06-1840, timmerman, overleden op 26-02-1911, tr. op 15-08-1866 met Dirkie Briejer, geboren op 16-11-1839, dienstbode, overleden op 09-08-1931 als weduwe van Nicolaas Stiva, dochter van Dirk Briejer en Johanna Lares.  
   
 ### VIIId. Anthony Boekkoij
-VIIId    Antony Boekkoij, gedoopt op 15-11-1795, wever, overleden 09-01-1872, tr. op 04-05-1820 met Pieternella Stouten, gedoopt op 01-06-1797, overleden 30-10-1869, dochter van Klaas Stouten en Jannetje Flest.  
+VIIId    Antony Boekkoij, gedoopt op 15-11-1795, wever, overleden op 09-01-1872, tr. op 04-05-1820 met Pieternella Stouten, gedoopt op 01-06-1797, overleden op 30-10-1869, dochter van Klaas Stouten en Jannetje Flest.  
 
 Uit dit huwelijk:  
 1. Geertruy Bekooy, geboren op 14-06-1820, tr. op 20-12-1848 met Christiaan Bronkhorst, geboren in Haarlem op 11-06-1824, schoenmaker, zoon van Cornelis Bronkhorst en Maria Vermaas.  
 Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet gevonden.  
-    - Natuurlijke dochter: Geertruij, geboren op 31–10-1839, overleden 23-05-1840.  
-2. Antonie, geboren op 26–10-1822, overleden 21-05-1823.  
-3. Antonie, geboren op 12-01-1824, overleden 25-04-1825.  
-4. Jannetje (Jansje) Bekooy, geboren op 30-03-1826, dienstbode, mutsenwasvrouw, overleden 06-06-1875, tr. op 05-09-1849 met Willem Frederik Poptie, geboren op 02-03-1826, wever, overleden t/m/ 1932 niet gevonden, zoon van Johannes Poptie en Jansje van Wijk.  
-    - Buitenechtelijk kind: Jansje Pieternella, geboren op 18-11-1847, overleden 25-07-1848.  
+    - Natuurlijke dochter: Geertruij, geboren op 31–10-1839, overleden op 23-05-1840.  
+2. Antonie, geboren op 26–10-1822, overleden op 21-05-1823.  
+3. Antonie, geboren op 12-01-1824, overleden op 25-04-1825.  
+4. Jannetje (Jansje) Bekooy, geboren op 30-03-1826, dienstbode, mutsenwasvrouw, overleden op 06-06-1875, tr. op 05-09-1849 met Willem Frederik Poptie, geboren op 02-03-1826, wever, overleden t/m 1932 niet gevonden, zoon van Johannes Poptie en Jansje van Wijk.  
+    - Buitenechtelijk kind: Jansje Pieternella, geboren op 18-11-1847, overleden op 25-07-1848.  
 5. Pieternella, geboren op 30-07-1838.  
-6. Antonia, geboren op 19-03-1831, overleden 03-12-1835.  
+6. Antonia, geboren op 19-03-1831, overleden op 03-12-1835.  
 7. Jacobus, geboren op 15-04-1833.  
-8. Levenloos kind, geboren/overleden 01-08-1836.  
+8. Levenloos kind, geboren/overleden op 01-08-1836.  
 9. Klaas, geboren op 18-06-1837.  
 10. Antonie, (Boekkooi) geboren op 29-05-1841, volgt [IXc](#ixc-antonie-boekkooi).  
   
 ### VIIIe. Jacob Bekooy
-VIIIe    Jacob Bekooy, gedoopt op 04-09-1786, kruier, overleden 26-07-1849, 1) tr. op 24-11-1813 met Maria Sjardijn, gedoopt op 30-12-1783, spinster, overleden 01-11-1832, dochter van Pieter Sardijn en Maria Schootman 2) tr. op 17-10-1833 met Jacoba van der Moesel, gedoopt op 22-11-1801, visverkoopster, overleden 28-12-1863, weduwe van Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. Jacoba van der Moesel was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, gedoopt op 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
+VIIIe    Jacob Bekooy, gedoopt op 04-09-1786, kruier, overleden op 26-07-1849, 1) tr. op 24-11-1813 met Maria Sjardijn, gedoopt op 30-12-1783, spinster, overleden op 01-11-1832, dochter van Pieter Sardijn en Maria Schootman 2) tr. op 17-10-1833 met Jacoba van der Moesel, gedoopt op 22-11-1801, visverkoopster, overleden op 28-12-1863, weduwe van Jan van den Dop, dr. van Willem van der Moesel en Heyntje Ranselaar. N.B. Jacoba van der Moesel was ‘onecht’ geboren, Willem van der Moesel was als vader opgegeven. Er was overigens ook een eerdere dochter, Elizabeth, gedoopt op 19-10-1800, waarbij ‘onecht’ niet was vermeld.  
 
 Uit het eerste huwelijk:  
 
-1. Thomas, geboren op 16-09-1814, overleden 24-11-1814, begraven 27-11-1814.  
-2. Maria Bekooy, geboren op 24-09-1815, overleden 14-11-1865, tr. op 17-09-1835 met Jan de Vlaam, geboren op 08-08-1807, greinwever, overleden 26-09-1877, zoon van Johannes de Vlaam en Hendrieka Rijkewaart.  
+1. Thomas, geboren op 16-09-1814, overleden op 24-11-1814, begraven 27-11-1814.  
+2. Maria Bekooy, geboren op 24-09-1815, overleden op 14-11-1865, tr. op 17-09-1835 met Jan de Vlaam, geboren op 08-08-1807, greinwever, overleden op 26-09-1877, zoon van Johannes de Vlaam en Hendrieka Rijkewaart.  
 3. Pieter, geboren op 22-10-1819.  
 4. Johanna Bekooij, geboren op 09-09-1822, tr. in Fort Bath en Bath op 29-01-1857 met Hendrik Zuidweg, geboren in Rilland in 1819/20, zoon van Jan Zuidweg en Jacoba de Wit. Johanna Bekooij is op 02-07-1854 met attestatie uit Leiden vertrokken naar Fort Bath. Verdere gegevens van het paar niet gevonden.  
-5. Thomas Bekooy, geboren op 02-12-1825, overleden 20-06-1866, tr. met Sara Korver, overleden niet gevonden, maar voor haar man.  
-6. Elisabeth, geboren op 07-11-1830, overleden 17-06-1831.  
+5. Thomas Bekooy, geboren op 02-12-1825, overleden op 20-06-1866, tr. met Sara Korver, overleden niet gevonden, maar voor haar man.  
+6. Elisabeth, geboren op 07-11-1830, overleden op 17-06-1831.  
 
 Uit het tweede huwelijk:  
 
 7. Nicolaas, geboren op 05-09-1834, volgt [IXd](#ixd-nicolaas-bekooy).  
-8. Jacoba Bekooy, geboren op 25-10-1836, overleden 21-01-1913, tr. op 12-04-1865 met Christiaan van der Linden, geboren op 18-11-1839, sjouwer, overleden 31-03-1904, zoon van Christiaan en Catharina Zaalberg.  
+8. Jacoba Bekooy, geboren op 25-10-1836, overleden op 21-01-1913, tr. op 12-04-1865 met Christiaan van der Linden, geboren op 18-11-1839, sjouwer, overleden op 31-03-1904, zoon van Christiaan en Catharina Zaalberg.  
 Voorzoons Jacoba:
     - Jacobus, geboren op 29-12-1863.  
     - Christiaan, geboren op 01-01-1862. Bij huwelijk erkend.  
-9. Abraham, geboren op 22-05-1840, overleden 19-01-1843.  
+9. Abraham, geboren op 22-05-1840, overleden op 19-01-1843.  
   
 ### VIIIf. Pieter Bekooy
-VIIIf    Pieter Bekooy, gedoopt op 28-10-1788, baggerman, overleden 09-10-1859, tr. op 09-09-1814 met Margaretha Rosendaal, gedoopt op 15-02-1795, overleden 03-09-1875, dochter van Willem Rozendaal en Maria Elkerbout.  
+VIIIf    Pieter Bekooy, gedoopt op 28-10-1788, baggerman, overleden op 09-10-1859, tr. op 09-09-1814 met Margaretha Rosendaal, gedoopt op 15-02-1795, overleden op 03-09-1875, dochter van Willem Rozendaal en Maria Elkerbout.  
 
 Uit dit huwelijk:  
-1. Johanna Bekooy, geboren op 27-09-1814, overleden 20-10-1844, tr. op 29-01-1835 met Johannes Laterveer, geboren op 02-12-1811, gedoopt op 08-12-1811, wever, later politieagent, overleden 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
-2. Willem, geboren op 28-08-1816, overleden 14-04-1820.  
-3. Maria Elisabeth Bekooy, geboren op 16-01-1819, dienstbode, overleden 02-09-1892, tr. op 15-05-1845 met Cornelis Johannes Oudshoorn, geboren op 17-07-1818, warmoezier, overleden 26-02-1892, zoon van Johannes Oudshoorn en Maria Cornelia van Drongen.  
-4. Sophia Wilhelmina Bekooi, geboren op 09-09-1820, dienstbode, overleden 09-06-1882 als weduwe van Isaac Starre, welk huwelijk niet is gevonden.  
-    - Buitenechtelijk kind: Cornelis Johannes, geboren op 27-01-1844, overleden 17-08-1845.  
-5. Margaretha Bekooy, geboren op 03-02-1823, overleden 12-02-1908, tr. in 1850 met Hendrik Jacobus Daalmeyer, stalknecht, geboren op 25-11-1823, overleden 13-06-1900, zoon van Nicolaas Daalmeijer en Johanna de Vrij.  
-6. Petronella Bekooy, geboren op 13-08-1824, dienstbode, overleden 15-01-1862, tr. op 18-09-1861 met Jacob Kreyermaat, geboren in Amersfoort 02-12-1826, zonder beroep, overleden niet gevonden, zoon van Evert Kreyermaat en Geertruij Bloemendaal.  
-    - Buitenechtelijk kind: Petronella, geboren op 05-07-1849, overleden 06-04-1850.  
-7. Thomas Bekooy, geboren op 31-12-1826, warmoezier, overleden 26-10-1859, tr. op 01-08-1855 met Gijsje van Oosten, geboren op 14-10-1822, overleden 22-09-1868, dochter van Maria van Oosten. Geen kinderen.  
-8. Cornelia Bekooy, geboren op 31-12-1826, dienstbode, overleden 09-10-1910, 1) tr. (?) met Klaas van Huijzen, 2) tr. op 30-01-1878 met Anthony Vrijbloed, geboren op 18-08-1821, stadswerker, overleden 01-07-1905, zoon van Christiaan Vrijbloed en Jacoba Groenewegen.  
-    - Buitenechtelijk kind: Cornelis, geboren op 11-03-1851, overleden 20-05-1853.  
+1. Johanna Bekooy, geboren op 27-09-1814, overleden op 20-10-1844, tr. op 29-01-1835 met Johannes Laterveer, geboren op 02-12-1811, gedoopt op 08-12-1811, wever, later politieagent, overleden op 03-04-1880, zoon van Johannes Laterveer en Grietje van Schagen.  
+2. Willem, geboren op 28-08-1816, overleden op 14-04-1820.  
+3. Maria Elisabeth Bekooy, geboren op 16-01-1819, dienstbode, overleden op 02-09-1892, tr. op 15-05-1845 met Cornelis Johannes Oudshoorn, geboren op 17-07-1818, warmoezier, overleden op 26-02-1892, zoon van Johannes Oudshoorn en Maria Cornelia van Drongen.  
+4. Sophia Wilhelmina Bekooi, geboren op 09-09-1820, dienstbode, overleden op 09-06-1882 als weduwe van Isaac Starre, welk huwelijk niet is gevonden.  
+    - Buitenechtelijk kind: Cornelis Johannes, geboren op 27-01-1844, overleden op 17-08-1845.  
+5. Margaretha Bekooy, geboren op 03-02-1823, overleden op 12-02-1908, tr. in 1850 met Hendrik Jacobus Daalmeyer, stalknecht, geboren op 25-11-1823, overleden op 13-06-1900, zoon van Nicolaas Daalmeijer en Johanna de Vrij.  
+6. Petronella Bekooy, geboren op 13-08-1824, dienstbode, overleden op 15-01-1862, tr. op 18-09-1861 met Jacob Kreyermaat, geboren in Amersfoort 02-12-1826, zonder beroep, overleden niet gevonden, zoon van Evert Kreyermaat en Geertruij Bloemendaal.  
+    - Buitenechtelijk kind: Petronella, geboren op 05-07-1849, overleden op 06-04-1850.  
+7. Thomas Bekooy, geboren op 31-12-1826, warmoezier, overleden op 26-10-1859, tr. op 01-08-1855 met Gijsje van Oosten, geboren op 14-10-1822, overleden op 22-09-1868, dochter van Maria van Oosten. Geen kinderen.  
+8. Cornelia Bekooy, geboren op 31-12-1826, dienstbode, overleden op 09-10-1910, 1) tr. (?) met Klaas van Huijzen, 2) tr. op 30-01-1878 met Anthony Vrijbloed, geboren op 18-08-1821, stadswerker, overleden op 01-07-1905, zoon van Christiaan Vrijbloed en Jacoba Groenewegen.  
+    - Buitenechtelijk kind: Cornelis, geboren op 11-03-1851, overleden op 20-05-1853.  
 
 ### VIIIg. Abraham Johannes Bekooy
-VIIIg    Abraham Johannes Bekooy, baggerman, gedoopt op 17-02-1791, overleden Sloten 02-02-1828, 1) tr. op 23-12-1819 met Jacomina van Ent, in Deventer op 28-01-1798, naaister, overleden 30-08-1826, dochter van Willem van Ent en Johanna Jezebieters, 2) tr. op 09-11-1826 met Cornelia Densel, gedoopt op 15-01-1797, schoonmaakster, overleden 09-12-1844, dochter van Cornelis Densel en Johanna Werst.  
+VIIIg    Abraham Johannes Bekooy, baggerman, gedoopt op 17-02-1791, overleden in Sloten op 02-02-1828, 1) tr. op 23-12-1819 met Jacomina van Ent, in Deventer op 28-01-1798, naaister, overleden op 30-08-1826, dochter van Willem van Ent en Johanna Jezebieters, 2) tr. op 09-11-1826 met Cornelia Densel, gedoopt op 15-01-1797, schoonmaakster, overleden op 09-12-1844, dochter van Cornelis Densel en Johanna Werst.  
 
 Uit het eerste huwelijk:  
 
-1. Johanna Bekooy, geboren op 24-04-1820, overleden 29-12-1903, tr. op 02-05-1844 met Jan Molet, geboren op 22-03-1821, loodgieter, overleden 11-08-1863, zoon van Arnoldus Molet en Johanna Brandse.  
-2. Wilhelmina Hendrica Bekooy, geboren op 02-07-1822, overleden 24-01-1902 als weduwe van Joannes Baak (huwelijk niet gevonden).  
+1. Johanna Bekooy, geboren op 24-04-1820, overleden op 29-12-1903, tr. op 02-05-1844 met Jan Molet, geboren op 22-03-1821, loodgieter, overleden op 11-08-1863, zoon van Arnoldus Molet en Johanna Brandse.  
+2. Wilhelmina Hendrica Bekooy, geboren op 02-07-1822, overleden op 24-01-1902 als weduwe van Joannes Baak (huwelijk niet gevonden).  
 3. Thomas, geboren op 07-10-1824.  
-4. Abraham, geboren op 07-10-1824, overleden 23-10-1824.  
+4. Abraham, geboren op 07-10-1824, overleden op 23-10-1824.  
 
 Uit het tweede huwelijk:  
 
-5. Cornelis, geboren op 22-09-1827, overleden 30-05-1848  
+5. Cornelis, geboren op 22-09-1827, overleden op 30-05-1848  
   
 ### VIIIh. Japik (Jacob) Bekooy
-VIIIh    Japik (Jacob) Bekooy, gedoopt op 17-09-1780, lakenwerker, woont Loyerstraat, overleden 18-12-1866, ondertrouw op 03-10-1806, tr. op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), gedoopt op 03-02-1778, overleden 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
+VIIIh    Japik (Jacob) Bekooy, gedoopt op 17-09-1780, lakenwerker, woont Loyerstraat, overleden op 18-12-1866, ondertrouw op 03-10-1806, tr. op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), gedoopt op 03-02-1778, overleden op 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 09-10-1811, gedoopt op 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij).  
-2. Hester Bekooy, geboren op 12-11-1814, spinster, overleden 30-07-1872, tr. op 18-12-1834 met Johannes Franken, geboren op 17-03-1816, greinwever, overleden 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
+2. Hester Bekooy, geboren op 12-11-1814, spinster, overleden op 30-07-1872, tr. op 18-12-1834 met Johannes Franken, geboren op 17-03-1816, greinwever, overleden op 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
 
 ### VIIIi. Jacobus Bekooy
-VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden 17-11-1839, ondertrouw op 16-07-1808, tr. op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
+VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden op 17-11-1839, ondertrouw op 16-07-1808, tr. op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden op 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
 N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), geh. met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
-1. Koosje Bekooy, geboren op 24-10-1808, gedoopt op 27-10-1808, spinster, overleden 29-11-1840, tr. op 03-09-1829 met Willem Jacobus Paats, gedoopt op 13-11-1805, dubbelaar, overleden 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
+1. Koosje Bekooy, geboren op 24-10-1808, gedoopt op 27-10-1808, spinster, overleden op 29-11-1840, tr. op 03-09-1829 met Willem Jacobus Paats, gedoopt op 13-11-1805, dubbelaar, overleden op 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
 2. TODO: Jan, gedoopt op 24/30-09-1810.  
-3. Margaretha, geboren op 15-07-1812, overleden 16-07-1812, begraven 17-07-1812.  
+3. Margaretha, geboren op 15-07-1812, overleden op 16-07-1812, begraven 17-07-1812.  
 4. Jacobus, geboren op 11-02-1814, volgt [IXf](#ixf-jacobus-bekooy).  
-5. Johannes, geboren op 10-06-1817, overleden 25-08-1817.  
-6. Grietje Bekooy, gedoopt op 01-09-1818, overleden 26-03-1883, tr. op 29-08-1839 met Steven Pont, geboren op 29-07-1821, sjouwer, overleden 14-12-1869, zoon van Abraham Pont en Grietje van Leeuwen.  
+5. Johannes, geboren op 10-06-1817, overleden op 25-08-1817.  
+6. Grietje Bekooy, gedoopt op 01-09-1818, overleden op 26-03-1883, tr. op 29-08-1839 met Steven Pont, geboren op 29-07-1821, sjouwer, overleden op 14-12-1869, zoon van Abraham Pont en Grietje van Leeuwen.  
 7. Johannes, in Deventer op 09-03-1821, volgt [IXg](#ixg-johannes-bekooi).  
 8. Willem, geboren in Deventer op 14-05-1823, volgt [IXh](#ixh-willem-bekooy).  
 9. Jan, geboren op 14-11-1825.  
-10. Catharina, geboren op 13-07-1828, overleden 07-11-1828.  
+10. Catharina, geboren op 13-07-1828, overleden op 07-11-1828.  
 
 ### VIIIj. Cornelis Bekooy
 VIIIj    Cornelis Bekooy, gedoopt op 22-01-1797, vachtenblotersknecht, overleden, tr. op 16-09-1824 met Jannetje Janssen, gedoopt op 22-01-1797, spinster, overleden, dochter van Jan Janse en Jannetje Dreef.  
 
 Uit dit huwelijk:  
-1. Jansje, geboren op 28-10-1821, overleden 03-01-1822.  
-2. Johannes, geboren op 28-10-1821, overleden 04-11-1821.  
-3. Hesther Bekooy, geboren op 19-01-1823, overleden 10-07-1860, tr. op 04-08-1842 met Willem Fucks, geboren op 11-05-1817, wolkammer, overleden 16-02-1882, zoon van Samuel Fucks en Sara Cornelia Wolter. De vader van Hesther was blijkens acte van bekendheid bij haar huwelijk ‘afwezig’.  
-4. Johannes Jacobus, geboren op 30-09-1824, overleden 26-07-1826.  
+1. Jansje, geboren op 28-10-1821, overleden op 03-01-1822.  
+2. Johannes, geboren op 28-10-1821, overleden op 04-11-1821.  
+3. Hesther Bekooy, geboren op 19-01-1823, overleden op 10-07-1860, tr. op 04-08-1842 met Willem Fucks, geboren op 11-05-1817, wolkammer, overleden op 16-02-1882, zoon van Samuel Fucks en Sara Cornelia Wolter. De vader van Hesther was blijkens acte van bekendheid bij haar huwelijk ‘afwezig’.  
+4. Johannes Jacobus, geboren op 30-09-1824, overleden op 26-07-1826.  
 5. Abraham, geboren op 13-03-1826.  
 6. Jannetje Bekooy, geboren op 24-12-1829, overleden, tr. op 24-11-1858 met Daniel Verhoeven, geboren op 17-01-1828, sjouwer, overleden, zoon van Jacobus Verhoeven en Jannetje la Lau.  
 Voorkinderen Jannetje:  
-    - Jannetje, geboren op ??–01-1851, overleden 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker).  
-    - Jakobus, geboren eind 1856/begin 1857, overleden 13-05-1858.  
+    - Jannetje, geboren op ??–01-1851, overleden op 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker).  
+    - Jakobus, geboren eind 1856/begin 1857, overleden op 13-05-1858.  
     - Jannetje Cornelia, geboren op 18-09-1858, erkend bij huwelijk.  
-7. Arie Bekooi, geboren op 24-09-1830, dekenverver, overleden aangeg. Norg/Veenhuizen 25-04-1848.  
+7. Arie Bekooi, geboren op 24-09-1830, dekenverver, overleden aangegeven in Norg/Veenhuizen op 25-04-1848.  
   
 ### IXa. Jacob Bekooij
-IXa    Jacob Bekooij, geboren op 09-10-1811, leerlooiersknecht, overleden 21-09-1893, tr. op 20-04-1837 met Maria Sophia Selier, geboren op 08-08-1810, overleden 11-01-1889, dochter van Jan Selier en Margaretha van Duuren.  
+IXa    Jacob Bekooij, geboren op 09-10-1811, leerlooiersknecht, overleden op 21-09-1893, tr. op 20-04-1837 met Maria Sophia Selier, geboren op 08-08-1810, overleden op 11-01-1889, dochter van Jan Selier en Margaretha van Duuren.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 27-07-1837, volgt [Xa](#xa-jacob-bekooy).  
-2. Grietje Bekooy, geboren op 02-04-1840, overleden 31-07-1866, tr. op 04-09-1861 met Daniel Regeer, geboren op 14-01-1838, wolkammer, overleden niet gevonden (na 1866), zoon van Daniel Regeer en Alida Sophia Voorzaat.  
-3. Jan, geboren op 26-07-1843, overleden 30-08-1843.  
-4. Jan, geboren op 14-08-1844, overleden 02-07-1847.  
-5. Johannes, geboren op 18-03-1847, overleden 05-07-1847.  
-6. Maria Sophia, geboren op 21-07-1848, overleden 11-04-1849.  
+2. Grietje Bekooy, geboren op 02-04-1840, overleden op 31-07-1866, tr. op 04-09-1861 met Daniel Regeer, geboren op 14-01-1838, wolkammer, overleden niet gevonden (na 1866), zoon van Daniel Regeer en Alida Sophia Voorzaat.  
+3. Jan, geboren op 26-07-1843, overleden op 30-08-1843.  
+4. Jan, geboren op 14-08-1844, overleden op 02-07-1847.  
+5. Johannes, geboren op 18-03-1847, overleden op 05-07-1847.  
+6. Maria Sophia, geboren op 21-07-1848, overleden op 11-04-1849.  
 7. Maria Sophia Bekooi, geboren op 14-09-1850, tr. op 10-11-1869 met Pieter Kukler, wever, geboren op 22-05-1851, zoon van Jacobus en Pieternella Flaman. Verder bijzonderheden van de echtgenoten niet gevonden.  
-8. Jan (Jacob), geboren op 14-03-1856, overleden 11-01-1857.  
+8. Jan (Jacob), geboren op 14-03-1856, overleden op 11-01-1857.  
 
 ### IXb. Warnaar Bekooy
-IXb    Warnaar Bekooy, geboren op 13-11-1822, opperman, overleden 29-01-1885, 1) ondertrouw op 04-09-1852 met Cornelia Kranenburg, geboren in Voorschoten, overleden 18-01-1853, dochter van Johannes Kranenburg en Cornelia van Beveren, 2) tr. op 19-05-1858 met Maria Sardijn, geboren op 12-05-1823, overleden 23-12-1893, dochter van Gerrit Sardijn en Catharina Ligtvoet.  
+IXb    Warnaar Bekooy, geboren op 13-11-1822, opperman, overleden op 29-01-1885, 1) ondertrouw op 04-09-1852 met Cornelia Kranenburg, geboren in Voorschoten, overleden op 18-01-1853, dochter van Johannes Kranenburg en Cornelia van Beveren, 2) tr. op 19-05-1858 met Maria Sardijn, geboren op 12-05-1823, overleden op 23-12-1893, dochter van Gerrit Sardijn en Catharina Ligtvoet.  
 
 Uit het tweede huwelijk:  
 
-1. Jannetje Bekooy, geboren op 18-06-1858, ongehuwd overleden 05-11-1932.  
-2. Jacobus Bekooy, geboren op 10-04-1861, fabriekwerker, overleden 10-03-1905, tr. op 20-08-1890 met Jacoba van der Linden, geboren op 29-04-1861, overleden 10-05-1911, dochter van Johannes en Maria Schouten.  
-3. Catharina, geboren op 16-04-1863, overleden 02-08-1865.  
+1. Jannetje Bekooy, geboren op 18-06-1858, ongehuwd overleden op 05-11-1932.  
+2. Jacobus Bekooy, geboren op 10-04-1861, fabriekwerker, overleden op 10-03-1905, tr. op 20-08-1890 met Jacoba van der Linden, geboren op 29-04-1861, overleden op 10-05-1911, dochter van Johannes en Maria Schouten.  
+3. Catharina, geboren op 16-04-1863, overleden op 02-08-1865.  
 4. Maria Catharina, geboren op 30-11-1865.  
-5. TODO: Wilhelmina, geboren in 1866 ?, overleden 20-08-1873.  
+5. TODO: Wilhelmina, geboren in 1866 ?, overleden op 20-08-1873.  
 
 ### IXc. Antonie Boekkooi
-IXc    Antonie Boekkooi, 29-04-1841, zijdewever, overleden 28-11-1888, tr. op 23-06-1869 met Fenna Margritha de Vries, geboren in Utingeradeel op 04-07-1844, overleden 25-09-1916, dochter van Leendert Gerritsen de Vries en Trijntje Koens.  
+IXc    Antonie Boekkooi, 29-04-1841, zijdewever, overleden op 28-11-1888, tr. op 23-06-1869 met Fenna Margritha de Vries, geboren in Utingeradeel op 04-07-1844, overleden op 25-09-1916, dochter van Leendert Gerritsen de Vries en Trijntje Koens.  
 
 Uit dit huwelijk:  
 1. Antonia Margaretha Boekkooi, geboren (als De Vries) in 06-02-1869, tr. op 03-09-1890 met Frederik Theodorus Johannes Christiaanse, timmerman, geboren op 11-12-1866, zoon van Abraham Christiaanse en Dirkje Dobbe.  
-2. Antonie Boekkooi, geboren op 02-02-1873, overleden 31-10-1920, tr. op 12-02-1902 met Cornelia Boot, geboren in Leimuiden (28 jaar), overleden niet gevonden maar na haar man, dochter van Pieter Boot en Adewij Louisa Overvoorde. Mogelijk nageslacht.  
-3. Levenloos kind, geboren/overleden 26-06-1874.  
-4. Catharina, geboren op 11-08-1875, overleden 14-08-1879.  
+2. Antonie Boekkooi, geboren op 02-02-1873, overleden op 31-10-1920, tr. op 12-02-1902 met Cornelia Boot, geboren in Leimuiden (28 jaar), overleden niet gevonden maar na haar man, dochter van Pieter Boot en Adewij Louisa Overvoorde. Mogelijk nageslacht.  
+3. Levenloos kind, geboren/overleden op 26-06-1874.  
+4. Catharina, geboren op 11-08-1875, overleden op 14-08-1879.  
 5. Johanna Josina, geboren op 10-03-1877.  
 6. Cornelis, geboren op 05-02-1879.  
-7. Jacobus, geboren op 08-03-1881, overleden 15-03-1881.  
-8. Jacobus Boekkooi, geboren op 22-06-1882, ongehuwd overleden Oegstgeest 18-01-1928.  
+7. Jacobus, geboren op 08-03-1881, overleden op 15-03-1881.  
+8. Jacobus Boekkooi, geboren op 22-06-1882, ongehuwd overleden in Oegstgeest op 18-01-1928.  
 9. Catrina, geboren op 22-06-1882.  
 10. Johan Jacob, geboren op 18-03-1884.  
 11. Petronella, geboren op 03-09-1885.  
 
 ### IXd. Nicolaas Bekooy
-IXd    Nicolaas Bekooy, geboren op 05-09-1834, wolwerker, overleden 12-12-1903, tr. op 04-02-1863 met Jacoba van der Nat, geboren op 12-08-1844, arbeidster, overleden 30-03-1905, dochter van Jacobus van der Nat en Jacoba Bom.  
+IXd    Nicolaas Bekooy, geboren op 05-09-1834, wolwerker, overleden op 12-12-1903, tr. op 04-02-1863 met Jacoba van der Nat, geboren op 12-08-1844, arbeidster, overleden op 30-03-1905, dochter van Jacobus van der Nat en Jacoba Bom.  
 
 Uit dit huwelijk:  
-1. Nicolaas, geboren op 24-04-1864, overleden 22-09-1864.  
-2. Pieter, geboren op 11-12-1865, overleden 12-05-1866.  
-3. Jacoba Bekooy, geboren op 16-07-1867, overleden 22-06-1949, tr. op 23-08-1899 met Pieter Bavelaar, geboren op 02-12-1870, timmerman, overleden na zijn vrouw, zoon van Abraham en Johanna Wilhelmina de Koning.  
-4. Elisabeth, geboren in 1870, overleden 07-02-1871.  
-5. Jacob Bekooy, geboren op 07-02-1872, fabrieksarbeider, overleden 05-03-1934, tr. op 04-10-1899 met Clara Antonietta de Bruijn, geboren op 11-04-1875, overleden na haar man, dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
-6. Levenloos kind, geboren/overleden 05-08-1874.  
-7. Elisabeth, geboren op 13-12-1875, overleden 07-09-1882.  
-8. Nicolaas, geboren op 01-05-1878, overleden 06-09-1887.  
-9. Pieter, geboren op 08-07-1881, overleden 31-07-1881.  
+1. Nicolaas, geboren op 24-04-1864, overleden op 22-09-1864.  
+2. Pieter, geboren op 11-12-1865, overleden op 12-05-1866.  
+3. Jacoba Bekooy, geboren op 16-07-1867, overleden op 22-06-1949, tr. op 23-08-1899 met Pieter Bavelaar, geboren op 02-12-1870, timmerman, overleden na zijn vrouw, zoon van Abraham en Johanna Wilhelmina de Koning.  
+4. Elisabeth, geboren in 1870, overleden op 07-02-1871.  
+5. Jacob Bekooy, geboren op 07-02-1872, fabrieksarbeider, overleden op 05-03-1934, tr. op 04-10-1899 met Clara Antonietta de Bruijn, geboren op 11-04-1875, overleden na haar man, dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
+6. Levenloos kind, geboren/overleden op 05-08-1874.  
+7. Elisabeth, geboren op 13-12-1875, overleden op 07-09-1882.  
+8. Nicolaas, geboren op 01-05-1878, overleden op 06-09-1887.  
+9. Pieter, geboren op 08-07-1881, overleden op 31-07-1881.  
 10. Christiaan, geboren op 08-07-1881.  
 11. Elizabeth, geboren op 21-10-1882.  
 12?. Pieter, geboren op 30-08-1886.  
   
 ### IXe. Jacobus Bekooij
-IXe    Jacobus Bekooij, geboren op 08-01-1821, sjouwer, overleden Oegstgeest 15-05-1900, tr. op 13-11-1845 met Alida Mooten, dubbelaarster, geboren op 27-09-1824, overleden 12-01-1914, dochter van Jan Mooten en Alida Hensen.  
+IXe    Jacobus Bekooij, geboren op 08-01-1821, sjouwer, overleden in Oegstgeest op 15-05-1900, tr. op 13-11-1845 met Alida Mooten, dubbelaarster, geboren op 27-09-1824, overleden op 12-01-1914, dochter van Jan Mooten en Alida Hensen.  
 
 Uit dit huwelijk:  
-1. Jansje Bekooy, geboren op 30-08-1846, overleden Oegstgeest 04-11-1915, tr. op 29-05-1872 met Johannes Nieuwenburg, geboren op 24-04-1848, timmerman, overleden 05-06-1915, zoon van Johannes en Jannetje de Wever.  
-2. Levenloos kind, geboren/overleden 27-01-1849.  
+1. Jansje Bekooy, geboren op 30-08-1846, overleden in Oegstgeest op 04-11-1915, tr. op 29-05-1872 met Johannes Nieuwenburg, geboren op 24-04-1848, timmerman, overleden op 05-06-1915, zoon van Johannes en Jannetje de Wever.  
+2. Levenloos kind, geboren/overleden op 27-01-1849.  
 3. Jan, geboren op 15-09-1850, volgt [Xb](#xb-jan-bekooy).  
-4. Gerrit, geboren op 15-02-1853, overleden 26-04-1856.  
-5. Alida Bekooy, geboren op 20-08-1856, ongehuwd overleden 07-02-1880.  
+4. Gerrit, geboren op 15-02-1853, overleden op 26-04-1856.  
+5. Alida Bekooy, geboren op 20-08-1856, ongehuwd overleden op 07-02-1880.  
 6. Geertrui, geboren op 07-03-1859.  
-7. Jacoba Bekooy, geboren op 26-01-1862, dienstbode, overleden 08-06-1901.  
+7. Jacoba Bekooy, geboren op 26-01-1862, dienstbode, overleden op 08-06-1901.  
 8. Gerrit, geboren op 28-02-1864.  
-9. Petronella Catharina, geboren op 01-05-1868, overleden 07-06-1869.  
+9. Petronella Catharina, geboren op 01-05-1868, overleden op 07-06-1869.  
 
 ### IXf. Jacobus Bekooy
-IXf    Jacobus Bekooy, geboren op 11-02-1814, sjouwer, overleden 20-10-1854, tr. op 11-09-1845 met Maria de Zwijger, geboren op 13-05-1810, naaister, overleden 13-09-1892, dochter van Hendrik de Zwijger en Betje Bonte.  
+IXf    Jacobus Bekooy, geboren op 11-02-1814, sjouwer, overleden op 20-10-1854, tr. op 11-09-1845 met Maria de Zwijger, geboren op 13-05-1810, naaister, overleden op 13-09-1892, dochter van Hendrik de Zwijger en Betje Bonte.  
 
 Uit dit huwelijk:  
-1. Jacobus, geboren op 01-02-1835 (gewettigd bij huwelijk), overleden 03-05-1854.  
-2. Willem Bekooy, geboren op 28-08-1839 (gewettigd bij huwelijk), ongehuwd overleden 30-04-1903.  
+1. Jacobus, geboren op 01-02-1835 (gewettigd bij huwelijk), overleden op 03-05-1854.  
+2. Willem Bekooy, geboren op 28-08-1839 (gewettigd bij huwelijk), ongehuwd overleden op 30-04-1903.  
 3. Johannes, geboren op 28-06-1841 (gewettigd bij huwelijk), volgt [Xc](#xc-johannes-bekooy).  
-4. Jan, geboren op 05-02-1844, overleden 07-09-1845.  
-5. Maria Bekooy, geboren op 15-07-1846, overleden 30-01-1917, tr. op 28-04-1869 met Willem Frederik Prins, wever, geboren in Den Haag op 14-03-1845, overleden 06-07-1917, zoon van Egbertus en Maria Cornelia van der Bent.  
-6. Margaretha, geboren op 18-12-1849, overleden 12-10-1859.  
-7. Jan, geboren op 26-04-1852, overleden 14-10-1859.  
+4. Jan, geboren op 05-02-1844, overleden op 07-09-1845.  
+5. Maria Bekooy, geboren op 15-07-1846, overleden op 30-01-1917, tr. op 28-04-1869 met Willem Frederik Prins, wever, geboren in Den Haag op 14-03-1845, overleden op 06-07-1917, zoon van Egbertus en Maria Cornelia van der Bent.  
+6. Margaretha, geboren op 18-12-1849, overleden op 12-10-1859.  
+7. Jan, geboren op 26-04-1852, overleden op 14-10-1859.  
 
 ### IXg. Johannes Bekooi
-IXg    Johannes Bekooi, geboren in Deventer op 09-03-1821, kunstdraaier, overleden 03-07-1899, tr. op 03-07-1844 met Elisabeth Bavelaar, geboren op 26-08-1820, naaister, overleden 06-01-1900, dochter van Gerrit Bavelaar en Jannetje Bekooy.  
+IXg    Johannes Bekooi, geboren in Deventer op 09-03-1821, kunstdraaier, overleden op 03-07-1899, tr. op 03-07-1844 met Elisabeth Bavelaar, geboren op 26-08-1820, naaister, overleden op 06-01-1900, dochter van Gerrit Bavelaar en Jannetje Bekooy.  
 
 Uit dit huwelijk:  
-1. Jansje, geboren op 07-07-1843 (gewettigd), overleden 10-01-1851.  
-2. Levenloos kind, geboren/overleden 17-02-1846.  
-3. Willem Jacobus, geboren op 14-02-1847, overleden 07-01-1851.  
+1. Jansje, geboren op 07-07-1843 (gewettigd), overleden op 10-01-1851.  
+2. Levenloos kind, geboren/overleden op 17-02-1846.  
+3. Willem Jacobus, geboren op 14-02-1847, overleden op 07-01-1851.  
 4. Johannes Jacobus, geboren op 16-11-1850, volgt [Xd](#xd-johannes-jacobus-bekooy).  
-5. Levenloos kind, geboren/overleden 15-12-1853.  
+5. Levenloos kind, geboren/overleden op 15-12-1853.  
 6. Willem, geboren op 24-11-1854, volgt [Xe](#xe-willem-bekooi).  
-7. Jansje, geboren op 07-05-1857, overleden 17-04-1858.  
-8. Jan, geboren op 28-07-1859, overleden 08-04-1860.  
+7. Jansje, geboren op 07-05-1857, overleden op 17-04-1858.  
+8. Jan, geboren op 28-07-1859, overleden op 08-04-1860.  
 9. Jan, geboren op 01-03-1861, volgt [Xf](#xf-jan-bekooi).  
 
 ### IXh. Willem Bekooy
@@ -1007,100 +1007,100 @@ IXh    Willem Bekooi, kleermaker, geboren in Deventer op 14-05-1823, tr. op 11-0
 Het overlijden van Willem Bekooi en Antje van Zijp is t/m 1932 niet in Leiden gevonden.  
 
 Uit dit huwelijk:  
-1. Cornelis Bekooy, geboren op 05-09-1857, tr. op 11-05-1887 met Maria Wilhelmina Andrée, geboren op 23-10-1861, naaister, overleden Heemstede 04-11-1937, dochter van Johannes Petrus Nicolaas Andrée en Willemina van der Kwartel.  
-2. Johannes, geboren op 07-05-1860, overleden 04-01-1861.  
-3. Maria Bekooy, geboren op 28-12-1861, overleden 19-08-1944, tr. op 14-05-1879 met Johannes Rijsbergen, geboren op 30-10-1858, sigarenmaker, overleden voor zijn vrouw, zoon van Johannes Reigersberg\* en Apolonia Johanna Beekman.  
+1. Cornelis Bekooy, geboren op 05-09-1857, tr. op 11-05-1887 met Maria Wilhelmina Andrée, geboren op 23-10-1861, naaister, overleden in Heemstede op 04-11-1937, dochter van Johannes Petrus Nicolaas Andrée en Willemina van der Kwartel.  
+2. Johannes, geboren op 07-05-1860, overleden op 04-01-1861.  
+3. Maria Bekooy, geboren op 28-12-1861, overleden op 19-08-1944, tr. op 14-05-1879 met Johannes Rijsbergen, geboren op 30-10-1858, sigarenmaker, overleden voor zijn vrouw, zoon van Johannes Reigersberg\* en Apolonia Johanna Beekman.  
 \* Bij vonnis van de Rechtbank dd. 14-07-1873 is deze familienaam gewijzigd in Rijsbergen.  
-1. Sara, geboren op 19-03-1864, overleden 26-06-1864.  
+1. Sara, geboren op 19-03-1864, overleden op 26-06-1864.  
 
 ### Xa. Jacob Bekooy
-Xa    Jacob Bekooy, geboren op 27-07-1837, wolkammer, overleden 27-12-1881, tr. op 22-04-1863 met Jannetje de la Rie, geboren op 22-03-1839 als Jannetje Werk, overleden 03-07-1908, dochter van Abraham de la Rie en (Sara) Johanna Maria Werk.  
+Xa    Jacob Bekooy, geboren op 27-07-1837, wolkammer, overleden op 27-12-1881, tr. op 22-04-1863 met Jannetje de la Rie, geboren op 22-03-1839 als Jannetje Werk, overleden op 03-07-1908, dochter van Abraham de la Rie en (Sara) Johanna Maria Werk.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 10-07-1863 volgt [XIa](#xia-jacob-bekooy).  
-2. Sara Bekooy, geboren op 22-12-1864, dienstbode, overleden 25-02-1945, 1) ondertrouw op 10-02-1887 (huwelijk niet in Leiden) met Wilhelmus van de Manacker, geboren in Leiden in 1858/9 (niet gevonden), 28 jaar, melkman, overleden Delft 11-12-1890, zoon van Hendrikus Benedictus van de Manacker en Joanna Janssen, 2) tr. op 11-10-1893 met Franciscus Rietkerken, geboren op 09-03-1866, werkman, overleden 07-03-1945, zoon van Christiaan en Elisabeth van Klaveren.  
+2. Sara Bekooy, geboren op 22-12-1864, dienstbode, overleden op 25-02-1945, 1) ondertrouw op 10-02-1887 (huwelijk niet in Leiden) met Wilhelmus van de Manacker, geboren in Leiden in 1858/9 (niet gevonden), 28 jaar, melkman, overleden in Delft op 11-12-1890, zoon van Hendrikus Benedictus van de Manacker en Joanna Janssen, 2) tr. op 11-10-1893 met Franciscus Rietkerken, geboren op 09-03-1866, werkman, overleden op 07-03-1945, zoon van Christiaan en Elisabeth van Klaveren.  
 3. Abraham, geboren op 10-03-1866, volgt [XIb](#xib-abraham-bekooy).  
-4. Maria Sophia Bekooy, geboren op 10-03-1868, overleden 07-10-1935, 1) tr. op 15-05-1889 met Johannes Willem Teljeur, geboren op 06-02-1862, koetsier, overleden voor 13-05-1896 (niet in tafel gevonden), zoon van Abraham Teljeur en Maria van Taarling, 2) tr. op 13-05-1896 met Leendert Vrij, 26 jaar, geboren in Hellevoetsluis in 1869/70, agent van politie, zoon van Leendert Vrij en Jannetje Maria Spoor.  
+4. Maria Sophia Bekooy, geboren op 10-03-1868, overleden op 07-10-1935, 1) tr. op 15-05-1889 met Johannes Willem Teljeur, geboren op 06-02-1862, koetsier, overleden voor 13-05-1896 (niet in tafel gevonden), zoon van Abraham Teljeur en Maria van Taarling, 2) tr. op 13-05-1896 met Leendert Vrij, 26 jaar, geboren in Hellevoetsluis in 1869/70, agent van politie, zoon van Leendert Vrij en Jannetje Maria Spoor.  
 5. Jan, geboren op 14-11-1869, volgt [XIc](#xic-jan-bekooy).  
-6. Elisabeth Bekooy, geboren op 08-01-1872, overleden 12-01-1947, tr. op 15-05-1895 met Reinier van der Heemst, geboren op 15-09-1861, portier, zoon van Johannes Bernardus van der Heemst en Anna Taayspel. (Anna Taayspel overleed in Leiden op 31-01-1910. Daarmee stierf de Leidse tak van het oorspronkelijk Vlaamse geslacht Taeyspil uit.).  
+6. Elisabeth Bekooy, geboren op 08-01-1872, overleden op 12-01-1947, tr. op 15-05-1895 met Reinier van der Heemst, geboren op 15-09-1861, portier, zoon van Johannes Bernardus van der Heemst en Anna Taayspel. (Anna Taayspel overleed in Leiden op 31-01-1910. Daarmee stierf de Leidse tak van het oorspronkelijk Vlaamse geslacht Taeyspil uit.).  
 7. Pieter, geboren op 13-04-1873, volgt [XId](#xid-pieter-bekooy).  
-8. Hendrik, geboren op 20-04-1875, overleden 05-01-1877.  
+8. Hendrik, geboren op 20-04-1875, overleden op 05-01-1877.  
 9. Hendrik, geboren op 31-03-1877, volgt [XIe](#xie-hendrik-boekkooi).  
 10. Jansje Boekkooi, geboren op 22-04-1879, tr. op 10-05-1899 met Hendrik Arnoldus, fabrieksarbeider, geboren op 10-07-1878, zoon van Isaac Arnoldus en Francina van Wijk.  
 
 ### Xb. Jan Bekooy
-Xb    Jan Bekooy, geboren op 15-09-1850, zeemtouwer, fabrieksopzichter, overleden 23-12-1893, tr. op 13-05-1874 met Elisabeth Ligtvoet, geboren op 26-03-1851, dienstbode, overleden 07-01-1931, dochter van Willem Carel Ligtvoet en Johanna Elisabeth van Vliet.  
+Xb    Jan Bekooy, geboren op 15-09-1850, zeemtouwer, fabrieksopzichter, overleden op 23-12-1893, tr. op 13-05-1874 met Elisabeth Ligtvoet, geboren op 26-03-1851, dienstbode, overleden op 07-01-1931, dochter van Willem Carel Ligtvoet en Johanna Elisabeth van Vliet.  
 
 Uit dit huwelijk:  
 1. Alida, geboren op 22-05-1875.  
-2. Elisabeth Maria Bekooy, geboren op 06-03-1877, dienstbode, overleden 24-08-1901.  
+2. Elisabeth Maria Bekooy, geboren op 06-03-1877, dienstbode, overleden op 24-08-1901.  
 3. Jacoba, geboren op 01-06-1879.  
-4. Willem Carel Bekooy, geboren op 08-09-1882, overleden 28-10-1948, 1) tr. op 30-09-1908 met Maria van Werkhoven, geboren op 08-12-1876, overleden 10-01-1928, dochter van Catharina Margaretha van Werkhoven, 2) tr. met Sara Hendrika Laman. Mogelijk nageslacht.  
+4. Willem Carel Bekooy, geboren op 08-09-1882, overleden op 28-10-1948, 1) tr. op 30-09-1908 met Maria van Werkhoven, geboren op 08-12-1876, overleden op 10-01-1928, dochter van Catharina Margaretha van Werkhoven, 2) tr. met Sara Hendrika Laman. Mogelijk nageslacht.  
 5?. Jan, geboren op 29-07-1890.  
 
 ### Xc. Johannes Bekooy
-Xc    Johannes Bekooy, geboren op 28-06-1841, fabriekwerker, overleden 18-05-1926, tr. op 28-06-1871 met Susanna Adriana Kleijn, geboren op 09-07-1849, overleden 10-10-1913, dochter van Andries Kleijn en Johanna Regeer.  
+Xc    Johannes Bekooy, geboren op 28-06-1841, fabriekwerker, overleden op 18-05-1926, tr. op 28-06-1871 met Susanna Adriana Kleijn, geboren op 09-07-1849, overleden op 10-10-1913, dochter van Andries Kleijn en Johanna Regeer.  
 
 Uit dit huwelijk:  
-1. Maria Bekooy, geboren op 17-07-1872, overleden 04-01-1937, tr. op 23-08-1893 met Jacobus Fakkel, geboren op 21-04-1871, katoenwever, overleden, zoon van Jacobus en Johanna Monnee.  
+1. Maria Bekooy, geboren op 17-07-1872, overleden op 04-01-1937, tr. op 23-08-1893 met Jacobus Fakkel, geboren op 21-04-1871, katoenwever, overleden, zoon van Jacobus en Johanna Monnee.  
 2. Andries, geboren op 14-08-1874, volgt [XIf](#xif-andries-bekooy).  
 3. Jan, geboren op 18-07-1876, volgt [XIg](#xig-jan-bekooy).  
 4. Jacobus, geboren op 25-10-1878.  
 5. Willem, geboren op 02-10-1880, volgt [XIh](#xih-willem-bekooy).  
 6. Susanna, geboren op 16-04-1883.  
-7. Johanna Maria Bekooy, geboren op 24-12-1885, werkster, ongehuwd overleden 02-04-1947.  
-8. Margaretha Bekooy, geboren op 31-10-1887, overleden 21-06-1939, tr. op 25-10-1911 met David Leugering, geboren op 24-06-1888, katoenwever, zoon van David Leugering en Jacoba Guly.  
-9. Jacoba, geboren op 11-09-1889, overleden 12-04-1894.  
-10. Stijntje, geboren op 14-10-1891, overleden 11-10-1897.  
+7. Johanna Maria Bekooy, geboren op 24-12-1885, werkster, ongehuwd overleden op 02-04-1947.  
+8. Margaretha Bekooy, geboren op 31-10-1887, overleden op 21-06-1939, tr. op 25-10-1911 met David Leugering, geboren op 24-06-1888, katoenwever, zoon van David Leugering en Jacoba Guly.  
+9. Jacoba, geboren op 11-09-1889, overleden op 12-04-1894.  
+10. Stijntje, geboren op 14-10-1891, overleden op 11-10-1897.  
 
 ### Xd. Johannes Jacobus Bekooy
-Xd    Johannes Jacobus Bekooy, geboren op 16-11-1850, steendrukker, overleden 06-12-1910, tr. op 23-05-1877 met Susanna Reijerse, geboren in Goes in 1851, overleden 25-06-1930 (79 jaar), dochter van Alebregt Reijerse en Adriana Aelricks.  
+Xd    Johannes Jacobus Bekooy, geboren op 16-11-1850, steendrukker, overleden op 06-12-1910, tr. op 23-05-1877 met Susanna Reijerse, geboren in Goes in 1851, overleden op 25-06-1930 (79 jaar), dochter van Alebregt Reijerse en Adriana Aelricks.  
 
 Uit dit huwelijk:  
-1. Johannes Jacobus Bekooy, geboren op 28-02-1878, overleden 03-02-1942, tr. op 18-11-1903 met Aaltje van de Poppe, 29 jaar, geboren in Harderwijk, dochter van Klaas van de Poppe en Jannetje van den Brink.  
-2. Albrecht Cornelis Bekooy, geboren op 06-09-1880, stucadoor, overleden 10-04-1935, tr. op 31-05-1905 met Johanna Christina van der Steen, geboren op 07-11-1881, dochter van Jacobus van der Steen en Jannetje Galjaard.  
+1. Johannes Jacobus Bekooy, geboren op 28-02-1878, overleden op 03-02-1942, tr. op 18-11-1903 met Aaltje van de Poppe, 29 jaar, geboren in Harderwijk, dochter van Klaas van de Poppe en Jannetje van den Brink.  
+2. Albrecht Cornelis Bekooy, geboren op 06-09-1880, stucadoor, overleden op 10-04-1935, tr. op 31-05-1905 met Johanna Christina van der Steen, geboren op 07-11-1881, dochter van Jacobus van der Steen en Jannetje Galjaard.  
 3. Jozef Cornelis, geboren op 28-10-1882.  
 4. Elisabeth Jannetje, geboren op 28-10-1882.  
 5. Adriana, geboren op 15-05-1886.  
 6. Susanna Bekooij, geboren op 13-12-1888, tr. in Rotterdam op 03-05-1911 met Reijnier Missaar, geboren in Leiden op 10-03-1886, zoon van David Jacobus Missaar en Maartje le Maitre.  
 7. Willem, geboren op 15-08-1891.  
-8. Jacobus, geboren op 22-09-1894, overleden 03-11-1894.  
+8. Jacobus, geboren op 22-09-1894, overleden op 03-11-1894.  
 
 ### Xe. Willem Bekooi
-Xe    Willem Bekooi, geboren op 24-11-1854, schrijnwerker, overleden 04-02-1920, tr. op 03-03-1880 met Jannetje Janssen, geboren op 13-11-1849 (als J. Fuchs), overleden na haar man, dochter van Cornelis Janssen en Sara Cornelia Fuchs.  
+Xe    Willem Bekooi, geboren op 24-11-1854, schrijnwerker, overleden op 04-02-1920, tr. op 03-03-1880 met Jannetje Janssen, geboren op 13-11-1849 (als J. Fuchs), overleden na haar man, dochter van Cornelis Janssen en Sara Cornelia Fuchs.  
 
 Uit dit huwelijk:  
 1. Johannes Jacobus, geboren op 16-12-1880.  
 2. Sara Cornelia, geboren op 09-08-1883.  
 3. Willem, geboren op 08-12-1885.  
-4. Cornelis Bekooi, geboren op 23-01-1888, overleden 17-12-1945, tr. op 08-03-1911 met Antje Robbers, geboren in Leiderdorp op 02-04-1890, dochter van Pieter Robbers en Agnes van Nieuwenhoven.  
+4. Cornelis Bekooi, geboren op 23-01-1888, overleden op 17-12-1945, tr. op 08-03-1911 met Antje Robbers, geboren in Leiderdorp op 02-04-1890, dochter van Pieter Robbers en Agnes van Nieuwenhoven.  
 5. Samuel, geboren op 16-12-1891.  
 
 ### Xf. Jan Bekooi
-Xf    Jan Bekooi, geboren op 01-03-1861, meubelmaker, overleden 26-07-1915, tr. op 29-02-1888 met Johanna Maria van der Linden, geboren op 14-05-1863, dienstbode, overleden 09-04-1936, dochter van Lambertus van der Linden en Maria Mark.  
+Xf    Jan Bekooi, geboren op 01-03-1861, meubelmaker, overleden op 26-07-1915, tr. op 29-02-1888 met Johanna Maria van der Linden, geboren op 14-05-1863, dienstbode, overleden op 09-04-1936, dochter van Lambertus van der Linden en Maria Mark.  
 
 Uit dit huwelijk:  
-1. Elisabeth Bekooi, geboren op 02-09-1888, overleden 23-03-1927, tr. met J. Verboom.  
+1. Elisabeth Bekooi, geboren op 02-09-1888, overleden op 23-03-1927, tr. met J. Verboom.  
 2. Jan, geboren op 25-12-1889.  
 3. Maria, geboren op 05-09-1891.  
 4. Albertus, geboren op 08-09-1893.  
 5. Willem, geboren op 31-10-1896.  
   
 ### XIa. Jacob Bekooy
-XIa    Jacob Bekooy, geboren op 10-07-1863, fabriekwerker, sjouwer, overleden 11-09-1923, tr. op 11-11-1885 met Jansje de Vos, geboren op 15-04-1863, overleden na 1950, dochter van Coenraad de Vos en Hesther l’Ecluse.  
+XIa    Jacob Bekooy, geboren op 10-07-1863, fabriekwerker, sjouwer, overleden op 11-09-1923, tr. op 11-11-1885 met Jansje de Vos, geboren op 15-04-1863, overleden na 1950, dochter van Coenraad de Vos en Hesther l’Ecluse.  
 
 Uit dit huwelijk:  
 1. Jansje, geboren op 10-02-1886.  
 2. Hesther, geboren op 20-01-1889.  
 3. Sara, geboren op 26-04-1891.  
-4. Maria Wilhelmina, geboren op 03-09-1893, overleden 14-12-1894.  
+4. Maria Wilhelmina, geboren op 03-09-1893, overleden op 14-12-1894.  
 5. Maria Wilhelmina, geboren op 25-10-1895.  
 6. Jacob, geboren op 27-05-1899.  
-7. Elisabeth, geboren op 14-02-1901, overleden 26-12-1902.  
-8. Catharina, geboren op 06-12-1902, overleden 18-12-1902.  
+7. Elisabeth, geboren op 14-02-1901, overleden op 26-12-1902.  
+8. Catharina, geboren op 06-12-1902, overleden op 18-12-1902.  
   
 ### XIb. Abraham Bekooy
-XIb    Abraham Bekooy, geboren op 10-03-1866, fabrieksarbeider, koopman, overleden 20-05-1935, tr. op 08-05-1889 met Anna Geertruida Schreuder, geboren op 08-04-1865, overleden 08-04-1944, dochter van Johannes Schreuder en Anna Mulder.  
+XIb    Abraham Bekooy, geboren op 10-03-1866, fabrieksarbeider, koopman, overleden op 20-05-1935, tr. op 08-05-1889 met Anna Geertruida Schreuder, geboren op 08-04-1865, overleden op 08-04-1944, dochter van Johannes Schreuder en Anna Mulder.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 15-01-1890.  
@@ -1109,22 +1109,22 @@ Uit dit huwelijk:
 4. Jannetje, geboren op 06-09-1894.  
 5. Elisabeth, geboren op 05-06-1896.  
 6. Johannes, geboren op 07-11-1897.  
-7. Abraham Bekooy, geboren op 10-04-1899, overleden 10-03-1944, tr. met Gijsbertje Cornelia Wielers. Mogelijk nageslacht.  
-8. Evert Marinus, geboren op 17-01-1901, overleden 31-08-1902.  
+7. Abraham Bekooy, geboren op 10-04-1899, overleden op 10-03-1944, tr. met Gijsbertje Cornelia Wielers. Mogelijk nageslacht.  
+8. Evert Marinus, geboren op 17-01-1901, overleden op 31-08-1902.  
 
 ### XIc. Jan Bekooy
-XIc    Jan Bekooy, geboren op 14-11-1869, bediende, arbeider, overleden ca. 24-01-1909 (Op 24-09-1909 werd het lijk van Jan Bekooy gevonden in Spaarndam), tr. op 18-12-1889 met Johanna Hendrika Huner, geboren in Den Haag op 22-06-1868, overleden 29-12-1923 als vr van Petrus Philippo, dochter van Isaac Huner en Alida Christina van Dam.  
+XIc    Jan Bekooy, geboren op 14-11-1869, bediende, arbeider, overleden ca. 24-01-1909 (Op 24-09-1909 werd het lijk van Jan Bekooy gevonden in Spaarndam), tr. op 18-12-1889 met Johanna Hendrika Huner, geboren in Den Haag op 22-06-1868, overleden op 29-12-1923 als vr van Petrus Philippo, dochter van Isaac Huner en Alida Christina van Dam.  
 
 Uit dit huwelijk:  
 1. Jacobus, geboren op 04-05-1890.  
 2. Alida Christina, geboren op 11-12-1892.  
-3. Isaac Bekooy, geboren in Leiderdorp in 1895, overleden 24-10-1943, tr. op 17-09-1919 met Agatha van Schoonderwoerd den Bezemer, geboren op 28-04-1899, dochter van Jacobus van Schoonderwoerd den Bezemer en Aagje Ciere.  
+3. Isaac Bekooy, geboren in Leiderdorp in 1895, overleden op 24-10-1943, tr. op 17-09-1919 met Agatha van Schoonderwoerd den Bezemer, geboren op 28-04-1899, dochter van Jacobus van Schoonderwoerd den Bezemer en Aagje Ciere.  
 4. Jan, geboren op 10-01-1897.  
 5. Franciscus Joseph Constant Balthazar, geboren op 05-10-1898.  
 6. Alida Christina, geboren op 16-03-1901.  
 
 ### XId. Pieter Bekooy
-XId    Pieter Bekooy, geboren op 13-04-1873, sjouwer, overleden 17-03-1925, tr. op 18-06-1902 met Jansje Dubbelaar, geboren op 16-12-1878, overleden na 1950, dochter van Arie Dubbelaar en Jannetje Erades.  
+XId    Pieter Bekooy, geboren op 13-04-1873, sjouwer, overleden op 17-03-1925, tr. op 18-06-1902 met Jansje Dubbelaar, geboren op 16-12-1878, overleden na 1950, dochter van Arie Dubbelaar en Jannetje Erades.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 07-12-1902.  
@@ -1141,14 +1141,14 @@ XIf    Andries Bekooy, geboren op 14-08-1874, arbeider, tr. op 13-05-1896 met Ma
 
 Uit dit huwelijk:  
 1. Susanna Adriana, geboren op 28-05-1896.  
-2. David, geboren op 02-05-1897, overleden 19-01-1899.  
+2. David, geboren op 02-05-1897, overleden op 19-01-1899.  
 3. Johannes, geboren op 01-10-1898.  
-4. Elisabeth, geboren op 30-09-1899, overleden 18-04-1903.  
+4. Elisabeth, geboren op 30-09-1899, overleden op 18-04-1903.  
 5. David, geboren op 18-11-1900.  
 6. Geertruida, geboren op 16-03-1902.  
   
 ### XIg. Jan Bekooy
-XIg    Jan Bekooy, geboren op 18-07-1876, katoenwever, overleden 29-12-1929, tr. op 30-09-1896 met Jacoba Alida de l’Ecluse, geboren op 05-04-1874, overleden 17-01-1941, dochter van Nicolaas de l’Ecluse en Jacoba Alida van Wouw.  
+XIg    Jan Bekooy, geboren op 18-07-1876, katoenwever, overleden op 29-12-1929, tr. op 30-09-1896 met Jacoba Alida de l’Ecluse, geboren op 05-04-1874, overleden op 17-01-1941, dochter van Nicolaas de l’Ecluse en Jacoba Alida van Wouw.  
 
 Uit dit huwelijk:  
 1. Johannes (Jan) Bekooij, geboren op 06-02-1897, tr. in Rotterdam op 07-11-1923 met Hulda Ida Wilhelmine Ahlers, geboren in Mecklenburg-Schwerin, 24 jaar, dochter van August Friedrich Johann Ahlers en Helene Dorothea Lisette Honsbein.  
@@ -1156,7 +1156,7 @@ Uit dit huwelijk:
 3. Jacoba Alida, geboren op 15-06-1901.  
 
 ### XIh. Willem Bekooy
-XIh    Willem Bekooy, geboren op 02-10-1880, katoenwever, overleden 02-03-1942, tr. op 20-06-1900 met Johanna Hendrika Zwetsloot, geboren in Haarlemmermeer (20 jaar), dochter van Petrus Benedictus Zwetsloot en Neeltje van Rosmalen.  
+XIh    Willem Bekooy, geboren op 02-10-1880, katoenwever, overleden op 02-03-1942, tr. op 20-06-1900 met Johanna Hendrika Zwetsloot, geboren in Haarlemmermeer (20 jaar), dochter van Petrus Benedictus Zwetsloot en Neeltje van Rosmalen.  
 
 Uit dit huwelijk:  
 1. Susanna Adriana, geboren op 05-11-1902.  
@@ -1166,13 +1166,13 @@ Uit dit huwelijk:
 De niet bekende voorvader van deze tak kwam (vanuit Tourcoing ?) in Canterbury terecht. Hij zal een tijdgenoot zijn geweest van de personen IIIa t/m g uit lijn A. Zijn zoon Philippe de Bucquoy emigreerde met zijn gezin uit Canterbury naar Leiden, mogelijk in een periode dat het voor calvinistische protestanten in Engeland moeilijk was hun religie te belijden.  
 
 ### I. Philippe de Bucquoy
-I    Philippe de Bucquoy, geboren in Canterbury (??), overleden Leiden, tr. in Canterbury op (?) met NN (Marie du Bois ??). Het was vermoedelijk deze Philippe de Bucquoy, die op 27-06-1611 als poorter werd ontvangen.  
+I    Philippe de Bucquoy, geboren in Canterbury (??), overleden in Leiden, tr. in Canterbury op (?) met NN (Marie du Bois ??). Het was vermoedelijk deze Philippe de Bucquoy, die op 27-06-1611 als poorter werd ontvangen.  
 
 Uit dit huwelijk bekend:  
 1. Anthoni, geboren in Canterbury in ca. 1605, volgt [II](#ii-anthoni-de-bucquoy).  
 
 ### II. Anthoni de Bucquoy
-II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, ondertrouw op 12-08-1630 (getuige Philippe de Bucquoy zijn vader) met Jannetgen Govertsdr, van Leiden (overleden/begraven 29-04-1671), getuige Jannetgen Claesdr haar moeder.  
+II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, ondertrouw op 12-08-1630 (getuige Philippe de Bucquoy zijn vader) met Jannetgen Govertsdr, van Leiden (overleden/begraven op 29-04-1671), getuige Jannetgen Claesdr haar moeder.  
 
 Uit dit huwelijk:  
 1. Marie, Waals gedoopt op 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overleden.  
@@ -1352,7 +1352,7 @@ Uit het tweede huwelijk:
 
 ### IVa. Felix de Klopper
 IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt op 27-04-1683, wijnkoper, later  
-stadscourantier (25), overleden 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem,  
+stadscourantier (25), overleden op 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem,  
 geboren op 17-07-1683, gedoopt op 21-07-1683, begraven 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
 
 Uit dit huwelijk:  
@@ -1364,7 +1364,7 @@ Uit dit huwelijk:
 6. Hubert, Nederduits Gereformeerd gedoopt op 17-05-1709, begraven 10/17-08-1709[†](#notitie).  
 7. Catarina de Klopper, Nederduits Gereformeerd gedoopt op 24-06-1711, ondertrouw op 28-09-1731 met Isaak Oosterwijk, weduwnaar van Agatha Maria van der Pont.  
 8. Maria de Klopper, Nederduits Gereformeerd gedoopt op 05-02-1713, ondertrouw op 21-08-1739 met Gerardus van Maanen, leverancier van ammunitie, geboren in Den Haag, zoon van Johannes van Maanen en Johanna van der Linden.  
-9. Susanna de Klopper, Nederduits Gereformeerd gedoopt op 05-10-1714, overleden 18-05-1773, begraven Den Haag 22-05-1773, ondertrouw op 05-10-1736, tr. in Leiden op 23-10-1736 met Cornelis van Maanen, gedoopt in Den Haag op 08-05-1708, notaris etc., overleden 12-01-1743, begraven Den Haag 16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
+9. Susanna de Klopper, Nederduits Gereformeerd gedoopt op 05-10-1714, overleden op 18-05-1773, begraven Den Haag 22-05-1773, ondertrouw op 05-10-1736, tr. in Leiden op 23-10-1736 met Cornelis van Maanen, gedoopt in Den Haag op 08-05-1708, notaris etc., overleden op 12-01-1743, begraven Den Haag 16-01-1743, zoon van Johannes van Maanen en Johanna (Anna) van der Linden (1).  
 10. Johanna, Nederduits Gereformeerd gedoopt op 17-02-1717, begraven 20/27-03-1717[†](#notitie).  
 11. Johanna, Nederduits Gereformeerd gedoopt op 15-05-1718, begraven 16/23-03-1720[†](#notitie).  
 12. Anthony, Nederduits Gereformeerd gedoopt op 14-05-1720, begraven 06/13-03-1723[†](#notitie).  
@@ -1376,7 +1376,7 @@ Felix de Klopper had de Leydsche Courant gekocht van de vorige eigenaar Van Huis
 IVb    Jacob de Klopper de Jonge, Nederduits Gereformeerd gedoopt op 12-02-1686, distillateur, begraven 24/31-12-1729[†](#notitie), ondertrouw op 11-04-1709 (getuige haar schoonmoeder (=stief-) Annetje van Roon) met Yda Kievidt, geboren in Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
 
 ### V. Mr. Anthonie de Klopper  
-V    Mr. Anthonie de Klopper, geboren op 26-12-1724, gedoopt op 27-12-1724, stadscourantier, overleden 30-11-1771, begraven 07-12-1771, tr. op 07-08-1759 met Levina Westerbaen, geboren in Katwijk a/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
+V    Mr. Anthonie de Klopper, geboren op 26-12-1724, gedoopt op 27-12-1724, stadscourantier, overleden op 30-11-1771, begraven 07-12-1771, tr. op 07-08-1759 met Levina Westerbaen, geboren in Katwijk a/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
 
 Uit dit huwelijk:  
 1. Felix, gedoopt op 22-05-1760, begraven 26-12-1761/02-01-1762[†](#notitie).  
@@ -1389,7 +1389,7 @@ Uit dit huwelijk:
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
-VI    Mr. Felix de Klopper, geboren op 23-02-1763, gedoopt op 27-02-1763, stadscourantier en vele andere functies, overleden 14-10-1804, 1) tr. op 01-07-1783 met Elselina du Rieu, geboren op 25-12-1763, gedoopt op 28-12-1763, overleden 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, 2) tr. op 07-12-1786 met Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
+VI    Mr. Felix de Klopper, geboren op 23-02-1763, gedoopt op 27-02-1763, stadscourantier en vele andere functies, overleden op 14-10-1804, 1) tr. op 01-07-1783 met Elselina du Rieu, geboren op 25-12-1763, gedoopt op 28-12-1763, overleden op 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, 2) tr. op 07-12-1786 met Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
 
 Uit het eerste huwelijk:  
 
@@ -1412,22 +1412,22 @@ N.B. Van de generaties VII t/m IX zijn de gegevens overgenomen uit diverse bronn
 \* Nederland’s Patriciaat 10 (1919), p. 188 en volgende, FamilySearch (Mormonen) en diverse CD-roms van genealogische periodieken.  
 
 ### VII. Dr. Paul Elzelin de Klopper
-VII    Dr. Paul Elzelin de Klopper, geboren op 09-10-1785, gedoopt op 26-10-1785, arts te De Rijp, overleden Amsterdam 17-09-1821, tr. in Amsterdam op 08-05-1810 met Cornelia van Nueborgh, gedoopt in Amsterdam op 25-04-1791, overleden Amsterdam 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
+VII    Dr. Paul Elzelin de Klopper, geboren op 09-10-1785, gedoopt op 26-10-1785, arts te De Rijp, overleden in Amsterdam op 17-09-1821, tr. in Amsterdam op 08-05-1810 met Cornelia van Nueborgh, gedoopt in Amsterdam op 25-04-1791, overleden in Amsterdam op 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
 
 Uit dit huwelijk:  
-1. Elseline de Klopper, geboren in Amsterdam op 23-05-1812, overleden 07-11-1843, tr. in Leiden op 29-10-1834 met Adrianus Cornelis Hanegraaff, Rijksbetaalmeester.  
+1. Elseline de Klopper, geboren in Amsterdam op 23-05-1812, overleden op 07-11-1843, tr. in Leiden op 29-10-1834 met Adrianus Cornelis Hanegraaff, Rijksbetaalmeester.  
 2. Jan, geboren in De Rijp op 20-07-1813, volgt [VIIIa](#viiia-mr-jan-de-klopper).  
 3. Felix, geboren in De Rijp op 07-11-1817, volgt [VIIIb](#viiib-mr-felix-de-klopper).  
 
 ### VIIIa. Mr. Jan de Klopper
-VIIIa    Mr. Jan de Klopper, geboren in De Rijp op 20-07-1813, subst. Off. van Justitie te Arnhem, overleden Tiel 07-12-1887, tr. in Rotterdam op 28-09-1837 met Maria Anna Hanegraaff, geboren in Gorinchem op 16-10-1815, overleden Tiel 06-01-1889, dochter van Cornelis Hanegraaff en Magdalena Sara Leonora de Vries.  
+VIIIa    Mr. Jan de Klopper, geboren in De Rijp op 20-07-1813, subst. Off. van Justitie te Arnhem, overleden in Tiel op 07-12-1887, tr. in Rotterdam op 28-09-1837 met Maria Anna Hanegraaff, geboren in Gorinchem op 16-10-1815, overleden in Tiel op 06-01-1889, dochter van Cornelis Hanegraaff en Magdalena Sara Leonora de Vries.  
 
 Uit dit huwelijk:  
-1. Madeleine Henriëtte de Klopper, geboren in Arnhem op 05-04-1843, overleden Tiel 26-08-1894, tr. in Tiel op 29-05-1873 met Jhr Jean Jacques David Pierre Reuchlin, geboren in Rotterdam op 19-09-1840, zoon van Jhr Maarten Reuchlin en Wilhelmina Sybilla van Diest.  
+1. Madeleine Henriëtte de Klopper, geboren in Arnhem op 05-04-1843, overleden in Tiel op 26-08-1894, tr. in Tiel op 29-05-1873 met Jhr Jean Jacques David Pierre Reuchlin, geboren in Rotterdam op 19-09-1840, zoon van Jhr Maarten Reuchlin en Wilhelmina Sybilla van Diest.  
 2. Adrianus Cornelis, volgt [IX](#ix-adrianus-cornelis-de-klopper).  
 
 ### VIIIb. Mr. Felix de Klopper
-VIIIb    Mr. Felix de Klopper, geboren in De Rijp op 07-11-1817, burgemeester van Schoonhoven van 1852 tot 1858, daarna commissaris van politie te Amsterdam, vanaf 1863 hoofdcommissaris aldaar, overleden Amsterdam 31-03-1878, tr. in Leiden op 07-09-1842 met Cornelia de Timmerman, geboren in Antwerpen op 12-09-1818, overleden Den Haag 09-04-1883, dochter van Willem de Timmerman en Cornelia Voorduijn.  
+VIIIb    Mr. Felix de Klopper, geboren in De Rijp op 07-11-1817, burgemeester van Schoonhoven van 1852 tot 1858, daarna commissaris van politie te Amsterdam, vanaf 1863 hoofdcommissaris aldaar, overleden in Amsterdam op 31-03-1878, tr. in Leiden op 07-09-1842 met Cornelia de Timmerman, geboren in Antwerpen op 12-09-1818, overleden in Den Haag op 09-04-1883, dochter van Willem de Timmerman en Cornelia Voorduijn.  
 
 Uit dit huwelijk:  
 1. Catharina Johanna Maria de Klopper, geboren in Schoonhoven op 06-03-1858\*, tr. in Den Haag op 17-08-1882 met Karel Johannes van Ravenswaay, geboren in Loosdrecht op 27-12-1849\*, gepens. Kolonel der Artillerie, zoon van Jan van Ravenswaay en Anna Cornelia Elisabeth de Vries.  
@@ -1435,7 +1435,7 @@ Uit dit huwelijk:
 \* Leefden kennelijk nog ten tijde van het opmaken van de Stamboom in Nederland’s Patriciaat.  
 
 ### IX. Adrianus Cornelis de Klopper  
-IX    Adrianus Cornelis de Klopper, geboren in Arnhem op 23-06-1849, overleden Le Havre 13-10-19??, tr. met NN, waaruit een zoon, van wie geen gegevens.  
+IX    Adrianus Cornelis de Klopper, geboren in Arnhem op 23-06-1849, overleden in Le Havre op 13-10-19??, tr. met NN, waaruit een zoon, van wie geen gegevens.  
   
 Ik neem aan, dat het geslacht is uitgestorven.  
   
