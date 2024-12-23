@@ -656,7 +656,7 @@ IIId    Philps de Bucquoy, van Bondu, woont Haerlemstraet, kleermaker, Waals ond
 
 Uit dit huwelijk:  
 1. Jean, Waals gedoopt 23-02-1661, getuige Jean du Quesne et Marie Masse.  
-2. Sara (de) Bucquoy, Waals gedoopt 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, Waals ondertrouw 07-10-1689/tr. Voorschoten Jean Howel, woont Scheystraet, weduwnaar van Mary Hoesee.  
+2. Sara (de) Bucquoy, Waals gedoopt 29-03-1665 (getuige Walrand des Bucquoy et sa femme, Denis des Tailleur et Jeane le Conte), woont Nieuwestraet, Waals ondertrouw 07-10-1689, tr. (?) Voorschoten Jean Howel, woont Scheystraet, weduwnaar van Mary Hoesee.  
 3. Abram (18), Waals gedoopt 21-10-1668, getuige Jean de Buquoy, Jullien Clase avec sa femme, et Anne Verratien.  
 4. Maria de Bekoy, geboren 24-06-1672, Waals gedoopt 26-06-1672 (getuige Jacques Desremeaux, Pierre Desremeaux, Marie des Cotiviens et Pironne Roussé), begraven 02/09-07-1740[†](#notitie), ondertrouw 30-05-1698 (getuige Sara de Bekoy haar zuster) Johannes la Louw, overleden voor 02/09-07-1740, greinwerker van L., getuige Abraham la Louw zijn broeder.  
 
@@ -853,7 +853,7 @@ Uit dit huwelijk:
 6. Petronella Bekooy, geboren 13-08-1824, dienstbode, overleden 15-01-1862, tr. 18-09-1861 Jacob Kreyermaat, geboren Amersfoort 02-12-1826, zonder beroep, overleden niet gevonden, zoon van Evert Kreyermaat en Geertruij Bloemendaal.  
     - Buitenechtelijk kind: Petronella, geboren 05-07-1849, overleden 06-04-1850  
 7. Thomas Bekooy, geboren 31-12-1826, warmoezier, overleden 26-10-1859, tr. 01-08-1855 Gijsje van Oosten, geboren 14-10-1822, overleden 22-09-1868, dochter van Maria van Oosten. Geen kinderen.  
-8. Cornelia Bekooy, geboren 31-12-1826, dienstbode, overleden 09-10-1910, 1) tr.(?) Klaas van Huijzen, 2) tr. 30-01-1878 Anthony Vrijbloed, geboren 18-08-1821, stadswerker, overleden 01-07-1905, zoon van Christiaan Vrijbloed en Jacoba Groenewegen.  
+8. Cornelia Bekooy, geboren 31-12-1826, dienstbode, overleden 09-10-1910, 1) tr. (?) Klaas van Huijzen, 2) tr. 30-01-1878 Anthony Vrijbloed, geboren 18-08-1821, stadswerker, overleden 01-07-1905, zoon van Christiaan Vrijbloed en Jacoba Groenewegen.  
     - Buitenechtelijk kind: Cornelis, geboren 11-03-1851, overleden 20-05-1853  
 
 ### VIIIg. Abraham Johannes Bekooy
@@ -1188,7 +1188,7 @@ Uit dit huwelijk:
 1. Marie, Waals gedoopt 21-09-1631 (getuige Martin Carnoy, Jean Tervaque, Marie du Bois et Jeanne Clarisse), jong overleden  
 2. Philippe, Waals gedoopt 07-12-1632, getuige Philippe des Buquoy, Jean Wallan, Catheline Tiberghien et Barbe Scauereux, volgt [IIIa](#iiia-philippus-du-bucquoy).  
 3. Henri, Waals gedoopt 03-12-1634 (getuige Samuel des Planques, Jean du Rieu, Marie du Bois et Jenne Clarisse), overleden voor 05-06-1677 (15).  
-4. Jeanne (Jannetgen) Bucquoy, Waals gedoopt 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overleden voor 12-05-1678, 1) ondertrouw 09-10-1659 Phillips de Prez, bakker van Mervillje, overleden voor 03-12-1670, 2) ondertrouw 03-12-1670 Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Getr. Zoeterwoude 18-12-1670 Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, weduwnaar van Jannetge de Bucquoy, ondertrouw 12-05-1678 Anna Kamper).  
+4. Jeanne (Jannetgen) Bucquoy, Waals gedoopt 12-10-1636 (getuige Jean de Lannoy, Pierre Svreux, Marie Hecboumé et Jeanne Favarcq), overleden voor 12-05-1678, 1) ondertrouw 09-10-1659 Phillips de Prez, bakker van Mervillje, overleden voor 03-12-1670, 2) ondertrouw 03-12-1670 Frans Hoppa, Bakker van Leyden, getuige Davidt de Hoppa zijn vader. Trouwde in Zoeterwoude op 18-12-1670. Voor de Leidse armen werd f. 1-11-8 gedoneerd. (Franchois Hoppa, weduwnaar van Jannetge de Bucquoy, ondertrouw 12-05-1678 Anna Kamper).  
 5. Marie, Waals gedoopt 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overleden voor 05-06-1677 (15).  
 6. Susanne du Buquoy, Waals gedoopt 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, Waals ondertrouw 05-11-1677 Pauls van der Poel, weduwnaar van Aeltge Claes van Immerseel, woont Uytterstegraft.  
 7. Jacques, geboren 08-09-1641, Waals gedoopt 12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overleden voor 05-06-1677 (15) .  
@@ -1541,7 +1541,7 @@ Nav = De Navorscher
 9) RAL, Vgdb D, 144 dd. 03-04-1636  
 10) RAL, Quit. Voljaarden F, 250  
 11) RAL, Gr.Bew. T, f. 202 dd. 28-03-1634  
-12) RAL, Weeskamerboedel N 2918, betr. Eva Muller. Hierin een los stuk, gedateerd 12-03-1691, waarin een overeenkomst wordt gesloten tussen Andries van Roest, bode met de roede in Leiden, als weduwnaar en erfgenaam van Paulina de Bucquoy en de voogden van Paulina’s voorzoon Benjamin Muller. Een ander los stuk, gedateerd 07-11-1679, refereert aan een schuldbekentenis van het paar Van Roest/De Bucquoy aan Paulina’s zwager Simon Vliettoorn, die is opgemaakt voor een Amsterdamse notaris.  
+12) RAL, Weeskamerboedel N 2918, betreffend Eva Muller. Hierin een los stuk, gedateerd 12-03-1691, waarin een overeenkomst wordt gesloten tussen Andries van Roest, bode met de roede in Leiden, als weduwnaar en erfgenaam van Paulina de Bucquoy en de voogden van Paulina’s voorzoon Benjamin Muller. Een ander los stuk, gedateerd 07-11-1679, refereert aan een schuldbekentenis van het paar Van Roest/De Bucquoy aan Paulina’s zwager Simon Vliettoorn, die is opgemaakt voor een Amsterdamse notaris.  
 13) De Navorscher (Nav) 10 (1860), p. 290.  
 14) RAL, Proc. E, 32 dd. 06-04-1761.  
 15) RAL, Secl. E, f. 262v  
