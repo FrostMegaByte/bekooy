@@ -156,7 +156,7 @@ Met betrekking tot de hierna volgende genealogieën-Bucquoy/Bekooy/Boek(k)oo(i,y
 In de genealogie zijn de plaatsnamen gespeld zoals ik ze in de papieren tegenkwam. De (thans) correcte spelling volgt hier: Bondu = Bondues; Turkeng en andere varianten = Tourcoing; Rijsele, Rijssel, heet thans Lille; Movou etc. = Mouvaux; Waterloo/Waterleeuw = m.i. Wattrelos, nabij Tourcoing (dus niet het Waals-Brabantse Waterloo!). Daar waar ik vermoedelijke (dus niet in de papieren gevonden) geboorteplaatsen vermeld, met name dus bij kinderen die in het verband van hun ouderlijk gezin naar Leiden kwamen, heb ik de juiste spelling gebruikt. Wat de spelling van de toenamen betreft, heb ik de vorm gebruikt die bij de ondertrouw of (na 1811) het burgerlijk huwelijk werd gevonden. Indien bij de doop of aangifte van kinderen de spelling van de toenaam van de vader van deze vorm afweek (wat nogal eens voorkwam), is de afwijkende vorm bij de naam van het kind vermeld.  
 
 Gebruikte afkortingen:
-- geb./ged. = geboren/gedoopt   
+- geb./ged. = geboren/gedoopt  
 - otr./tr. = ondertrouw/trouw  
 - overl./begr. = overleden/begraven  
 - wed/wednr. = weduwe/weduwnaar  
@@ -268,7 +268,7 @@ Uit dit huwelijk bekend, volgorde niet geheel bekend:
 4. Chaterine, Waals ged. 24-02-1602  
   
 ### IVa. Pierre de Bucquoy
-IVa    Pierre du Bucquoy, Waals ged. 1e kwartaal 1607, woont St. Aechtenstraet, droogscheerder, otr. 16-05-1639 (getuige Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waaarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
+IVa    Pierre du Bucquoy, Waals ged. 1e kwartaal 1607, woont St. Aechtenstraet, droogscheerder, otr. 16-05-1639 (getuige Jan la Tour zijn zwager) Jenne Nolaa, wed. Jaecques de Pla, woont St. Aechtenstraet, getuige Mary Fremault, haar moeder. (Jaques de Pla, bouratier van Bondu, otr. 11-08-1626 Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 
 Uit dit huwelijk:  
 1. Pierre, Waals ged. 26-02-1640, getuige Jan de le Seur, Esarie Cornar, Marie Desbucquoy et Marie Frentau, volgt [Va](#va-pieter-bucquoy)  
@@ -413,7 +413,7 @@ Uit dit huwelijk:
 VIIIb    Isaac Bekooy, ged. Leiden 13-09-1739, metselaarsknecht, overl. na 01-1808, zoon van Abram Bekooy en Catharina Hartog, otr. 24-08-1764 Geertruy Maas, ged. 03-08-1738, overl./begr. 13/16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
 
 Uit dit huwelijk:  
-1. onged. kind, begr. 23/30-03-1765  
+1. Ongedoopt kind, geb. 23-03-1765, begr. 30-03-1765  
 2. Catharina Bucquoy, ged. 19-03-1766, begr. 16/23-10-1773  
 3. Immetje Bekooy, geb. 1768, dubbelaarster, overl. 03-04-1851, otr. 28-09-1792 (getuige haar moeder Geertruy Maas) Frans van der Kaay, ged. 22-12-1771, baaijwerker, overl. 18-03-1810, zoon van Lucas van der Kaay en Dirkje Romeyn.  
 Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, wed. Frans van der Kaay, overleed op 03-04-1851 (in de 10-jarentafel: Susannetje; de akte leest duidelijk Immetje) op 83-jarige leeftijd als dochter van Isaac Bekooy en Jannetje Romijn (??). Immetje Bekooy en Frans van der Kaay worden ook genoemd bij het huwelijk van hun dochter Hendrina in Rotterdam. Op 28-09-1792 werd (RAL, KOT YY 115) de ondertrouw geregistreerd tussen Jannetje (!) Bekooy en Frans van der Kaay.  
@@ -427,7 +427,7 @@ VIIIc    Abraham Bekooy, ged. 30-11-1749, metselaarsknecht, overl. 04-02-1815, o
 Uit dit huwelijk:  
 1. Catharina Bekooy, ged. 12-03-1775, overl. 06-01-1841, otr. 12-08-1796 Jacobus van Dissel, lakenwerker, mogelijk ged. 02-10-1774 (als zoon van Isaac van Dissel en Hilletje van der Heiden), overl. 10-09-1814  
 2. Pieter, ged. 27-11-1776, begr. 27-12-1777/03-01-1778  
-3. l.l. kind, begr. 01/08-05-1779  
+3. Levenloos kind, geb./overl. 01-05-1779, begr. 08-05-1779  
 4. Johanna Bekooy, ged. 27-09-1780, overl., otr/tr 02-06/17-06-1809 Abraham Holswilder, ged. 28-08-1782, warmoezier, overl. 31-10-1813, zoon van Abram Holswilder en Maria Daelmeyer.  
 5. Leonardus Gerard, ged. 23-07-1782, volgt [IXb](#ixb-leonardus-gerard-bekooy)  
 6. Abraham, ged. 23-07-1782,  
@@ -694,7 +694,7 @@ VIa    Warnaar Bekooy, ged. 28-05-1726, greinwerker, begr. 26-12-1789/02-01-1790
 
 Uit dit huwelijk:  
 1. Rachel Bekooy, ged. 15-07-1751, overl. 27-12-1816, otr. 1) 08-05-1773 Mattheus Wesselius, ged. 02-02-1749, greindroger, begr. 27-09/04-10-1777, zoon van Willem Verselis (Wesselius) en Judith Cornilje, otr. 2) 14-07-1780 Matthijs Ouderkerk, ged. ?, begr. 15/22-05-1802, wednr. Jannetje van der Star, zoon van Johannes Ouderkerk en ??.  
-2. ll. Kind, geb./begr. 14/21-10-1752  
+2. Levenloos kind, geb./overl. 14-10-1752, begr. 21-10-1752  
 3. Johanna Bekooy, ged. 11-12-1753, otr. 21-11-1783 Matthijs leeft nog 1814, overl. t/m 1852 niet gevonden, ged. 03-11-1743, overl./begr. 18/23-12-1814, wednr. Alida Vilvoorden, zoon van Hannes Piket en Marytje het Hooft.  
 4. Jacobus, ged. 08-04-1756, volgt [VIIa](#viia-jacobus-boekooy)  
 5. Dina Bekooy, ged. 19-11-1758, overl. 16-07-1843, otr. 07-12-1787 Pieter Marka, ged. 18-04-1762, overl. 22-02-1839, wednr. Elisabeth de Nie, zoon van Willem Markaa en Santje Maarschalk.  
@@ -782,7 +782,7 @@ Uit dit huwelijk:
 1. Geertruy Boekooy, geb. 27-06-1815, overl. 09-05-1882, tr. 11-12-1834 Jacobus Tegelaar, geb. 05-12-1816, greinwever, overl. 18-12-1900, zoon van Jacobus Tegelaar en Johanna Kokkedee.  
 2. Maria Catharina, geb. 06-02-1817, overl. 24-02-1817  
 3. Maria Catharina Bekooy, geb. 18-02-1820, overl. 07-01-1913, tr. 03-08-1853 Johannes Huge, geb. 20-12-1818, molenaarsknecht, overl. 12-06-1866, zoon van Hendrik Huge en Grietje Hennebiek.  
-4. l.l., geb./overl. 02-04-1823  
+4. Levenloos kind, geb./overl. 02-04-1823  
 5. Jacobus, geb. 28-04-1828, overl. 26-05-1855  
 6. Alida Dina Bekooy, geb. 15-06-1833, overl. 22-11-1916, tr. 10-02-1858 Hermanus de Vink, geb. 23-02-1828, blauwverver, overl. 27-03-1899, zoon van Carel de Vink en Willemina van der Ark.  
 
@@ -816,7 +816,7 @@ Het overlijden van Geertruy Bekooy en Christiaan Bronkhorst is in Leiden niet ge
 5. Pieternella, geb. 30-07-1838  
 6. Antonia, geb. 19-03-1831, overl. 03-12-1835  
 7. Jacobus, geb. 15-04-1833  
-8. l.l., geb./overl. 01-08-1836  
+8. Levenloos kind, geb./overl. 01-08-1836  
 9. Klaas, geb. 18-06-1837  
 10. Antonie, (Boekkooi) geb. 29-05-1841, volgt [IXc](#ixc-antonie-boekkooi)  
   
@@ -943,7 +943,7 @@ IXc    Antonie Boekkooi, 29-04-1841, zijdewever, overl. 28-11-1888, tr. 23-06-18
 Uit dit huwelijk:  
 1. Antonia Margaretha Boekkooi, geb. (als De Vries) 06-02-1869, tr. 03-09-1890 Frederik Theodorus Johannes Christiaanse, timmerman, geb. 11-12-1866, zoon van Abraham Christiaanse en Dirkje Dobbe.  
 2. Antonie Boekkooi, geb. 02-02-1873, overl. 31-10-1920, tr. 12-02-1902 Cornelia Boot, geb. Leimuiden (28 j), overl. niet gevonden maar na haar man, dochter van Pieter Boot en Adewij Louisa Overvoorde. Mogelijk nageslacht.  
-3. l.l. kind, geb./overl. 26-06-1874  
+3. Levenloos kind, geb./overl. 26-06-1874  
 4. Catharina, geb. 11-08-1875, overl. 14-08-1879  
 5. Johanna Josina, geb. 10-03-1877  
 6. Cornelis, geb. 05-02-1879  
@@ -962,7 +962,7 @@ Uit dit huwelijk:
 3. Jacoba Bekooy, geb. 16-07-1867, overl. 22-06-1949, tr. 23-08-1899 Pieter Bavelaar, geb. 02-12-1870, timmerman, overl. na zijn vrouw, zoon van Abraham en Johanna Wilhelmina de Koning.  
 4. Elisabeth, geb. 1870, overl. 07-02-1871  
 5. Jacob Bekooy, geb. 07-02-1872, fabrieksarbeider, overl. 05-03-1934, tr. 04-10-1899 Clara Antonietta de Bruijn, geb. 11-04-1875, overl. na haar man, dr. van Louis Gerardus en Jannetje Isabelle van den Bosch. Mogelijk nakomelingen.  
-6. l.l., geb./overl. 05-08-1874  
+6. Levenloos kind, geb./overl. 05-08-1874  
 7. Elisabeth, geb. 13-12-1875, overl. 07-09-1882  
 8. Nicolaas, geb. 01-05-1878, overl. 06-09-1887  
 9. Pieter, geb. 08-07-1881, overl. 31-07-1881  
@@ -975,7 +975,7 @@ IXe    Jacobus Bekooij, geb. 08-01-1821, sjouwer, overl. Oegstgeest 15-05-1900, 
 
 Uit dit huwelijk:  
 1. Jansje Bekooy, geb. 30-08-1846, overl. Oegstgeest 04-11-1915, tr. 29-05-1872 Johannes Nieuwenburg, geb. 24-04-1848, timmerman, overl. 05-06-1915, zoon van Johannes en Jannetje de Wever.  
-2. l.l., geb./overl. 27-01-1849  
+2. Levenloos kind, geb./overl. 27-01-1849  
 3. Jan, geb. 15-09-1850, volgt [Xb](#xb-jan-bekooy)  
 4. Gerrit, geb. 15-02-1853, overl. 26-04-1856  
 5. Alida Bekooy, geb. 20-08-1856, ongeh. overl. 07-02-1880  
@@ -1001,10 +1001,10 @@ IXg    Johannes Bekooi, geb. Deventer 09-03-1821, kunstdraaier, overl. 03-07-189
 
 Uit dit huwelijk:  
 1. Jansje, geb. 07-07-1843 (gewettigd), overl. 10-01-1851  
-2. l.l., geb./overl. 17-02-1846  
+2. Levenloos kind, geb./overl. 17-02-1846  
 3. Willem Jacobus, geb. 14-02-1847, overl. 07-01-1851  
 4. Johannes Jacobus, geb. 16-11-1850, volgt [Xd](#xd-johannes-jacobus-bekooy)  
-5. l.l., geb./overl. 15-12-1853  
+5. Levenloos kind, geb./overl. 15-12-1853  
 6. Willem, geb. 24-11-1854, volgt [Xe](#xe-willem-bekooi)  
 7. Jansje, geb. 07-05-1857, overl. 17-04-1858  
 8. Jan, geb. 28-07-1859, overl. 08-04-1860  
