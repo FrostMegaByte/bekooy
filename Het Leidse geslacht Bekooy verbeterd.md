@@ -279,8 +279,8 @@ IVb    Jheremias de Bucquoy, geboren Leiden ca. 1588, passementwerker, overleden
 
 Uit het eerste huwelijk:  
 
-1. Lowijs, geboren 11-09-1611/Waals gedoopt 29-01-1612, overleden voor 03-04-1636 (9)  
-2. Martine de Bucquoy, Waals gedoopt ??-3/4/5-1614, tr. voor 1647 (?) met Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
+1. Lowijs, geboren 11-09-1611, Waals gedoopt 29-01-1612, overleden voor 03-04-1636 (9)  
+2. TODO: Martine de Bucquoy, Waals gedoopt ??-3/4/5-1614, tr. voor 1647 (?) met Andries Aertsz van der Schuyren, mogelijk te Utrecht (10).  
 3. Jeremias, geboren 1616/17, overleden voor 1647 (?)  
 4. Jan, Nederduits Gereformeerd gedoopt 30-12-1621, volgt [Vc](#vc-jean-de-bucquoy)  
 
@@ -732,7 +732,7 @@ VIIb    Anthony Bekooy, gedoopt 08-10-1752, lakenwerker, overleden 19-03-1814, b
 
 Uit dit huwelijk:  
 1. Kaatje Bekooy, gedoopt 26-04-1778, spinster, overleden 09-04-1857, 1) ondertrouw op 20-07-1804, tr. (als Caatje Peut) op 02-08-1804 met Jan Overduyn, overleden 24-10-1808, weduwnaar van Anna van der Voorde(n) (ondertrouw op 16-07-1757), 2) tr. op 23-08-1827 met Jacobus Scheffer, Elu gedoopt 14-07-1756, kleermaker, overleden 21-04-1846, weduwnaar van Jacoba de Haas, zoon van Johan Valentin Scheffer en Pieternelletje van Tilburg  
-2. Anna, gedoopt 13-01-1780, begraven 02-09-04-1785  
+2. Anna, gedoopt 13-01-1780, begraven 02/09-04-1785[†](#notitie)  
 3. Pieternelletje, gedoopt 11-04-1782  
 4. Antonia Bekooi, gedoopt 23-05-1784, overleden 13-06-1843, ondertrouw op 26-08-1808 met Jan Nagelsmit, gedoopt 10-03-1785, opperman, overleden 14-01-1852, zoon van Stephanus Nagelsmit en Gerida Taayspel.  
 5. Jacob, geboren 04-09-1786, gedoopt 05-09-1786, volgt [VIIIe](#viiie-jacob-bekooy)  
