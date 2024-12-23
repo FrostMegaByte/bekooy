@@ -1194,7 +1194,7 @@ Uit dit huwelijk:
 5. Marie, Waals ged. 25-10-1638 (getuige Henri Ellenon, Jean Carrette, Marguerite de la Rue et Jeanne Lagache), overl. voor 05-06-1677 (15).  
 6. Susanne du Buquoy, Waals ged. 21-10-1640 (getuige Jan d’Escobet, Andrieu Catoire, Jeanne Descaux en Aman de Millecam), woont Nieuwe Heeregraft, Waals otr. 05-11-1677 Pauls van der Poel, weduwnaar van Aeltge Claes van Immerseel, woont Uytterstegraft.  
 7. Jacques, geboren 08-09-1641, Waals ged. 12-09-1641 (getuige Jan de la Mot, Guillaume Buseux, Marie Destre et Jeanne Jeaumin), overl. voor 05-06-1677 (15) .  
-8. Ester, Waals ged. 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overl. voor 05-06-1677 (15).  
+8. TODO: Ester, Waals ged. 25/26/27-12-1643 (getuige Pierre des Bucquoy, Abram Carette, Susanne des Bucquoy et Sara Croillar), overl. voor 05-06-1677 (15).  
 9. Marie, Waals ged. 21-02-1644 (getuige Jan des Tombe, Jacques le Plat, Judith et Sara des Bucquoy), jong overl.  
 10. Jean, Waals ged. 30-04-1645 (getuige Arent Smitsaer, Noé Catoire, Susanne Gofar et Sara L’ansel), overl. voor 05-06-1677 (15)  
 11. Elisabeth, Waals ged. 15-04-1646 (getuige Lauren de Planques, Tybaut Lambert, Marie Hubert et Ester Pierreux), overl. voor 05-06-1677 (15).  
