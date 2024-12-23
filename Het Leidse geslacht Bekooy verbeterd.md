@@ -558,7 +558,7 @@ Uit dit huwelijk:
 5. Johannes Antonius, geboren op 30-06-1875, overleden 07-03-1876.  
 
 ### XIc. Pieter Albertus Bekooy
-XIc    Pieter Albertus Bekooy, geboren op 31-05-1864, smid, overleden, tr. op 15-05-1895 met Cornelia van Sluys, geboren in Leeuwarden op 14-10-1874, overleden, dochter van Sein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in GenLias. De Leidse trouwakte geeft ‘Leen’.  
+XIc    Pieter Albertus Bekooy, geboren op 31-05-1864, smid, overleden, tr. op 15-05-1895 met Cornelia van Sluys, geboren in Leeuwarden op 14-10-1874, overleden, dochter van Sein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in [GenLias](https://nl.wikipedia.org/wiki/Genlias) (tegenwoordig [WieWasWie](https://www.wiewaswie.nl/)). De Leidse trouwakte geeft ‘Leen’.  
 
 Uit dit huwelijk:  
 1. Pieter, geboren op 16-05-1896  
