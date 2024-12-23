@@ -404,7 +404,7 @@ VIIIa    Leendert Bekooy, ged. 14-10-1737, molenaarsknecht, overl. 14-04-1822, o
 
 Uit dit huwelijk:  
 1. Jezyntje, ged. 22-03-1763, begr. 19/26-12-1767  
-2. Maria Catharina Bekooy, ged. 27-06-1766, ongeh. overl. 02-10-1829  
+2. Maria Catharina Bekooy, ged. 27-06-1766, ongehuwd overl. 02-10-1829  
 3. Alida Bekooy, ged. 10-01-1770, overl. Leiderdorp 24-05-1830, otr. 1) 14-04-1791 Pieter van Klaveren, ged. 05-10-1768, melkverkoper, overl. Leiderdorp 11-08-1816, zoon van Willem van Klavere en Marytie van der Plas, tr. 2) Leiderdorp 22-03-1818 Ary Poot, ged. Maasland 19-11-1786, jagersbaas, overl. Leiderdorp 13-09-1831, zoon van Jan Poot en Neltje van der Waal.  
 4. Joannes, ged. 20-12-1772, volgt [IXa](#ixa-johannes-bekooy)  
 
@@ -441,7 +441,7 @@ IXa    Johannes Bekooy, ged. 20-12-1772, letterzettersknecht, overl. 15-01-1843,
 Uit het eerste huwelijk:
 
 1. Johannes, ged. 29-05-1796, volgt [Xa](#xa-johannes-bekooy)  
-2. Helena Margareta Bekooy, ged. 01-04-1801, ongeh. overl. 20-08-1885  
+2. Helena Margareta Bekooy, ged. 01-04-1801, ongehuwd overl. 20-08-1885  
   ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader  
     - Johannes, 67 jaar: Johannes, geb. nov./dec. 1839, overl. 09-05-1840  
 
@@ -464,8 +464,8 @@ IXc    Abraham Bekooy, ged. 25-07-1787, mandenmaker, overl. 16-03-1864, tr. 01-0
 Uit dit huwelijk:  
 1. Abraham, geb. 12-07-1817, volgt [Xd](#xd-abraham-bekooy)  
 2. Jacob Johannes, geb. 14-06-1820, overl. 14-12-1832  
-3. Johanna Jacoba Bekooy, geb. 20-03-1823, ongeh. overl. 20-04-1890.  
-4. Leonardus Gerard Johan Bekooy, geb. 06-02-1826, mandenmaker, ongeh. overl. 25-02-1884.  
+3. Johanna Jacoba Bekooy, geb. 20-03-1823, ongehuwd overl. 20-04-1890.  
+4. Leonardus Gerard Johan Bekooy, geb. 06-02-1826, mandenmaker, ongehuwd overl. 25-02-1884.  
 
 ### IXd. Pieter Bekooy
 IXd    Pieter Bekooy, ged. 27-09-1789, timmerman, overl. 10-09-1866, tr. 20-02-1817 Catharina Midderhof, ged. 06-02-1785, overl. 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise  
@@ -481,10 +481,10 @@ IXe    Hendrik Bekooy, ged. 08-07-1792, metselaar, overl. 17-04-1874, tr. 28-10-
 
 Uit dit huwelijk:  
 1. Abraham Bekooy, geb. 08-01-1813, overl. 04-02-1893  
-2. Catharina Maria Bekooy, geb. 18-07-1815, ongeh. overl. 30-01-1874  
+2. Catharina Maria Bekooy, geb. 18-07-1815, ongehuwd overl. 30-01-1874  
 3. Hendrika Geertruida Bekooy, geb. 21-12-1816, dienstbode, overl. Den Haag 22-05-1891, tr. 08-08-1849 Abraham Wassenburg, geb. 06-07-1819, schoenmaker, overl. Veenhuizen (gem. Norg) 09-02-1859, zoon van Aron Wassenburg en Susanna Anneeze. Het paar verhuist met attestatie op 01-10-1854 naar Veenhuizen.  
 4. Isaac, geb. 30-07-1819, overl. 20-11-1821  
-5. Sara Bekooy, geb. 28-09-1822, ongeh. overl. 24-09-1908  
+5. Sara Bekooy, geb. 28-09-1822, ongehuwd overl. 24-09-1908  
 6. Geertruida Johanna Bekooy, geb. 25-05-1824, overl. 05-10-1899  
 7. Isaac, geb. 02-04-1826  
 
@@ -517,12 +517,12 @@ Het overlijden van Jannetje Gijsje Bekooy en Fredrik Richard is tot 1950 niet in
 Xc    Pieter Bekooy, geb. 08-07-1823, overl. 19-11-1893, smid, tr. 02-09-1857 Jacoba Petronella de Cler, geb. 27-02-1828, overl. 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
 
 Uit dit huwelijk:  
-1. Catharina Bekooy, geb. 03-08-1858, ongeh. overl. 16-02-1947  
-2. Wijntje Bekooy, geb. 07-02-1862, ongeh. overl. 03-04-1940  
+1. Catharina Bekooy, geb. 03-08-1858, ongehuwd overl. 16-02-1947  
+2. Wijntje Bekooy, geb. 07-02-1862, ongehuwd overl. 03-04-1940  
 3. Pieter Albertus, geb. 31-05-1864, volgt [XIc](#xic-pieter-albertus-bekooy)  
 4. Jacoba Petronella, geb. 10-03-1866, overl. 01-04-1866  
 5. Jacobus, geb. 09-11-1867, overl. 28-03-1870  
-6. Jacoba Petronella Bekooy, geb. 02-03-1871, ongeh. overl. 26-08-1937  
+6. Jacoba Petronella Bekooy, geb. 02-03-1871, ongehuwd overl. 26-08-1937  
 
 ### Xd. Abraham Bekooy
 Xd    Abraham Bekooy, geb. 12-07-1817, timmerman, overl. 21-06-1849, tr. 24-11-1842 Elisabeth de Bink, geb. 22-11-1820, overl. Rotterdam 23-11-1904, dochter van Johannes Bink en Jansje van Leeuwen.  
@@ -930,7 +930,7 @@ IXb    Warnaar Bekooy, geb. 13-11-1822, opperman, overl. 29-01-1885, otr. 1) 04-
 
 Uit het tweede huwelijk:  
 
-1. Jannetje Bekooy, geb. 18-06-1858, ongeh. overl. 05-11-1932.  
+1. Jannetje Bekooy, geb. 18-06-1858, ongehuwd overl. 05-11-1932.  
 2. Jacobus Bekooy, geb. 10-04-1861, fabriekwerker, overl. 10-03-1905, tr. 20-08-1890 Jacoba van der Linden, geb. 29-04-1861, overl. 10-05-1911, dochter van Johannes en Maria Schouten.  
 3. Catharina, geb. 16-04-1863, overl. 02-08-1865  
 4. Maria Catharina, geb. 30-11-1865  
@@ -947,7 +947,7 @@ Uit dit huwelijk:
 5. Johanna Josina, geb. 10-03-1877  
 6. Cornelis, geb. 05-02-1879  
 7. Jacobus, geb. 08-03-1881, overl. 15-03-1881  
-8. Jacobus Boekkooi, geb. 22-06-1882, ongeh. overl. Oegstgeest 18-01-1928  
+8. Jacobus Boekkooi, geb. 22-06-1882, ongehuwd overl. Oegstgeest 18-01-1928  
 9. Catrina, geb. 22-06-1882  
 10. Johan Jacob, geb. 18-03-1884  
 11. Petronella, geb. 03-09-1885  
@@ -977,7 +977,7 @@ Uit dit huwelijk:
 2. Levenloos kind, geb./overl. 27-01-1849  
 3. Jan, geb. 15-09-1850, volgt [Xb](#xb-jan-bekooy)  
 4. Gerrit, geb. 15-02-1853, overl. 26-04-1856  
-5. Alida Bekooy, geb. 20-08-1856, ongeh. overl. 07-02-1880  
+5. Alida Bekooy, geb. 20-08-1856, ongehuwd overl. 07-02-1880  
 6. Geertrui, geb. 07-03-1859  
 7. Jacoba Bekooy, geb. 26-01-1862, dienstbode, overl. 08-06-1901  
 8. Gerrit, geb. 28-02-1864  
@@ -988,7 +988,7 @@ IXf    Jacobus Bekooy, geb. 11-02-1814, sjouwer, overl. 20-10-1854, tr. 11-09-18
 
 Uit dit huwelijk:  
 1. Jacobus, geb. 01-02-1835 (gewettigd bij huwelijk), overl. 03-05-1854  
-2. Willem Bekooy, geb. 28-08-1839 (gewettigd bij huwelijk), ongeh. overl. 30-04-1903.  
+2. Willem Bekooy, geb. 28-08-1839 (gewettigd bij huwelijk), ongehuwd overl. 30-04-1903.  
 3. Johannes, geb. 28-06-1841 (gewettigd bij huwelijk), volgt [Xc](#xc-johannes-bekooy)  
 4. Jan, geb. 05-02-1844, overl. 07-09-1845  
 5. Maria Bekooy, geb. 15-07-1846, overl. 30-01-1917, tr. 28-04-1869 Willem Frederik Prins, wever, geb. Den Haag 14-03-1845, overl. 06-07-1917, zoon van Egbertus en Maria Cornelia van der Bent.  
@@ -1057,7 +1057,7 @@ Uit dit huwelijk:
 4. Jacobus, geb. 25-10-1878  
 5. Willem, geb. 02-10-1880, volgt [XIh](#xih-willem-bekooy)  
 6. Susanna, geb. 16-04-1883  
-7. Johanna Maria Bekooy, geb. 24-12-1885, werkster, ongeh. overl. 02-04-1947.  
+7. Johanna Maria Bekooy, geb. 24-12-1885, werkster, ongehuwd overl. 02-04-1947.  
 8. Margaretha Bekooy, geb. 31-10-1887, overl. 21-06-1939, tr. 25-10-1911 David Leugering, geb. 24-06-1888, katoenwever, zoon van David Leugering en Jacoba Guly.  
 9. Jacoba, geb. 11-09-1889, overl. 12-04-1894  
 10. Stijntje, geb. 14-10-1891, overl. 11-10-1897  
