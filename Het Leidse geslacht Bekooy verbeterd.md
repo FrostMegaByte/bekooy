@@ -639,7 +639,7 @@ Uit dit huwelijk:
 5. Gerard, geboren/Waals gedoopt 22-05-1676 (getuige Louys Gloslain, Jehanne Dervaux).  
 6. Pierre, geboren 22-03-1679, Waals gedoopt 26-03-1679, (getuige Pierre Genot, Judith Janse et Elisabeth Dervaux), overleden voor 25-10-1683.  
 
-Op 25-10-1683 worden Pieter Anthonisz, bierdrager, en Anthony Bucquoy, greinwerker, voogd gesteld over Warnaer, 18 j, en Susanna, 10 j, nagelaten kinderen van Gerrit de Bucquoy bij Elisabeth Jennot (17).  
+Op 25-10-1683 worden Pieter Anthonisz, bierdrager, en Anthony Bucquoy, greinwerker, voogd gesteld over Warnaer, 18 jaar, en Susanna, 10 jaar, nagelaten kinderen van Gerrit de Bucquoy bij Elisabeth Jennot (17).  
 
 ### IIIc. Anthony de Bucquoy
 IIIc    Anthony de Bucquoy, van Bondu, woont Scheystraet, greinwever, Waals ondertrouw op 31-03-1685 (getuige Jan le Moine zijn zwager) met Sara van der Walle, gedoopt 11-04-1655, dochter van Mathieu van de Walle en Jannetje Coninck, woont Corte Scheystraet.  
@@ -900,8 +900,8 @@ Uit dit huwelijk:
 5. Abraham, geboren 13-03-1826  
 6. Jannetje Bekooy, geboren 24-12-1829, overleden, tr. op 24-11-1858 met Daniel Verhoeven, geboren 17-01-1828, sjouwer, overleden, zoon van Jacobus Verhoeven en Jannetje la Lau.  
 Voorkinderen Jannetje:  
-    - Jannetje, geboren –01-1851, overleden 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
-    - Jakobus, geboren eind 1856/begin 1857, overleden 13-05-1858  
+    - Jannetje, geboren ??–01-1851, overleden 25-04-1851 (toeschrijving moederschap aan deze Jannetje onzeker)  
+    - Jakobus, geboren eind 1856/begin 1857, overleden 13-05-1858.  
     - Jannetje Cornelia, geboren 18-09-1858, erkend bij huwelijk.  
 1. Arie Bekooi, geboren 24-09-1830, dekenverver, overleden aangeg. Norg/Veenhuizen 25-04-1848  
   
@@ -934,7 +934,7 @@ IXc    Antonie Boekkooi, 29-04-1841, zijdewever, overleden 28-11-1888, tr. op 23
 
 Uit dit huwelijk:  
 1. Antonia Margaretha Boekkooi, geboren (als De Vries) 06-02-1869, tr. op 03-09-1890 met Frederik Theodorus Johannes Christiaanse, timmerman, geboren 11-12-1866, zoon van Abraham Christiaanse en Dirkje Dobbe.  
-2. Antonie Boekkooi, geboren 02-02-1873, overleden 31-10-1920, tr. op 12-02-1902 met Cornelia Boot, geboren Leimuiden (28 j), overleden niet gevonden maar na haar man, dochter van Pieter Boot en Adewij Louisa Overvoorde. Mogelijk nageslacht.  
+2. Antonie Boekkooi, geboren 02-02-1873, overleden 31-10-1920, tr. op 12-02-1902 met Cornelia Boot, geboren Leimuiden (28 jaar), overleden niet gevonden maar na haar man, dochter van Pieter Boot en Adewij Louisa Overvoorde. Mogelijk nageslacht.  
 3. Levenloos kind, geboren/overleden 26-06-1874  
 4. Catharina, geboren 11-08-1875, overleden 14-08-1879  
 5. Johanna Josina, geboren 10-03-1877  
@@ -1019,7 +1019,7 @@ Xa    Jacob Bekooy, geboren 27-07-1837, wolkammer, overleden 27-12-1881, tr. op 
 
 Uit dit huwelijk:  
 1. Jacob, geboren 10-07-1863 volgt [XIa](#xia-jacob-bekooy)  
-2. Sara Bekooy, geboren 22-12-1864, dienstbode, overleden 25-02-1945, 1) ondertrouw op 10-02-1887 (huwelijk niet in Leiden) met Wilhelmus van de Manacker, geboren Leiden 1858/9 (niet gevonden), 28 j, melkman, overleden Delft 11-12-1890, zoon van Hendrikus Benedictus van de Manacker en Joanna Janssen, 2) tr. op 11-10-1893 met Franciscus Rietkerken, geboren 09-03-1866, werkman, overleden 07-03-1945, zoon van Christiaan en Elisabeth van Klaveren.  
+2. Sara Bekooy, geboren 22-12-1864, dienstbode, overleden 25-02-1945, 1) ondertrouw op 10-02-1887 (huwelijk niet in Leiden) met Wilhelmus van de Manacker, geboren Leiden 1858/9 (niet gevonden), 28 jaar, melkman, overleden Delft 11-12-1890, zoon van Hendrikus Benedictus van de Manacker en Joanna Janssen, 2) tr. op 11-10-1893 met Franciscus Rietkerken, geboren 09-03-1866, werkman, overleden 07-03-1945, zoon van Christiaan en Elisabeth van Klaveren.  
 3. Abraham, geboren 10-03-1866, volgt [XIb](#xib-abraham-bekooy)  
 4. Maria Sophia Bekooy, geboren 10-03-1868, overleden 07-10-1935, 1) tr. op 15-05-1889 met Johannes Willem Teljeur, geboren 06-02-1862, koetsier, overleden voor 13-05-1896 (niet in tafel gevonden), zoon van Abraham Teljeur en Maria van Taarling, 2) tr. op 13-05-1896 met Leendert Vrij, 26 jaar, geboren Hellevoetsluis 1869/70, agent van politie, zoon van Leendert Vrij en Jannetje Maria Spoor.  
 5. Jan, geboren 14-11-1869, volgt [XIc](#xic-jan-bekooy)  
@@ -1238,7 +1238,7 @@ Uit het tweede huwelijk
 5. Marie, geboren 1644, overleden voor nov. 1660 (22)  
 6. Elisabeth, geboren 1646, overleden voor nov. 1660 (22)  
 
-Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 jaar, Jaques, 11 j, Marie 9 jaar en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is (22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 jaar of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, ondertrouw in Leiden op 12-02-1637 met Mary le Beseu, van Movou.) Anthoni had twee overleden halfzusters Maria en Elisabeth (19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is (21). Marie en Elisabeth zijn voor 03-11-1660 overleden (22).  
+Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 jaar, Jaques, 11 jaar, Marie 9 jaar en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is (22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 jaar of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, ondertrouw in Leiden op 12-02-1637 met Mary le Beseu, van Movou.) Anthoni had twee overleden halfzusters Maria en Elisabeth (19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is (21). Marie en Elisabeth zijn voor 03-11-1660 overleden (22).  
 
 ### IIa. Jan de Bucquoy
 IIa    Jan de Bucquoy, geboren voor 1635, van Mouveaux, overleden kort voor 24-12-1668, woont Gaernmarckt, greinreder, Waals ondertrouw op 14-11-1657 (getuige Jean de Tombe zijn oom) met Marya de Buff, van Leyden, (overleden kort voor 28-02-1670; voogdijstelling), woont Maersmansteech, getuige Aeltgen Verroen haar schoonmoeder (= stiefmoeder). (Maria de Buff was dochter van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is waarschijnlijk niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
@@ -1291,7 +1291,7 @@ Zie hiervoor Delft en Rotterdam:
       2. Nathanael, geboren 17-05-1702, gedoopt 19-05-1702, getuige Nathanael Gautier en Marguerite de la Bergerie.  
       3. Louise, geboren 31-07-1703, gedoopt 03-08-1703, getuige Philippe Jordan (??) en Louise de la Bergerie.  
       4. Jean Philippe, geboren 07-08-1706, gedoopt 11-08-1706, getuige Jean Cashours en Marguerite Gautier.  
-  - N.B. Cornelia de Bucquoy is overleden voor 16-01-1712: 2e huwelijk Ph.J.  
+  - N.B. Cornelia de Bucquoy is overleden voor 16-01-1712: 2e huwelijk Philippe Jordan  
 
 - H 224v   Pierre Bucquo, van Gernesy (Guernsey ?), wolkammer, Waals ondertrouw op 27-04-1618 met Margriete Martijn, van Atrecht, weduwe van Pierre Poo.  
   
@@ -1301,7 +1301,7 @@ Zie hiervoor Delft en Rotterdam:
   
 - O 86v    Jean du Bucquoy, woont Oude Chingel, weduwnaar van Anna de Coucelle, Waals ondertrouw op 28-09-1648 met Sara Muysart, woont Bredestraet.  
   
-- N 263v   Toucheyn du Bucquoy, van Bondu, woont Garemart, greinwerker, Waals ondertrouw op 26-04-1647 (getuige Anthony du Bucquoy zijn oom) met Maertgen del Beeck, van Bondu, woont St. Jacobsgraft. N.B. Mogelijk is Anthony de Bucquoy te identificeren met Anthoine du Boucquois, IIId in Sectie A van de genalogieën. Deze zou dan echter al wel zeer bejaard zijn geweest (ruim 80 j!).  
+- N 263v   Toucheyn du Bucquoy, van Bondu, woont Garemart, greinwerker, Waals ondertrouw op 26-04-1647 (getuige Anthony du Bucquoy zijn oom) met Maertgen del Beeck, van Bondu, woont St. Jacobsgraft. N.B. Mogelijk is Anthony de Bucquoy te identificeren met Anthoine du Boucquois, IIId in Sectie A van de genalogieën. Deze zou dan echter al wel zeer bejaard zijn geweest (ruim 80 jaar!).  
   
 - V 169v   Tousseyn de Buquoy, weduwnaar van Marta del Beecq, woont Nieuwe Voldersgraft, ondertrouw op 13-11-1671 met Lyntge Raschal, weduwe van Frans le Fever.  
   
@@ -1464,7 +1464,7 @@ B    Jean du Bukoy, geboren Pont sur Sambre (?), tr. met NN.
 Uit dit huwelijk bekend:  
 1. Jaques, volgt [Ia](#ia-jaques-du-buskoy)  
 2. Jean, volgt (niet zeker!!!) [Ib](#ib-jean-de-bucquoy)  
-Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is daarom denkbaar, zo niet waarschijnlijk, dat deze Jean (Ib) dezelfde is als Jan de Bucquoy, ‘van Hanou’ (Henegouwen), die op 10-08-1673 in Leiden in ondertrouw gaat met Catharyna Jans, ‘van Ceulen’. Deze Jan de Bucquoy was eveneens steenhouwer, en valt verder in de Leidse genealogieën niet in te passen. Merk ook op, dat Pierre du Bucquoy ([Ia](#ia-jaques-du-buskoy)-4, [IIb](#iib-pierre-du-bucquoy)) bij zijn ondertrouw in 1685 werd vergezeld door zijn oom en voogd Jan du Buquoy, en dat een ‘Trijntje Jans, huisvrouw van Jan du Buquoy’ in Amsterdam werd begraven. Een meer gedetailleerde en van meer achtergrondinformatie voorziene genealogie van deze familie is al in 1936 gegeven door J.H. Bekouw (26). Daarin ontbreekt echter de door mij geïntroduceerde Jean (Ib).  
+Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is daarom denkbaar, zo niet waarschijnlijk, dat deze Jean (Ib) dezelfde is als Jan de Bucquoy, ‘van Hanou’ (Henegouwen), die op 10-08-1673 in Leiden in ondertrouw gaat met Catharyna Jans, ‘van Ceulen’. Deze Jan de Bucquoy was eveneens steenhouwer, en valt verder in de Leidse genealogieën niet in te passen. Merk ook op, dat Pierre du Bucquoy ([Ia](#ia-jaques-du-buskoy)-4, [IIb](#iib-pierre-du-bucquoy)) bij zijn ondertrouw in 1685 werd vergezeld door zijn oom en voogd Jan du Buquoy, en dat een ‘Trijntje Jans, huisvrouw van Jan du Buquoy’ in Amsterdam werd begraven. Een meer gedetailleerde en van meer achtergrondinformatie voorziene genealogie van deze familie is al in 1936 gegeven door J.H. Bekouw (26). Daarin ontbreekt echter de door mij geïntroduceerde Jean ([Ib](#ib-jean-de-bucquoy)).  
 
 ### Ia. Jaques du Buskoy
 Ia    Jaques du Buskoy, van Pon(t)(?) sur Sambre, steenhouwer, geboren ca. 1622 (bij huwelijk 30 jaar), begraven 01-08-1682, 1) ondertrouw op 27-07-1652 (getuige zijn vader Jean du Bukoy) met Jannetje Karet, van Doornick, begraven 09-09-1673, 2) ondertrouw op 01-09-1679 met Maria Belterman, weduwe van Artus de Witt.  
