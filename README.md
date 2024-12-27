@@ -3,7 +3,7 @@
 Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).  
 **De inhoud is gewijzigd om beter leesbaar te zijn.**  
 
-Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter gestructureerd is, bekijk: [Het Leidse Geslacht](Original.md)
+Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter gestructureerd is, bekijk: [Het Leidse Geslacht](Original.md).
 
 *Contact:*  
 ![email](email.png)
