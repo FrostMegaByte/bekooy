@@ -127,7 +127,7 @@ Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk
   - [G. GEZINNEN IN AMSTERDAM](#g-gezinnen-in-amsterdam)
     - [A. NN Bucquoy](#a-nn-bucquoy)
     - [I. Jacques Bucquoy](#i-jacques-bucquoy)
-    - [Jean. du Bukoy](#jean-du-bukoy)
+    - [B. Jean du Bukoy](#b-jean-du-bukoy)
     - [Ia. Jaques du Buskoy](#ia-jaques-du-buskoy)
     - [Ib. Jean de Bucquoy](#ib-jean-de-bucquoy)
     - [IIa. Jeronimus de Bucquoi](#iia-jeronimus-de-bucquoi)
@@ -1330,7 +1330,7 @@ Uit dit huwelijk:
 1. Susanna Adriana, geboren op 05-11-1902.  
 
 ## C. PHILIPPE DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
-  
+
 De niet bekende voorvader van deze tak kwam (vanuit Tourcoing ?) in Canterbury terecht. Hij zal een tijdgenoot zijn geweest van de personen IIIa t/m g uit lijn A. Zijn zoon Philippe de Bucquoy emigreerde met zijn gezin uit Canterbury naar Leiden, mogelijk in een periode dat het voor calvinistische protestanten in Engeland moeilijk was hun religie te belijden.  
 
 ### I. Philippe de Bucquoy
@@ -1340,6 +1340,8 @@ Uit dit huwelijk bekend:
 1. Anthoni, geboren in Canterbury in ca. 1605, volgt [II](#ii-anthoni-de-bucquoy).  
 
 ### II. Anthoni de Bucquoy
+> Voorafgaand [I](#i-philippe-de-bucquoy).
+
 II    Anthoni de Bucquoy, stoeldraaier van Cantelbergen in Engeland, ondertrouw op 12-08-1630 (getuige Philippe de Bucquoy, zijn vader) met Jannetgen Govertsdr, van Leiden (overleden/begraven op 29-04-1671), (getuige Jannetgen Claesdr, haar moeder).  
 
 Uit dit huwelijk:  
@@ -1362,6 +1364,8 @@ Uit dit huwelijk:
 Op 05-06-1677 testeert Anthony du Bucquoy, stoeldraaier op de Heeregracht, voor notaris Den Oosterling (15). Uit het testament blijkt, dat nog slechts 3 kinderen in leven zijn: Jeanne (getrouwd), Susanna en Abram (beiden nog ongehuwd). Philippe overleefde de kindertijd, trouwde en was inmiddels overleden en liet enkele (hoeveel ?) kinderen na.  
 
 ### IIIa. Philippus du Bucquoy
+> Voorafgaand [II](#ii-anthoni-de-bucquoy).
+
 IIIa    Philippus du Bucquoy, Waals gedoopt op 07-12-1632, overleden voor 05-06-1677, woont Oude Vest, Waals ondertrouw op 21-04-1661 met Cathalijne du Prez, van Marvillje, woont Gaernmarct, (getuige Proontgen du Prez, haar zuster).  
 
 Uit dit huwelijk:  
@@ -1375,6 +1379,8 @@ Uit dit huwelijk:
 8. Marya de Bucquoy, geboren op 05-06-1673, Waals gedoopt op 07-06-1673 (getuige Adrian Dancquenie, Guillaume de Vein, Marguerite de Pré, Jehanne Vieliaer), begraven tussen 04/11-12-1745[†](#notitie), ondertrouw op 07-11-1698 met Jacobus Vileyn, overleden waarschijnlijk na jan. 1716 (geboorte laatste kind, geg. ontv. van de heer K. Walle).  
 
 ### IIIb. Abraham du Buquoy
+> Voorafgaand [II](#ii-anthoni-de-bucquoy).
+
 IIIb    Abraham du Buquoy, Waals gedoopt op 25-08-1647, greinwever, woont Heeregraft, bij 2e huwelijk Doelgraft, overleden voor 01-09-1691, 1) ondertrouw op 26-04-1680 met Maertge Claes van Immerseel, geboren in Warmond (waarschijnlijk gedoopt op 07-01-1652, dochter van Claes Jansz en Martgen Willems), woont Koppenklincksteech, overleden voor 15-06-1686, 2) ondertrouw op 15-06-1686 met Geertruy Jans van Dyck, van Wijck bij Duyrstede, woont Doelgraft. (Geertruyt Jans van Dijck, weduwe van Abraham de Buckoy, woont Doelgraft, ondertrouw op 01-09-1691 met Pieter de Turck, weduwnaar van Claesie Dircks, woont Koepoortsgraft.)  
 
 Uit het eerste huwelijk:  
@@ -1408,6 +1414,8 @@ Uit het tweede huwelijk
 Op 05-11-1653 worden Jaecques le Pla en Pieter le Planque, greinreders, aangesteld als voogden over Pieter, 13 jaar, Jaques, 11 jaar, Marie 9 jaar en Lysbeth 7 ja, nagelaten kinderen van Anthonie de Bucquoy en Maria le Pla, beiden overleden. Op 04-11-1660 wordt Johannes de Bucquoy, halve broeder, greinreder, aangesteld als medevoogd over Pieter en Jacques, i.p.v. Jacques le Pla, die overleden is (22). Op 29-10-1660 worden Jan de Tombe, oom, en Pieter le Pair, neef, beiden greinreders, aangesteld als voogden over Anthoni, oud 24 jaar of daaromtrent, nagelaten weeskind van Antoni de Bucquoy en Jacquemijn Beseu. (N.B. Jean de Tombe, van Bondu, ondertrouw in Leiden op 12-02-1637 met Mary le Beseu, van Movou.) Anthoni had twee overleden halfzusters Maria en Elisabeth (19). Op 24-12-1668 wordt Jan de Buff aangesteld als medevoogd over de goederen van Jaecques, het overleden weeskind van Anthoni de Bucquoy en Maria de Pla, als opvolger van Jan de Bucquoy die overleden is (21). Marie en Elisabeth zijn voor 03-11-1660 overleden (22).  
 
 ### IIa. Jan de Bucquoy
+> Voorafgaand [I](#i-anthoni-de-bucquoy).
+
 IIa    Jan de Bucquoy, geboren voor 1635, van Mouveaux, overleden kort voor 24-12-1668, woont Gaernmarckt, greinreder, Waals ondertrouw op 14-11-1657 (getuige Jean de Tombe, zijn oom) met Marya de Buff, van Leyden, (overleden kort voor 28-02-1670; voogdijstelling), woont Maersmansteech, (getuige Aeltgen Verroen, haar schoonmoeder (= stiefmoeder)). (Maria de Buff was dochter van Jan de Buff en Marie Petit-Pree (zie Grote Bew. R 84) en is waarschijnlijk niet in Leiden geboren. De referentie is overigens eigenlijk een Akte van Seclusie, en noemt geen namen van kinderen.)  
 
 Uit dit huwelijk:  
@@ -1424,6 +1432,8 @@ Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven (24). Waarschijnl
 \* Volgens Abraham Johannes (Bram) van der Zeeuw opsteller van http://www.at16home.demon.nl/BEKOOY.htm is Marie Waals gedoopt. Maar omdat de rest Nederduits Gereformeerd gedoopt is betwijfel ik (Mark Bekooy) dit.
 
 ### IIb. Anthony de Bucquoy
+> Voorafgaand [I](#i-anthoni-de-bucquoy).
+
 IIb    Anthony de Bucquoy, van Mouvoe, woont Orangiegraft, greinwerker, Waals ondertrouw op 18-09-1668 met Jannetge Denijs, weduwe van Bonaventuyr  Martijn, woont Orangiegraft.  
 
 Uit dit huwelijk:  
@@ -1492,6 +1502,8 @@ Als zijn zoon bekend:
 \* Verreweg de meeste immigranten Bucquoy kwamen uit de naaste omgeving van Tourcoing/Rijssel. Daarom is dit naar mijn mening niet het Waals-Brabantse Waterloo, maar het dicht bij Tourcoing gelegen Wattrelos.  
 
 ### II. Filis de Bucquoy  
+> Voorafgaand [I](#i-louis-de-bucquoy).
+
 II    Filis\*\* de Bucquoy, van Waterloo\*, woont Middelstegraft, lakenwerker, Waals ondertrouw op 05-08-1651 (vergezeld door Louijs de Bucquoy zijn vader) met Francoise Guynjon, van Rijsel, vergezeld door Barbar Blanchaer haar moeder.  
 
 Uit dit huwelijk:  
@@ -1501,6 +1513,8 @@ Uit dit huwelijk:
 \*\* Naar mijn mening moet Filis, ofwel Philis hier worden gelezen als een misverstaan Felix, en niet als Philips. Zie ook de doopgetuigen bij enkele kinderen van Jaques. De consequentie is, dat de als eerste in de genealogie-De Klopper in Nederland’s Patriciaat figurerende Jacob Philipsz de Klopper in werkelijkheid Jacob Felixzn de Klopper heette.  
 
 ### III. Jacob Felixzn de Klopper  
+> Voorafgaand [II](#ii-filis-de-bucquoy).
+
 III    Jacob Felixzn de Klopper, Waals gedoopt op 29-02-1660, boratwerker, begraven tussen 23/30-10-1717[†](#notitie), 1) ondertrouw op 22-06-1681 met Catharina Goossens (begraven tussen 28-05/04-06-1701[†](#notitie)), weduwe van Gerrit van der Meulen, 2) ondertrouw op 01-09-1701 met Jannetgen Wildenraet, jongedochter (ongetrouwde vrouw) van Maastricht.  
 
 Uit het eerste huwelijk:  
@@ -1522,6 +1536,8 @@ Uit het tweede huwelijk:
 11. Philippus, Nederduits Gereformeerd gedoopt op 12-03-1704 (getuige Philippus Bosman, Sara de la Plate).  
 
 ### IVa. Felix de Klopper
+> Voorafgaand [III](#iii-jacob-felixzn-de-klopper).
+
 IVa    Felix de Klopper, geboren op 26-04-1683, gedoopt op 27-04-1683, wijnkoper, later stadscourantier (25), overleden op 29-03-1738, ondertrouw op 23-10-1701 met Maria Doterem, geboren op 17-07-1683, gedoopt op 21-07-1683, begraven tussen 17/24-03-1753[†](#notitie), dochter van Huybert Doterem en Maria de Vries.  
 
 Uit dit huwelijk:  
@@ -1542,9 +1558,13 @@ Uit dit huwelijk:
 Felix de Klopper had de Leydsche Courant gekocht van de vorige eigenaar Van Huisduinen en gaf het blad voor het eerst uit op 20-11-1719 (25). Vanaf 12-07-1737 dreef hij de krant samen met zijn (N.B. nog geen 13-jarige!) zoon Anthony, die na de dood van zijn vader ‘alleenheerser’ werd (ongetwijfeld onder supervisie van zijn moeder, noot van mij). In 1819 was de krant nog steeds in het bezit van de familie De Klopper. Wanneer dit eigendom tenslotte eindigde, heb ik niet uitgezocht.  
 
 ### IVb. Jacob de Klopper de Jonge
+> Voorafgaand [III](#iii-jacob-felixzn-de-klopper).
+
 IVb    Jacob de Klopper de Jonge, Nederduits Gereformeerd gedoopt op 12-02-1686, distillateur, begraven tussen 24/31-12-1729[†](#notitie), ondertrouw op 11-04-1709 (getuige haar schoonmoeder (=stief-) Annetje van Roon) met Yda Kievidt, geboren in Leiden. Uit dit gezin geen kinderen of verdere gegevens gevonden.  
 
 ### V. Mr. Anthonie de Klopper  
+> Voorafgaand [IVa](#iva-felix-de-klopper).
+
 V    Mr. Anthonie de Klopper, geboren op 26-12-1724, gedoopt op 27-12-1724, stadscourantier, overleden op 30-11-1771, begraven op 07-12-1771, trouwde op 07-08-1759 met Levina Westerbaen, geboren in Katwijk a/d Rijn (doop niet gevonden), vermoedelijk dochter van Kornelis Westerbaen en Katharina Brinkman.  
 
 Uit dit huwelijk:  
@@ -1558,6 +1578,8 @@ Uit dit huwelijk:
 Nederland’s Patriciaat vermeldt, dat Mr. Anthonie de Klopper als eerste in dit geslacht (weer) het wapen-Bucquoy voerde: schuingevierendeeld, I in blauw een zilveren wassende maan, II en III in hermelijn een rode toren, IV in blauw een gouden ster.  
 
 ### VI. Mr. Felix de Klopper
+> Voorafgaand [V](#v-mr-anthonie-de-klopper).
+
 VI    Mr. Felix de Klopper, geboren op 23-02-1763, gedoopt op 27-02-1763, stadscourantier en vele andere functies, overleden op 14-10-1804, 1) trouwde op 01-07-1783 met Elselina du Rieu, geboren op 25-12-1763, gedoopt op 28-12-1763, overleden op 18-10-1785, dochter van Paul du Rieu en Elisabeth Smits, 2) trouwde op 07-12-1786 met Sara Catharina Kroeff, jongedochter (ongetrouwde vrouw) van Vlissingen.  
 
 Uit het eerste huwelijk:  
@@ -1581,6 +1603,8 @@ N.B. Van de generaties VII t/m IX zijn de gegevens overgenomen uit diverse bronn
 \* Nederland’s Patriciaat 10 (1919), p. 188 en volgende, FamilySearch (Mormonen) en diverse CD-roms van genealogische periodieken.  
 
 ### VII. Dr. Paul Elzelin de Klopper
+> Voorafgaand [VI](#vi-mr-felix-de-klopper).
+
 VII    Dr. Paul Elzelin de Klopper, geboren op 09-10-1785, gedoopt op 26-10-1785, arts te De Rijp, overleden in Amsterdam op 17-09-1821, trouwde in Amsterdam op 08-05-1810 met Cornelia van Nueborgh, gedoopt in Amsterdam op 25-04-1791, overleden in Amsterdam op 07-07-1820, dr. van Jan van Nueborgh en Cornelia Roelofsz.  
 
 Uit dit huwelijk:  
@@ -1589,6 +1613,8 @@ Uit dit huwelijk:
 3. Felix, geboren in De Rijp op 07-11-1817, volgt [VIIIb](#viiib-mr-felix-de-klopper).  
 
 ### VIIIa. Mr. Jan de Klopper
+> Voorafgaand [VII](#vii-dr-paul-elzelin-de-klopper).
+
 VIIIa    Mr. Jan de Klopper, geboren in De Rijp op 20-07-1813, subst. Off. van Justitie te Arnhem, overleden in Tiel op 07-12-1887, trouwde in Rotterdam op 28-09-1837 met Maria Anna Hanegraaff, geboren in Gorinchem op 16-10-1815, overleden in Tiel op 06-01-1889, dochter van Cornelis Hanegraaff en Magdalena Sara Leonora de Vries.  
 
 Uit dit huwelijk:  
@@ -1596,6 +1622,8 @@ Uit dit huwelijk:
 2. Adrianus Cornelis, volgt [IX](#ix-adrianus-cornelis-de-klopper).  
 
 ### VIIIb. Mr. Felix de Klopper
+> Voorafgaand [VII](#vii-dr-paul-elzelin-de-klopper).
+
 VIIIb    Mr. Felix de Klopper, geboren in De Rijp op 07-11-1817, burgemeester van Schoonhoven van 1852 tot 1858, daarna commissaris van politie te Amsterdam, vanaf 1863 hoofdcommissaris aldaar, overleden in Amsterdam op 31-03-1878, trouwde in Leiden op 07-09-1842 met Cornelia de Timmerman, geboren in Antwerpen op 12-09-1818, overleden in Den Haag op 09-04-1883, dochter van Willem de Timmerman en Cornelia Voorduijn.  
 
 Uit dit huwelijk:  
@@ -1604,6 +1632,8 @@ Uit dit huwelijk:
 \* Leefden kennelijk nog ten tijde van het opmaken van de Stamboom in Nederland’s Patriciaat.  
 
 ### IX. Adrianus Cornelis de Klopper  
+> Voorafgaand [VIIIa](#viiia-mr-jan-de-klopper).
+
 IX    Adrianus Cornelis de Klopper, geboren in Arnhem op 23-06-1849, overleden in Le Havre op 13-10-19??, trouwde met NN, waaruit een zoon, van wie geen gegevens.  
   
 Ik neem aan, dat het geslacht is uitgestorven.  
@@ -1621,6 +1651,8 @@ Als hun kinderen zijn bekend:
 3. Anneken Bucquoy, geboren in Middelburg ca. 1600, ondertrouw op 20-03-1621 (21 jaar oud) met Dirk Leefkens.  
 
 ### I. Jacques Bucquoy
+> Voorafgaand [A](#a-nn-bucquoy).
+
 I    Jacques Bucquoy, geboren in Middelburg ca. 1588, hoedenkramer, begraven in Amsterdam op 29-07-1630, ondertrouw op 22-03-1618 (30 jaar oud) met Janneke Seys, geboren in Brugge ca. 1590 (bij huwelijk 28 jaar oud).  
 
 Uit dit huwelijk bekend:  
@@ -1628,7 +1660,8 @@ Uit dit huwelijk bekend:
 2. Nicolaes, gedoopt op 05-05-1620.  
 3. Jacobus, gedoopt op 27-12-1626.  
 
-### Jean. du Bukoy
+### B. Jean du Bukoy
+
 B    Jean du Bukoy, geboren in Pont sur Sambre (?), trouwde met NN.  
 
 Uit dit huwelijk bekend:  
@@ -1637,6 +1670,8 @@ Uit dit huwelijk bekend:
 Zoals uit het vervolg blijkt, betreft het hier een steenhouwersfamilie. Het is daarom denkbaar, zo niet waarschijnlijk, dat deze Jean (Ib) dezelfde is als Jan de Bucquoy, ‘van Hanou’ (Henegouwen), die op 10-08-1673 in Leiden in ondertrouw gaat met Catharyna Jans, ‘van Ceulen’. Deze Jan de Bucquoy was eveneens steenhouwer, en valt verder in de Leidse genealogieën niet in te passen. Merk ook op, dat Pierre du Bucquoy ([Ia](#ia-jaques-du-buskoy)-4, [IIb](#iib-pierre-du-bucquoy)) bij zijn ondertrouw in 1685 werd vergezeld door zijn oom en voogd Jan du Buquoy, en dat een ‘Trijntje Jans, huisvrouw van Jan du Buquoy’ in Amsterdam werd begraven. Een meer gedetailleerde en van meer achtergrondinformatie voorziene genealogie van deze familie is al in 1936 gegeven door J.H. Bekouw (26). Daarin ontbreekt echter de door mij geïntroduceerde Jean ([Ib](#ib-jean-de-bucquoy)).  
 
 ### Ia. Jaques du Buskoy
+> Voorafgaand [B](#b-jean-du-bukoy).
+
 Ia    Jaques du Buskoy, van Pon(t)(?) sur Sambre, steenhouwer, geboren ca. 1622 (bij huwelijk 30 jaar), begraven op 01-08-1682, 1) ondertrouw op 27-07-1652 (getuige zijn vader Jean du Bukoy) met Jannetje Karet, van Doornick, begraven op 09-09-1673, 2) ondertrouw op 01-09-1679 met Maria Belterman, weduwe van Artus de Witt.  
 
 Uit het eerste huwelijk bekend:  
@@ -1646,12 +1681,16 @@ Uit het eerste huwelijk bekend:
 4. Pierre, gedoopt op 08-12-1661, volgt [IIb](#iib-pierre-du-bucquoy).  
 
 ### Ib. Jean de Bucquoy
+> Voorafgaand [B](#b-jean-du-bukoy).
+
 Ib    Jean de Bucquoy, steenhouwer van ‘Hanou’, geboren ca. 1635, begraven in Amsterdam op 22-03-1689, ondertrouw in Leiden op 10-08-1673 met Catharina Jans, van Ceulen, begraven in Amsterdam (‘Trijntje Jans, huisvrouw van Jan du Buquoy’) op 27-08-1688. Zowel bruid als bruidegom waren ten tijde van hun huwelijk woonachtig in Leiden.  
 
 Mogelijk had Jean uit een eerder huwelijk of relatie een dochter:  
 1. Selia Jans du Bucquoi, van Amsterdam, geboren ca. 1657 (bij huwelijk 31 jaar), ondertrouw op 06-03-1688 (getuige haar vader Jan du Bucquoi) met Ariaen Philipsz van Leeuwen, van Loosduynen.  
 
 ### IIa. Jeronimus de Bucquoi
+> Voorafgaand [Ia](#ia-jaques-du-buskoy).
+
 IIa    Jeronimus de Bucquoi, Waals gedoopt op 20-10-1658, steenhouwer, begraven op 12-04-1714, 1) ondertrouw op 09-10-1682 (getuige Maria Belterman, zijn stiefmoeder) met Marritje Floris van Leeuwen, 30 jaar, van Haserswoude, 2) ondertrouw in Leiden op 26-03-1692, trouwde in Amsterdam op 12-04-1692 met Jaepie Hartman, gedoopt in Amsterdam op 05-01-1667, dochter van Isaack Hartman en Jaepie Rodenburgh. Jeronimus’ eerste huwelijk eindigde in scheiding wegens ‘gekrakeel’ (Album Buquoye). Bij zijn tweede huweljk woonde Jeronimus de B. in Leiden aan de Rijn, Jaepie Hartman(s) woonde in Leiden op de Steenschuur.  
 
 Uit het eerste huwelijk:  
@@ -1667,6 +1706,8 @@ Uit het tweede huwelijk:
 3. Jacob, Nederduits Gereformeerd gedoopt op 25-10-1693, volgt [III](#iii-jacob-de-bucquoy).  
 
 ### IIb. Pierre du Bucquoy
+> Voorafgaand [Ia](#ia-jaques-du-buskoy).
+
 IIb    Pierre du Bucquoy, gedoopt op 08-12-1661, steenhouwer, overleden na 21-04-1711, ondertrouw op 13-07-1685 (getuige Jan du Buquoy, zijn oom en voogd) met Alida Hartman, gedoopt op 23-05-1664, begraven op 21-04-1711, dochter van Isaak Hartman en Jacoba Rodenburgh.  
 
 Uit dit huwelijk bekend:  
@@ -1680,6 +1721,8 @@ Uit dit huwelijk bekend:
 \* N.B. Beide zusters ondertrouwden op dezelfde datum!  
 
 ### III. Jacob de Bucquoy
+> Voorafgaand [IIa](#iia-jeronimus-de-bucquoi).
+
 III    Jacob de Bucquoy, Nederduits Gereformeerd gedoopt op 25-10-1693, ondertrouw op 25-03-1718 (getuige Jacoba Hartman, zijn moeder) met Catrina Fok, (getuige Aaltje Focke, haar moeder). Catharina Fok, weduwe van Jacob de Buiquoy, is in Amsterdam begraven op 08-01-1777.  
 
 Uit dit huwelijk bekend:  
