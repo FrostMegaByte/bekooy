@@ -138,7 +138,7 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
     - [III. Jacob de Bucquoy](#iii-jacob-de-bucquoy)
   - [Referenties](#referenties)
   - [Notitie](#notitie)
-<details>
+</details>
   
 ## DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN
 
