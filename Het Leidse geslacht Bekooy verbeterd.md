@@ -1,9 +1,9 @@
 # Genealogieën van Bekooy
 
 Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).  
-**De inhoud is hetzelfde gebleven**.  
+**De inhoud is gewijzigd om beter leesbaar te zijn.**  
 
-Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk: [Het Leidse Geslacht (verbeterde tekst)](Het%20Leidse%20geslacht%20Bekooy%20verbeterd.md)
+Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter gestructureerd is, bekijk: [Het Leidse Geslacht](Het%20Leidse%20geslacht%20Bekooy.md)
 
 *Contact:*  
 ![email](email.png)
