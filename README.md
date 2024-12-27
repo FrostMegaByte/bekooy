@@ -9,6 +9,9 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
 ![email](email.png)
 
 ## Table of Contents
+<details>
+<summary>Click to view Table of Contents</summary>
+
 - [Genealogieën van Bekooy](#genealogieën-van-bekooy)
   - [Table of Contents](#table-of-contents)
   - [DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN](#de-bucquoybekooyboekkooi-en-de-bucquoyde-klopper-in-leiden)
@@ -134,7 +137,8 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
     - [IIb. Pierre du Bucquoy](#iib-pierre-du-bucquoy)
     - [III. Jacob de Bucquoy](#iii-jacob-de-bucquoy)
   - [Referenties](#referenties)
-    - [Notitie](#notitie)
+  - [Notitie](#notitie)
+<details>
   
 ## DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN
 
@@ -1763,6 +1767,6 @@ Nav = De Navorscher
 26) Amstelodamum 23 (1936), p. 82 en volgende  
 27) Nav 1 (1851), p. 257 en 375  
 
-### Notitie
+## Notitie
 
 † In Leiden noteerde men voor 1800 in het algemeen alleen de kalenderweek waarin de begrafenis plaatsvond. De overlijdensdatum is maar bij uitzondering bekend.
