@@ -1,9 +1,9 @@
-# Genealogieën van Bekooy  
+# Genealogieën van Bekooy
 
-*Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).*  
-**De inhoud is gewijzigd om beter leesbaar te zijn.**  
+Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).  
+**De inhoud is hetzelfde gebleven**.  
 
-Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter gestructureerd is, bekijk: [Het Leidse Geslacht](Het%20Leidse%20geslacht%20Bekooy.md)
+Voor een versie waarbij de inhoud is gewijzigd om beter leesbaar te zijn, bekijk: [Het Leidse Geslacht (verbeterde tekst)](Het%20Leidse%20geslacht%20Bekooy%20verbeterd.md)
 
 *Contact:*  
 ![email](email.png)
@@ -176,7 +176,7 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 1. Elie, geboren ca. 1560/65, volgt [IIIa](#iiia-elias-de-buko).  
 2. Olivier, geboren ca. 1560/65, volgt [IIIb](#iiib-olifier-de-buquo).  
 3. Pierre, geboren ca. 1560/65, volgt [IIIc](#iiic-pier-de-bucquoy).  
-4. Jacomijne de Buco, van omtrent Rijsele, ondertrouw op 02-03-1585 (getuige Anthonnis de Buco, haar oom, en Gerard le Plant, zijn schoonvader) met Jan Deuterre, van Bergen in Henegouwen. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet met behulp van doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie naar mijn mening safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
+4. Jacomijne de Buco, van omtrent Rijsele, ondertrouw op 02-03-1585 (getuige Anthonnis de Buco haar oom) met Jan Deuterre, van Bergen in Henegouwen, getuige Gerard le Plant zijn schoonvader. Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet met behulp van doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie naar mijn mening safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
 
 ### IIb. Anthoine de Bucquoy
 IIb    Anthoine de Bucquoy, waarschijnlijk geboren in Tourcoing ca. 1530, vermoedelijk begraven in Leiden op 24-03-1603, trouwde met NN.  
@@ -193,7 +193,7 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder [IIIa](#iiia-elias-de-buko)), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
 
 ### IIIa. Elias de Buko
-IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden in Leiden aan de pest op 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko, zijn oom, en Claret du Pré, haar moeder) met Jacomyne du Pré, van Armentiers.  
+IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden in Leiden aan de pest op 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko zijn oom) met Jacomyne du Pré, van Armentiers, getuige Claret du Pré haar moeder.  
 
 Uit dit huwelijk bekend:  
 1. Elie, Waals gedoopt in Leiden op 05-11-1600, leeft nog 30-09-1629 (3)  
@@ -216,21 +216,21 @@ Uit het tweede huwelijk bekend:
 Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifier-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc. Pier de Bucquoy
-IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05-1600 (getuige Anthony de Bucquoy, zijn oom, Samuel Mephuys (?), zijn schoonbroeder, Sjenne Amory, haar zuster, en Rebecca Hoene, haar bekende) met Judick Amory, van Amarsy.  
+IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05-1600 (getuige Anthony de Bucquoy zijn oom en Samuel Mephuys (?) zijn schoonbroeder) met Judick Amory, van Amarsy, getuige Sjenne Amory haar zuster en Rebecca Hoene haar bekende.  
 
 Uit een eerder huwelijk bekend:  
 
-1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) op 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder, Charles de Lano, zijn vader, en Davidt de Hopa, zijn zwager) met Davidt de Lano, wolkammer van Leyden. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) op 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder) met Davidt de Lano, wolkammer van Leyden, getuige Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
 
 Uit het tweede huwelijk:  
 
 2. Jacques, Waals gedoopt op 09-06-1603.  
 3. Jean, Waals gedoopt op ??-05-1605.  
 4. Pierre, Waals gedoopt in 1e kwartaal van 1607, volgt [IVa](#iva-pierre-de-bucquoy).  
-5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy, haar zuster, en Pieter le Toeur, zijn broer) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet.  
+5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy haar zuster) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, getuige Pieter le Toeur zijn broer.  
 
 ### IIId. Anthoine des Boucquois
-IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige zijn vader Anthoine de Bouckois en zijn broeder, Barbara Camer, haar nicht, en Ysabeaux Plantefebre) met Marie Ruytere, van Tourquoin.  
+IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige zijn vader Anthoine de Bouckois en zijn broeder) met Marie Ruytere, van Tourquoin, getuige Barbara Camer haar nicht en Ysabeaux Plantefebre.  
 
 Uit dit huwelijk zijn geen kinderen gevonden.  
 
@@ -1511,7 +1511,7 @@ Uit dit huwelijk bekend:
 \* N.B. Beide zusters ondertrouwden op dezelfde datum!  
 
 ### III. Jacob de Bucquoy
-III    Jacob de Bucquoy, Nederduits Gereformeerd gedoopt op 25-10-1693, ondertrouw op 25-03-1718 (getuige Jacoba Hartman, zijn moeder, en Aaltje Focke, haar moeder) met Catrina Fok. Catharina Fok, weduwe van Jacob de Buiquoy, is in Amsterdam begraven op 08-01-1777.  
+III    Jacob de Bucquoy, Nederduits Gereformeerd gedoopt op 25-10-1693, ondertrouw op 25-03-1718 (getuige Jacoba Hartman, zijn moeder) met Catrina Fok, getuige haar moeder Aaltje Focke. Catharina Fok, weduwe van Jacob de Buiquoy, is in Amsterdam begraven op 08-01-1777.  
 
 Uit dit huwelijk bekend:  
 1. Jeronimus, Nederduits Gereformeerd gedoopt op 21-08-1718.  
