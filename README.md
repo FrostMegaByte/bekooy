@@ -9,9 +9,6 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
 ![email](email.png)
 
 ## Table of Contents
-<details>
-<summary>Click to view Table of Contents</summary>
-
 - [Het Leidse geslacht Bekooy](#het-leidse-geslacht-bekooy)
   - [Table of Contents](#table-of-contents)
   - [DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN](#de-bucquoybekooyboekkooi-en-de-bucquoyde-klopper-in-leiden)
@@ -138,7 +135,6 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
     - [III. Jacob de Bucquoy](#iii-jacob-de-bucquoy)
   - [Referenties](#referenties)
   - [Notitie](#notitie)
-</details>
   
 ## DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN
 
