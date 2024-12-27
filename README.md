@@ -1,4 +1,4 @@
-# Genealogieën van Bekooy
+# Het Leidse geslacht Bekooy
 
 Deze website is een beter gestructureerde versie van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm).  
 **De inhoud is gewijzigd om beter leesbaar te zijn.**  
@@ -12,7 +12,7 @@ Voor een versie waarbij de inhoud is hetzelfde is gebleven en die alleen beter g
 <details>
 <summary>Click to view Table of Contents</summary>
 
-- [Genealogieën van Bekooy](#genealogieën-van-bekooy)
+- [Het Leidse geslacht Bekooy](#het-leidse-geslacht-bekooy)
   - [Table of Contents](#table-of-contents)
   - [DE BUCQUOY/BEKOOY/BOEKKOOI EN DE BUCQUOY/DE KLOPPER IN LEIDEN](#de-bucquoybekooyboekkooi-en-de-bucquoyde-klopper-in-leiden)
   - [GENEALOGIEËN BUCQUOY/BEKOOY/BOEK(K)OO(I,Y), LEIDEN](#genealogieën-bucquoybekooyboekkooiy-leiden)
