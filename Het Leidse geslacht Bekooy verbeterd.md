@@ -308,7 +308,7 @@ Uit dit huwelijk:
 6. Sophia, Nederduits Gereformeerd gedoopt op 23-01-1643, begraven op 15-05-1645.  
 7. Paulus, Nederduits Gereformeerd gedoopt op 29-03-1645, begraven op 25-04-1643.  
 8. Paulina de Bucquoy, Nederduits Gereformeerd gedoopt op 25-04-1646, overleden na 07-11-1679, maar voor 08-11-1686 (hertrouwd 2e man), woont Steenschuur, 1) ondertrouw op 02-03-1673 met Benjamyn Muller, weduwnaar van Judith de l’Hommel, woont Hamburch, 2) trouwde (?) met Andries van Roest, bode met de roede van Leiden.  
-Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr, Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
+Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr., Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
 Va    Pieter Bucquoy, Waals gedoopt op 26-02-1640, greinwerker, woont St. Aechtenstraet, overleden voor 02-02-1669 (voogdijstelling), Waals ondertrouw op 02-04-1661 (getuige Sara Bucquoy, zijn moeye) met Franchyntgen Jans, van Haerlem, overleden niet gevonden, (Franchyntge Jans, weduwe van Pieter du B, woont Cleystraet. ondertrouw op 02-02-1669 met Jan Roelofsz, woont Langegraft, lakenwerker)  
@@ -865,16 +865,16 @@ Uit het tweede huwelijk:
 5. Cornelis, geboren op 22-09-1827, overleden op 30-05-1848  
   
 ### VIIIh. Japik (Jacob) Bekooy
-VIIIh    Japik (Jacob) Bekooy, gedoopt op 17-09-1780, lakenwerker, woont Loyerstraat, overleden op 18-12-1866, ondertrouw op 03-10-1806, trouwde op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), gedoopt op 03-02-1778, overleden op 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
+VIIIh    Japik (Jacob) Bekooy, gedoopt op 17-09-1780, lakenwerker, woont Loyerstraat, overleden op 18-12-1866, ondertrouw op 03-10-1806, trouwde op 18-10-1806 met Maria Regeer (getuige Jacobus Bekooy Sr., zijn vader, Loyerstraat), gedoopt op 03-02-1778, overleden op 23-07-1849, dochter van Willem Regeer en Neeltje Ket. N.B. In de overlijdensakte van Maria Regeer wordt als haar moeder opgegeven Johanna van Es. Dat was de tweede vrouw van haar vader, en niet haar biol. moeder.  
 
 Uit dit huwelijk:  
 1. Jacob, geboren op 09-10-1811, gedoopt op 13-10-1811, volgt [IXe](#ixe-jacobus-bekooij).  
 2. Hester Bekooy, geboren op 12-11-1814, spinster, overleden op 30-07-1872, trouwde op 18-12-1834 met Johannes Franken, geboren op 17-03-1816, greinwever, overleden op 18-08-1869, zoon van Hendrik Franken en Elisabeth van der Weijde.  
 
 ### VIIIi. Jacobus Bekooy
-VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden op 17-11-1839, ondertrouw op 16-07-1808, trouwde op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr, zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden op 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
+VIIIi    Jacobus Bekooy, gedoopt op 30-12-1786, vagteblotersknecht, woont Loyerstraat, overleden op 17-11-1839, ondertrouw op 16-07-1808, trouwde op 30-07-1808 Grietje van Eck (getuige Jacobus Bekooy Sr., zijn vader, Loyerstraat), geboren op 19-04-1789, gedoopt op 23-04-1789, overleden op 24-08-1828, dochter van Jan van Eck en Grietje Pikot (Piket).  
 
-N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), gehuwd met Maria Regeer en ook zoon van een Jacobus Sr, is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
+N.B. Onderscheid van zijn gelijknamig familielid ([VIIIh](#viiih-japik-jacob-bekooy)), gehuwd met Maria Regeer en ook zoon van een Jacobus Sr., is gebaseerd op het feit dat bij de doop van een van zijn kinderen Denys van der Blom getuigde, man van zijn zuster Geertruy.  
 
 Uit dit huwelijk:  
 1. Koosje Bekooy, geboren op 24-10-1808, gedoopt op 27-10-1808, spinster, overleden op 29-11-1840, trouwde op 03-09-1829 met Willem Jacobus Paats, gedoopt op 13-11-1805, dubbelaar, overleden op 17-11-1859, zoon van Casparus Paats en Johanna Maria Lambooij.  
