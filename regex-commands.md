@@ -1,8 +1,5 @@
 ## TODO:
-- getuige tussen haakjes  
-- getuige Pierone le Bruyne haar moeder (comma bij haar moeder/vader, etc.) OP TE LOSSEN MET (?<!\()\bgetuige\b  
-- (Schepenen)  
-- \(getuige .*? en .*?\) (Kijk om het woord 'en' te vervangen met een comma)  
+- (Schepenen)   
 
 
 ## In ... op ... met ...
