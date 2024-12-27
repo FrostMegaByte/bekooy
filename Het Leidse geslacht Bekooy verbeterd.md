@@ -170,6 +170,8 @@ Hieruit vermoedelijk, eveneens geboren in Tourcoing, volgorde onbekend:
 De veronderstelling dat de ‘stamvader’ Olivier heette, is gebaseerd op het feit, dat zijn beide bekende zoons een zoon Olivier hadden.  
 
 ### IIa. Arnou de Bucquoys
+> Voorafgaand [I](#i-olivier--de-bucquoy).
+
 IIa    Arnou de Bucquoys, geboren en waarschijnlijk overleden in Tourcoing ca. 1530 - ca. 1585, trouwde met NN.  
 
 Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:  
@@ -179,6 +181,8 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 4. Jacomijne de Buco, van omtrent Rijsele, ondertrouw op 02-03-1585 (getuige Anthonnis de Buco, haar oom) met Jan Deuterre, van Bergen in Henegouwen, (getuige Gerard le Plant, zijn schoonvader). Uit dit huwelijk zijn geen kinderen gevonden, waardoor niet met behulp van doop- en/of huwelijksgetuigen een nadere familierelatie kan worden bepaald. Aangezien echter haar oom Anthoine in leven en Arnou zeer waarschijnlijk overleden of althans niet in Leiden aanwezig was, is deze relatie naar mijn mening safe. Hetzelfde geldt voor Pierre ([IIa](#iia-arnou-de-bucquoys)-3), bij wiens huwelijk ook oom Anthoine getuigde.  
 
 ### IIb. Anthoine de Bucquoy
+> Voorafgaand [I](#i-olivier--de-bucquoy).
+
 IIb    Anthoine de Bucquoy, waarschijnlijk geboren in Tourcoing ca. 1530, vermoedelijk begraven in Leiden op 24-03-1603, trouwde met NN.  
 
 Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:  
@@ -193,6 +197,8 @@ Uit dit huwelijk, vermoedelijk geboren in Tourcoing, volgorde onbekend:
 IIb-4 ([IIIg](#iiig-olifier-de-buckoy)) Olivier trouwt, vergezeld door zijn vader ‘Abraham’, met Cathelijne Spi(e)ring. De echtgenoot van Mary de Buco, Pierre Tybergien, was een aangetrouwde oom van de kinderen van zowel Louis als Gilles (1). Datzelfde geldt voor Jan de Can (Camp), de man van Catryne de Bucquot. Louis en Gilles waren zoons van Anthoine (2). Uit deze beide referenties, gevoegd bij het optreden van schoonzuster Cathelyne Spiring bij het huwelijk van Mary, wordt duidelijk dat ook Olivier een zoon was van Anthoine (zie ook onder [IIIa](#iiia-elias-de-buko)), en dat Mary en Catryne hun zusters waren. Daarbij komt nog, dat de ondertrouw van Olivier de enige literatuurplaats is waar ‘Abraham’ verschijnt. Er heeft naar alle waarschijnlijkheid althans in Leiden niet zo’n vroege ‘Abraham’ de Bucquoy geleefd. Later komt de naam wel voor.  
 
 ### IIIa. Elias de Buko
+> Voorafgaand [IIa](#iia-arnou-de-bucquoys).
+
 IIIa    Elias de Buko, van Turkeng in Vlaanderen, geboren ca. 1560, overleden in Leiden aan de pest op 07-09-1602, Nederduits Gereformeerd ondertrouw op 03-08-1585 (getuige Anton de Buko, zijn oom) met Jacomyne du Pré, van Armentiers, (getuige Claret du Pré, haar moeder).  
 
 Uit dit huwelijk bekend:  
@@ -203,6 +209,8 @@ Elyas de Bucquoy werd op 1 mei 1600 als poorter ontvangen.
 Op 11-05-1607 brengen de voogden Olivier du Bucquoy Anthonisz en Olivier de Bucquoy Arnoutsz een bedrag van 100 gld ter weeskamer, zijnde de opbrengst van een obligatie gedateerd 15-05-1603, op naam van ‘Elias du Bucquoy Arnouts zoons weeskint genaemt Elias’. Zij hebben het geld ontvangen van Jaspar du Pré, van Armentières. Op 15-10-1607 brengen Olivier Arnoutsz en Olivier Anthonisz nog eens resp. 140 en 340 gld, eveneens interest tot onderhoud van het kind (4). Na zijn quittering van Weesmeesters bij gelegenheid van zijn meerderjarigheid (3) wordt van Elias Jr. niets meer vernomen.  
 
 ### IIIb. Olifier de Buquo
+> Voorafgaand [IIa](#iia-arnou-de-bucquoys).
+
 IIIb    Olifier de Buquo, fils d’Arnou, van Turkoyn, (overleden/begraven op 06-06-1616; voogdijstelling op 17-08-1616), weduwnaar van Joseyne Liagre, wolkammer, ondertrouw op 08-11-1602 (getuige Jasper du Pré, zijn bekende & Oliphier de Buquo, zijn cosijn) met Martijne du Boys, van Verlenghem bij Rijssele, weduwe van Anthone Monier.  
 
 Uit het eerste huwelijk bekend (5):  
@@ -216,6 +224,8 @@ Uit het tweede huwelijk bekend:
 Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifier-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc. Pier de Bucquoy
+> Voorafgaand [IIa](#iia-arnou-de-bucquoys).
+
 IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05-1600 (getuige Anthony de Bucquoy, zijn oom & Samuel Mephuys (?), zijn schoonbroeder) met Judick Amory, van Amarsy, (getuige Sjenne Amory, haar zuster & Rebecca Hoene, haar bekende).  
 
 Uit een eerder huwelijk bekend:  
@@ -230,11 +240,15 @@ Uit het tweede huwelijk:
 5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy, haar zuster) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, (getuige Pieter le Toeur, zijn broer).  
 
 ### IIId. Anthoine des Boucquois
+> Voorafgaand [IIb](#iib-anthoine-de-bucquoy).
+
 IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige Anthoine de Bouckois,zijn vader & zijn broeder) met Marie Ruytere, van Tourquoin, (getuige Barbara Camer, haar nicht & Ysabeaux Plantefebre).  
 
 Uit dit huwelijk zijn geen kinderen gevonden.  
 
 ### IIIe. Lowijs de Buckoy
+> Voorafgaand [IIb](#iib-anthoine-de-bucquoy).
+
 IIIe    Lowijs de Buckoy, van Turcoyn, overleden voor 02-08-1604, ondertrouw op 31-12-1588 (getuige Antony de Buckoy, zijn vader) met Martijne Bodijn, van Armentiers, (getuige Marya Pronye, haar moeder & Antonette Bodijn, haar zuster).  
 
 Uit dit huwelijk bekend:  
@@ -246,6 +260,8 @@ Op 02-08-1604 heeft Olivier du Bucquoy, kousenbreier, ter kamer gebracht de som 
 Jan de Bucquoy (IIIe-2) was mogelijk gehuwd. Een huwelijk is niet gevonden, evenmin als dopen van kinderen. Op 8 september en 1 en 15 oktober 1624 en op 28 oktober 1627 en 4 januari 1629 werden kinderen begraven van een Jan Bu(c,k)oy die in of bij de Olifantspoort woonde.  
 
 ### IIIf. Gilles de Bucquoy
+> Voorafgaand [IIb](#iib-anthoine-de-bucquoy).
+
 IIIf    Gilles de Bucquoy, geboren in Tourcoing (?), overleden voor 20-01-1595, trouwde met Philippote Montaigny (de Montagne), overleden op 29-02-1640, (Zij hertrouwde op 20-01-1595 met Philippe de Tombe).  
 
 Uit dit huwelijk bekend:  
@@ -253,6 +269,8 @@ Uit dit huwelijk bekend:
 2. Susannetgen de Bucquoy, geboren in Leiden (?) ca. 1588, mogelijk overleden/begraven (‘huisvrouw van Jan Karren op de Uytterste Graft’) op 18-11-1622, Waals ondertrouw op 22-04-1611 (getuige Philippote Montegny, haar moeder & Cathelyne Spierings, haar moeye) met Jan Carret, kleermaker, van Marche bij Rijssel, (getuige Pierre Bonduwel & Jheremias de Bucquoy). Jan Carret is mogelijk overleden/begraven als Jan Karre op de Uytterste Graft op 15-10-1624.  
 
 ### IIIg. Olifier de Buckoy
+> Voorafgaand [IIb](#iib-anthoine-de-bucquoy).
+
 IIIg    Olifier de Buckoy, van Turcoyn, overleden/begraven op 17-01-1620, ondertrouw op 26-08-1589 (getuige Abraham de Buckoy (moet naar mijn mening Anthoine zijn), zijn vader (8)) met Cathelijne Spiering, van Doornick, (getuige Margriet van Aelst & Marye Flaman, zuster van Cathelyna).  
 
 Uit dit huwelijk bekend, volgorde niet geheel bekend:  
@@ -262,6 +280,8 @@ Uit dit huwelijk bekend, volgorde niet geheel bekend:
 4. Chaterine, Waals gedoopt op 24-02-1602.  
   
 ### IVa. Pierre de Bucquoy
+> Voorafgaand [IIIc](#iiic-pier-de-bucquoy).
+
 IVa    Pierre du Bucquoy, Waals gedoopt in 1e kwartaal van 1607, woont St. Aechtenstraet, droogscheerder, ondertrouw op 16-05-1639 (getuige Jan la Tour, zijn zwager) met Jenne Nolaa, weduwe van Jaecques de Pla, woont St. Aechtenstraet, (getuige Mary Fremault, haar moeder). (Jaques de Pla, bouratier van Bondu, ondertrouw op 11-08-1626 met Jeanne Nolet, van Turcogne. Geen getuigen genoemd. Jeanne Nolet/Jenne Nolaa was waarschijnlijk dochter van Gautier Nolet en NN. Mary Fremault was diens tweede echtgenote).  
 
 Uit dit huwelijk:  
@@ -272,6 +292,8 @@ Uit dit huwelijk:
 5. Jean, Waals gedoopt op 05-03-1645, (getuige Nicolas Loquisier, Judith Loquisier), volgt [Vb](#vb-johannes-de-bucquoy).  
 
 ### IVb. Jheremias de Bucquoy
+> Voorafgaand [IIIe](#iiie-lowijs-de-buckoy).
+
 IVb    Jheremias de Bucquoy, geboren in Leiden ca. 1588, passementwerker, overleden niet lang voor 03-04-1636 (9), 1) Waals ondertrouw op 21-01-1611 (getuige Pieter Bodeyn, zijn beste vader (= grootvader) & Olivier de Bucquoy, zijn oom) met Proontgen van den Camere, van Turcoingen, overleden voor 03-04-1636, 2) trouwde (?) met Adriaentgen Cornelisdr (9).  
 
 Uit het eerste huwelijk:  
@@ -286,6 +308,8 @@ Uit het tweede huwelijk (huwelijk en doop niet gevonden):
 5. Cornelis, geboren in 1635 (9).  
 
 ### IVc. Pierre de Bucquoy
+> Voorafgaand [IIIf](#iiif-gilles-de-bucquoy).
+
 IVc    Pieter de Bucquoy. geboren in Antwerpen ca. 1582, wolkammer, woont Medenblick, ondertrouw in Leiden op 22-11-1607 met Willem(tge) Dircxdr, van Medenblick.  
 
 Uit dit huwelijk bekend (volgorde onbekend):  
@@ -296,6 +320,8 @@ Aangezien Dirk in 1634 wordt genoemd in het testament van zijn broer Gillis als 
 Theunis de Bucquoy, greinwerker van Medemblik, is op 11-08-1645 op de getuigenis van Jacob Willemsz de Laet en Gillis de Bucquoy als poorter ontvangen. Verder vernemen we niets van hem.  
 
 ### IVd. Olivier de Bucquoy
+> Voorafgaand [IIIg](#iiig-olifier-de-buckoy).
+
 IVd    Olivier Bucquoy, herkomst niet genoemd, woont Bredestraet, begraven tussen 09/15-01-1667[†](#notitie), ondertrouw op 27-09-1629 (getuige Olivier Bucquoy, zijn vader) met Claesgen Stockius, woont Bredestraet (getuige Sophia van Dilsen, haar moeder; Sophia van Dilsen ondertrouw op 29-10-1598 met Paulus Stock), geboren ca. 1605, overleden op 28-10-1669.  
 
 Uit dit huwelijk:  
@@ -311,6 +337,8 @@ Uit dit huwelijk:
 Bij Benjamyn Muller had Paulina een voorzoon Benjamin Muller, wiens doop niet is gevonden, en die na het bereiken van de meerderjarigheid naar Suriname vertrok. Uit het (niet gevonden) tweede huwelijk (?) waren klaarblijkelijk geen kinderen. Behalve dit huwelijk zijn ook de overlijdens van de hoofdpersonen Benjamin Muller Sr., Paulina de Bucquoy en Andries van Roest niet gevonden (12).  
 
 ### Va. Pieter Bucquoy
+> Voorafgaand [IVa](#iva-pierre-de-bucquoy).
+
 Va    Pieter Bucquoy, Waals gedoopt op 26-02-1640, greinwerker, woont St. Aechtenstraet, overleden voor 02-02-1669 (voogdijstelling), Waals ondertrouw op 02-04-1661 (getuige Sara Bucquoy, zijn moeye) met Franchyntgen Jans, van Haerlem, overleden niet gevonden, (Franchyntge Jans, weduwe van Pieter du B, woont Cleystraet. ondertrouw op 02-02-1669 met Jan Roelofsz, woont Langegraft, lakenwerker)  
 
 Uit dit huwelijk:  
@@ -318,6 +346,8 @@ Uit dit huwelijk:
 2. Pierre, Waals gedoopt op 06-12-1665, (getuige Jean de Bucquoy, Jaque Favarcque, Anne Fransse, Judith Castel).  
 
 ### Vb. Johannes de Bucquoy
+> Voorafgaand [IVa](#iva-pierre-de-bucquoy).
+
 Vb    Johannes de Bucquoy, Waals gedoopt op 05-03-1645, woont Cruysstraet, greinwerker, ondertrouw op 01-09-1674 (getuige Claes Locquefier, zijn neef) met Catharina le Franck, Waals gedoopt op 09-03-1653, woont Cruysstraet, begraven tussen 18/25-09-1717[†](#notitie), dochter van Charles de Francque en Catharine de Langle (l’Engle).  
 
 Uit dit huwelijk:  
@@ -330,6 +360,8 @@ Uit dit huwelijk:
 Bij de getuigen bij de dopen van de kinderen is geen enkele Bucquoy, allen zijn uit de schoonfamilie (of verder verwijderde familieleden).  
 
 ### Vc. Jean de Bucquoy
+> Voorafgaand [IVb](#ivb-jheremias-de-bucquoy).
+
 Vc    Jean de Bucquoy, Nederduits Gereformeerd gedoopt op 30-12-1621, woont Paradijssteech, slotenmaker, ondertrouw op 28-08-1648 (getuige Abraham de Bodeyn, zijn neef) met Susannetgen Jacobsdr, woont Paradijssteech.  
 
 Uit dit huwelijk:  
@@ -338,6 +370,8 @@ Uit dit huwelijk:
 Jean de Bucquoy was een goed mathematicus en zou lector in de mathesis geworden zijn aan de Leidse universiteit (13).  
 
 ### Vd. Gillis Pietersz de Bucquoy
+> Voorafgaand [IVc](#ivc-pierre-de-bucquoy).
+
 Vd    Gillis Pietersz de Bucquoy, van Medenblick, woont Vrouwencamp, bij 2e huwelijk Kijffhoek, wolkammer, mogelijk begraven tussen 13/19-04-1664[†](#notitie) (‘(G?)Illis Bekoy, woont b/d Lakenhal’), 1) ondertrouw op 27-07-1640 (getuige Jan Caret, zijn oom) met Sara Crauwelaers, van Leyden (getuige Judith Crauwelaers, haar zuster), woont Groenhasegraft, (overleden in Medemblik op 25-09-1655, vermoedelijk aan de pest, mogelijk uit L. meegenomen), 2) ondertrouw op 15-06-1656 (getuige Ezechiel de Tombe, zijn oom) met Verronne Wartelle, van bij Rijssel, weduwe van Pierre Sij, woont Oude Singel.  
 
 Uit dit huwelijk:  
@@ -350,6 +384,8 @@ Uit dit huwelijk:
 Gillis de Bucquoy wordt op 24-06-1641 als poorter ontvangen op de getuigenis van Olivier de Bucquoy de Jonge en Jacob Willemsz de Laet. Op 28-03-1634 verschijnt Gillis du Bucquoy, mr. wolkammer op de Oude Cingel, ziekelijk van lichaam, voor de notaris en machtigt zijn broer Dirk Pietersz de Bucquoy, woonachtig in Medemblik, en de Leidse koopman Joost Safelé om zijn eventuele erfenis te beheren voor zijn erfgenamen (11). Merk op dat hij toen nog niet getrouwd was.  
 
 ### VIa. Abraham Bukoy
+> Voorafgaand [Vb](#vb-johannes-de-bucquoy).
+
 VIa    Abraham Bukoy, geboren op 11-10-1680, Waals gedoopt op 13-10-1680, trouwde (?) (huwelijk niet gevonden) Magdalena Hoogenboom of Hoogenvleck.  
 
 Uit dit huwelijk:  
@@ -357,11 +393,13 @@ Uit dit huwelijk:
 2. Magdalena, gedoopt op 29-09-1706 (getuige Catharina Franc).  
 
 ### VIb. Isack Bucquoy
+> Voorafgaand [Vb](#vb-johannes-de-bucquoy).
+
 VIb    Isack Bucquoy, geboren op 04-03-1683, Waals gedoopt op 07-03-1683, molenaarsknecht, begraven tussen 21/28-04-1736[†](#notitie), ondertrouw op 07-02-1711 met Anna de Vos, gedoopt op 05-10-1687, begraven tussen 10/17-02-1725[†](#notitie), dochter van Guilliaem de Vos en Maria Slosser.  
 
 Uit dit huwelijk:  
 1. Abraham, gedoopt op 29-09-1711, volgt [VIIb](#viib-abraham-buckooy).  
-2. TODO: Maria Bekooy, gedoopt op 18-09-1712, begraven tussen 17/21-11-1792[†](#notitie), 1) ondertrouw op 22-09-1735 met Jacob Verkouw, timmermansknecht van Remp(t)(?)in Gelderland, begraven tussen 11/18-04-1744[†](#notitie), 2) ondertrouw op 09-03-1759 met Isaac Pel, laatst weduwnaar van Trijntje Bedier, gedoopt op 14-08-1716, begraven in Katwijk a/Z op 10-02-1803, zoon van Isaack Pel en Katharina Risseveldt.  
+2. TODO: Maria Bekooy, gedoopt op 18-09-1712, begraven tussen 17/21-11-1792[†](#notitie), 1) ondertrouw op 22-09-1735 met Jacob Verkouw, timmermansknecht van Remp(t)(?) in Gelderland, begraven tussen 11/18-04-1744[†](#notitie), 2) ondertrouw op 09-03-1759 met Isaac Pel, laatst weduwnaar van Trijntje Bedier, gedoopt op 14-08-1716, begraven in Katwijk a/Z op 10-02-1803, zoon van Isaack Pel en Katharina Risseveldt.  
 3. Anna, gedoopt op 15-02-1714.  
 4. Catharina Bucquoy, gedoopt op 17-05-1715, ondertrouw op 16-05-1732 met Adrianus Henneboo, grutter, van Leiden, vermoedelijk gedoopt op 09-04-1698 als zoon van Adriaan Henneboo en Anna de Winter. Het paar krijgt 29-01-1741 attestatie naar Woerden.  
 5. Angeniet Bekooy, gedoopt op 14-01-1717, begraven tussen 09/16-06-1781[†](#notitie), ondertrouw op 18-04-1739 met Claude le Soin, broodbakkersknecht, gedoopt op 29-04-1714, begraven in Leiderdorp op 01-07-1802 als Glaude Leswijn, zoon van Paulus Leswijn en Maartje Cegon.  
@@ -370,6 +408,8 @@ Uit dit huwelijk:
 8. Christina, gedoopt op 16-03-1721.  
 
 ### VIIa. Jan Bekooy
+> Voorafgaand [VIa](#via-abraham-bukoy).
+
 VIIa    Jan Bekooy, gedoopt op 11-03-1705, kuypersknecht, ondertrouw op 05-08-1735 (getuige Isaac Bekooy, zijn oom) met Joosje van Leeuwen, doop niet gevonden, begraven tussen 08/15-01-1774[†](#notitie), dochter van Leendert Cornsz. van Leeuwen en Judick Isacks Wijngert.  
 
 Het huwelijk van Leendert van Leeuwen en Judick Wijngert is niet gevonden. Wel is van hen een Akte van Seclusie bekend, gedateerd 06-06-1706. Na haar dood (begraven tussen 19/26-02-1735[†](#notitie)) hertrouwde Leendert van Leeuwen met Maria Ruygewey (ondertrouw op 18-05-1736). Maria Ruygewey getuigde als Maria Ruygnoy bij de doop van het eerste kind Leendert van haar stiefdochter Joosje van Leeuwen en Jan Bekooy.  
@@ -381,6 +421,8 @@ Uit dit huwelijk:
 4. Jan, gedoopt op 21-04-1745, begraven tussen 16/23-02-1754[†](#notitie).  
 
 ### VIIb. Abraham Buckooy
+> Voorafgaand [VIa](#via-abraham-bukoy).
+
 VIIb    Abraham Buckooy, gedoopt op 29-09-1711, metselaarsknecht, woont Zijtgragt, overleden op [Banda](https://nl.wikipedia.org/wiki/VOC-verovering_van_de_Banda-eilanden) op 11-06-1759, ondertrouw op 23-04-1734 met Catharina Hartogh, gedoopt op 08-06-1710, begraven tussen 07/14-03-1778[†](#notitie), dochter van Johannes Hertige en Lysbeth Tijke.  
 
 Uit dit huwelijk:  
@@ -395,6 +437,8 @@ Uit dit huwelijk:
 Abraham Bekooy is in 1756 met het schip ‘Slooten’ naar Indië gegaan en op 11 juni 1759 op [Banda](https://nl.wikipedia.org/wiki/VOC-verovering_van_de_Banda-eilanden) overleden (14).  
 
 ### VIIIa. Leendert Bekooy
+> Voorafgaand [VIIa](#viia-jan-bekooy).
+
 VIIIa    Leendert Bekooy, gedoopt op 14-10-1737, molenaarsknecht, overleden op 14-04-1822, ondertrouw op 07-05-1762 met Francyntje van Leeuwen, overleden op 12-02-1811, begraven op 14-02-1811, waarschijnlijk gedoopt op 15-05-1735 als dochter van Aart Jansz van Leeuwen en Trijntje Willems.  
 
 Uit dit huwelijk:  
@@ -404,6 +448,8 @@ Uit dit huwelijk:
 4. Joannes, gedoopt op 20-12-1772, volgt [IXa](#ixa-johannes-bekooy).  
 
 ### VIIIb. Isaac Bekooy
+> Voorafgaand [VIIb](#viib-abraham-buckooy).
+
 VIIIb    Isaac Bekooy, gedoopt in Leiden op 13-09-1739, metselaarsknecht, overleden na 01-1808, zoon van Abram Bekooy en Catharina Hartog, ondertrouw op 24-08-1764 met Geertruy Maas, gedoopt op 03-08-1738, overleden op 13-01-1808, begraven op 16-01-1808, dochter van Aernout Maes en Immetje van Dorp.  
 
 Uit dit huwelijk:  
@@ -416,6 +462,8 @@ Er is geen doop van een Immetje Bekooy gevonden. Immetje Bekooy, weduwe van Fran
 3. Arnoldus, gedoopt op 22-11-1772.  
 
 ### VIIIc. Abraham Bekooy
+> Voorafgaand [VIIb](#viib-abraham-buckooy).
+
 VIIIc    Abraham Bekooy, gedoopt op 30-11-1749, metselaarsknecht, overleden op 04-02-1815, ondertrouw op 22-04-1774 met Anna Mulhovius, gedoopt op 18-12-1748, overleden op 06-03-1818, dochter van Pieter Mulhovius en Maria Schrijver (Veering ??).  
 
 Uit dit huwelijk:  
@@ -431,6 +479,8 @@ Uit dit huwelijk:
 10. Hendrik, gedoopt op 08-07-1792, volgt [IXe](#ixe-hendrik-bekooy).  
 
 ### IXa. Johannes Bekooy
+> Voorafgaand [VIIIa](#viiia-leendert-bekooy).
+
 IXa    Johannes Bekooy, gedoopt op 20-12-1772, letterzettersknecht, overleden op 15-01-1843, 1) ondertrouw op 01-05-1795 met Jannetje Genon, gedoopt op 20-09-1764, overleden in Leiden op 07-03-1825, buitenechtelijke dochter van Jan Genon en Grietje de Vink, 2) trouwde in Zoeterwoude op 08-03-1830 met Anna Elisabeth Schröders, geboren en/of RK gedoopt in Roermond op 16-05-1770, overleden op 14-11-1853, weduwe van D. Saris, dochter van Matthias Schroëders en Maria Josepha Sagers.  
 
 Uit het eerste huwelijk:
@@ -442,11 +492,13 @@ Uit het eerste huwelijk:
 
 Uit een relatie met Susanna Kloots (gedoopt op 18-09-1767, overleden op 31-08-1828, weduwe van Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
 
-1. Johannes Antonie, ‘onecht’, gedoopt op 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy).  
+3. Johannes Antonie, ‘onecht’, gedoopt op 07-10-1804, volgt [Xb](#xb-johannes-antonie-bekooy).  
 
 N.B. De inschaling van Johannes Antonie Bekooy als zoon van deze Johannes Bekooy uit een relatie met Susanna Kloo(t)s is uitsluitend gebaseerd op het optreden van een Johannes Bekooy van de juiste leeftijd als getuige bij de geboortes van Johannes Antonie’s kinderen Bartholomeus en Maria Catharina. Noch de vernoemingen van zijn kinderen, noch de andere bij de geboortes optredende getuigen geven verdere indicaties. Susanna Kloots trouwde eerder (meer waarschijnlijk: had eerder een relatie met) Cornelis Groeneveld, gedoopt op 13-12-1770, overleden in Leiden, begraven in Oegstgeest op 16-07-1802, zoon van Bartholomeus Groeneveld en Jannetje Sterk. Het overlijden van Susanna werd aangegeven door haar in Breda wonende zoon Bartholomeus (bediende, 33 jaar) en Johannes Anthonie Bekooy (koetsier, 25 jaar).  
 
 ### IXb. Leonardus Gerard Bekooy
+> Voorafgaand [VIIIc](#viiic-abraham-bekooy).
+
 IXb    Leonardus Gerard Bekooy, gedoopt op 23-07-1782, kleermakersknecht, overleden op 05-01-1858, woont Spekhof, 1) ondertrouw op 18-08-1810, trouwde op 05-09-1810 met Johanna van Meeteren, gedoopt op 30-08-1769, overleden op 15-03-1833, dochter van Klaas van Meeteren en Guertje Bispink, 2) trouwde op 30-10-1833 met Francina van der Blom, gedoopt op 09-08-1792, overleden op 06-06-1866, weduwe van Willem van Meeteren, dochter van Cornelis van der Blom en Maria van Eijk.  
 
 Uit het tweede huwelijk:  
@@ -454,6 +506,8 @@ Uit het tweede huwelijk:
 1. Johanna Bekooy, geboren op 17-01-1835, overleden op 10-04-1914, trouwde met Marinus Jacobus Lafeber.  
 
 ### IXc. Abraham Bekooy
+> Voorafgaand [VIIIc](#viiic-abraham-bekooy).
+
 IXc    Abraham Bekooy, gedoopt op 25-07-1787, mandenmaker, overleden op 16-03-1864, trouwde op 01-08-1816 met Maartje Engelbrecht, gedoopt op 18-12-1785, overleden op 27-12-1851, dochter van Jacob Engelbregt en Johanna Verdonk.  
 
 Uit dit huwelijk:  
@@ -463,6 +517,8 @@ Uit dit huwelijk:
 4. Leonardus Gerard Johan Bekooy, geboren op 06-02-1826, mandenmaker, ongehuwd overleden op 25-02-1884.  
 
 ### IXd. Pieter Bekooy
+> Voorafgaand [VIIIc](#viiic-abraham-bekooy).
+
 IXd    Pieter Bekooy, gedoopt op 27-09-1789, timmerman, overleden op 10-09-1866, trouwde op 20-02-1817 met Catharina Midderhof, gedoopt op 06-02-1785, overleden op 04-11-1864, dochter van Gerrit Midderhof en Kaatje Neufeglise.  
 
 Uit dit huwelijk:  
@@ -472,6 +528,8 @@ Uit dit huwelijk:
 4. Johanna Catharina, geboren op 16-01-1825, overleden op 15-12-1835.  
   
 ### IXe. Hendrik Bekooy
+> Voorafgaand [VIIIc](#viiic-abraham-bekooy).
+
 IXe    Hendrik Bekooy, gedoopt op 08-07-1792, metselaar, overleden op 17-04-1874, trouwde op 28-10-1812 met Geertruy Johanna de Nobel, gedoopt op 23-10-1791, overleden op 29-10-1860, dr. van Isak de Nobel en Geertruij Johanna Nulla.  
 
 Uit dit huwelijk:  
@@ -484,6 +542,8 @@ Uit dit huwelijk:
 7. Isaac, geboren op 02-04-1826.  
 
 ### Xa. Johannes Bekooy
+> Voorafgaand [IXa](#ixa-johannes-bekooy).
+
 Xa    Johannes Bekooij, gedoopt op 29-05-1796, daggelder, overleden op 21-11-1879, trouwde op 07-06-1832 met Margaretha van Tongeren, geboren/gedoopt op 18-02-1808, overleden tot 1940 niet in Leiden gevonden, dochter van Jacobus van Tongere en Sijtje de Gunst.  
 
 Uit dit huwelijk:  
@@ -495,6 +555,8 @@ Uit dit huwelijk:
 5. Maria, geboren op 19-12-1848, overleden op 23-08-1852.  
 
 ### Xb. Johannes Antonie Bekooy
+> Voorafgaand [IXa](#ixa-johannes-bekooy).
+
 Xb    Johannes Antonie Bekooy, gedoopt op 07-10-1804, wijnkopersknecht, overleden op 13-05-1846, trouwde op 19-11-1829 met Grietje Kooij, gedoopt in De Meern op 30-03-1808, dienstbode, overleden op 24-03-1870, dochter van Maarten Kooy en Catharina Coomans.  
 
 Uit dit huwelijk:  
@@ -509,6 +571,8 @@ Het overlijden van Jannetje Gijsje Bekooy en Fredrik Richard is tot 1950 niet in
     - Natuurlijke zoon: Johannes Anthonie, geboren op 21-01-1870, overleden op 14-04-1871.  
 
 ### Xc. Pieter Bekooy
+> Voorafgaand [IXd](#ixd-pieter-bekooy).
+
 Xc    Pieter Bekooy, geboren op 08-07-1823, overleden op 19-11-1893, smid, trouwde op 02-09-1857 met Jacoba Petronella de Cler, geboren op 27-02-1828, overleden op 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
 
 Uit dit huwelijk:  
@@ -520,6 +584,8 @@ Uit dit huwelijk:
 6. Jacoba Petronella Bekooy, geboren op 02-03-1871, ongehuwd overleden op 26-08-1937.  
 
 ### Xd. Abraham Bekooy
+> Voorafgaand [IXc](#ixc-abraham-bekooy).
+
 Xd    Abraham Bekooy, geboren op 12-07-1817, timmerman, overleden op 21-06-1849, trouwde op 24-11-1842 met Elisabeth de Bink, geboren op 22-11-1820, overleden in Rotterdam op 23-11-1904, dochter van Johannes Bink en Jansje van Leeuwen.  
 
 Uit dit huwelijk:  
@@ -529,6 +595,8 @@ Uit dit huwelijk:
 4. Johannes Nicolaas Bekooy, geboren op 09-09-1848, zeeman, overleden in Vlaardingen op 27-09-1886, ondertrouw op 24-06-1871 met Klazina Katharina van der Valk, 29 jaar, dochter van Jacob van der Valk en Johanna de Ronde. Uit dit huwelijk zijn in Vlaardingen kinderen geboren.  
 
 ### XIa. Jacobus Bekooy
+> Voorafgaand [Xa](#xa-johannes-bekooy).
+
 XIa    Jacobus Bekooy, geboren op 18-01-1841, sigarenmaker, overleden op 15-10-1928, 1) trouwde op 27-01-1864 met Elisabeth van der Reijden, geboren op 27-05-1839, overleden op 19-06-1872, dochter van Johannes van der Reijden en Elisabeth Bink, 2) trouwde op 30-04-1873 met Maria van Duuren, geboren op 04-09-1834, overleden op 09-05-1910,  weduwe van Hendrik Kanbier, dochter van Adrianus van Duuren en Maria van Tongeren.  
 
 Uit het eerste huwelijk:  
@@ -546,6 +614,8 @@ Uit het tweede huwelijk:
 8. Pieter, geboren op 15-09-1881, overleden op 06-08-1882.  
 
 ### XIb. Bartholomeus Bekooy
+> Voorafgaand [Xb](#xb-johannes-antonie-bekooy).
+
 XIb    Bartholomeus Bekooy, geboren op 18-05-1838, overleden op 11-09-1902, trouwde op 21-08-1867 met Maria Elisabeth le Febere, naaister, geboren op 11-06-1834, overleden op 03-09-1911, dochter van Theodorus Christiaan la Febere en Maria Pieket.  
 
 Uit dit huwelijk:  
@@ -556,6 +626,8 @@ Uit dit huwelijk:
 5. Johannes Antonius, geboren op 30-06-1875, overleden op 07-03-1876.  
 
 ### XIc. Pieter Albertus Bekooy
+> Voorafgaand [Xc](#xc-pieter-bekooy).
+
 XIc    Pieter Albertus Bekooy, geboren op 31-05-1864, smid, overleden, trouwde op 15-05-1895 met Cornelia van Sluys, geboren in Leeuwarden op 14-10-1874, overleden, dochter van Sein van Sluys en Johanna Charlotta Töpfer. N.B. De gegeven spelling van de voornaam van Cornelia’s vader is die in [GenLias](https://nl.wikipedia.org/wiki/Genlias) (tegenwoordig [WieWasWie](https://www.wiewaswie.nl/)). De Leidse trouwakte geeft ‘Leen’.  
 
 Uit dit huwelijk:  
@@ -565,6 +637,8 @@ Uit dit huwelijk:
 4. Jacoba Petronella, geboren op 30-09-1901, overleden op 20-12-1902  
 
 ### XIIa. Jacobus Bekooy
+> Voorafgaand [XIa](#xia-jacobus-bekooy).
+
 XIIa    Jacobus Bekooy, geboren op 22-12-1869, metselaar, overleden, trouwde op 02-09-1891 met Anna Maria de Koning, geboren op 29-06-1873, dochter van Christiaan de Koning en Maria Petronella van Leeuwen.  
 
 Uit dit huwelijk:  
@@ -574,6 +648,8 @@ Uit dit huwelijk:
 4. Johanna, geboren op 14-09-1901.  
 
 ### XIIb. Johannes Bekooy
+> Voorafgaand [XIa](#xia-jacobus-bekooy).
+
 XIIb    Johannes Bekooy, geboren op 19-10-1875, stucadoor, overleden na 29-10-1938, trouwde in Rijnsburg op 19-05-1898 met Jeroentje Bouwman, geboren in Rijnsburg op 24-07-1877, overleden in Leiden op 29-10-1938, dochter van Willem Bouwman en Immetje Star.
 
 Uit dit huwelijk:  
@@ -669,7 +745,7 @@ IVa    Walran (Warnaar) de Bucquoy, Waals gedoopt op 15-07-1665, greynwerker opt
 
 Uit dit huwelijk:  
 1. Gerrit, Nederduits Gereformeerd gedoopt op 21-09-1695, (getuige Jan Le Moine, Antonette Servie, Susanna de Bucoy).  
-2. TODO: Jacobus, Nederduits Gereformeerd gedoopt op 25-08-1697, (getuige Antoon de Bucooy, Maria Claas). Volgt [Va](#va-jacobus-de-bucquoy).  
+2. Jacobus, Nederduits Gereformeerd gedoopt op 25-08-1697, (getuige Antoon de Bucooy, Maria Claas), volgt [Va](#va-jacobus-de-bucquoy).  
 3. Elisabeth de Bucquoij, Nederduits Gereformeerd gedoopt op 24-12-1699 (getuige Susannetjen de Bukoij), overleden voor 18-08-1732 (voogdijstelling), ondertrouw op 26-04-1721 met Abraham le Pers (= le Pair), greijnwerker, (getuige Jan le Pers, zijn vader).  
 4. Gerrit, Nederduits Gereformeerd gedoopt op 13-05-1703.  
   
@@ -711,6 +787,8 @@ Uit dit huwelijk:
 \* Ingeschreven bij doop als Rachel. In de marge van het klapperblad in het ‘Leidse boekje’ staat geschreven: ‘zou Anthony moeten zijn’. Gezien diens leeftijd bij overlijden klopt dit. Waar ‘Rachel’ vandaan komt, is onduidelijk. De moeder van de doopvader heette weliswaar Rachel (Tijn), maar die was bij de doop niet aanwezig.  
   
 ### VIIa. Jacobus Boekooy
+<!-- > Voorafgaand ### VIa. Warnaar Bekooy -->
+
 VIIa    Jacobus Boekooy, gedoopt op 08-04-1756, dekenwerker, overleden op 30-06-1831, woont Waartgragt, ondertrouw op 06-06-1778 met Geertje Kliepee, gedoopt op 05-11-1752, overleden op 21-08-1832 (cholera), dr. van Jacobus Kliepee en Aaltje Vermey.  
 
 Uit dit huwelijk:  
