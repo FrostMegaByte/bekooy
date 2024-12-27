@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 2rem 6rem;
+
+        .project-tagline {
+            margin-bottom: 1rem;
+        }
+
+        .btn {
+            margin-bottom: 0rem;
+        }
+    }
+}
+
 #content {
     margin: 0 auto;
     max-width: 100%;
