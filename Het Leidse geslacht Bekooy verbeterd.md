@@ -1429,7 +1429,7 @@ Bij de dopen van de kinderen uit dit gezin getuigden steeds Sara’s zuster en z
 
 Van de zes kinderen zijn op 29 december 1668 er nog 3 in leven (24). Waarschijnlijk leefden in 1686 alleen Sara en Maria nog.  
 
-\* Volgens Abraham Johannes (Bram) van der Zeeuw opsteller van http://www.at16home.demon.nl/BEKOOY.htm is Marie Waals gedoopt. Maar omdat de rest Nederduits Gereformeerd gedoopt is betwijfel ik (Mark Bekooy) dit.
+\* Volgens Abraham Johannes (Bram) van der Zeeuw opsteller van [http://www.at16home.demon.nl/BEKOOY.htm](http://www.at16home.demon.nl/BEKOOY.htm) is Marie Waals gedoopt. Maar omdat de rest Nederduits Gereformeerd gedoopt is betwijfel ik (Mark Bekooy) dit.
 
 ### IIb. Anthony de Bucquoy
 > Voorafgaand [I](#i-anthoni-de-bucquoy).
