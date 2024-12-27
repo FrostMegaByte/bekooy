@@ -216,21 +216,21 @@ Uit het tweede huwelijk bekend:
 Drie kinderen van een Olivier de Bucquoy, die woonde op de Oosterlingplaats, werden begraven op 7 en 16 september 1609 (pest) en 8 januari 1606. Indien het deze Olivier betreft, moeten dat kinderen uit zijn eerste huwelijk zijn. Een alternatieve mogelijkheid is, dat het kinderen van zijn gelijknamige neef ([IIIg](#iiig-olifier-de-buckoy)) waren. Van deze zijn echter maar 4 kinderen gevonden, van wie er in elk geval twee overleefden.  
 
 ### IIIc. Pier de Bucquoy
-IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05-1600 (getuige Anthony de Bucquoy zijn oom en Samuel Mephuys (?) zijn schoonbroeder) met Judick Amory, van Amarsy, getuige Sjenne Amory haar zuster en Rebecca Hoene haar bekende.  
+IIIc    Pier de Bucquoy, weduwnaar van Van Turcoingen, Waals ondertrouw op 05-05-1600 (getuige Anthony de Bucquoy, zijn oom, Samuel Mephuys (?), zijn schoonbroeder, Sjenne Amory, haar zuster, en Rebecca Hoene, haar bekende) met Judick Amory, van Amarsy.  
 
 Uit een eerder huwelijk bekend:  
 
-1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) op 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder) met Davidt de Lano, wolkammer van Leyden, getuige Charles de Lano zijn vader en Davidt de Hopa zijn zwager. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
+1. Mary de Bucquo, van Bondu, mogelijk overleden/begraven (‘huisvrouw van Davidt Lanoy, woont Nieuwe Stadt’) op 23-11-1637, ondertrouw op 28-12-1613 (getuige Judith Amory haar (stief-)moeder, Charles de Lano, zijn vader, en Davidt de Hopa, zijn zwager) met Davidt de Lano, wolkammer van Leyden. Dat de bruid uit het eerdere huwelijk van haar vader moet stammen, is duidelijk.  
 
 Uit het tweede huwelijk:  
 
 2. Jacques, Waals gedoopt op 09-06-1603.  
 3. Jean, Waals gedoopt op ??-05-1605.  
 4. Pierre, Waals gedoopt in 1e kwartaal van 1607, volgt [IVa](#iva-pierre-de-bucquoy).  
-5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy haar zuster) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet, getuige Pieter le Toeur zijn broer.  
+5. Sara de Bucquoy, Waals gedoopt op 08-03-1615, woont bij de Byercaey, ondertrouw op 04-01-1636 (getuige Maria de Bucquoy, haar zuster, en Pieter le Toeur, zijn broer) met Jan Thonis le Toeur, fusteinwerker, woont Corte Scheystraet.  
 
 ### IIId. Anthoine des Boucquois
-IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige zijn vader Anthoine de Bouckois en zijn broeder) met Marie Ruytere, van Tourquoin, getuige Barbara Camer haar nicht en Ysabeaux Plantefebre.  
+IIId    Anthoine des Boucquois, van Tourcquoin, waarschijnlijk geboren in 1566 (6), kousenbreier (7), ondertrouw op 12-04-1586 (getuige zijn vader Anthoine de Bouckois en zijn broeder, Barbara Camer, haar nicht, en Ysabeaux Plantefebre) met Marie Ruytere, van Tourquoin.  
 
 Uit dit huwelijk zijn geen kinderen gevonden.  
 
