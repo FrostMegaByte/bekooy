@@ -243,7 +243,7 @@ Uit dit huwelijk bekend:
 
 Op 02-08-1604 heeft Olivier du Bucquoy, kousenbreier, ter kamer gebracht de som van 183 gld. 5 st. over wat hij schuldig was t.b.v. Pierre, ca. 23 jaar en Susanna, 16 jaar, nagelaten kinderen van Gillis du Bucquoy, en van Jeremias, 16 jaar, en Jan, 10 jaar, nagelaten kinderen van Louys de Bucquoy (7)  
 
-Jan de Bucquoy (IIIe-2) was mogelijk gehuwd. Een huwelijk is niet gevonden, evenmin als dopen van kinderen. Op 8 september en 1 en 15 oktober 1624 en op 28 oktober 1627 en 4 januari 1629 werden kinderen begraven van een Jan Bu(c,k)oy die in of bij de Olifantspoort woonde.  
+Jan de Bucquoy ([IIIe](#iiie-lowijs-de-buckoy)-2) was mogelijk gehuwd. Een huwelijk is niet gevonden, evenmin als dopen van kinderen. Op 8 september en 1 en 15 oktober 1624 en op 28 oktober 1627 en 4 januari 1629 werden kinderen begraven van een Jan Bu(c,k)oy die in of bij de Olifantspoort woonde.  
 
 ### IIIf. Gilles de Bucquoy
 IIIf    Gilles de Bucquoy, geb. Tourcoing (?), overl. voor 20-01-1595, tr. Philippote Montaigny (de Montagne), overl. 29-02-1640, (Zij herotr. 20-01-1595 Philippe de Tombe).  
@@ -394,10 +394,10 @@ Uit dit huwelijk:
 Abraham Bekooy is in 1756 met het schip ‘Slooten’ naar Indië gegaan en op 11 juni 1759 op Banda overleden (14).  
 
 ### VIIIa. Leendert Bekooy
-VIIIa    Leendert Bekooy, ged. 14-10-1737, molenaarsknecht, overl. 14-04-1822, otr. 07-05-1762 Francyntje van Leeuwen, overl./begr. 12/14-02-1811, wschl. ged. 15-05-1735 als dr van Aart Jansz van Leeuwen en Trijntje Willems.  
+VIIIa    Leendert Bekooy, ged. 14-10-1736, molenaarsknecht, overl. 14-04-1822, otr. 07-05-1762 Francyntje van Leeuwen, overl./begr. 12/14-02-1811, wschl. ged. 15-05-1735 als dr van Aart Jansz van Leeuwen en Trijntje Willems.  
 
 Uit dit huwelijk:  
-1. Jezyntje, ged. 22-03-1763, begr. 19/26-12-1767  
+1. Jezyntje, ged. 20-03-1763, begr. 19/26-12-1767  
 2. Maria Catharina Bekooy, ged. 27-06-1766, ongeh. overl. 02-10-1829  
 3. Alida Bekooy, ged. 10-01-1770, overl. Leiderdorp 24-05-1830, otr. 1) 14-04-1791 Pieter van Klaveren, ged. 05-10-1768, melkverkoper, overl. Leiderdorp 11-08-1816, zn van Willem van Klavere en Marytie van der Plas, tr. 2) Leiderdorp 22-03-1818 Ary Poot, ged. Maasland 19-11-1786, jagersbaas, overl. Leiderdorp 13-09-1831, zn van Jan Poot en Neltje van der Waal.  
 4. Joannes, ged. 20-12-1772, volgt [IXa](#ixa-johannes-bekooy)  
@@ -430,14 +430,14 @@ Uit dit huwelijk:
 10. Hendrik, ged. 08-07-1792, volgt [IXe](#ixe-hendrik-bekooy)  
 
 ### IXa. Johannes Bekooy
-IXa    Johannes Bekooy, ged. 20-12-1772, letterzettersknecht, overl. 15-01-1843 , otr. 1) 01-05-1795 Jannetje Genon, ged. 20-09-1764, overl. Leiden 07-03-1825, buitenechtelijke dr van Jan Genon en Grietje de Vink, tr. 2) Zoeterwoude 08-03-1830 Anna Elisabeth Schröders, geb. en/of RK ged. Roermond 16-05-1770, overl. 14-11-1853, wed. D. Saris, dr van Matthias Schroëders en Maria Josepha Sagers.  
+IXa    Johannes Bekooy, ged. 20-12-1772, letterzettersknecht, overl. 15-01-1843 , otr. 1) 01-05-1795 Jannetje Genon, ged. 20-09-1764, overl. Leiden 07-03-1826, buitenechtelijke dr van Jan Genon en Grietje de Vink, tr. 2) Zoeterwoude 08-03-1830 Anna Elisabeth Schröders, geb. en/of RK ged. Roermond 16-05-1770, overl. 14-11-1853, wed. D. Saris, dr van Matthias Schroëders en Maria Josepha Sagers.  
 
 Uit het eerste huwelijk:
 
 1. Johannes, ged. 29-05-1796, volgt [Xa](#xa-johannes-bekooy)  
 2. Helena Margareta Bekooy, ged. 01-04-1801, ongeh. overl. 20-08-1885  
-  ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader  
-    - Johannes, 67 j.: Johannes, geb. nov./dec. 1839, overl. 09-05-1840  
+  ‘Onecht’ kind van Lena Bekooy, dienstbode, aangegeven door grootvader Johannes, 67 j.:  
+    - Johannes, geb. nov./dec. 1839, overl. 09-05-1840  
 
 Uit een relatie met Susanna Kloots (ged. 18-09-1767, overl. 31-08-1828, wed. Cornelis Groeneveld, dr. van Antonie Kloots en Neeltje Luzing):  
 
@@ -490,7 +490,7 @@ Uit dit huwelijk:
 2. Sijtje Bekooy, geb. 30-04-1838, overl. 24-12-1913, tr. 23-12-1874  Izaak Cornet, geb. 09-03-1843, sjouwer, overl. 10-08-1914, zn van Izaak Theodorus en Catharina Frankhuizen.  
     - Natuurlijke dochter: Elisabeth, geb. 21-05-1867, overl. 10-02-1868.  
 3. Jacobus, geb. 18-01-1841, volgt [XIa](#xia-jacobus-bekooy)  
-4. Johanna Bekooy, geb. 02-12-1843, overl. 06-03-1931, tr. 08-05-1863 Gerrit de Boer, arbeider, geb. 22-01-1837, overl. 25-04-1899, zn van Johannes en Pieternella Jacoba Hanselaar.  
+4. Johanna Bekooy, geb. 02-12-1843, overl. 06-03-1931, tr. 06-05-1863 Gerrit de Boer, arbeider, geb. 22-01-1837, overl. 25-04-1899, zn van Johannes en Pieternella Jacoba Hanselaar.  
 5. Maria, geb. 19-12-1848, overl. 23-08-1852  
 
 ### Xb. Johannes Antonie Bekooy
@@ -539,7 +539,7 @@ Uit het eerste huwelijk:
 
 Uit het tweede huwelijk:  
 
-5. Maria Bekooy, geb. 02-05-1873, overl., tr. 28-09-1894 Willem Frederik Sommeling, geb. Geertruidenberg, 23, overl., bierbottelaar, zn van Jacob Hendrik en Geertruida Adriana van der Velden.  
+5. Maria Bekooy, geb. 02-05-1873, overl., tr. 26-09-1894 Willem Frederik Sommeling, geb. Geertruidenberg, 23, overl., bierbottelaar, zn van Jacob Hendrik en Geertruida Adriana van der Velden.  
 6. Johannes, geb. 19-10-1875, volgt [XIIb](#xiib-johannes-bekooy)  
 7. Jurrianus, geb. 14-11-1878  
 8. Pieter, geb. 15-09-1881, overl. 06-08-1882  
@@ -573,7 +573,7 @@ Uit dit huwelijk:
 4. Johanna, geb. 14-09-1901  
 
 ### XIIb. Johannes Bekooy
-XIIb    Johannes Bekooy, geb. 19-10-1875, stucadoor, overl. na 29-10-1938, tr. Rijnsburg 19-05-1898 Jeroentje Bouwman, geb. ald. 24-07-1877, overl. Leiden 29-10-1938, dr van Willem Bouwman en Immetje Star.
+XIIb    Johannes Bekooy, geb. 19-10-1875, stucadoor, overl. na 29-10-1938, tr. Rijnsburg 19-05-1898 Jeroentje Bouwman, geb. ald. 23-07-1876, overl. Leiden 29-10-1938, dr van Willem Bouwman en Immetje Star.
 
 Uit dit huwelijk:  
 1. Maria, geb. 13-01-1899  
@@ -581,7 +581,7 @@ Uit dit huwelijk:
 3. Jacobus, geb. 10-06-1901  
 4. Johannes, geb. 21-12-1902  
 5. Emma, geb. 1905, overl. 03-12-1942  
-6. Hendrik, geb. 1908, overl. 30-07-1943
+6. Hendrik, geb. 22-12-1907, overl. 30-07-1943
 
 ## B. JEAN (?) DE BUCQUOY EN ZIJN AFSTAMMELINGEN  
 (zie de namen van twee van zijn kleinzoons)  
