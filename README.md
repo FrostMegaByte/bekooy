@@ -539,7 +539,7 @@ IXe    Hendrik Bekooy, gedoopt op 08-07-1792, metselaar, overleden op 17-04-1874
 Uit dit huwelijk:  
 1. Abraham Bekooy, geboren op 08-01-1813, overleden op 04-02-1893.  
 2. Catharina Maria Bekooy, geboren op 18-07-1815, ongehuwd overleden op 30-01-1874.  
-3. Hendrika Geertruida Bekooy, geboren op 21-12-1816, dienstbode, overleden in Den Haag op 22-05-1891, trouwde op 08-08-1849 met Abraham Wassenburg, geboren op 06-07-1819, schoenmaker, overleden in Veenhuizen (gem. Norg) op 09-02-1859, zoon van Aron Wassenburg en Susanna Anneeze. Het paar verhuist met attestatie op 01-10-1854 naar Veenhuizen.  
+3. Hendrika Geertruida Bekooy, geboren op 21-12-1816, dienstbode, overleden in Den Haag op 22-05-1891, trouwde op 08-08-1849 met Abraham Wassenburg, geboren op 06-07-1819, schoenmaker, overleden in Veenhuizen (gemeente Norg) op 09-02-1859, zoon van Aron Wassenburg en Susanna Anneeze. Het paar verhuist met attestatie op 01-10-1854 naar Veenhuizen.  
 4. Isaac, geboren op 30-07-1819, overleden op 20-11-1821.  
 5. Sara Bekooy, geboren op 28-09-1822, ongehuwd overleden op 24-09-1908.  
 6. Geertruida Johanna Bekooy, geboren op 25-05-1824, overleden op 05-10-1899.  
@@ -577,7 +577,7 @@ Het overlijden van Jannetje Gijsje Bekooy en Fredrik Richard is tot 1950 niet in
 ### Xc. Pieter Bekooy
 > Voorafgaand [IXd](#ixd-pieter-bekooy).
 
-Xc    Pieter Bekooy, geboren op 08-07-1823, overleden op 19-11-1893, smid, trouwde op 02-09-1857 met Jacoba Petronella de Cler, geboren op 27-02-1828, overleden op 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
+Xc    Pieter Bekooy, geboren op 08-07-1823, smid, overleden op 19-11-1893, trouwde op 02-09-1857 met Jacoba Petronella de Cler, geboren op 27-02-1828, overleden op 23-05-1909, dochter van Albertus de Cler en Wijntje Valentgoed.  
 
 Uit dit huwelijk:  
 1. Catharina Bekooy, geboren op 03-08-1858, ongehuwd overleden op 16-02-1947.  
